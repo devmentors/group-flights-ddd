@@ -1,0 +1,1538 @@
+﻿[
+  {
+    "code": "EAA",
+    "name": "Eagle Airport",
+    "city": "Eagle, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EAB",
+    "name": "Abbs Airport",
+    "city": "Abbs",
+    "country": "Yemen"
+  },
+  {
+    "code": "EAE",
+    "name": "Siwo Airport",
+    "city": "Emae Island, Shefa",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "EAL",
+    "name": "Elenak Airport",
+    "city": "Mejato Island, Kwajalein Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "EAM",
+    "name": "Najran Domestic Airport",
+    "city": "Najran",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "EAN",
+    "name": "Phifer Airfield",
+    "city": "Wheatland, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "EAP",
+    "name": "metropolitan area2",
+    "city": "Basel, Switzerland / Mulhouse, Alsace",
+    "country": "France"
+  },
+  {
+    "code": "EAR",
+    "name": "Kearney Regional Airport",
+    "city": "Kearney, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "EAS",
+    "name": "San Sebastián Airport",
+    "city": "San Sebastián, Basque Country",
+    "country": "Spain"
+  },
+  {
+    "code": "EAT",
+    "name": "Pangborn Memorial Airport",
+    "city": "Wenatchee, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "EAU",
+    "name": "Chippewa Valley Regional Airport",
+    "city": "Eau Claire, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "EBA",
+    "name": "Marina di Campo Airport",
+    "city": "Elba Island, Tuscany",
+    "country": "Italy"
+  },
+  {
+    "code": "EBB",
+    "name": "Entebbe International Airport",
+    "city": "Entebbe",
+    "country": "Uganda"
+  },
+  {
+    "code": "EBD",
+    "name": "El Obeid Airport",
+    "city": "El Obeid",
+    "country": "Sudan"
+  },
+  {
+    "code": "EBG",
+    "name": "El Bagre Airport (El Tomin Airport)",
+    "city": "El Bagre",
+    "country": "Colombia"
+  },
+  {
+    "code": "EBH",
+    "name": "El Bayadh Airport",
+    "city": "El Bayadh",
+    "country": "Algeria"
+  },
+  {
+    "code": "EBJ",
+    "name": "Esbjerg Airport",
+    "city": "Esbjerg",
+    "country": "Denmark"
+  },
+  {
+    "code": "EBL",
+    "name": "Erbil International Airport",
+    "city": "Erbil",
+    "country": "Iraq"
+  },
+  {
+    "code": "EBM",
+    "name": "El Borma Airport",
+    "city": "El Borma",
+    "country": "Tunisia"
+  },
+  {
+    "code": "EBN",
+    "name": "Ebadon Airstrip",
+    "city": "Ebadon Island, Kwajalein Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "EBO",
+    "name": "Ebon Airport",
+    "city": "Ebon Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "EBS",
+    "name": "Webster City Municipal Airport",
+    "city": "Webster City, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "EBU",
+    "name": "Saint-Étienne–Bouthéon Airport",
+    "city": "Saint-Étienne, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "EBW",
+    "name": "Ebolowa Airport",
+    "city": "Ebolowa",
+    "country": "Cameroon"
+  },
+  {
+    "code": "ECA",
+    "name": "Iosco County Airport (FAA: 6D9)",
+    "city": "East Tawas, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "ECG",
+    "name": "Elizabeth City Regional Airport",
+    "city": "Elizabeth City, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "ECH",
+    "name": "Echuca Airport",
+    "city": "Echuca, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "ECI",
+    "name": "Costa Esmeralda Airport",
+    "city": "Rivas",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "ECN",
+    "name": "Ercan International Airport",
+    "city": "Nicosia (Lefkoşa)",
+    "country": "Northern Cyprus"
+  },
+  {
+    "code": "ECO",
+    "name": "El Encanto Airport",
+    "city": "El Encanto",
+    "country": "Colombia"
+  },
+  {
+    "code": "ECP",
+    "name": "Northwest Florida Beaches International Airport",
+    "city": "Panama City, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "ECR",
+    "name": "El Charco Airport",
+    "city": "El Charco",
+    "country": "Colombia"
+  },
+  {
+    "code": "ECS",
+    "name": "Mondell Field",
+    "city": "Newcastle, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "EDA",
+    "name": "Edna Bay Seaplane Base",
+    "city": "Edna Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EDB",
+    "name": "El Debba Airport",
+    "city": "El Debba",
+    "country": "Sudan"
+  },
+  {
+    "code": "EDD",
+    "name": "Erldunda Airport",
+    "city": "Erldunda, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "EDE",
+    "name": "Northeastern Regional Airport",
+    "city": "Edenton, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "EDF",
+    "name": "Elmendorf Air Force Base",
+    "city": "Anchorage, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Edinburgh, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "EDK",
+    "name": "Captain Jack Thomas/El Dorado Airport (FAA: EQA)",
+    "city": "El Dorado, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "EDL",
+    "name": "Eldoret International Airport",
+    "city": "Eldoret",
+    "country": "Kenya"
+  },
+  {
+    "code": "EDM",
+    "name": "La Roche-sur-Yon Aerodrome",
+    "city": "La Roche-sur-Yon, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "EDO",
+    "name": "Balıkesir Koca Seyit Airport",
+    "city": "Edremit",
+    "country": "Turkey"
+  },
+  {
+    "code": "EDQ",
+    "name": "Erandique Airport",
+    "city": "Erandique",
+    "country": "Honduras"
+  },
+  {
+    "code": "EDR",
+    "name": "Edward River Airport",
+    "city": "Pormpuraaw, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "EDW",
+    "name": "Edwards Air Force Base",
+    "city": "Edwards, California",
+    "country": "United States"
+  },
+  {
+    "code": "EEA",
+    "name": "Planalto Serrano Regional Airport",
+    "city": "Correia Pinto, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "EED",
+    "name": "Needles Airport",
+    "city": "Needles, California",
+    "country": "United States"
+  },
+  {
+    "code": "EEK",
+    "name": "Eek Airport",
+    "city": "Eek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EEN",
+    "name": "Dillant–Hopkins Airport",
+    "city": "Keene, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "EFD",
+    "name": "Ellington Field",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "EFG",
+    "name": "Efogi Airport",
+    "city": "Efogi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EFK",
+    "name": "Newport State Airport",
+    "city": "Newport, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "EFL",
+    "name": "Cephalonia International Airport",
+    "city": "Cephalonia",
+    "country": "Greece"
+  },
+  {
+    "code": "EFW",
+    "name": "Jefferson Municipal Airport",
+    "city": "Jefferson, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "EGA",
+    "name": "Engati Airport",
+    "city": "Engati",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EGC",
+    "name": "Bergerac Dordogne Périgord Airport",
+    "city": "Bergerac, Aquitaine",
+    "country": "France"
+  },
+  {
+    "code": "EGE",
+    "name": "Eagle County Regional Airport",
+    "city": "Eagle / Vail, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "EGI",
+    "name": "Duke Field (Eglin Auxiliary Field 3)",
+    "city": "Crestview, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "EGL",
+    "name": "Neghelle Airport",
+    "city": "Neghelle",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "EGM",
+    "name": "Seghe Airport",
+    "city": "Seghe, Western Province",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "EGN",
+    "name": "Geneina Airport",
+    "city": "Geneina",
+    "country": "Sudan"
+  },
+  {
+    "code": "EGO",
+    "name": "Belgorod International Airport",
+    "city": "Belgorod, Belgorod Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "EGP",
+    "name": "Maverick County Memorial International Airport",
+    "city": "Eagle Pass, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "EGS",
+    "name": "Egilsstaðir Airport",
+    "city": "Egilsstaðir",
+    "country": "Iceland"
+  },
+  {
+    "code": "EGV",
+    "name": "Eagle River Union Airport",
+    "city": "Eagle River, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "EGX",
+    "name": "Egegik Airport (FAA: EII)",
+    "city": "Egegik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EHL",
+    "name": "El Bolsón Airport",
+    "city": "El Bolsón, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "EHM",
+    "name": "Cape Newenham LRRS Airport",
+    "city": "Cape Newenham, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EHU",
+    "name": "Ezhou Huahu Airport",
+    "city": "Echeng District, Ezhou, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "EIA",
+    "name": "Popondetta Airport",
+    "city": "Eia",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EIB",
+    "name": "Eisenach-Kindel Airport",
+    "city": "Eisenach, Thuringia",
+    "country": "Germany"
+  },
+  {
+    "code": "EIE",
+    "name": "Yeniseysk Airport",
+    "city": "Yeniseysk, Krasnoyarsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "EIH",
+    "name": "Einasleigh Airport",
+    "city": "Einasleigh, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "EIK",
+    "name": "Yeysk Airport",
+    "city": "Yeysk, Krasnodar Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "EIL",
+    "name": "Eielson Air Force Base",
+    "city": "Fairbanks, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "country": "Netherlands"
+  },
+  {
+    "code": "EIS",
+    "name": "Terrance B. Lettsome International Airport",
+    "city": "Tortola",
+    "country": "British Overseas Territory of Virgin Islands"
+  },
+  {
+    "code": "EIY",
+    "name": "Ein Yahav Airfield",
+    "city": "Ein Yahav",
+    "country": "Israel"
+  },
+  {
+    "code": "EJA",
+    "name": "Yariguíes Airport",
+    "city": "Barrancabermeja",
+    "country": "Colombia"
+  },
+  {
+    "code": "EJH",
+    "name": "Al Wajh Domestic Airport",
+    "city": "Al Wajh",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "EJN",
+    "name": "Ejin Banner Taolai Airport",
+    "city": "Ejin Banner, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "EJT",
+    "name": "Enejit Airport",
+    "city": "Enejit, Mili Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "EKA",
+    "name": "Murray Field",
+    "city": "Eureka, California",
+    "country": "United States"
+  },
+  {
+    "code": "EKB",
+    "name": "Ekibastuz Airport",
+    "city": "Ekibastuz",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "EKD",
+    "name": "Elkedra Airport",
+    "city": "Elkedra, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "EKE",
+    "name": "Ekereku Airport",
+    "city": "Ekereku",
+    "country": "Guyana"
+  },
+  {
+    "code": "EKI",
+    "name": "Elkhart Municipal Airport (FAA: EKM)",
+    "city": "Elkhart, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "EKN",
+    "name": "Elkins-Randolph County Airport",
+    "city": "Elkins, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "EKO",
+    "name": "Elko Regional Airport",
+    "city": "Elko, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "EKS",
+    "name": "Shakhtyorsk Airport",
+    "city": "Shakhtyorsk, Sakhalin Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "EKT",
+    "name": "Eskilstuna Airport",
+    "city": "Eskilstuna",
+    "country": "Sweden"
+  },
+  {
+    "code": "EKX",
+    "name": "Elizabethtown Regional Airport (Addington Field)",
+    "city": "Elizabethtown, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "ELA",
+    "name": "Eagle Lake Airport",
+    "city": "Eagle Lake, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "ELB",
+    "name": "Las Flores Airport",
+    "city": "El Banco",
+    "country": "Colombia"
+  },
+  {
+    "code": "ELC",
+    "name": "Elcho Island Airport",
+    "city": "Elcho Island, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "ELD",
+    "name": "South Arkansas Regional Airport at Goodwin Field",
+    "city": "El Dorado, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "ELE",
+    "name": "El Real Airport",
+    "city": "El Real",
+    "country": "Panama"
+  },
+  {
+    "code": "ELF",
+    "name": "El Fasher Airport",
+    "city": "El Fasher",
+    "country": "Sudan"
+  },
+  {
+    "code": "ELG",
+    "name": "El Golea Airport",
+    "city": "El Goléa",
+    "country": "Algeria"
+  },
+  {
+    "code": "ELH",
+    "name": "North Eleuthera Airport",
+    "city": "North Eleuthera, Eleuthera Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "ELI",
+    "name": "Elim Airport",
+    "city": "Elim, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ELJ",
+    "name": "El Recreo Airport",
+    "city": "El Recreo",
+    "country": "Colombia"
+  },
+  {
+    "code": "ELK",
+    "name": "Elk City Regional Business Airport",
+    "city": "Elk City, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "ELL",
+    "name": "Ellisras Airport",
+    "city": "Ellisras",
+    "country": "South Africa"
+  },
+  {
+    "code": "ELM",
+    "name": "Elmira/Corning Regional Airport",
+    "city": "Elmira / Corning, New York",
+    "country": "United States"
+  },
+  {
+    "code": "ELN",
+    "name": "Bowers Field",
+    "city": "Ellensburg, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "ELO",
+    "name": "Eldorado Airport",
+    "city": "Eldorado, Misiones",
+    "country": "Argentina"
+  },
+  {
+    "code": "ELP",
+    "name": "El Paso International Airport",
+    "city": "El Paso, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "ELQ",
+    "name": "Prince Nayef bin Abdulaziz Regional Airport",
+    "city": "Buraidah",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "ELR",
+    "name": "Elelim Airport",
+    "city": "Elelim",
+    "country": "Indonesia"
+  },
+  {
+    "code": "ELS",
+    "name": "East London Airport",
+    "city": "East London",
+    "country": "South Africa"
+  },
+  {
+    "code": "ELT",
+    "name": "El Tor Airport",
+    "city": "El Tor",
+    "country": "Egypt"
+  },
+  {
+    "code": "ELU",
+    "name": "Guemar Airport",
+    "city": "El Oued",
+    "country": "Algeria"
+  },
+  {
+    "code": "ELV",
+    "name": "Elfin Cove Seaplane Base",
+    "city": "Elfin Cove, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ELW",
+    "name": "Ellamar Seaplane Base (FAA: 1Z9)",
+    "city": "Ellamar, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ELX",
+    "name": "El Tigre Airport",
+    "city": "El Tigre",
+    "country": "Venezuela"
+  },
+  {
+    "code": "ELY",
+    "name": "Ely Airport",
+    "city": "Ely, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "ELZ",
+    "name": "Wellsville Municipal Airport (Tarantine Field)",
+    "city": "Wellsville, New York",
+    "country": "United States"
+  },
+  {
+    "code": "EMA",
+    "name": "East Midlands Airport",
+    "city": "Nottingham / Leicester / Derby, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "EMD",
+    "name": "Emerald Airport",
+    "city": "Emerald, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "EME",
+    "name": "Emden Airport",
+    "city": "Emden, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "EMG",
+    "name": "Empangeni Airport",
+    "city": "Empangeni",
+    "country": "South Africa"
+  },
+  {
+    "code": "EMI",
+    "name": "Emirau Airport",
+    "city": "Emirau Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EMK",
+    "name": "Emmonak Airport (FAA: ENM)",
+    "city": "Emmonak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EML",
+    "name": "Emmen Air Base",
+    "city": "Emmen",
+    "country": "Switzerland"
+  },
+  {
+    "code": "EMM",
+    "name": "Kemmerer Municipal Airport",
+    "city": "Kemmerer, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "EMN",
+    "name": "Néma Airport",
+    "city": "Néma",
+    "country": "Mauritania"
+  },
+  {
+    "code": "EMO",
+    "name": "Emo Airport",
+    "city": "Emo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EMP",
+    "name": "Emporia Municipal Airport",
+    "city": "Emporia, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "EMS",
+    "name": "Embessa Airport",
+    "city": "Embessa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EMT",
+    "name": "San Gabriel Valley Airport",
+    "city": "El Monte, California",
+    "country": "United States"
+  },
+  {
+    "code": "EMX",
+    "name": "El Maitén Airport",
+    "city": "El Maitén, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "EMY",
+    "name": "El Minya Airport",
+    "city": "El Minya",
+    "country": "Egypt"
+  },
+  {
+    "code": "ENA",
+    "name": "Kenai Municipal Airport",
+    "city": "Kenai, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ENB",
+    "name": "Eneabba Airport",
+    "city": "Eneabba, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "ENC",
+    "name": "Nancy-Essey Airport",
+    "city": "Nancy, Lorraine",
+    "country": "France"
+  },
+  {
+    "code": "END",
+    "name": "Vance Air Force Base",
+    "city": "Enid, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "ENE",
+    "name": "H. Hasan Aroeboesman Airport",
+    "city": "Ende",
+    "country": "Indonesia"
+  },
+  {
+    "code": "ENF",
+    "name": "Enontekiö Airport",
+    "city": "Enontekiö",
+    "country": "Finland"
+  },
+  {
+    "code": "ENH",
+    "name": "Enshi Xujiaping Airport",
+    "city": "Enshi, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "ENI",
+    "name": "El Nido Airport",
+    "city": "El Nido",
+    "country": "Philippines"
+  },
+  {
+    "code": "ENJ",
+    "name": "El Naranjo Airport",
+    "city": "El Naranjo",
+    "country": "Guatemala"
+  },
+  {
+    "code": "ENK",
+    "name": "Enniskillen/St Angelo Airport",
+    "city": "Enniskillen, Northern Ireland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "ENL",
+    "name": "Centralia Municipal Airport",
+    "city": "Centralia, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "ENN",
+    "name": "Nenana Municipal Airport",
+    "city": "Nenana, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ENO",
+    "name": "Teniente Amin Ayub Gonzalez Airport",
+    "city": "Encarnacion",
+    "country": "Paraguay"
+  },
+  {
+    "code": "ENS",
+    "name": "Enschede Airport Twente",
+    "city": "Enschede",
+    "country": "Netherlands"
+  },
+  {
+    "code": "ENT",
+    "name": "Enewetak Auxiliary Airfield",
+    "city": "Enewetak",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "ENU",
+    "name": "Akanu Ibiam International Airport",
+    "city": "Enugu",
+    "country": "Nigeria"
+  },
+  {
+    "code": "ENV",
+    "name": "Wendover Airport",
+    "city": "Wendover, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "ENW",
+    "name": "Kenosha Regional Airport",
+    "city": "Kenosha, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "ENY",
+    "name": "Yan'an Nanniwan Airport",
+    "city": "Yan'an, Shaanxi",
+    "country": "China"
+  },
+  {
+    "code": "EOH",
+    "name": "Olaya Herrera Airport",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "code": "EOI",
+    "name": "Eday Airport",
+    "city": "Eday, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "EOK",
+    "name": "Keokuk Municipal Airport",
+    "city": "Keokuk, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "EOR",
+    "name": "El Dorado Airport",
+    "city": "El Dorado",
+    "country": "Venezuela"
+  },
+  {
+    "code": "EOS",
+    "name": "Neosho Hugh Robinson Airport",
+    "city": "Neosho, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "EOZ",
+    "name": "Elorza Airport",
+    "city": "Elorza",
+    "country": "Venezuela"
+  },
+  {
+    "code": "EPA",
+    "name": "El Palomar Airport",
+    "city": "El Palomar, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "EPG",
+    "name": "Browns Airport (FAA: NE69)",
+    "city": "Weeping Water, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "EPH",
+    "name": "Ephrata Municipal Airport",
+    "city": "Ephrata, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "EPL",
+    "name": "Épinal – Mirecourt Airport",
+    "city": "Épinal / Mirecourt, Lorraine",
+    "country": "France"
+  },
+  {
+    "code": "EPN",
+    "name": "Epéna Airport",
+    "city": "Epéna",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "EPR",
+    "name": "Esperance Airport",
+    "city": "Esperance, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "EPS",
+    "name": "Arroyo Barril Airport",
+    "city": "Samaná",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "EPT",
+    "name": "Eliptamin Airport",
+    "city": "Eliptamin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "EPU",
+    "name": "Pärnu Airport",
+    "city": "Pärnu",
+    "country": "Estonia"
+  },
+  {
+    "code": "EQS",
+    "name": "Esquel Airport",
+    "city": "Esquel, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "ERA",
+    "name": "Erigavo Airport",
+    "city": "Erigavo",
+    "country": "Somalia"
+  },
+  {
+    "code": "ERB",
+    "name": "Pukatja Airport (Ernabella Airport)",
+    "city": "Pukatja, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "ERC",
+    "name": "Erzincan Airport",
+    "city": "Erzincan",
+    "country": "Turkey"
+  },
+  {
+    "code": "ERD",
+    "name": "Berdiansk Airport",
+    "city": "Berdiansk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "ERE",
+    "name": "Erave Airport",
+    "city": "Erave",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "ERF",
+    "name": "Erfurt–Weimar Airport",
+    "city": "Erfurt, Thuringia",
+    "country": "Germany"
+  },
+  {
+    "code": "ERG",
+    "name": "Erbogachen Airport",
+    "city": "Yerbogachen, Irkutsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "ERH",
+    "name": "Moulay Ali Cherif Airport",
+    "city": "Errachidia",
+    "country": "Morocco"
+  },
+  {
+    "code": "ERI",
+    "name": "Erie International Airport (Tom Ridge Field)",
+    "city": "Erie, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "ERL",
+    "name": "Erenhot Saiwusu International Airport",
+    "city": "Erenhot, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "ERM",
+    "name": "Erechim Airport",
+    "city": "Erechim, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "ERN",
+    "name": "Eirunepé Airport (Amaury Feitosa Tomaz Airport)",
+    "city": "Eirunepé, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "ERQ",
+    "name": "Elrose Airport",
+    "city": "Eloise Copper Mine, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ERR",
+    "name": "Errol Airport",
+    "city": "Errol, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "ERS",
+    "name": "Eros Airport",
+    "city": "Windhoek",
+    "country": "Namibia"
+  },
+  {
+    "code": "ERT",
+    "name": "Erdenet Airport",
+    "city": "Erdenet",
+    "country": "Mongolia"
+  },
+  {
+    "code": "ERU",
+    "name": "Erume Airport",
+    "city": "Erume",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "ERV",
+    "name": "Kerrville Municipal Airport (Louis Schreiner Field)",
+    "city": "Kerrville, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "ERZ",
+    "name": "Erzurum Airport",
+    "city": "Erzurum",
+    "country": "Turkey"
+  },
+  {
+    "code": "ESA",
+    "name": "Esa'ala Airport",
+    "city": "Esa'ala",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "ESB",
+    "name": "Esenboğa International Airport",
+    "city": "Ankara",
+    "country": "Turkey"
+  },
+  {
+    "code": "ESC",
+    "name": "Delta County Airport",
+    "city": "Escanaba, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "ESD",
+    "name": "Orcas Island Airport (FAA: ORS)",
+    "city": "Eastsound, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "ESE",
+    "name": "Ensenada Airport",
+    "city": "Ensenada, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "code": "ESF",
+    "name": "Esler Airfield (Esler Regional Airport)",
+    "city": "Alexandria, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "ESG",
+    "name": "Dr. Luis María Argaña International Airport",
+    "city": "Mariscal Estigarribia",
+    "country": "Paraguay"
+  },
+  {
+    "code": "ESH",
+    "name": "Shoreham Airport (Brighton City Airport)",
+    "city": "Shoreham-by-Sea, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "ESI",
+    "name": "Espinosa Airport",
+    "city": "Espinosa, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "ESK",
+    "name": "Eskişehir Airport",
+    "city": "Eskişehir",
+    "country": "Turkey"
+  },
+  {
+    "code": "ESL",
+    "name": "Elista Airport",
+    "city": "Elista, Kalmykia",
+    "country": "Russia"
+  },
+  {
+    "code": "ESM",
+    "name": "Carlos Concha Torres International Airport",
+    "city": "Esmeraldas",
+    "country": "Ecuador"
+  },
+  {
+    "code": "ESN",
+    "name": "Easton Airport (Newnam Field)",
+    "city": "Easton, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "ESO",
+    "name": "Ohkay Owingeh Airport (FAA: E14)",
+    "city": "Española, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "ESP",
+    "name": "Stroudsburg–Pocono Airport (FAA: N53)",
+    "city": "East Stroudsburg, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "ESR",
+    "name": "Ricardo García Posada Airport",
+    "city": "El Salvador",
+    "country": "Chile"
+  },
+  {
+    "code": "ESS",
+    "name": "Essen/Mülheim Airport",
+    "city": "Essen, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "EST",
+    "name": "Estherville Municipal Airport",
+    "city": "Estherville, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "ESU",
+    "name": "Essaouira-Mogador Airport",
+    "city": "Essaouira",
+    "country": "Morocco"
+  },
+  {
+    "code": "ESW",
+    "name": "Easton State Airport",
+    "city": "Easton, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "ETB",
+    "name": "West Bend Municipal Airport",
+    "city": "West Bend, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "ETD",
+    "name": "Etadunna Airport",
+    "city": "Etadunna, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "ETE",
+    "name": "Genda Wuha Airport",
+    "city": "Metemma",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "ETH",
+    "name": "J. Hozman Airport",
+    "city": "Eilat",
+    "country": "Israel"
+  },
+  {
+    "code": "ETM",
+    "name": "Ramon Airport",
+    "city": "Eilat",
+    "country": "Israel"
+  },
+  {
+    "code": "ETN",
+    "name": "Eastland Municipal Airport",
+    "city": "Eastland, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "ETR",
+    "name": "Santa Rosa International Airport",
+    "city": "Santa Rosa",
+    "country": "Ecuador"
+  },
+  {
+    "code": "ETS",
+    "name": "Enterprise Municipal Airport (FAA: EDN)",
+    "city": "Enterprise, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "ETZ",
+    "name": "Metz–Nancy–Lorraine Airport",
+    "city": "Metz / Nancy, Lorraine",
+    "country": "France"
+  },
+  {
+    "code": "EUA",
+    "name": "Eua Airport (Kaufana Airport)",
+    "city": "Eua",
+    "country": "Tonga"
+  },
+  {
+    "code": "EUC",
+    "name": "Eucla Airport",
+    "city": "Eucla, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "EUE",
+    "name": "Eureka Airport (FAA: 05U)",
+    "city": "Eureka, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "EUF",
+    "name": "Weedon Field",
+    "city": "Eufaula, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "EUG",
+    "name": "Eugene Airport (Mahlon Sweet Airport)",
+    "city": "Eugene, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "EUM",
+    "name": "Neumünster Airport",
+    "city": "Neumünster, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "EUN",
+    "name": "Hassan I Airport",
+    "city": "Laayoune",
+    "country": "Morocco"
+  },
+  {
+    "code": "EUO",
+    "name": "Paratebueno Airport",
+    "city": "Paratebueno",
+    "country": "Colombia"
+  },
+  {
+    "code": "EUQ",
+    "name": "Evelio Javier Airport (Antique Airport)",
+    "city": "San Jose de Buenavista",
+    "country": "Philippines"
+  },
+  {
+    "code": "EUX",
+    "name": "F. D. Roosevelt Airport",
+    "city": "Oranjestad, Sint Eustatius",
+    "country": "Caribbean Netherlands"
+  },
+  {
+    "code": "EVA",
+    "name": "Ben Bruce Memorial Airpark (FAA: 4TE8)",
+    "city": "Evadale, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "EVD",
+    "name": "Eva Downs Airport",
+    "city": "Eva Downs, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "EVE",
+    "name": "Harstad/Narvik Airport, Evenes",
+    "city": "Harstad / Narvik",
+    "country": "Norway"
+  },
+  {
+    "code": "EVG",
+    "name": "Sveg Airport",
+    "city": "Sveg",
+    "country": "Sweden"
+  },
+  {
+    "code": "EVH",
+    "name": "Evans Head Memorial Aerodrome",
+    "city": "Evans Head, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "EVM",
+    "name": "Eveleth-Virginia Municipal Airport",
+    "city": "Eveleth, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "EVN",
+    "name": "Zvartnots International Airport",
+    "city": "Yerevan",
+    "country": "Armenia"
+  },
+  {
+    "code": "EVV",
+    "name": "Evansville Regional Airport",
+    "city": "Evansville, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "EVW",
+    "name": "Evanston-Uinta County Burns Field",
+    "city": "Evanston, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "EVX",
+    "name": "Évreux-Fauville Air Base",
+    "city": "Évreux, Upper Normandy",
+    "country": "France"
+  },
+  {
+    "code": "EWB",
+    "name": "New Bedford Regional Airport",
+    "city": "New Bedford / Fall River, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "EWE",
+    "name": "Ewer Airport",
+    "city": "Ewer",
+    "country": "Indonesia"
+  },
+  {
+    "code": "EWI",
+    "name": "Enarotali Airport",
+    "city": "Enarotali",
+    "country": "Indonesia"
+  },
+  {
+    "code": "EWK",
+    "name": "Newton City/County Airport",
+    "city": "Newton, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "EWN",
+    "name": "Coastal Carolina Regional Airport",
+    "city": "New Bern, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "EWO",
+    "name": "Ewo Airport",
+    "city": "Ewo",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "EWR",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "EXI",
+    "name": "Excursion Inlet Seaplane Base",
+    "city": "Excursion Inlet, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "EXM",
+    "name": "Exmouth Airport",
+    "city": "Exmouth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "EXT",
+    "name": "Exeter International Airport",
+    "city": "Exeter, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "EYK",
+    "name": "Beloyarsk Airport",
+    "city": "Beloyarsky, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "EYL",
+    "name": "Yélimané Airport",
+    "city": "Yélimané",
+    "country": "Mali"
+  },
+  {
+    "code": "EYP",
+    "name": "El Alcaraván Airport",
+    "city": "Yopal",
+    "country": "Colombia"
+  },
+  {
+    "code": "EYR",
+    "name": "Yerington Municipal Airport (FAA: O43)",
+    "city": "Yerington, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "EYS",
+    "name": "Eliye Springs Airport",
+    "city": "Eliye Springs",
+    "country": "Kenya"
+  },
+  {
+    "code": "EYW",
+    "name": "Key West International Airport",
+    "city": "Key West, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "EZE",
+    "name": "Ministro Pistarini International Airport",
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "EZS",
+    "name": "Elazığ Airport",
+    "city": "Elazığ",
+    "country": "Turkey"
+  },
+  {
+    "code": "EZV",
+    "name": "Beryozovo Airport",
+    "city": "Beryozovo, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  }
+]

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Shared\GroupFlights.Shared.ModuleDefinition\GroupFlights.Shared.ModuleDefinition.csproj" />
+      <ProjectReference Include="..\..\Shared\GroupFlights.Shared.Plumbing\GroupFlights.Shared.Plumbing.csproj" />
+      <ProjectReference Include="..\GroupFlights.Postsale.Application\GroupFlights.Postsale.Application.csproj" />
+      <ProjectReference Include="..\GroupFlights.Postsale.Infrastructure\GroupFlights.Postsale.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

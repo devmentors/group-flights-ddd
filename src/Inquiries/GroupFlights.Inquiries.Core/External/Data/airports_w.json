@@ -1,0 +1,1412 @@
+﻿[
+  {
+    "code": "WAA",
+    "name": "Wales Airport",
+    "city": "Wales, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WAC",
+    "name": "Wacca Airport",
+    "city": "Wacca",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "WAD",
+    "name": "Andriamena Airport",
+    "city": "Andriamena",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WAE",
+    "name": "Wadi al-Dawasir Domestic Airport",
+    "city": "Wadi ad-Dawasir (Wadi al-Dawaser)",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "WAF",
+    "name": "Wana Airport",
+    "city": "Wana",
+    "country": "Pakistan"
+  },
+  {
+    "code": "WAG",
+    "name": "Whanganui Airport",
+    "city": "Whanganui",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WAH",
+    "name": "Harry Stern Airport (FAA: BWP)",
+    "city": "Wahpeton, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "WAI",
+    "name": "Ambalabe Airport",
+    "city": "Antsohihy",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WAJ",
+    "name": "Wawoi Falls Airport",
+    "city": "Wawoi Falls",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WAK",
+    "name": "Ankazoabo Airport",
+    "city": "Ankazoabo",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WAL",
+    "name": "Wallops Flight Facility",
+    "city": "Wallops Island, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "WAM",
+    "name": "Ambatondrazaka Airport",
+    "city": "Ambatondrazaka",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WAO",
+    "name": "Wabo Airport",
+    "city": "Wabo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WAP",
+    "name": "Alto Palena Airfield",
+    "city": "Palena",
+    "country": "Chile"
+  },
+  {
+    "code": "WAQ",
+    "name": "Antsalova Airport",
+    "city": "Antsalova",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WAR",
+    "name": "Waris Airport",
+    "city": "Waris",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WAS",
+    "name": "metropolitan area1",
+    "city": "Washington, D.C.",
+    "country": "United States"
+  },
+  {
+    "code": "WAT",
+    "name": "Waterford Airport",
+    "city": "Waterford",
+    "country": "Ireland"
+  },
+  {
+    "code": "WAU",
+    "name": "Wauchope Airport",
+    "city": "Wauchope, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WAV",
+    "name": "Wave Hill Airport",
+    "city": "Kalkarindji (Wave Hill), Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "WAW",
+    "name": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "country": "Poland"
+  },
+  {
+    "code": "WAX",
+    "name": "Zuwarah Airport",
+    "city": "Zuwarah (Zuara)",
+    "country": "Libya"
+  },
+  {
+    "code": "WAY",
+    "name": "Greene County Airport",
+    "city": "Waynesburg, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "WAZ",
+    "name": "Warwick Airport",
+    "city": "Warwick, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WBA",
+    "name": "Wahai Airport",
+    "city": "Seram Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WBB",
+    "name": "Stebbins Airport",
+    "city": "Stebbins, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WBC",
+    "name": "Wapolu Airport",
+    "city": "Wapolu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WBD",
+    "name": "Befandriana Airport",
+    "city": "Befandriana-Avaratra",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WBE",
+    "name": "Ankaizina Airport",
+    "city": "Bealanana",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WBG",
+    "name": "Schleswig Air Base",
+    "city": "Schleswig, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "WBK",
+    "name": "West Branch Community Airport (FAA: Y31)",
+    "city": "West Branch, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "WBM",
+    "name": "Wapenamanda Airport",
+    "city": "Wapenamanda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WBO",
+    "name": "Antsoa Airport",
+    "city": "Beroroha",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WBQ",
+    "name": "Beaver Airport",
+    "city": "Beaver, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WBR",
+    "name": "Roben–Hood Airport (FAA: RQB)",
+    "city": "Big Rapids, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "WBU",
+    "name": "Boulder Municipal Airport (FAA: BDU)",
+    "city": "Boulder, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "WBW",
+    "name": "Wilkes-Barre Wyoming Valley Airport",
+    "city": "Wilkes-Barre, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "WCA",
+    "name": "Gamboa Airport",
+    "city": "Castro",
+    "country": "Chile"
+  },
+  {
+    "code": "WCH",
+    "name": "Nuevo Chaitén Airport",
+    "city": "Chaitén",
+    "country": "Chile"
+  },
+  {
+    "code": "WCR",
+    "name": "Chandalar Lake Airport",
+    "city": "Chandalar Lake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WDA",
+    "name": "Wadi Ain Airport",
+    "city": "Wadi Ain",
+    "country": "Yemen"
+  },
+  {
+    "code": "WDG",
+    "name": "Enid Woodring Regional Airport",
+    "city": "Enid, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "WDH",
+    "name": "Hosea Kutako International Airport",
+    "city": "Windhoek",
+    "country": "Namibia"
+  },
+  {
+    "code": "WDI",
+    "name": "Wondai Airport",
+    "city": "Wondai, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WDN",
+    "name": "Waldronaire Airport (FAA: 90WA)",
+    "city": "Waldron Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "WDR",
+    "name": "Barrow County Airport",
+    "city": "Winder, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "WDS",
+    "name": "Shiyan Wudangshan Airport",
+    "city": "Shiyan, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "WEA",
+    "name": "Parker County Airport",
+    "city": "Weatherford, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "WED",
+    "name": "Wedau Airport",
+    "city": "Wedau",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WEF",
+    "name": "Weifang Airport",
+    "city": "Weifang, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "WEH",
+    "name": "Weihai Dashuibo Airport",
+    "city": "Weihai, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "WEI",
+    "name": "Weipa Airport",
+    "city": "Weipa, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WEL",
+    "name": "Welkom Airport",
+    "city": "Welkom",
+    "country": "South Africa"
+  },
+  {
+    "code": "WEP",
+    "name": "Weam Airport",
+    "city": "Weam",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WET",
+    "name": "Waghete Airport",
+    "city": "Waghete",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WEW",
+    "name": "Wee Waa Airport",
+    "city": "Wee Waa, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WFB",
+    "name": "Ketchikan Harbor Seaplane Base (FAA: 5KE)",
+    "city": "Ketchikan, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WFD",
+    "name": "Woodford Aerodrome",
+    "city": "Woodford, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "WFI",
+    "name": "Fianarantsoa Airport",
+    "city": "Fianarantsoa",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WFK",
+    "name": "Northern Aroostook Regional Airport (FAA: FVE)",
+    "city": "Frenchville, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "WGA",
+    "name": "Wagga Wagga Airport",
+    "city": "Wagga Wagga, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WGC",
+    "name": "Warangal Airport",
+    "city": "Warangal, Telangana",
+    "country": "India"
+  },
+  {
+    "code": "WGE",
+    "name": "Walgett Airport",
+    "city": "Walgett, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WGN",
+    "name": "Shaoyang Wugang Airport",
+    "city": "Shaoyang, Hunan",
+    "country": "China"
+  },
+  {
+    "code": "WGO",
+    "name": "Winchester Regional Airport (FAA: OKV)",
+    "city": "Winchester, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "WGP",
+    "name": "Mau Hau Airport (Umbu Mehang Kunda Airport)",
+    "city": "Waingapu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WGT",
+    "name": "Wangaratta Airport",
+    "city": "Wangaratta, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "WGU",
+    "name": "Wagau Airport",
+    "city": "Wagau",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WGY",
+    "name": "Wagny Airport",
+    "city": "Wagny",
+    "country": "Gabon"
+  },
+  {
+    "code": "WHA",
+    "name": "Wuhu Xuanzhou Airport",
+    "city": "Wuhu, Anhui",
+    "country": "China"
+  },
+  {
+    "code": "WHD",
+    "name": "Hyder Seaplane Base (FAA: 4Z7)",
+    "city": "Hyder, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WHF",
+    "name": "Wadi Halfa Airport",
+    "city": "Wadi Halfa",
+    "country": "Sudan"
+  },
+  {
+    "code": "WHK",
+    "name": "Whakatane Airport",
+    "city": "Whakatane",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WHL",
+    "name": "Welshpool Airport",
+    "city": "Welshpool, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "WHO",
+    "name": "Franz Josef Glacier Aerodrome",
+    "city": "Franz Josef Glacier",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WHP",
+    "name": "Whiteman Airport",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "code": "WHS",
+    "name": "Whalsay Airstrip",
+    "city": "Whalsay, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "WHT",
+    "name": "Wharton Regional Airport (FAA: ARM)",
+    "city": "Wharton, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "WIB",
+    "name": "Wilbarger County Airport (FAA: F05)",
+    "city": "Vernon, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "WIC",
+    "name": "Wick Airport",
+    "city": "Wick, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "WIE",
+    "name": "Wiesbaden Army Airfield",
+    "city": "Wiesbaden, Hesse",
+    "country": "Germany"
+  },
+  {
+    "code": "WIK",
+    "name": "Waiheke Island Aerodrome",
+    "city": "Waiheke Island",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WIL",
+    "name": "Wilson Airport",
+    "city": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "code": "WIN",
+    "name": "Winton Airport",
+    "city": "Winton, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WIO",
+    "name": "Wilcannia Airport",
+    "city": "Wilcannia, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WIR",
+    "name": "Wairoa Aerodrome",
+    "city": "Wairoa",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WIT",
+    "name": "Wittenoom Airport",
+    "city": "Wittenoom, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WIU",
+    "name": "Witu Airport",
+    "city": "Witu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WJA",
+    "name": "Woja Airport",
+    "city": "Woja, Ailinglaplap Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "WJF",
+    "name": "General William J. Fox Airfield",
+    "city": "Lancaster, California",
+    "country": "United States"
+  },
+  {
+    "code": "WJR",
+    "name": "Wajir Airport",
+    "city": "Wajir",
+    "country": "Kenya"
+  },
+  {
+    "code": "WJU",
+    "name": "Wonju Airport",
+    "city": "Wonju",
+    "country": "South Korea"
+  },
+  {
+    "code": "WKA",
+    "name": "Wanaka Airport",
+    "city": "Wanaka",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WKB",
+    "name": "Warracknabeal Airport",
+    "city": "Warracknabeal, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "WKF",
+    "name": "Air Force Base Waterkloof",
+    "city": "Pretoria",
+    "country": "South Africa"
+  },
+  {
+    "code": "WKI",
+    "name": "Hwange Town Airport",
+    "city": "Hwange",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "WKJ",
+    "name": "Wakkanai Airport",
+    "city": "Wakkanai, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "WKK",
+    "name": "Aleknagik Airport (FAA: 5A8)",
+    "city": "Aleknagik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WKN",
+    "name": "Wakunai Airport",
+    "city": "Wakunai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WKR",
+    "name": "Walker's Cay Airport",
+    "city": "Walker's Cay, Abaco Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "WLA",
+    "name": "Wallal Airport",
+    "city": "Wallal (Wallal Downs), Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WLC",
+    "name": "Walcha Airport",
+    "city": "Walcha, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WLD",
+    "name": "Strother Field",
+    "city": "Winfield / Arkansas City, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "WLE",
+    "name": "Miles Airport",
+    "city": "Miles, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WLG",
+    "name": "Wellington International Airport",
+    "city": "Wellington",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WLH",
+    "name": "Walaha Airport",
+    "city": "Walaha",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "WLK",
+    "name": "Selawik Airport",
+    "city": "Selawik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WLL",
+    "name": "Wollogorang Airport",
+    "city": "Wollogorang Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "WLO",
+    "name": "Waterloo Airport",
+    "city": "Waterloo, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "WLP",
+    "name": "West Angelas Airport",
+    "city": "West Angelas, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WLR",
+    "name": "Loring Seaplane Base (FAA: 13Z)",
+    "city": "Loring, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WLS",
+    "name": "Hihifo Airport",
+    "city": "Wallis Island",
+    "country": "Wallis and Futuna"
+  },
+  {
+    "code": "WLW",
+    "name": "Willows-Glenn County Airport",
+    "city": "Willows, California",
+    "country": "United States"
+  },
+  {
+    "code": "WMA",
+    "name": "Mandritsara Airport",
+    "city": "Mandritsara",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WMB",
+    "name": "Warrnambool Airport",
+    "city": "Warrnambool, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "WMC",
+    "name": "Winnemucca Municipal Airport",
+    "city": "Winnemucca, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "WMD",
+    "name": "Mandabe Airport",
+    "city": "Mandabe",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WME",
+    "name": "Mount Keith Airport",
+    "city": "Mount Keith, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WMH",
+    "name": "Ozark Regional Airport (FAA: BPK)",
+    "city": "Mountain Home, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "WMI",
+    "name": "Warsaw Modlin Airport",
+    "city": "Warsaw",
+    "country": "Poland"
+  },
+  {
+    "code": "WMK",
+    "name": "Meyers Chuck Seaplane Base (FAA: 84K)",
+    "city": "Meyers Chuck, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WML",
+    "name": "Malaimbandy Airport",
+    "city": "Malaimbandy",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WMN",
+    "name": "Maroantsetra Airport",
+    "city": "Maroantsetra",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WMO",
+    "name": "White Mountain Airport",
+    "city": "White Mountain, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WMP",
+    "name": "Mampikony Airport",
+    "city": "Mampikony",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WMR",
+    "name": "Mananara Nord Airport",
+    "city": "Mananara Nord (Mananara Avaratra)",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WMT",
+    "name": "Zunyi Maotai Airport",
+    "city": "Renhuai",
+    "country": "China"
+  },
+  {
+    "code": "WMV",
+    "name": "Madirovalo Airport",
+    "city": "Madirovalo",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WMX",
+    "name": "Wamena Airport",
+    "city": "Wamena",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WNA",
+    "name": "Napakiak Airport",
+    "city": "Napakiak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WND",
+    "name": "Windarra Airport",
+    "city": "Windarra, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WNE",
+    "name": "Wora na Yeno Airport",
+    "city": "Wora na Yeno",
+    "country": "Gabon"
+  },
+  {
+    "code": "WNH",
+    "name": "Wenshan Puzhehei Airport",
+    "city": "Wenshan, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "WNI",
+    "name": "Matahora Airport",
+    "city": "Wangi-wangi Island, Southeast Sulawesi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WNN",
+    "name": "Wunnummin Lake Airport (TC: CKL3)",
+    "city": "Wunnumin Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "WNP",
+    "name": "Naga Airport",
+    "city": "Naga",
+    "country": "Philippines"
+  },
+  {
+    "code": "WNR",
+    "name": "Windorah Airport",
+    "city": "Windorah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WNS",
+    "name": "Nawabshah Airport",
+    "city": "Nawabshah (Shaheed Benazirabad)",
+    "country": "Pakistan"
+  },
+  {
+    "code": "WNU",
+    "name": "Wanuma Airport",
+    "city": "Wanuma",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WNZ",
+    "name": "Wenzhou Longwan International Airport",
+    "city": "Wenzhou, Zhejiang",
+    "country": "China"
+  },
+  {
+    "code": "WOA",
+    "name": "Wonenara Airport",
+    "city": "Wonenara",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WOE",
+    "name": "Woensdrecht Air Base",
+    "city": "Bergen op Zoom",
+    "country": "Netherlands"
+  },
+  {
+    "code": "WOK",
+    "name": "Uonquén Airport",
+    "city": "Uonquén",
+    "country": "Venezuela"
+  },
+  {
+    "code": "WOL",
+    "name": "Shellharbour Airport",
+    "city": "Shellharbour, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WON",
+    "name": "Wondoola Airport",
+    "city": "Wondoola, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WOR",
+    "name": "Moramba Airport",
+    "city": "Ankorefo",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WOS",
+    "name": "Wonsan Kalma International Airport",
+    "city": "Wonsan",
+    "country": "North Korea"
+  },
+  {
+    "code": "WOT",
+    "name": "Wang-an Airport",
+    "city": "Wang'an",
+    "country": "Taiwan"
+  },
+  {
+    "code": "WOW",
+    "name": "Willow Airport (FAA: UUO)",
+    "city": "Willow, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WPA",
+    "name": "Cabo Juan Román Airfield",
+    "city": "Puerto Aisén",
+    "country": "Chile"
+  },
+  {
+    "code": "WPB",
+    "name": "Port Bergé Airport",
+    "city": "Boriziny (Port Bergé)",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WPC",
+    "name": "Pincher Creek Airport",
+    "city": "Pincher Creek, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "WPK",
+    "name": "Wrotham Park Airport",
+    "city": "Wrotham Park, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WPL",
+    "name": "Powell Lake Water Aerodrome (TC: CAQ8)",
+    "city": "Powell River, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "WPM",
+    "name": "Wipim Airport",
+    "city": "Wipim",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WPO",
+    "name": "North Fork Valley Airport (FAA: 7V2)",
+    "city": "Paonia, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "WPR",
+    "name": "Capitán Fuentes Martínez Airport",
+    "city": "Porvenir",
+    "country": "Chile"
+  },
+  {
+    "code": "WPU",
+    "name": "Guardiamarina Zañartu Airport",
+    "city": "Puerto Williams",
+    "country": "Chile"
+  },
+  {
+    "code": "WRA",
+    "name": "Warder Airport",
+    "city": "Werder (Warder)",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "WRB",
+    "name": "Robins Air Force Base",
+    "city": "Warner Robins, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "WRE",
+    "name": "Whangarei Airport",
+    "city": "Whangarei",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WRG",
+    "name": "Wrangell Airport",
+    "city": "Wrangell, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WRI",
+    "name": "McGuire Air Force Base",
+    "city": "Wrightstown, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "WRL",
+    "name": "Worland Municipal Airport",
+    "city": "Worland, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "WRN",
+    "name": "Windarling Airport",
+    "city": "Windarling, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WRO",
+    "name": "Copernicus Airport Wrocław",
+    "city": "Wrocław",
+    "country": "Poland"
+  },
+  {
+    "code": "WRT",
+    "name": "Warton Aerodrome",
+    "city": "Warton, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "WRW",
+    "name": "Warrawagine Airport",
+    "city": "Warrawagine Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WRY",
+    "name": "Westray Airport",
+    "city": "Westray, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "WRZ",
+    "name": "Weerawila Airport",
+    "city": "Weerawila",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "WSA",
+    "name": "Wasua Airport",
+    "city": "Wasua",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WSB",
+    "name": "Steamboat Bay Seaplane Base",
+    "city": "Steamboat Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WSD",
+    "name": "Condron Army Airfield",
+    "city": "White Sands, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "WSF",
+    "name": "Cape Sarichef Airport (FAA: 26AK)",
+    "city": "Cape Sarichef, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WSG",
+    "name": "Washington County Airport (FAA: AFJ)",
+    "city": "Washington, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "WSH",
+    "name": "Brookhaven Airport (FAA: HWV)",
+    "city": "Shirley, New York",
+    "country": "United States"
+  },
+  {
+    "code": "WSI",
+    "name": "Western Sydney Airport (Nancy-Bird Walton Airport)",
+    "city": "Sydney, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WSK",
+    "name": "Chongqing Wushan Airport",
+    "city": "Wushan, Chongqing",
+    "country": "China"
+  },
+  {
+    "code": "WSM",
+    "name": "Wiseman Airport",
+    "city": "Wiseman, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WSN",
+    "name": "South Naknek Airport",
+    "city": "South Naknek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WSO",
+    "name": "Washabo Airport",
+    "city": "Washabo (Wasjabo)",
+    "country": "Suriname"
+  },
+  {
+    "code": "WSP",
+    "name": "Waspam Airport",
+    "city": "Waspam",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "WSR",
+    "name": "Wasior Airport",
+    "city": "Wasior",
+    "country": "Indonesia"
+  },
+  {
+    "code": "WST",
+    "name": "Westerly State Airport",
+    "city": "Westerly, Rhode Island",
+    "country": "United States"
+  },
+  {
+    "code": "WSU",
+    "name": "Wasu Airport",
+    "city": "Wasu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WSX",
+    "name": "Westsound Seaplane Base (FAA: WA83)",
+    "city": "West Sound, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "WSY",
+    "name": "Whitsunday Airport",
+    "city": "Airlie Beach / Shute Harbour, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WSZ",
+    "name": "Westport Airport",
+    "city": "Westport",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WTA",
+    "name": "Tambohorano Airport",
+    "city": "Tambohorano",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WTB",
+    "name": "Toowoomba Wellcamp Airport",
+    "city": "Toowoomba, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "WTD",
+    "name": "West End Airport",
+    "city": "West End, Grand Bahama",
+    "country": "Bahamas"
+  },
+  {
+    "code": "WTE",
+    "name": "Wotje Airport (FAA: N36)",
+    "city": "Wotje Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "WTK",
+    "name": "Noatak Airport",
+    "city": "Noatak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WTL",
+    "name": "Tuntutuliak Airport (FAA: A61)",
+    "city": "Tuntutuliak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WTN",
+    "name": "RAF Waddington",
+    "city": "Waddington, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "WTO",
+    "name": "Wotho Airport",
+    "city": "Wotho Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "WTP",
+    "name": "Woitape Airport",
+    "city": "Woitape",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WTR",
+    "name": "Whiteriver Airport (FAA: E24)",
+    "city": "Whiteriver, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "WTS",
+    "name": "Tsiroanomandidy Airport",
+    "city": "Tsiroanomandidy",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WTT",
+    "name": "Wantoat Airport",
+    "city": "Wantoat",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WTZ",
+    "name": "Whitianga Aerodrome",
+    "city": "Whitianga",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WUA",
+    "name": "Wuhai Airport",
+    "city": "Wuhai, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "WUD",
+    "name": "Wudinna Airport",
+    "city": "Wudinna, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WUG",
+    "name": "Wau Airport",
+    "city": "Wau",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WUH",
+    "name": "Wuhan Tianhe International Airport",
+    "city": "Wuhan, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "WUI",
+    "name": "Murrin Murrin Airport",
+    "city": "Murrin Murrin, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WUM",
+    "name": "Wasum Airport",
+    "city": "Wasum",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WUN",
+    "name": "Wiluna Airport",
+    "city": "Wiluna, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WUS",
+    "name": "Wuyishan Airport",
+    "city": "Wuyishan, Fujian",
+    "country": "China"
+  },
+  {
+    "code": "WUT",
+    "name": "Xinzhou Wutaishan Airport",
+    "city": "Xinzhou, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "WUU",
+    "name": "Wau Airport",
+    "city": "Wau",
+    "country": "South Sudan"
+  },
+  {
+    "code": "WUV",
+    "name": "Wuvulu Island Airport",
+    "city": "Wuvulu Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WUX",
+    "name": "Sunan Shuofang International Airport",
+    "city": "Wuxi / Suzhou, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "WUZ",
+    "name": "Wuzhou Xijiang Airport",
+    "city": "Wuzhou, Guangxi",
+    "country": "China"
+  },
+  {
+    "code": "WVB",
+    "name": "Walvis Bay Airport",
+    "city": "Walvis Bay",
+    "country": "Namibia"
+  },
+  {
+    "code": "WVI",
+    "name": "Watsonville Municipal Airport",
+    "city": "Watsonville, California",
+    "country": "United States"
+  },
+  {
+    "code": "WVK",
+    "name": "Manakara Airport",
+    "city": "Manakara",
+    "country": "Madagascar"
+  },
+  {
+    "code": "WVL",
+    "name": "Waterville Robert LaFleur Airport",
+    "city": "Waterville, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "WVN",
+    "name": "JadeWeserAirport",
+    "city": "Wilhelmshaven, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "WWA",
+    "name": "Wasilla Airport (FAA: IYS)",
+    "city": "Wasilla, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WWD",
+    "name": "Cape May Airport",
+    "city": "Wildwood, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "WWI",
+    "name": "Woodie Woodie Airport",
+    "city": "Woodie Woodie, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WWK",
+    "name": "Wewak Airport",
+    "city": "Wewak",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WWP",
+    "name": "North Whale Seaplane Base (FAA: 96Z)",
+    "city": "Whale Pass, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WWR",
+    "name": "West Woodward Airport",
+    "city": "Woodward, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "WWT",
+    "name": "Newtok Airport (FAA: EWU)",
+    "city": "Newtok, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WWY",
+    "name": "West Wyalong Airport",
+    "city": "West Wyalong, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "WXN",
+    "name": "Wanzhou Wuqiao Airport",
+    "city": "Wanzhou, Chongqing",
+    "country": "China"
+  },
+  {
+    "code": "WYA",
+    "name": "Whyalla Airport",
+    "city": "Whyalla, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WYB",
+    "name": "Yes Bay Lodge Seaplane Base (FAA: 78K)",
+    "city": "Yes Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "WYE",
+    "name": "Yengema Airport",
+    "city": "Yengema",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "WYN",
+    "name": "Wyndham Airport",
+    "city": "Wyndham, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "WYS",
+    "name": "Yellowstone Airport",
+    "city": "West Yellowstone, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "WZA",
+    "name": "Wa Airport",
+    "city": "Wa, Upper West Region",
+    "country": "Ghana"
+  },
+  {
+    "code": "WZQ",
+    "name": "Urad Middle Banner Airport",
+    "city": "Urad Middle Banner, Inner Mongolia",
+    "country": "China"
+  }
+]

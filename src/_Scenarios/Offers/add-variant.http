@@ -1,0 +1,66 @@
+﻿POST https://localhost:7055/sales/offers/70a41a8c-0e92-4683-ab8b-d535f97ca6e0/variants
+accept: */*
+Content-Type: application/json
+X-UserId: 6db85eb9-ffa5-42c2-b20c-0da756c89032
+X-CashierId: 6bb4f4a3-531c-4154-bfe2-67a9e65d8a1f
+
+{
+  "offerId": "70a41a8c-0e92-4683-ab8b-d535f97ca6e0",
+  "airlineType": 2,
+  "airlineName": "LOT",
+  "travel": [
+    {
+      "date": "2023-06-30",
+      "sourceAirport": {
+        "code": {
+          "value": "WAR"
+        },
+        "city": "Warsaw",
+        "name": "Warsaw Chopin",
+        "country": "Poland"
+      },
+      "targetAirport": {
+        "code": {
+          "value": "BCN"
+        },
+        "city": "Barcelona",
+        "name": "Barcelona Airport",
+        "country": "Spain"
+      },
+      "flightTime": {
+        "hours": 2,
+        "minutes": 45
+      }
+    }
+  ],
+  "return": [
+    {
+      "date": "2023-07-12",
+      "sourceAirport": {
+        "code": {
+          "value": "BCN"
+        },
+        "city": "Barcelona",
+        "name": "Barcelona Airport",
+        "country": "Spain"
+      },
+      "targetAirport": {
+        "code": {
+          "value": "WAR"
+        },
+        "city": "Warsaw",
+        "name": "Warsaw Chopin",
+        "country": "Poland"
+      },
+      "flightTime": {
+        "hours": 2,
+        "minutes": 30
+      }
+    }
+  ],
+  "airlineOfferId": "OFFER-1",
+  "validToFromAirlines": "2023-06-30T22:02:54.679Z"
+}
+
+###
+

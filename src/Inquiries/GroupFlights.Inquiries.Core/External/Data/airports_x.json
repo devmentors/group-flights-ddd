@@ -1,0 +1,566 @@
+﻿[
+  {
+    "code": "XAI",
+    "name": "Xinyang Minggang Airport",
+    "city": "Xinyang, Henan",
+    "country": "China"
+  },
+  {
+    "code": "XAL",
+    "name": "Álamos Airport",
+    "city": "Álamos, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "code": "XAP",
+    "name": "Serafin Enoss Bertaso Airport",
+    "city": "Chapecó, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "XAR",
+    "name": "Aribinda Airport",
+    "city": "Aribinda",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XAU",
+    "name": "Saül Airport",
+    "city": "Saül",
+    "country": "French Guiana"
+  },
+  {
+    "code": "XBB",
+    "name": "Blubber Bay Seaplane Base",
+    "city": "Blubber Bay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "XBE",
+    "name": "Bearskin Lake Airport (TC: CNE3)",
+    "city": "Bearskin Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "XBG",
+    "name": "Bogande Airport",
+    "city": "Bogandé",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XBJ",
+    "name": "Birjand International Airport",
+    "city": "Birjand",
+    "country": "Iran"
+  },
+  {
+    "code": "XBL",
+    "name": "Bedele Airport (Buno Bedele Airport)",
+    "city": "Bedele",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "XBN",
+    "name": "Biniguni Airport",
+    "city": "Biniguni",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "XBO",
+    "name": "Boulsa Airport",
+    "city": "Boulsa",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XBR",
+    "name": "Brockville Regional Tackaberry Airport (TC: CNL3)",
+    "city": "Brockville, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "XCH",
+    "name": "Christmas Island Airport",
+    "city": "Christmas Island",
+    "country": "Australia"
+  },
+  {
+    "code": "XCL",
+    "name": "Cluff Lake Airport (TC: CJS3)",
+    "city": "Cluff Lake, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "XCM",
+    "name": "Chatham-Kent Airport",
+    "city": "Chatham-Kent, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "XCN",
+    "name": "Coron Airport",
+    "city": "Coron",
+    "country": "Philippines"
+  },
+  {
+    "code": "XCO",
+    "name": "Colac Airport",
+    "city": "Colac, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "XCR",
+    "name": "Châlons Vatry Airport",
+    "city": "Châlons-en-Champagne, Champagne-Ardenne",
+    "country": "France"
+  },
+  {
+    "code": "XDE",
+    "name": "Diébougou Airport",
+    "city": "Diébougou",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XDJ",
+    "name": "Djibo Airport",
+    "city": "Djibo",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XEN",
+    "name": "Xingcheng Airport",
+    "city": "Xingcheng, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "XES",
+    "name": "Grand Geneva Resort Airport (FAA: C02)",
+    "city": "Lake Geneva, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "XFN",
+    "name": "Xiangyang Liuji Airport",
+    "city": "Xiangyang, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "XFW",
+    "name": "Hamburg Finkenwerder Airport",
+    "city": "Hamburg",
+    "country": "Germany"
+  },
+  {
+    "code": "XGA",
+    "name": "Gaoua Airport (Amilcar Cabral Airport)",
+    "city": "Gaoua",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XGG",
+    "name": "Gorom Gorom Airport",
+    "city": "Gorom-Gorom",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XGN",
+    "name": "Xangongo Airport",
+    "city": "Xangongo",
+    "country": "Angola"
+  },
+  {
+    "code": "XGR",
+    "name": "Kangiqsualujjuaq (Georges River) Airport",
+    "city": "Kangiqsualujjuaq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "XIC",
+    "name": "Xichang Qingshan Airport",
+    "city": "Xichang, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "XIE",
+    "name": "Xienglom Airport",
+    "city": "Xienglom",
+    "country": "Laos"
+  },
+  {
+    "code": "XIG",
+    "name": "Xinguara Municipal Airport",
+    "city": "Xinguara, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "XIJ",
+    "name": "Ahmad al-Jaber Air Base",
+    "city": "Al Ahmadi",
+    "country": "Kuwait"
+  },
+  {
+    "code": "XIL",
+    "name": "Xilinhot Airport",
+    "city": "Xilinhot, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "XIN",
+    "name": "Xingning Air Base",
+    "city": "Xingning, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "XIY",
+    "name": "Xi'an Xianyang International Airport",
+    "city": "Xi'an, Shaanxi",
+    "country": "China"
+  },
+  {
+    "code": "XJD",
+    "name": "Al Udeid Air Base",
+    "city": "Al Rayyan",
+    "country": "Qatar"
+  },
+  {
+    "code": "XJM",
+    "name": "Mangla Airport",
+    "city": "Mangla",
+    "country": "Pakistan"
+  },
+  {
+    "code": "XKA",
+    "name": "Kantchari Airport",
+    "city": "Kantchari",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XKH",
+    "name": "Xieng Khouang Airport",
+    "city": "Phonsavan",
+    "country": "Laos"
+  },
+  {
+    "code": "XKS",
+    "name": "Kasabonika Airport",
+    "city": "Kasabonika, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "XKY",
+    "name": "Kaya Airport",
+    "city": "Kaya",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XLB",
+    "name": "Lac Brochet Airport",
+    "city": "Lac Brochet, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "XLO",
+    "name": "Long Xuyen Airport",
+    "city": "Long Xuyên",
+    "country": "Vietnam"
+  },
+  {
+    "code": "XLS",
+    "name": "Saint-Louis Airport",
+    "city": "Saint-Louis",
+    "country": "Senegal"
+  },
+  {
+    "code": "XLU",
+    "name": "Leo Airport",
+    "city": "Léo",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XLW",
+    "name": "Lemwerder Airport",
+    "city": "Lemwerder, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "XMA",
+    "name": "Maramag Airport",
+    "city": "Maramag",
+    "country": "Philippines"
+  },
+  {
+    "code": "XMC",
+    "name": "Mallacoota Airport",
+    "city": "Mallacoota, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "XMD",
+    "name": "Madison Municipal Airport (FAA: MDS)",
+    "city": "Madison, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "XMG",
+    "name": "Mahendranagar Airport",
+    "city": "Bhimdatta (Mahendranagar)",
+    "country": "Nepal"
+  },
+  {
+    "code": "XMH",
+    "name": "Manihi Airport",
+    "city": "Manihi, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "XMI",
+    "name": "Masasi Airport",
+    "city": "Masasi",
+    "country": "Tanzania"
+  },
+  {
+    "code": "XML",
+    "name": "Minlaton Airport",
+    "city": "Minlaton, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "XMN",
+    "name": "Xiamen Gaoqi International Airport",
+    "city": "Xiamen, Fujian",
+    "country": "China"
+  },
+  {
+    "code": "XMP",
+    "name": "Macmillan Pass Airport (TC: CFC4)",
+    "city": "Macmillan Pass, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "XMS",
+    "name": "Edmundo Carvajal Airport",
+    "city": "Macas",
+    "country": "Ecuador"
+  },
+  {
+    "code": "XMY",
+    "name": "Yam Island Airport",
+    "city": "Yam Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "XNA",
+    "name": "Northwest Arkansas Regional Airport",
+    "city": "Fayetteville / Springdale, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "XNG",
+    "name": "Quang Ngai Airport",
+    "city": "Quang Ngai (Quảng Ngãi)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "XNH",
+    "name": "Ali Air Base",
+    "city": "Nasiriyah",
+    "country": "Iraq"
+  },
+  {
+    "code": "XNN",
+    "name": "Xining Caojiabao Airport",
+    "city": "Xining, Qinghai",
+    "country": "China"
+  },
+  {
+    "code": "XNT",
+    "name": "Xingtai Dalian Airport",
+    "city": "Xingtai, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "XNU",
+    "name": "Nouna Airport",
+    "city": "Nouna",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XPA",
+    "name": "Pama Airport",
+    "city": "Pama",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XPK",
+    "name": "Pukatawagan Airport",
+    "city": "Pukatawagan, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "XPL",
+    "name": "Soto Cano Air Base",
+    "city": "Comayagua",
+    "country": "Honduras"
+  },
+  {
+    "code": "XPP",
+    "name": "Poplar River Airport",
+    "city": "Poplar River, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "XPR",
+    "name": "Pine Ridge Airport (FAA: IEN)",
+    "city": "Pine Ridge, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "XQP",
+    "name": "Quepos La Managua Airport",
+    "city": "Quepos",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "XQU",
+    "name": "Qualicum Beach Airport (TC: CAT4)",
+    "city": "Qualicum Beach, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "XRH",
+    "name": "RAAF Base Richmond",
+    "city": "Richmond, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "XRQ",
+    "name": "Xinbarag Youqi Baogede Airport",
+    "city": "Xinbarag Youqi, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "XRR",
+    "name": "Ross River Airport",
+    "city": "Ross River, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "XRY",
+    "name": "Jerez Airport (La Parra Airport)",
+    "city": "Jerez de la Frontera, Andalusia",
+    "country": "Spain"
+  },
+  {
+    "code": "XSB",
+    "name": "Sir Bani Yas Airport",
+    "city": "Sir Bani Yas",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "XSC",
+    "name": "South Caicos Airport",
+    "city": "South Caicos",
+    "country": "British Overseas Territory of Turks and Caicos Islands"
+  },
+  {
+    "code": "XSD",
+    "name": "Tonopah Test Range Airport (FAA: TNX)",
+    "city": "Tonopah, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "XSE",
+    "name": "Sebba Airport",
+    "city": "Sebba",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "XSI",
+    "name": "South Indian Lake Airport",
+    "city": "South Indian Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "XSO",
+    "name": "Siocon Airport",
+    "city": "Siocon",
+    "country": "Philippines"
+  },
+  {
+    "code": "XSP",
+    "name": "Seletar Airport",
+    "city": "",
+    "country": "Singapore"
+  },
+  {
+    "code": "XTA",
+    "name": "Homey Airport",
+    "city": "Groom Lake, Southern Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "XTG",
+    "name": "Thargomindah Airport",
+    "city": "Thargomindah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "XTL",
+    "name": "Tadoule Lake Airport",
+    "city": "Tadoule Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "XTO",
+    "name": "Taroom Airport",
+    "city": "Taroom, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "XTR",
+    "name": "Tara Airport",
+    "city": "Tara, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "XUZ",
+    "name": "Xuzhou Guanyin Airport",
+    "city": "Xuzhou, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "XVL",
+    "name": "Vinh Long Airport",
+    "city": "Vinh Long (Vĩnh Long)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "XWA",
+    "name": "Williston Basin International Airport",
+    "city": "Williston, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "XYA",
+    "name": "Yandina Airport",
+    "city": "Yandina",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "XYE",
+    "name": "Ye Airport",
+    "city": "Ye",
+    "country": "Myanmar"
+  },
+  {
+    "code": "XYR",
+    "name": "Edwaki Airport",
+    "city": "Yellow River",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "XZA",
+    "name": "Zabré Airport",
+    "city": "Zabré",
+    "country": "Burkina Faso"
+  }
+]

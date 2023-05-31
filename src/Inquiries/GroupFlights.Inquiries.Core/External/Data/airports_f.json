@@ -1,0 +1,1274 @@
+﻿[
+  {
+    "code": "FAA",
+    "name": "Faranah Airport",
+    "city": "Faranah",
+    "country": "Guinea"
+  },
+  {
+    "code": "FAB",
+    "name": "Farnborough Airport",
+    "city": "Farnborough, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FAC",
+    "name": "Faaite Airport",
+    "city": "Faaite, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "FAE",
+    "name": "Vágar Airport",
+    "city": "Vágar",
+    "country": "Faroe Islands"
+  },
+  {
+    "code": "FAF",
+    "name": "Felker Army Airfield",
+    "city": "Fort Eustis, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "FAG",
+    "name": "Fagurhólsmýri Airport",
+    "city": "Fagurhólsmýri",
+    "country": "Iceland"
+  },
+  {
+    "code": "FAH",
+    "name": "Farah Airport",
+    "city": "Farah",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "FAI",
+    "name": "Fairbanks International Airport",
+    "city": "Fairbanks, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FAJ",
+    "name": "Diego Jiménez Torres Airport (FAA: X95)",
+    "city": "Fajardo, Puerto Rico",
+    "country": "United States"
+  },
+  {
+    "code": "FAK",
+    "name": "False Island Seaplane Base (FAA: 2Z6)",
+    "city": "False Island, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FAM",
+    "name": "Farmington Regional Airport",
+    "city": "Farmington, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "FAO",
+    "name": "Faro Airport",
+    "city": "Faro",
+    "country": "Portugal"
+  },
+  {
+    "code": "FAQ",
+    "name": "Frieda River Airport",
+    "city": "Frieda River",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "FAR",
+    "name": "Hector International Airport",
+    "city": "Fargo, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "FAS",
+    "name": "Fáskrúðsfjörður Airport",
+    "city": "Fáskrúðsfjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "FAT",
+    "name": "Fresno Yosemite International Airport",
+    "city": "Fresno, California",
+    "country": "United States"
+  },
+  {
+    "code": "FAU",
+    "name": "Fahud Airport",
+    "city": "Fahud",
+    "country": "Oman"
+  },
+  {
+    "code": "FAV",
+    "name": "Fakarava Airport",
+    "city": "Fakarava, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "FAY",
+    "name": "Fayetteville Regional Airport (Grannis Field)",
+    "city": "Fayetteville, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "FAZ",
+    "name": "Fasa Airport",
+    "city": "Fasa",
+    "country": "Iran"
+  },
+  {
+    "code": "FBA",
+    "name": "Fonte Boa Airport",
+    "city": "Fonte Boa, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "FBD",
+    "name": "Fayzabad Airport",
+    "city": "Fayzabad",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "FBE",
+    "name": "Francisco Beltrão Airport (Paulo Abdala Airport)",
+    "city": "Francisco Beltrão, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "FBG",
+    "name": "Simmons Army Airfield",
+    "city": "Fort Bragg, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "FBK",
+    "name": "Ladd Army Airfield",
+    "city": "Fairbanks, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FBL",
+    "name": "Faribault Municipal Airport",
+    "city": "Faribault, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "FBM",
+    "name": "Lubumbashi International Airport",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "FBR",
+    "name": "Fort Bridger Airport",
+    "city": "Fort Bridger, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "FBS",
+    "name": "Friday Harbor Seaplane Base (FAA: W33)",
+    "city": "Friday Harbor, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "FBY",
+    "name": "Fairbury Municipal Airport",
+    "city": "Fairbury, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "FCA",
+    "name": "Glacier Park International Airport (FAA: GPI)",
+    "city": "Kalispell, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "FCB",
+    "name": "Ficksburg Airport",
+    "city": "Ficksburg",
+    "country": "South Africa"
+  },
+  {
+    "code": "FCH",
+    "name": "Fresno Chandler Executive Airport",
+    "city": "Fresno, California",
+    "country": "United States"
+  },
+  {
+    "code": "FCM",
+    "name": "Flying Cloud Airport",
+    "city": "Eden Prairie, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "FCN",
+    "name": "Sea-Airport Cuxhaven/Nordholz",
+    "city": "Cuxhaven, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "FCO",
+    "name": "Leonardo da Vinci–Fiumicino Airport",
+    "city": "Rome, Lazio",
+    "country": "Italy"
+  },
+  {
+    "code": "FCS",
+    "name": "Butts Army Airfield (Fort Carson)",
+    "city": "Colorado Springs, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "FCY",
+    "name": "Forrest City Municipal Airport",
+    "city": "Forrest City, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "FDE",
+    "name": "Førde Airport, Bringeland",
+    "city": "Førde",
+    "country": "Norway"
+  },
+  {
+    "code": "FDF",
+    "name": "Martinique Aimé Césaire International Airport",
+    "city": "Fort-de-France",
+    "country": "Martinique"
+  },
+  {
+    "code": "FDH",
+    "name": "Friedrichshafen Airport (Bodensee Airport)",
+    "city": "Friedrichshafen, Baden-Württemberg",
+    "country": "Germany"
+  },
+  {
+    "code": "FDK",
+    "name": "Frederick Municipal Airport",
+    "city": "Frederick, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "FDR",
+    "name": "Frederick Regional Airport",
+    "city": "Frederick, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "FDU",
+    "name": "Bandundu Airport",
+    "city": "Bandundu",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "FDY",
+    "name": "Findlay Airport",
+    "city": "Findlay, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "FEA",
+    "name": "Fetlar Airport",
+    "city": "Fetlar, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FEB",
+    "name": "Sanfebagar Airport",
+    "city": "Sanfebagar",
+    "country": "Nepal"
+  },
+  {
+    "code": "FEC",
+    "name": "Feira de Santana Airport (Gov. João Durval Carneiro Airport)",
+    "city": "Feira de Santana, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "FEG",
+    "name": "Fergana International Airport",
+    "city": "Fergana",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "FEJ",
+    "name": "Feijó Airport",
+    "city": "Feijó, Acre",
+    "country": "Brazil"
+  },
+  {
+    "code": "FEK",
+    "name": "Ferkessédougou Airport",
+    "city": "Ferkessédougou",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "FEL",
+    "name": "Fürstenfeldbruck Air Base",
+    "city": "Fürstenfeldbruck, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "FEN",
+    "name": "Fernando de Noronha Airport (Gov. Carlos Wilson Airport)",
+    "city": "Fernando de Noronha, Pernambuco",
+    "country": "Brazil"
+  },
+  {
+    "code": "FEP",
+    "name": "Albertus Airport",
+    "city": "Freeport, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "FET",
+    "name": "Fremont Municipal Airport",
+    "city": "Fremont, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "FEZ",
+    "name": "Fes–Saïss Airport",
+    "city": "Fez",
+    "country": "Morocco"
+  },
+  {
+    "code": "FFA",
+    "name": "First Flight Airport",
+    "city": "Kill Devil Hills, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "FFD",
+    "name": "RAF Fairford",
+    "city": "Fairford, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FFL",
+    "name": "Fairfield Municipal Airport",
+    "city": "Fairfield, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "FFM",
+    "name": "Fergus Falls Municipal Airport (Einar Mickelson Field)",
+    "city": "Fergus Falls, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "FFO",
+    "name": "Wright-Patterson Air Force Base (First Flight-Office)",
+    "city": "Dayton, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "FFT",
+    "name": "Capital City Airport",
+    "city": "Frankfort, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "FFU",
+    "name": "Futaleufú Airfield",
+    "city": "Futaleufú",
+    "country": "Chile"
+  },
+  {
+    "code": "FGD",
+    "name": "Fderik Airport",
+    "city": "Fderîck",
+    "country": "Mauritania"
+  },
+  {
+    "code": "FGI",
+    "name": "Fagali'i Airport",
+    "city": "Apia, Upolu Island",
+    "country": "Samoa"
+  },
+  {
+    "code": "FGU",
+    "name": "Fangatau Airport",
+    "city": "Fangatau, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "FHU",
+    "name": "Sierra Vista Municipal Airport (Libby Army Airfield)",
+    "city": "Sierra Vista, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "FHZ",
+    "name": "Fakahina Airport",
+    "city": "Fakahina, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "FID",
+    "name": "Elizabeth Field (FAA: 0B8)",
+    "city": "Fishers Island, New York",
+    "country": "United States"
+  },
+  {
+    "code": "FIE",
+    "name": "Fair Isle Airport",
+    "city": "Fair Isle, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FIG",
+    "name": "Fria Airport",
+    "city": "Fria",
+    "country": "Guinea"
+  },
+  {
+    "code": "FIH",
+    "name": "N'djili Airport (Kinshasa Int'l Airport)",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "FIK",
+    "name": "Finke Airport",
+    "city": "Finke (Aputula), Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "FIL",
+    "name": "Fillmore Municipal Airport (FAA: FOM)",
+    "city": "Fillmore, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "FIN",
+    "name": "Finschhafen Airport",
+    "city": "Finschhafen",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "FIZ",
+    "name": "Fitzroy Crossing Airport",
+    "city": "Fitzroy Crossing, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "FJR",
+    "name": "Fujairah International Airport",
+    "city": "Fujairah",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "FKB",
+    "name": "Karlsruhe/Baden-Baden Airport",
+    "city": "Karlsruhe / Baden-Baden, Baden-Württemberg",
+    "country": "Germany"
+  },
+  {
+    "code": "FKI",
+    "name": "Bangoka International Airport",
+    "city": "Kisangani",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "FKJ",
+    "name": "Fukui Airport",
+    "city": "Fukui, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "FKL",
+    "name": "Venango Regional Airport (Chess Lamberton Field)",
+    "city": "Franklin, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "FKN",
+    "name": "Franklin Municipal–John Beverly Rose Airport",
+    "city": "Franklin, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "FKQ",
+    "name": "Fakfak Torea Airport",
+    "city": "Fakfak",
+    "country": "Indonesia"
+  },
+  {
+    "code": "FKS",
+    "name": "Fukushima Airport",
+    "city": "Sukagawa, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "FLA",
+    "name": "Gustavo Artunduaga Paredes Airport",
+    "city": "Florencia (Caquetá)",
+    "country": "Colombia"
+  },
+  {
+    "code": "FLB",
+    "name": "Cangapara Airport",
+    "city": "Floriano, Piauí",
+    "country": "Brazil"
+  },
+  {
+    "code": "FLD",
+    "name": "Fond du Lac County Airport",
+    "city": "Fond du Lac, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "FLF",
+    "name": "Flensburg-Schäferhaus Airport",
+    "city": "Flensburg, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "FLG",
+    "name": "Flagstaff Pulliam Airport",
+    "city": "Flagstaff, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "FLH",
+    "name": "Flotta Airport",
+    "city": "Flotta, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FLI",
+    "name": "Holt Airport",
+    "city": "Flateyri",
+    "country": "Iceland"
+  },
+  {
+    "code": "FLL",
+    "name": "Fort Lauderdale–Hollywood International Airport",
+    "city": "Fort Lauderdale / Hollywood, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "FLM",
+    "name": "Filadelfia Airport",
+    "city": "Filadelfia",
+    "country": "Paraguay"
+  },
+  {
+    "code": "FLN",
+    "name": "Hercílio Luz International Airport",
+    "city": "Florianópolis, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "FLO",
+    "name": "Florence Regional Airport",
+    "city": "Florence, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "FLP",
+    "name": "Marion County Regional Airport",
+    "city": "Flippin, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "FLR",
+    "name": "Florence Airport, Peretola (Amerigo Vespucci Airport)",
+    "city": "Florence, Tuscany",
+    "country": "Italy"
+  },
+  {
+    "code": "FLS",
+    "name": "Flinders Island Airport",
+    "city": "Flinders Island, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "FLT",
+    "name": "Flat Airport",
+    "city": "Flat, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FLV",
+    "name": "Sherman Army Airfield",
+    "city": "Fort Leavenworth, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "FLW",
+    "name": "Flores Airport",
+    "city": "Flores Island, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "FLX",
+    "name": "Fallon Municipal Airport",
+    "city": "Fallon, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "FLY",
+    "name": "Finley Airport",
+    "city": "Finley, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "FLZ",
+    "name": "Ferdinand Lumban Tobing Airport",
+    "city": "Sibolga",
+    "country": "Indonesia"
+  },
+  {
+    "code": "FMA",
+    "name": "Formosa International Airport (El Pucú Airport)",
+    "city": "Formosa",
+    "country": "Argentina"
+  },
+  {
+    "code": "FME",
+    "name": "Tipton Airport",
+    "city": "Fort Meade / Odenton, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "FMH",
+    "name": "Otis Air National Guard Base",
+    "city": "Falmouth, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "FMI",
+    "name": "Kalemie Airport",
+    "city": "Kalemie",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "FMM",
+    "name": "Memmingen Airport",
+    "city": "Memmingen, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "FMN",
+    "name": "Four Corners Regional Airport",
+    "city": "Farmington, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "FMO",
+    "name": "Münster Osnabrück Airport",
+    "city": "Münster / Osnabrück (LS), North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "FMS",
+    "name": "Fort Madison Municipal Airport (FAA: FSW)",
+    "city": "Fort Madison, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "FMU",
+    "name": "Florence Municipal Airport (FAA: 6S2)",
+    "city": "Florence, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "FMY",
+    "name": "Page Field",
+    "city": "Fort Myers, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "FNA",
+    "name": "Lungi International Airport",
+    "city": "Freetown",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "FNB",
+    "name": "Neubrandenburg Airport",
+    "city": "Neubrandenburg, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "FNC",
+    "name": "Madeira Airport",
+    "city": "Funchal, Madeira",
+    "country": "Portugal"
+  },
+  {
+    "code": "FND",
+    "name": "Funadhoo Airport",
+    "city": "Funadhoo, Shaviyani Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "FNE",
+    "name": "Fane Airport",
+    "city": "Fane",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "FNG",
+    "name": "Fada N'gourma Airport",
+    "city": "Fada N'gourma",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "FNH",
+    "name": "Fincha Airport",
+    "city": "Fincha",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "FNI",
+    "name": "Nîmes–Alès–Camargue–Cévennes Airport (Garons Airport)",
+    "city": "Nîmes, Languedoc-Roussillon",
+    "country": "France"
+  },
+  {
+    "code": "FNJ",
+    "name": "Pyongyang Sunan International Airport",
+    "city": "Pyongyang",
+    "country": "North Korea"
+  },
+  {
+    "code": "FNL",
+    "name": "Fort Collins–Loveland Municipal Airport",
+    "city": "Fort Collins/Loveland, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "FNR",
+    "name": "Funter Bay Seaplane Base",
+    "city": "Funter Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FNT",
+    "name": "Bishop International Airport",
+    "city": "Flint, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "FNU",
+    "name": "Oristano-Fenosu Airport",
+    "city": "Oristano, Sardinia",
+    "country": "Italy"
+  },
+  {
+    "code": "FOA",
+    "name": "Foula Airfield",
+    "city": "Foula, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FOB",
+    "name": "Fort Bragg Airport (FAA: 82CL)",
+    "city": "Fort Bragg, California",
+    "country": "United States"
+  },
+  {
+    "code": "FOC",
+    "name": "Fuzhou Changle International Airport",
+    "city": "Fuzhou, Fujian",
+    "country": "China"
+  },
+  {
+    "code": "FOD",
+    "name": "Fort Dodge Regional Airport",
+    "city": "Fort Dodge, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "FOE",
+    "name": "Topeka Regional Airport",
+    "city": "Topeka, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "FOG",
+    "name": "Foggia Gino Lisa Airport",
+    "city": "Foggia, Apulia",
+    "country": "Italy"
+  },
+  {
+    "code": "FOK",
+    "name": "Francis S. Gabreski Airport",
+    "city": "Westhampton Beach, New York",
+    "country": "United States"
+  },
+  {
+    "code": "FOM",
+    "name": "Foumban Nkounja Airport",
+    "city": "Foumban",
+    "country": "Cameroon"
+  },
+  {
+    "code": "FON",
+    "name": "La Fortuna Arenal Airport",
+    "city": "La Fortuna",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "FOO",
+    "name": "Kornasoren Airport (Numfoor Airport)",
+    "city": "Numfoor",
+    "country": "Indonesia"
+  },
+  {
+    "code": "FOR",
+    "name": "Pinto Martins – Fortaleza International Airport",
+    "city": "Fortaleza, Ceará",
+    "country": "Brazil"
+  },
+  {
+    "code": "FOS",
+    "name": "Forrest Airport",
+    "city": "Forrest, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "FOT",
+    "name": "Forster (Wallis Island) Airport",
+    "city": "Forster, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "FOU",
+    "name": "Fougamou Airport",
+    "city": "Fougamou",
+    "country": "Gabon"
+  },
+  {
+    "code": "FOY",
+    "name": "Foya Airport",
+    "city": "Foya",
+    "country": "Liberia"
+  },
+  {
+    "code": "FPO",
+    "name": "Grand Bahama International Airport",
+    "city": "Freeport, Grand Bahama",
+    "country": "Bahamas"
+  },
+  {
+    "code": "FPR",
+    "name": "St. Lucie County International Airport",
+    "city": "Fort Pierce, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "FPY",
+    "name": "Perry-Foley Airport (FAA: 40J)",
+    "city": "Perry, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt, Hessen",
+    "country": "Germany"
+  },
+  {
+    "code": "FRB",
+    "name": "Forbes Airport",
+    "city": "Forbes, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "FRC",
+    "name": "Franca Airport (Ten. Lund Presotto–Franca State Airport)",
+    "city": "Franca, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "FRD",
+    "name": "Friday Harbor Airport (FAA: FHR)",
+    "city": "Friday Harbor, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "FRE",
+    "name": "Fera Airport (Fera/Maringe Airport)",
+    "city": "Fera Island, Isabel Province",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "FRG",
+    "name": "Republic Airport",
+    "city": "Farmingdale, New York",
+    "country": "United States"
+  },
+  {
+    "code": "FRH",
+    "name": "French Lick Municipal Airport",
+    "city": "French Lick, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "FRI",
+    "name": "Marshall Army Airfield",
+    "city": "Fort Riley, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "FRK",
+    "name": "Frégate Island Airport",
+    "city": "Frégate Island",
+    "country": "Seychelles"
+  },
+  {
+    "code": "FRL",
+    "name": "Forlì International Airport (Luigi Ridolfi Airport)",
+    "city": "Forlì, Emilia-Romagna",
+    "country": "Italy"
+  },
+  {
+    "code": "FRM",
+    "name": "Fairmont Municipal Airport",
+    "city": "Fairmont, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "FRN",
+    "name": "Bryant Army Airport",
+    "city": "Anchorage, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FRO",
+    "name": "Florø Airport",
+    "city": "Florø",
+    "country": "Norway"
+  },
+  {
+    "code": "FRQ",
+    "name": "Feramin Airport",
+    "city": "Feramin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "FRR",
+    "name": "Front Royal–Warren County Airport",
+    "city": "Front Royal, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "FRS",
+    "name": "Mundo Maya International Airport",
+    "city": "Flores",
+    "country": "Guatemala"
+  },
+  {
+    "code": "FRT",
+    "name": "Frutillar Airport",
+    "city": "Frutillar",
+    "country": "Chile"
+  },
+  {
+    "code": "FRU",
+    "name": "Manas International Airport",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "code": "FRW",
+    "name": "Francistown Airport",
+    "city": "Francistown",
+    "country": "Botswana"
+  },
+  {
+    "code": "FRY",
+    "name": "Eastern Slopes Regional Airport (FAA: IZG)",
+    "city": "Fryeburg, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "FRZ",
+    "name": "Fritzlar Air Base",
+    "city": "Fritzlar, Hesse",
+    "country": "Germany"
+  },
+  {
+    "code": "FSC",
+    "name": "Figari–Sud Corse Airport",
+    "city": "Figari, Corsica",
+    "country": "France"
+  },
+  {
+    "code": "FSD",
+    "name": "Sioux Falls Regional Airport (Joe Foss Field)",
+    "city": "Sioux Falls, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "FSI",
+    "name": "Henry Post Army Airfield (Fort Sill)",
+    "city": "Lawton, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "FSK",
+    "name": "Fort Scott Municipal Airport",
+    "city": "Fort Scott, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "FSL",
+    "name": "Fossil Downs Airport",
+    "city": "Fossil Downs Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "FSM",
+    "name": "Fort Smith Regional Airport",
+    "city": "Fort Smith, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "FSP",
+    "name": "Saint-Pierre Airport",
+    "city": "Saint-Pierre",
+    "country": "Saint Pierre and Miquelon"
+  },
+  {
+    "code": "FSS",
+    "name": "RAF Kinloss",
+    "city": "Forres, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FST",
+    "name": "Fort Stockton–Pecos County Airport",
+    "city": "Fort Stockton, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "FSU",
+    "name": "Fort Sumner Municipal Airport",
+    "city": "Fort Sumner, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "FSZ",
+    "name": "Shizuoka Airport (Mt. Fuji Shizuoka Airport)",
+    "city": "Shizuoka, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "FTA",
+    "name": "Futuna Airport",
+    "city": "Futuna Island, Tafea",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "FTE",
+    "name": "Comandante Armando Tola International Airport",
+    "city": "El Calafate, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "FTI",
+    "name": "Fitiuta Airport (FAA: FAQ)",
+    "city": "Fitiuta, American Samoa",
+    "country": "United States"
+  },
+  {
+    "code": "FTK",
+    "name": "Godman Army Airfield",
+    "city": "Fort Knox, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "FTU",
+    "name": "Tôlanaro Airport (Marillac Airport)",
+    "city": "Tôlanaro",
+    "country": "Madagascar"
+  },
+  {
+    "code": "FTW",
+    "name": "Fort Worth Meacham International Airport",
+    "city": "Fort Worth, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "FTX",
+    "name": "Owando Airport",
+    "city": "Owando",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "FTY",
+    "name": "Fulton County Airport (Charlie Brown Field)",
+    "city": "Atlanta, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "FUB",
+    "name": "Fulleborn Airport",
+    "city": "Fulleborn",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "FUE",
+    "name": "Fuerteventura Airport",
+    "city": "Fuerteventura, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "FUG",
+    "name": "Fuyang Xiguan Airport",
+    "city": "Fuyang, Anhui",
+    "country": "China"
+  },
+  {
+    "code": "FUJ",
+    "name": "Fukue Airport (Gotō-Fukue Airport)",
+    "city": "Gotō, Gotō Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "FUK",
+    "name": "Fukuoka Airport (Itazuke Air Base)",
+    "city": "Fukuoka, Kyushu",
+    "country": "Japan"
+  },
+  {
+    "code": "FUL",
+    "name": "Fullerton Municipal Airport",
+    "city": "Fullerton, California",
+    "country": "United States"
+  },
+  {
+    "code": "FUM",
+    "name": "Fuma Airport",
+    "city": "Fuma",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "FUN",
+    "name": "Funafuti International Airport",
+    "city": "Funafuti",
+    "country": "Tuvalu"
+  },
+  {
+    "code": "FUO",
+    "name": "Foshan Shadi Airport",
+    "city": "Foshan, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "FUT",
+    "name": "Pointe Vele Airport",
+    "city": "Futuna Island",
+    "country": "Wallis and Futuna"
+  },
+  {
+    "code": "FVL",
+    "name": "Flora Valley Airport",
+    "city": "Flora Valley, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "FVM",
+    "name": "Fuvahmulah Airport",
+    "city": "Fuvahmulah, Gnaviyani Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "FVR",
+    "name": "Forrest River Airport",
+    "city": "Forrest River Mission, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "FWA",
+    "name": "Fort Wayne International Airport",
+    "city": "Fort Wayne, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "FWH",
+    "name": "NAS Fort Worth JRB / Carswell Field (FAA: NFW)",
+    "city": "Fort Worth, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "FWL",
+    "name": "Farewell Airport",
+    "city": "Farewell, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FXE",
+    "name": "Fort Lauderdale Executive Airport",
+    "city": "Fort Lauderdale, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "FXO",
+    "name": "Cuamba Airport",
+    "city": "Cuamba",
+    "country": "Mozambique"
+  },
+  {
+    "code": "FXY",
+    "name": "Forest City Municipal Airport",
+    "city": "Forest City, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "FYJ",
+    "name": "Fuyuan Dongji Airport",
+    "city": "Fuyuan, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "FYM",
+    "name": "Fayetteville Municipal Airport",
+    "city": "Fayetteville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "FYN",
+    "name": "Fuyun Koktokay Airport",
+    "city": "Fuyun, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "FYT",
+    "name": "Faya-Largeau Airport",
+    "city": "Faya-Largeau",
+    "country": "Chad"
+  },
+  {
+    "code": "FYU",
+    "name": "Fort Yukon Airport",
+    "city": "Fort Yukon, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "FYV",
+    "name": "Drake Field (Fayetteville Executive Airport)",
+    "city": "Fayetteville, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "FZO",
+    "name": "Bristol Filton Airport",
+    "city": "Bristol, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FZL",
+    "name": "Fuzuli International Airport",
+    "city": "Fuzuli, Karabakh",
+    "country": "Azerbaijan"
+  }
+]

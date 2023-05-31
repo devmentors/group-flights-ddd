@@ -1,0 +1,1844 @@
+﻿[
+  {
+    "code": "DAA",
+    "name": "Davison Army Airfield",
+    "city": "Fort Belvoir, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "DAB",
+    "name": "Daytona Beach International Airport",
+    "city": "Daytona Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "DAC",
+    "name": "Shahjalal International Airport",
+    "city": "Dhaka",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "DAD",
+    "name": "Da Nang International Airport",
+    "city": "Da Nang",
+    "country": "Vietnam"
+  },
+  {
+    "code": "DAF",
+    "name": "Daup Airport",
+    "city": "Daup",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DAG",
+    "name": "Barstow-Daggett Airport",
+    "city": "Daggett, California",
+    "country": "United States"
+  },
+  {
+    "code": "DAH",
+    "name": "Dathina Airport",
+    "city": "Dathina",
+    "country": "Yemen"
+  },
+  {
+    "code": "DAK",
+    "name": "Dakhla Oasis Airport",
+    "city": "Dakhla Oasis",
+    "country": "Egypt"
+  },
+  {
+    "code": "DAL",
+    "name": "Dallas Love Field",
+    "city": "Dallas, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DAM",
+    "name": "Damascus International Airport",
+    "city": "Damascus",
+    "country": "Syria"
+  },
+  {
+    "code": "DAN",
+    "name": "Danville Regional Airport",
+    "city": "Danville, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "DAO",
+    "name": "Dabo Airport",
+    "city": "Dabo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DAP",
+    "name": "Darchula Airport",
+    "city": "Darchula",
+    "country": "Nepal"
+  },
+  {
+    "code": "DAR",
+    "name": "Julius Nyerere International Airport",
+    "city": "Dar es Salaam",
+    "country": "Tanzania"
+  },
+  {
+    "code": "DAS",
+    "name": "Great Bear Lake Airport (TC: CFF4)",
+    "city": "Great Bear Lake, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "DAT",
+    "name": "Datong Yungang Airport",
+    "city": "Datong, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "DAU",
+    "name": "Daru Airport",
+    "city": "Daru",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DAV",
+    "name": "Enrique Malek International Airport",
+    "city": "David",
+    "country": "Panama"
+  },
+  {
+    "code": "DAX",
+    "name": "Dazhou Heshi Airport",
+    "city": "Dazhou, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "DAY",
+    "name": "Dayton International Airport",
+    "city": "Dayton, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "DAZ",
+    "name": "Darwaz Airport",
+    "city": "Darwaz",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "DBA",
+    "name": "Dalbandin Airport",
+    "city": "Dalbandin",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DBB",
+    "name": "Al Alamain International Airport",
+    "city": "El Alamein",
+    "country": "Egypt"
+  },
+  {
+    "code": "DBC",
+    "name": "Baicheng Chang'an Airport",
+    "city": "Baicheng, Jilin",
+    "country": "China"
+  },
+  {
+    "code": "DBD",
+    "name": "Dhanbad Airport",
+    "city": "Dhanbad, Jharkhand",
+    "country": "India"
+  },
+  {
+    "code": "DBK",
+    "name": "Dutch Bay Seaplane Base",
+    "city": "Kalpitiya",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "DBM",
+    "name": "Debre Marqos Airport",
+    "city": "Debre Marqos",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "DBN",
+    "name": "W. H. 'Bud' Barron Airport",
+    "city": "Dublin, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "DBO",
+    "name": "Dubbo City Regional Airport",
+    "city": "Dubbo, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "DBP",
+    "name": "Debepare Airport",
+    "city": "Debepare",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DBQ",
+    "name": "Dubuque Regional Airport",
+    "city": "Dubuque, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "DBR",
+    "name": "Darbhanga Airport",
+    "city": "Darbhanga, Bihar",
+    "country": "India"
+  },
+  {
+    "code": "DBS",
+    "name": "Dubois Municipal Airport (FAA: U41)",
+    "city": "Dubois, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "DBT",
+    "name": "Debre Tabor Airport",
+    "city": "Debre Tabor",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "DBU",
+    "name": "Dambulu Oya Tank Seaplane Base",
+    "city": "Dambulla",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "DBV",
+    "name": "Dubrovnik Airport",
+    "city": "Dubrovnik",
+    "country": "Croatia"
+  },
+  {
+    "code": "DBY",
+    "name": "Dalby Airport",
+    "city": "Dalby, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DCA",
+    "name": "Ronald Reagan Washington National Airport",
+    "city": "Arlington County (near Washington, D.C.), Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "DCF",
+    "name": "Canefield Airport",
+    "city": "Canefield",
+    "country": "Dominica"
+  },
+  {
+    "code": "DCG",
+    "name": "Dubai Creek Seaplane Base",
+    "city": "Dubai",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "DCI",
+    "name": "Decimomannu Air Base",
+    "city": "Decimomannu, Sardinia",
+    "country": "Italy"
+  },
+  {
+    "code": "DCK",
+    "name": "Dahl Creek Airport",
+    "city": "Dahl Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DCM",
+    "name": "Castres–Mazamet Airport",
+    "city": "Castres, Midi-Pyrénées",
+    "country": "France"
+  },
+  {
+    "code": "DCN",
+    "name": "RAAF Base Curtin",
+    "city": "Derby, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DCT",
+    "name": "Duncan Town Airport",
+    "city": "Duncan Town, Ragged Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "DCU",
+    "name": "Pryor Field Regional Airport",
+    "city": "Decatur, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "DCY",
+    "name": "Daocheng Yading Airport",
+    "city": "Daocheng, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "DDC",
+    "name": "Dodge City Regional Airport",
+    "city": "Dodge City, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "DDD",
+    "name": "Dhaalu Airport",
+    "city": "Dhaalu Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "DDG",
+    "name": "Dandong Langtou Airport",
+    "city": "Dandong, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "DDM",
+    "name": "Dodoima Airport",
+    "city": "Dodoima",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DDN",
+    "name": "Delta Downs Airport",
+    "city": "Delta Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DDU",
+    "name": "Dadu Airport",
+    "city": "Dadu",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DEA",
+    "name": "Dera Ghazi Khan International Airport",
+    "city": "Dera Ghazi Khan",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DEB",
+    "name": "Debrecen International Airport",
+    "city": "Debrecen",
+    "country": "Hungary"
+  },
+  {
+    "code": "DEC",
+    "name": "Decatur Airport",
+    "city": "Decatur, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "DED",
+    "name": "Jolly Grant Airport",
+    "city": "Dehradun, Uttarakhand",
+    "country": "India"
+  },
+  {
+    "code": "DEE",
+    "name": "Yuzhno-Kurilsk Mendeleyevo Airport",
+    "city": "Yuzhno-Kurilsk, Sakhalin Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "DEF",
+    "name": "Dezful Airport",
+    "city": "Dezful",
+    "country": "Iran"
+  },
+  {
+    "code": "DEH",
+    "name": "Decorah Municipal Airport",
+    "city": "Decorah, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "DEI",
+    "name": "Denis Island Airport",
+    "city": "Denis Island",
+    "country": "Seychelles"
+  },
+  {
+    "code": "DEL",
+    "name": "Indira Gandhi International Airport",
+    "city": "Delhi",
+    "country": "India"
+  },
+  {
+    "code": "DEM",
+    "name": "Dembidolo Airport",
+    "city": "Dembidolo",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "DEN",
+    "name": "Denver International Airport",
+    "city": "Denver, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "DEP",
+    "name": "Daporijo Airport",
+    "city": "Daporijo, Arunachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "DEQ",
+    "name": "Deqing Moganshan Airport",
+    "city": "Deqing, Zhejiang",
+    "country": "China"
+  },
+  {
+    "code": "DER",
+    "name": "Derim Airport",
+    "city": "Derim",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DES",
+    "name": "Desroches Airport",
+    "city": "Desroches Island",
+    "country": "Seychelles"
+  },
+  {
+    "code": "DET",
+    "name": "Coleman A. Young International Airport",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "DEX",
+    "name": "Nop Goliat Dekai Airport",
+    "city": "Yahukimo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DEZ",
+    "name": "Deir ez-Zor Airport",
+    "city": "Deir ez-Zor",
+    "country": "Syria"
+  },
+  {
+    "code": "DFI",
+    "name": "Defiance Memorial Airport",
+    "city": "Defiance, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "DFP",
+    "name": "Drumduff Airport",
+    "city": "Drumduff, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DFW",
+    "name": "Dallas/Fort Worth International Airport",
+    "city": "Dallas / Fort Worth, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DGA",
+    "name": "Dangriga Airport",
+    "city": "Dangriga",
+    "country": "Belize"
+  },
+  {
+    "code": "DGC",
+    "name": "Degeh Bur Airport",
+    "city": "Degeh Bur",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "DGD",
+    "name": "Dalgaranga Airport",
+    "city": "Dalgaranga Gold Mine, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DGE",
+    "name": "Mudgee Airport",
+    "city": "Mudgee, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "DGF",
+    "name": "Douglas Lake Airport",
+    "city": "Douglas Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "DGH",
+    "name": "Deoghar Airport",
+    "city": "Deoghar, Jharkhand",
+    "country": "India"
+  },
+  {
+    "code": "DGK",
+    "name": "Dugong Beach Lodge Airstrip",
+    "city": "Dugong Beach Lodge",
+    "country": "Mozambique"
+  },
+  {
+    "code": "DGL",
+    "name": "Douglas Municipal Airport",
+    "city": "Douglas, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "DGM",
+    "name": "Dandugama Seaplane Base",
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "DGN",
+    "name": "Naval Surface Warfare Center Dahlgren Division (FAA: NDY)",
+    "city": "Dahlgren, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "DGO",
+    "name": "General Guadalupe Victoria International Airport",
+    "city": "Durango, Durango",
+    "country": "Mexico"
+  },
+  {
+    "code": "DGP",
+    "name": "Daugavpils International Airport",
+    "city": "Daugavpils",
+    "country": "Latvia"
+  },
+  {
+    "code": "DGR",
+    "name": "Dargaville Aerodrome",
+    "city": "Dargaville",
+    "country": "New Zealand"
+  },
+  {
+    "code": "DGT",
+    "name": "Sibulan Airport (Dumaguete Airport)",
+    "city": "Dumaguete",
+    "country": "Philippines"
+  },
+  {
+    "code": "DGU",
+    "name": "Dédougou Airport",
+    "city": "Dédougou",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "DGW",
+    "name": "Converse County Airport",
+    "city": "Douglas, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "DHA",
+    "name": "King Abdulaziz Air Base",
+    "city": "Dhahran",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "DHB",
+    "name": "Deer Harbor Sea Plane Base",
+    "city": "Deer Harbor, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "DHD",
+    "name": "Durham Downs Airport",
+    "city": "Durham Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DHF",
+    "name": "Al Dhafra Air Base",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "DHI",
+    "name": "Dhangadhi Airport",
+    "city": "Dhangadhi",
+    "country": "Nepal"
+  },
+  {
+    "code": "DHL",
+    "name": "Dhala Airport",
+    "city": "Dhala",
+    "country": "Yemen"
+  },
+  {
+    "code": "DHM",
+    "name": "Gaggal Airport",
+    "city": "Kangra, Himachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "DHN",
+    "name": "Dothan Regional Airport",
+    "city": "Dothan, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "DHR",
+    "name": "De Kooy Airfield",
+    "city": "Den Helder",
+    "country": "Netherlands"
+  },
+  {
+    "code": "DHT",
+    "name": "Dalhart Municipal Airport",
+    "city": "Dalhart, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DIA",
+    "name": "Doha International Airport",
+    "city": "Doha",
+    "country": "Qatar"
+  },
+  {
+    "code": "DIB",
+    "name": "Dibrugarh Airport (Mohanbari Airport)",
+    "city": "Dibrugarh, Assam",
+    "country": "India"
+  },
+  {
+    "code": "DIE",
+    "name": "Arrachart Airport",
+    "city": "Antsiranana",
+    "country": "Madagascar"
+  },
+  {
+    "code": "DIG",
+    "name": "Diqing Shangri-La Airport",
+    "city": "Shangri-La, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "DIJ",
+    "name": "Dijon Air Base",
+    "city": "Dijon, Burgundy",
+    "country": "France"
+  },
+  {
+    "code": "DIK",
+    "name": "Dickinson Theodore Roosevelt Regional Airport",
+    "city": "Dickinson, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "DIL",
+    "name": "Presidente Nicolau Lobato International Airport",
+    "city": "Dili",
+    "country": "East Timor"
+  },
+  {
+    "code": "DIM",
+    "name": "Dimbokro Airport",
+    "city": "Dimbokro",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "DIN",
+    "name": "Dien Bien Phu Airport",
+    "city": "Dien Bien Phu",
+    "country": "Vietnam"
+  },
+  {
+    "code": "DIO",
+    "name": "Diomede Heliport",
+    "city": "Diomede, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DIP",
+    "name": "Diapaga Airport",
+    "city": "Diapaga",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "DIQ",
+    "name": "Divinópolis Airport (Brigadeiro Cabral Airport)",
+    "city": "Divinópolis, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "DIR",
+    "name": "Aba Tenna Dejazmach Yilma International Airport",
+    "city": "Dire Dawa",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "DIS",
+    "name": "Dolisie Airport",
+    "city": "Dolisie",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "DIU",
+    "name": "Diu Airport",
+    "city": "Diu, Daman and Diu",
+    "country": "India"
+  },
+  {
+    "code": "DIV",
+    "name": "Divo Airport",
+    "city": "Divo",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "DIW",
+    "name": "Mawella Lagoon Seaplane Base",
+    "city": "Dickwella",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "DIY",
+    "name": "Diyarbakır Airport",
+    "city": "Diyarbakır",
+    "country": "Turkey"
+  },
+  {
+    "code": "DJA",
+    "name": "Djougou Airport",
+    "city": "Djougou",
+    "country": "Benin"
+  },
+  {
+    "code": "DJB",
+    "name": "Sultan Thaha Airport",
+    "city": "Jambi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DJE",
+    "name": "Djerba–Zarzis International Airport",
+    "city": "Djerba",
+    "country": "Tunisia"
+  },
+  {
+    "code": "DJG",
+    "name": "Tiska Djanet Airport",
+    "city": "Djanet",
+    "country": "Algeria"
+  },
+  {
+    "code": "DJH",
+    "name": "Jebel Ali Seaplane Base",
+    "city": "Dubai",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "DJJ",
+    "name": "Sentani Airport",
+    "city": "Jayapura",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DJM",
+    "name": "Djambala Airport",
+    "city": "Djambala",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "DJN",
+    "name": "Delta Junction Airport (FAA: D66)",
+    "city": "Delta Junction, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DJO",
+    "name": "Daloa Airport",
+    "city": "Daloa",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "DJU",
+    "name": "Djúpivogur Airport",
+    "city": "Djúpivogur",
+    "country": "Iceland"
+  },
+  {
+    "code": "DKA",
+    "name": "Katsina Airport",
+    "city": "Katsina",
+    "country": "Nigeria"
+  },
+  {
+    "code": "DKI",
+    "name": "Dunk Island Airport",
+    "city": "Dunk Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DKK",
+    "name": "Chautauqua County/Dunkirk Airport",
+    "city": "Dunkirk, New York",
+    "country": "United States"
+  },
+  {
+    "code": "DKR",
+    "name": "Léopold Sédar Senghor International Airport",
+    "city": "Dakar",
+    "country": "Senegal"
+  },
+  {
+    "code": "DKS",
+    "name": "Dikson Airport",
+    "city": "Dikson, Krasnoyarsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "DKV",
+    "name": "Docker River Airport",
+    "city": "Docker River, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "DLA",
+    "name": "Douala International Airport",
+    "city": "Douala",
+    "country": "Cameroon"
+  },
+  {
+    "code": "DLB",
+    "name": "Dalbertis Airport",
+    "city": "Dalbertis",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DLC",
+    "name": "Dalian Zhoushuizi International Airport",
+    "city": "Dalian, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "DLE",
+    "name": "Dole–Jura Airport",
+    "city": "Dole, Franche-Comté",
+    "country": "France"
+  },
+  {
+    "code": "DLF",
+    "name": "Laughlin Air Force Base",
+    "city": "Del Rio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DLG",
+    "name": "Dillingham Airport",
+    "city": "Dillingham, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DLH",
+    "name": "Duluth International Airport",
+    "city": "Duluth, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "DLI",
+    "name": "Lien Khuong Airport",
+    "city": "Da Lat",
+    "country": "Vietnam"
+  },
+  {
+    "code": "DLK",
+    "name": "Dulkaninna Airport",
+    "city": "Dulkaninna, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DLL",
+    "name": "Dillon County Airport (FAA: DLC)",
+    "city": "Dillon, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "DLM",
+    "name": "Dalaman Airport",
+    "city": "Dalaman",
+    "country": "Turkey"
+  },
+  {
+    "code": "DLN",
+    "name": "Dillon Airport",
+    "city": "Dillon, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "DLS",
+    "name": "Columbia Gorge Regional Airport (The Dalles Municipal Airport)",
+    "city": "The Dalles, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "DLU",
+    "name": "Dali Airport",
+    "city": "Dali, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "DLV",
+    "name": "Delissaville Airport",
+    "city": "Delissaville, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "DLY",
+    "name": "Dillon's Bay Airport",
+    "city": "Dillon's Bay, Erromango, Tafea",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "DLZ",
+    "name": "Dalanzadgad Airport",
+    "city": "Dalanzadgad",
+    "country": "Mongolia"
+  },
+  {
+    "code": "DMA",
+    "name": "Davis–Monthan Air Force Base",
+    "city": "Tucson, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "DMB",
+    "name": "Taraz Airport (Jambyl Airport)",
+    "city": "Taraz",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "DMD",
+    "name": "Doomadgee Airport",
+    "city": "Doomadgee, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DME",
+    "name": "Domodedovo International Airport",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "code": "DMK",
+    "name": "Don Mueang International Airport",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "code": "DMM",
+    "name": "King Fahd International Airport",
+    "city": "Dammam",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "DMN",
+    "name": "Deming Municipal Airport",
+    "city": "Deming, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "DMO",
+    "name": "Sedalia Regional Airport",
+    "city": "Sedalia, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "DMR",
+    "name": "Dhamar Airport",
+    "city": "Dhamar",
+    "country": "Yemen"
+  },
+  {
+    "code": "DMT",
+    "name": "Diamantino Airport",
+    "city": "Diamantino, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "DMU",
+    "name": "Dimapur Airport",
+    "city": "Dimapur, Nagaland",
+    "country": "India"
+  },
+  {
+    "code": "DNA",
+    "name": "Kadena Air Base",
+    "city": "Kadena, Okinawa",
+    "country": "Japan"
+  },
+  {
+    "code": "DNB",
+    "name": "Dunbar Airport",
+    "city": "Dunbar, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DND",
+    "name": "Dundee Airport",
+    "city": "Dundee, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "DNF",
+    "name": "Martuba Air Base",
+    "city": "Derna",
+    "country": "Libya"
+  },
+  {
+    "code": "DNG",
+    "name": "Doongan Airport",
+    "city": "Doongan, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DNH",
+    "name": "Dunhuang Airport",
+    "city": "Dunhuang, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "DNI",
+    "name": "Wad Medani Airport",
+    "city": "Wad Madani",
+    "country": "Sudan"
+  },
+  {
+    "code": "DNK",
+    "name": "Dnipro International Airport",
+    "city": "Dnipro",
+    "country": "Ukraine"
+  },
+  {
+    "code": "DNL",
+    "name": "Daniel Field",
+    "city": "Augusta, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "DNM",
+    "name": "Denham Airport",
+    "city": "Denham, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DNN",
+    "name": "Dalton Municipal Airport",
+    "city": "Dalton, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "DNO",
+    "name": "Dianópolis Airport",
+    "city": "Dianópolis, Tocantins",
+    "country": "Brazil"
+  },
+  {
+    "code": "DNP",
+    "name": "Tribhuvannagar Airport (Dang Airport)",
+    "city": "Tribhuwannagar",
+    "country": "Nepal"
+  },
+  {
+    "code": "DNQ",
+    "name": "Deniliquin Airport",
+    "city": "Deniliquin, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "DNR",
+    "name": "Dinard–Pleurtuit–Saint-Malo Airport",
+    "city": "Dinard / Saint-Malo, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "DNS",
+    "name": "Denison Municipal Airport",
+    "city": "Denison, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "DNU",
+    "name": "Dinangat Airport",
+    "city": "Dinangat",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DNV",
+    "name": "Vermilion Regional Airport",
+    "city": "Danville, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "DNX",
+    "name": "Galegu Airport",
+    "city": "Dinder",
+    "country": "Sudan"
+  },
+  {
+    "code": "DNZ",
+    "name": "Denizli Çardak Airport",
+    "city": "Denizli",
+    "country": "Turkey"
+  },
+  {
+    "code": "DOA",
+    "name": "Doany Airport",
+    "city": "Doany",
+    "country": "Madagascar"
+  },
+  {
+    "code": "DOB",
+    "name": "Dobo Airport",
+    "city": "Dobo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DOC",
+    "name": "Dornoch Airfield",
+    "city": "Dornoch, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "DOD",
+    "name": "Dodoma Airport",
+    "city": "Dodoma",
+    "country": "Tanzania"
+  },
+  {
+    "code": "DOE",
+    "name": "Djoemoe Airstrip",
+    "city": "Djoemoe",
+    "country": "Suriname"
+  },
+  {
+    "code": "DOG",
+    "name": "Dongola Airport",
+    "city": "Dongola",
+    "country": "Sudan"
+  },
+  {
+    "code": "DOH",
+    "name": "Hamad International Airport",
+    "city": "Doha",
+    "country": "Qatar"
+  },
+  {
+    "code": "DOI",
+    "name": "Doini Island Airport",
+    "city": "Doini Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DOK",
+    "name": "Donetsk International Airport",
+    "city": "Donetsk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "DOL",
+    "name": "Deauville – Saint-Gatien Airport",
+    "city": "Deauville, Lower Normandy",
+    "country": "France"
+  },
+  {
+    "code": "DOM",
+    "name": "Douglas–Charles Airport",
+    "city": "St Andrew Parish",
+    "country": "Dominica"
+  },
+  {
+    "code": "DON",
+    "name": "Dos Lagunas Airport",
+    "city": "Dos Lagunas",
+    "country": "Guatemala"
+  },
+  {
+    "code": "DOO",
+    "name": "Dorobisoro Airstrip",
+    "city": "Dorobisoro",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DOP",
+    "name": "Dolpa Airport",
+    "city": "Dolpa",
+    "country": "Nepal"
+  },
+  {
+    "code": "DOR",
+    "name": "Dori Airport",
+    "city": "Dori",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "DOS",
+    "name": "Dios Airport",
+    "city": "Dios",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DOU",
+    "name": "Dourados Airport (Francisco de Matos Pereira Airport)",
+    "city": "Dourados, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "DOV",
+    "name": "Dover Air Force Base",
+    "city": "Dover, Delaware",
+    "country": "United States"
+  },
+  {
+    "code": "DOX",
+    "name": "Dongara Airport",
+    "city": "Dongara, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DOY",
+    "name": "Dongying Shengli Airport",
+    "city": "Dongying, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "DPA",
+    "name": "DuPage Airport",
+    "city": "West Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "DPB",
+    "name": "Pampa Guanaco Airport",
+    "city": "Camerón, Timaukel, Tierra del Fuego Province, Magallanes Region",
+    "country": "Chile"
+  },
+  {
+    "code": "DPE",
+    "name": "Dieppe - Saint-Aubin Airport",
+    "city": "Dieppe, Upper Normandy",
+    "country": "France"
+  },
+  {
+    "code": "DPG",
+    "name": "Michael Army Airfield",
+    "city": "Dugway, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "DPL",
+    "name": "Dipolog Airport",
+    "city": "Dipolog",
+    "country": "Philippines"
+  },
+  {
+    "code": "DPO",
+    "name": "Devonport Airport",
+    "city": "Devonport, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "DPS",
+    "name": "Ngurah Rai International Airport",
+    "city": "Denpasar (Bali)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DPT",
+    "name": "Deputatsky Airport",
+    "city": "Deputatsky, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "DPU",
+    "name": "Dumpu Airport",
+    "city": "Dumpu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "DQA",
+    "name": "Daqing Sartu Airport",
+    "city": "Daqing, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "DQM",
+    "name": "Duqm International Airport",
+    "city": "Duqm",
+    "country": "Oman"
+  },
+  {
+    "code": "DRA",
+    "name": "Desert Rock Airport",
+    "city": "Mercury, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "DRB",
+    "name": "Derby Airport",
+    "city": "Derby, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DRC",
+    "name": "Dirico Airport",
+    "city": "Dirico",
+    "country": "Angola"
+  },
+  {
+    "code": "DRD",
+    "name": "Dorunda Airport",
+    "city": "Dorunda, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DRE",
+    "name": "Drummond Island Airport (FAA: DRM)",
+    "city": "Drummond Island, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "DRF",
+    "name": "Drift River Airport",
+    "city": "Drift River, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DRG",
+    "name": "Deering Airport (FAA: DEE)",
+    "city": "Deering, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DRH",
+    "name": "Dabra Airport",
+    "city": "Dabra",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DRI",
+    "name": "Beauregard Regional Airport",
+    "city": "DeRidder, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "DRJ",
+    "name": "Drietabbetje Airstrip",
+    "city": "Drietabbetje",
+    "country": "Suriname"
+  },
+  {
+    "code": "DRK",
+    "name": "Drake Bay Airport",
+    "city": "Drake Bay",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "DRN",
+    "name": "Dirranbandi Airport",
+    "city": "Dirranbandi, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DRO",
+    "name": "Durango–La Plata County Airport",
+    "city": "Durango, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "DRP",
+    "name": "Bicol International Airport",
+    "city": "Daraga, Albay",
+    "country": "Philippines"
+  },
+  {
+    "code": "DRR",
+    "name": "Durrie Airport",
+    "city": "Durrie, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden, Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "DRT",
+    "name": "Del Rio International Airport",
+    "city": "Del Rio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DRU",
+    "name": "Drummond Airport (FAA: M26)",
+    "city": "Drummond, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "DRV",
+    "name": "Dharavandhoo Airport",
+    "city": "Dharavandhoo Island, Baa Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "DRW",
+    "name": "Darwin International Airport",
+    "city": "Darwin, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "DRY",
+    "name": "Drysdale River Airport",
+    "city": "Drysdale River, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "DSA",
+    "name": "Robin Hood Airport Doncaster Sheffield",
+    "city": "Doncaster, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "DSC",
+    "name": "Dschang Airport",
+    "city": "Dschang",
+    "country": "Cameroon"
+  },
+  {
+    "code": "DSD",
+    "name": "La Désirade Airport (Grande-Anse Airport)",
+    "city": "La Désirade",
+    "country": "Guadeloupe"
+  },
+  {
+    "code": "DSE",
+    "name": "Combolcha Airport",
+    "city": "Dessie / Kombolcha",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "DSG",
+    "name": "Dilasag Airport",
+    "city": "Dilasag",
+    "country": "Philippines"
+  },
+  {
+    "code": "DSI",
+    "name": "Destin Executive Airport (FAA: DTS)",
+    "city": "Destin, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "DSK",
+    "name": "Dera Ismail Khan Airport",
+    "city": "Dera Ismail Khan",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DSM",
+    "name": "Des Moines International Airport",
+    "city": "Des Moines, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "DSN",
+    "name": "Ordos Ejin Horo Airport",
+    "city": "Ordos, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "DSO",
+    "name": "Sondok Airport",
+    "city": "Sondok",
+    "country": "North Korea"
+  },
+  {
+    "code": "DSS",
+    "name": "Blaise Diagne International Airport",
+    "city": "Dakar",
+    "country": "Senegal"
+  },
+  {
+    "code": "DSV",
+    "name": "Dansville Municipal Airport",
+    "city": "Dansville, New York",
+    "country": "United States"
+  },
+  {
+    "code": "DSX",
+    "name": "Dongsha Island Airport",
+    "city": "Pratas (Tungsha/Dongsha) Island",
+    "country": "Taiwan"
+  },
+  {
+    "code": "DTA",
+    "name": "Delta Municipal Airport",
+    "city": "Delta, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "DTB",
+    "name": "Silangit Airport",
+    "city": "Siborong-Borong",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DTD",
+    "name": "Datadawai Airport",
+    "city": "Datadawai",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DTE",
+    "name": "Bagasbas Airport",
+    "city": "Daet",
+    "country": "Philippines"
+  },
+  {
+    "code": "DTH",
+    "name": "Furnace Creek Airport (FAA: L06)",
+    "city": "Death Valley, California",
+    "country": "United States"
+  },
+  {
+    "code": "DTI",
+    "name": "Diamantina Airport",
+    "city": "Diamantina, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "DTL",
+    "name": "Detroit Lakes Airport (Wething Field)",
+    "city": "Detroit Lakes, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "DTM",
+    "name": "Dortmund Airport",
+    "city": "Dortmund, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "DTN",
+    "name": "Shreveport Downtown Airport",
+    "city": "Shreveport, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "DTR",
+    "name": "Decatur Shores Airport",
+    "city": "Decatur Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "DTT",
+    "name": "metropolitan area1",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "DTU",
+    "name": "Wudalianchi Airport",
+    "city": "Wudalianchi, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "DTW",
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "DUA",
+    "name": "Durant Regional Airport–Eaker Field",
+    "city": "Durant, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "DUB",
+    "name": "Dublin Airport",
+    "city": "Dublin",
+    "country": "Ireland"
+  },
+  {
+    "code": "DUC",
+    "name": "Halliburton Field",
+    "city": "Duncan, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "DUD",
+    "name": "Dunedin International Airport",
+    "city": "Dunedin",
+    "country": "New Zealand"
+  },
+  {
+    "code": "DUE",
+    "name": "Dundo Airport",
+    "city": "Dundo",
+    "country": "Angola"
+  },
+  {
+    "code": "DUF",
+    "name": "Pine Island Airport (FAA: 7NC2)",
+    "city": "Corolla, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "DUG",
+    "name": "Bisbee Douglas International Airport",
+    "city": "Bisbee / Douglas, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "DUJ",
+    "name": "DuBois Regional Airport",
+    "city": "DuBois, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "DUK",
+    "name": "Dukuduku Airport",
+    "city": "Mtubatuba",
+    "country": "South Africa"
+  },
+  {
+    "code": "DUM",
+    "name": "Pinang Kampai Airport",
+    "city": "Dumai",
+    "country": "Indonesia"
+  },
+  {
+    "code": "DUQ",
+    "name": "Duncan Airport",
+    "city": "Duncan, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "DUR",
+    "name": "King Shaka International Airport",
+    "city": "Durban",
+    "country": "South Africa"
+  },
+  {
+    "code": "DUS",
+    "name": "Düsseldorf Airport",
+    "city": "Düsseldorf, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "DUT",
+    "name": "Unalaska Airport",
+    "city": "Unalaska, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "DVD",
+    "name": "Andavadoaka Airport",
+    "city": "Andavadoaka",
+    "country": "Madagascar"
+  },
+  {
+    "code": "DVK",
+    "name": "Diavik Airport",
+    "city": "Diavik Diamond Mine, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "DVL",
+    "name": "Devils Lake Regional Airport (Devils Lake Municipal Airport)",
+    "city": "Devils Lake, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "DVN",
+    "name": "Davenport Municipal Airport",
+    "city": "Davenport, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "DVO",
+    "name": "Francisco Bangoy International Airport",
+    "city": "Davao City",
+    "country": "Philippines"
+  },
+  {
+    "code": "DVP",
+    "name": "Davenport Downs Airport",
+    "city": "Davenport Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DVR",
+    "name": "Daly River Airport",
+    "city": "Daly River, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "DVT",
+    "name": "Phoenix Deer Valley Airport",
+    "city": "Phoenix, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "DWA",
+    "name": "Dwanga Airport (Dwangwa Airport)",
+    "city": "Dwangwa",
+    "country": "Malawi"
+  },
+  {
+    "code": "DWB",
+    "name": "Soalala Airport",
+    "city": "Soalala",
+    "country": "Madagascar"
+  },
+  {
+    "code": "DWC",
+    "name": "Al Maktoum International Airport",
+    "city": "Dubai",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "DWD",
+    "name": "Dawadmi Domestic Airport (King Salman bin Abdul Aziz Domestic Airport)",
+    "city": "Dawadmi",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "DWH",
+    "name": "David Wayne Hooks Memorial Airport",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DWO",
+    "name": "Diyawanna Oya Seaplane Base",
+    "city": "Sri Jayawardenepura Kotte",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "DWR",
+    "name": "Dwyer Airport",
+    "city": "Camp Dwyer",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "DXB",
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "DXD",
+    "name": "Dixie Airport",
+    "city": "Dixie, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DXE",
+    "name": "Bruce Campbell Field (FAA: MBO)",
+    "city": "Madison, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "DXR",
+    "name": "Danbury Municipal Airport",
+    "city": "Danbury, Connecticut",
+    "country": "United States"
+  },
+  {
+    "code": "DYA",
+    "name": "Dysart Airport",
+    "city": "Dysart, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DYG",
+    "name": "Zhangjiajie Hehua Airport",
+    "city": "Zhangjiajie, Hunan",
+    "country": "China"
+  },
+  {
+    "code": "DYL",
+    "name": "Doylestown Airport",
+    "city": "Doylestown, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "DYM",
+    "name": "Diamantina Lakes Airport",
+    "city": "Diamantina Lakes, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "DYR",
+    "name": "Ugolny Airport",
+    "city": "Anadyr, Chukotka",
+    "country": "Russia"
+  },
+  {
+    "code": "DYS",
+    "name": "Dyess Air Force Base",
+    "city": "Abilene, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "DYU",
+    "name": "Dushanbe International Airport",
+    "city": "Dushanbe",
+    "country": "Tajikistan"
+  },
+  {
+    "code": "DYW",
+    "name": "Daly Waters Airport",
+    "city": "Daly Waters, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "DZA",
+    "name": "Dzaoudzi–Pamandzi International Airport",
+    "city": "Dzaoudzi",
+    "country": "Mayotte"
+  },
+  {
+    "code": "DZH",
+    "name": "Dazhou Jinya Airport",
+    "city": "Dazhou, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "DZI",
+    "name": "Codazzi Airport",
+    "city": "Codazzi",
+    "country": "Colombia"
+  },
+  {
+    "code": "DZN",
+    "name": "Zhezkazgan Airport",
+    "city": "Zhezkazgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "DZO",
+    "name": "Santa Bernardina International Airport",
+    "city": "Durazno",
+    "country": "Uruguay"
+  },
+  {
+    "code": "DZU",
+    "name": "Dazu Air Base",
+    "city": "Dazu, Chongqing",
+    "country": "China"
+  }
+]

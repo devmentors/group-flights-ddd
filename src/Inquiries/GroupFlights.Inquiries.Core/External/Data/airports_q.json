@@ -1,0 +1,134 @@
+﻿[
+  {
+    "code": "QAH",
+    "name": "Hindon Airport",
+    "city": "Delhi",
+    "country": "India"
+  },
+  {
+    "code": "QAQ",
+    "name": "L'Aquila–Preturo Airport",
+    "city": "L'Aquila, Abruzzo",
+    "country": "Italy"
+  },
+  {
+    "code": "QBC",
+    "name": "Bella Coola Airport",
+    "city": "British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "QCY",
+    "name": "RAF Coningsby",
+    "city": "Coningsby, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "QHU",
+    "name": "Husum Schwesing Airport",
+    "city": "Husum, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "QLR",
+    "name": "Monte Real Air Base",
+    "city": "Monte Real",
+    "country": "Portugal"
+  },
+  {
+    "code": "QOW",
+    "name": "Sam Mbakwe Airport",
+    "city": "Owerri",
+    "country": "Nigeria"
+  },
+  {
+    "code": "QPG",
+    "name": "Paya Lebar Air Base",
+    "city": "",
+    "country": "Singapore"
+  },
+  {
+    "code": "QRA",
+    "name": "Rand Airport",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "code": "QRC",
+    "name": "Rancagua de la Independencia Airport",
+    "city": "Rancagua",
+    "country": "Chile"
+  },
+  {
+    "code": "QRO",
+    "name": "Querétaro Intercontinental Airport",
+    "city": "Querétaro City, Querétaro",
+    "country": "Mexico"
+  },
+  {
+    "code": "QRW",
+    "name": "Warri Airport (Osubi Airport)",
+    "city": "Warri",
+    "country": "Nigeria"
+  },
+  {
+    "code": "QSC",
+    "name": "Mário Pereira Lopes Airport",
+    "city": "São Carlos, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "QSF",
+    "name": "Ain Arnat Airport",
+    "city": "Sétif",
+    "country": "Algeria"
+  },
+  {
+    "code": "QSR",
+    "name": "Salerno Costa d'Amalfi Airport (Pontecagnano Airport)",
+    "city": "Salerno, Campania",
+    "country": "Italy"
+  },
+  {
+    "code": "QSZ",
+    "name": "Shache Airport",
+    "city": "Shache, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "QUB",
+    "name": "Ubari Airport",
+    "city": "Ubari",
+    "country": "Libya"
+  },
+  {
+    "code": "QUG",
+    "name": "Chichester/Goodwood Airport",
+    "city": "Chichester, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "QUO",
+    "name": "Akwa Ibom International Airport",
+    "city": "Uyo",
+    "country": "Nigeria"
+  },
+  {
+    "code": "QUY",
+    "name": "RAF Wyton",
+    "city": "Wyton, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "QWG",
+    "name": "Wilgrove Air Park (FAA: 8A6) (closed June 2020)",
+    "city": "Charlotte, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "QXB",
+    "name": "Aix-en-Provence Aerodrome",
+    "city": "Aix-en-Provence",
+    "country": "France"
+  }
+]

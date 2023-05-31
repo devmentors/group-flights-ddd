@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.16">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Backoffice\GroupFlights.Backoffice.Api\GroupFlights.Backoffice.Api.csproj" />
+      <ProjectReference Include="..\..\Communication\GroupFlights.Communication.Api\GroupFlights.Communication.Api.csproj" />
+      <ProjectReference Include="..\..\Finance\GroupFlights.Finance.Api\GroupFlights.Finance.Api.csproj" />
+      <ProjectReference Include="..\..\Inquiries\GroupFlights.Inquiries.Api\GroupFlights.Inquiries.Api.csproj" />
+      <ProjectReference Include="..\..\Postsale\GroupFlights.Postsale.Api\GroupFlights.Postsale.Api.csproj" />
+      <ProjectReference Include="..\..\Sales\GroupFlights.Sales.Api\GroupFlights.Sales.Api.csproj" />
+      <ProjectReference Include="..\..\TimeManagement\GroupFlights.TimeManagement.Api\GroupFlights.TimeManagement.Api.csproj" />
+      <ProjectReference Include="..\..\WorkloadManagement\GroupFlights.WorkloadManagement.Api\GroupFlights.WorkloadManagement.Api.csproj" />
+    </ItemGroup>
+
+</Project>

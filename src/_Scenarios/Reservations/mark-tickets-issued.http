@@ -1,0 +1,9 @@
+﻿POST https://localhost:7055/sales/reservations/3fa85f64-5717-4562-b3fc-2c963f66afa6/completed
+accept: */*
+Content-Type: application/json
+X-UserId: 6db85eb9-ffa5-42c2-b20c-0da756c89032
+X-CashierId: 6bb4f4a3-531c-4154-bfe2-67a9e65d8a1f
+
+{
+  "reservationId": "3df9c0ec-eecc-484e-9754-7c8e1069ca5b"
+}

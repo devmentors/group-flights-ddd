@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Sales\GroupFlights.Sales.Shared\GroupFlights.Sales.Shared.csproj" />
+      <ProjectReference Include="..\..\Shared\GroupFlights.Shared.Plumbing\GroupFlights.Shared.Plumbing.csproj" />
+      <ProjectReference Include="..\..\Shared\GroupFlights.Shared.Types\GroupFlights.Shared.Types.csproj" />
+      <ProjectReference Include="..\..\WorkloadManagement\GroupFlights.WorkloadManagement.Shared\GroupFlights.WorkloadManagement.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="External\Data\airports_a.json" />
+      <EmbeddedResource Include="External\Data\airports_a.json" />
+      <None Remove="External\Data\airports_b.json" />
+      <EmbeddedResource Include="External\Data\airports_b.json" />
+      <None Remove="External\Data\airports_c.json" />
+      <EmbeddedResource Include="External\Data\airports_c.json" />
+      <None Remove="External\Data\airports_d.json" />
+      <EmbeddedResource Include="External\Data\airports_d.json" />
+      <None Remove="External\Data\airports_e.json" />
+      <EmbeddedResource Include="External\Data\airports_e.json" />
+      <None Remove="External\Data\airports_f.json" />
+      <EmbeddedResource Include="External\Data\airports_f.json" />
+      <None Remove="External\Data\airports_g.json" />
+      <EmbeddedResource Include="External\Data\airports_g.json" />
+      <None Remove="External\Data\airports_h.json" />
+      <EmbeddedResource Include="External\Data\airports_h.json" />
+      <None Remove="External\Data\airports_i.json" />
+      <EmbeddedResource Include="External\Data\airports_i.json" />
+      <None Remove="External\Data\airports_j.json" />
+      <EmbeddedResource Include="External\Data\airports_j.json" />
+      <None Remove="External\Data\airports_k.json" />
+      <EmbeddedResource Include="External\Data\airports_k.json" />
+      <None Remove="External\Data\airports_l.json" />
+      <EmbeddedResource Include="External\Data\airports_l.json" />
+      <None Remove="External\Data\airports_m.json" />
+      <EmbeddedResource Include="External\Data\airports_m.json" />
+      <None Remove="External\Data\airports_n.json" />
+      <EmbeddedResource Include="External\Data\airports_n.json" />
+      <None Remove="External\Data\airports_o.json" />
+      <EmbeddedResource Include="External\Data\airports_o.json" />
+      <None Remove="External\Data\airports_p.json" />
+      <EmbeddedResource Include="External\Data\airports_p.json" />
+      <None Remove="External\Data\airports_q.json" />
+      <EmbeddedResource Include="External\Data\airports_q.json" />
+      <None Remove="External\Data\airports_r.json" />
+      <EmbeddedResource Include="External\Data\airports_r.json" />
+      <None Remove="External\Data\airports_s.json" />
+      <EmbeddedResource Include="External\Data\airports_s.json" />
+      <None Remove="External\Data\airports_t.json" />
+      <EmbeddedResource Include="External\Data\airports_t.json" />
+      <None Remove="External\Data\airports_u.json" />
+      <EmbeddedResource Include="External\Data\airports_u.json" />
+      <None Remove="External\Data\airports_v.json" />
+      <EmbeddedResource Include="External\Data\airports_v.json" />
+      <None Remove="External\Data\airports_w.json" />
+      <EmbeddedResource Include="External\Data\airports_w.json" />
+      <None Remove="External\Data\airports_x.json" />
+      <EmbeddedResource Include="External\Data\airports_x.json" />
+      <None Remove="External\Data\airports_y.json" />
+      <EmbeddedResource Include="External\Data\airports_y.json" />
+      <None Remove="External\Data\airports_z.json" />
+      <EmbeddedResource Include="External\Data\airports_z.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Data\EF\Migrations" />
+    </ItemGroup>
+
+</Project>

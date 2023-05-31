@@ -1,0 +1,992 @@
+﻿[
+  {
+    "code": "JAA",
+    "name": "Jalalabad Airport",
+    "city": "Jalalabad",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "JAB",
+    "name": "Jabiru Airport",
+    "city": "Jabiru, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "JAC",
+    "name": "Jackson Hole Airport",
+    "city": "Jackson, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "JAD",
+    "name": "Jandakot Airport",
+    "city": "Perth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "JAE",
+    "name": "Jaén Airport",
+    "city": "Jaén",
+    "country": "Peru"
+  },
+  {
+    "code": "JAF",
+    "name": "Jaffna International Airport",
+    "city": "Jaffna",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "JAG",
+    "name": "PAF Base Shahbaz",
+    "city": "Jacobabad",
+    "country": "Pakistan"
+  },
+  {
+    "code": "JAI",
+    "name": "Jaipur International Airport",
+    "city": "Jaipur, Rajasthan",
+    "country": "India"
+  },
+  {
+    "code": "JAK",
+    "name": "Jacmel Airport",
+    "city": "Jacmel",
+    "country": "Haiti"
+  },
+  {
+    "code": "JAL",
+    "name": "El Lencero Airport",
+    "city": "Xalapa (Jalapa), Veracruz",
+    "country": "Mexico"
+  },
+  {
+    "code": "JAM",
+    "name": "Bezmer Air Base",
+    "city": "Yambol",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "JAN",
+    "name": "Jackson–Evers International Airport",
+    "city": "Jackson, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "JAP",
+    "name": "Chacarita Airport",
+    "city": "Puntarenas",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "JAQ",
+    "name": "Jacquinot Bay Airport",
+    "city": "Jacquinot Bay",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "JAR",
+    "name": "Jahrom Airport",
+    "city": "Jahrom",
+    "country": "Iran"
+  },
+  {
+    "code": "JAS",
+    "name": "Jasper County Airport (Bell Field)",
+    "city": "Jasper, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "JAT",
+    "name": "Jabot Airport",
+    "city": "Jabat Island",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "JAU",
+    "name": "Francisco Carle Airport",
+    "city": "Jauja",
+    "country": "Peru"
+  },
+  {
+    "code": "JAV",
+    "name": "Ilulissat Airport",
+    "city": "Ilulissat",
+    "country": "Greenland"
+  },
+  {
+    "code": "JAX",
+    "name": "Jacksonville International Airport",
+    "city": "Jacksonville, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "JBB",
+    "name": "Notohadinegoro Airport",
+    "city": "Jember",
+    "country": "Indonesia"
+  },
+  {
+    "code": "JBQ",
+    "name": "La Isabela International Airport (Dr. Joaquin Balaguer Int'l)",
+    "city": "La Isabela",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "JBR",
+    "name": "Jonesboro Municipal Airport",
+    "city": "Jonesboro, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "JBS",
+    "name": "São Borja Airport",
+    "city": "São Borja, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "JBT",
+    "name": "Bethel Seaplane Base (FAA: Z59)",
+    "city": "Bethel, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "JCB",
+    "name": "Santa Terezinha Municipal Airport",
+    "city": "Joaçaba, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "JCI",
+    "name": "New Century AirCenter (FAA: IXD)",
+    "city": "Olathe, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "JCK",
+    "name": "Julia Creek Airport",
+    "city": "Julia Creek, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "JCM",
+    "name": "Jacobina Airport",
+    "city": "Jacobina, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "JCR",
+    "name": "Jacareacanga Airport",
+    "city": "Jacareacanga, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "JCT",
+    "name": "Kimble County Airport",
+    "city": "Junction, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "JCY",
+    "name": "LBJ Ranch Airport (FAA: 0TE7)",
+    "city": "Johnson City, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "JDA",
+    "name": "Grant County Regional Airport (Ogilvie Field) (FAA: GCD)",
+    "city": "John Day, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "JDF",
+    "name": "Francisco Álvares de Assis Airport",
+    "city": "Juiz de Fora, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "JDG",
+    "name": "Jeongseok Airport",
+    "city": "Seogwipo",
+    "country": "South Korea"
+  },
+  {
+    "code": "JDH",
+    "name": "Jodhpur Airport",
+    "city": "Jodhpur, Rajasthan",
+    "country": "India"
+  },
+  {
+    "code": "JDN",
+    "name": "Jordan Airport",
+    "city": "Jordan, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "JDO",
+    "name": "Juazeiro do Norte Airport",
+    "city": "Juazeiro do Norte, Ceará",
+    "country": "Brazil"
+  },
+  {
+    "code": "JDR",
+    "name": "Prefeito Octávio de Almeida Neves Airport",
+    "city": "São João del Rei, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "JDZ",
+    "name": "Jingdezhen Luojia Airport",
+    "city": "Jingdezhen, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "JED",
+    "name": "King Abdulaziz International Airport",
+    "city": "Jeddah",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "JEE",
+    "name": "Jérémie Airport",
+    "city": "Jérémie",
+    "country": "Haiti"
+  },
+  {
+    "code": "JEF",
+    "name": "Jefferson City Memorial Airport",
+    "city": "Jefferson City, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "JEG",
+    "name": "Aasiaat Airport",
+    "city": "Aasiaat",
+    "country": "Greenland"
+  },
+  {
+    "code": "JEJ",
+    "name": "Jeh Airport",
+    "city": "Jeh Island, Ailinglaplap Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "JEK",
+    "name": "Jeki Airstrip",
+    "city": "Jeki",
+    "country": "Zambia"
+  },
+  {
+    "code": "JEQ",
+    "name": "Jequié Airport",
+    "city": "Jequié, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "JER",
+    "name": "Jersey Airport",
+    "city": "Jersey, Channel Islands",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York City, New York",
+    "country": "United States"
+  },
+  {
+    "code": "JFN",
+    "name": "Northeast Ohio Regional Airport (FAA: HZY)",
+    "city": "Ashtabula, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "JFR",
+    "name": "Paamiut Airport",
+    "city": "Paamiut",
+    "country": "Greenland"
+  },
+  {
+    "code": "JGA",
+    "name": "Jamnagar Airport (Govardhanpur Airport)",
+    "city": "Jamnagar, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "JGB",
+    "name": "Jagdalpur Airport",
+    "city": "Jagdalpur, Chhattisgarh",
+    "country": "India"
+  },
+  {
+    "code": "JGD",
+    "name": "Jiagedaqi Airport",
+    "city": "Jiagedaqi, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "JGN",
+    "name": "Jiayuguan Airport",
+    "city": "Jiayuguan, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "JGS",
+    "name": "Jinggangshan Airport",
+    "city": "Ji'an, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "JHB",
+    "name": "Senai International Airport",
+    "city": "Johor Bahru, Johor",
+    "country": "Malaysia"
+  },
+  {
+    "code": "JHG",
+    "name": "Xishuangbanna Gasa Airport",
+    "city": "Jinghong, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "JHL",
+    "name": "Fort MacKay/Albian Aerodrome (TC: CAL4)",
+    "city": "Fort McKay, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "JHM",
+    "name": "Kapalua Airport",
+    "city": "Kapalua, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "JHS",
+    "name": "Sisimiut Airport",
+    "city": "Sisimiut",
+    "country": "Greenland"
+  },
+  {
+    "code": "JHW",
+    "name": "Chautauqua County-Jamestown Airport",
+    "city": "Jamestown, New York",
+    "country": "United States"
+  },
+  {
+    "code": "JIA",
+    "name": "Juína Airport",
+    "city": "Juína, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "JIB",
+    "name": "Djibouti–Ambouli International Airport",
+    "city": "Djibouti",
+    "country": "Djibouti"
+  },
+  {
+    "code": "JIC",
+    "name": "Jinchang Jinchuan Airport",
+    "city": "Jinchang, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "JIJ",
+    "name": "Wilwal International Airport",
+    "city": "Jijiga",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "JIK",
+    "name": "Ikaria Island National Airport",
+    "city": "Ikaria Island",
+    "country": "Greece"
+  },
+  {
+    "code": "JIL",
+    "name": "Jilin Ertaizi Airport",
+    "city": "Jilin City, Jilin",
+    "country": "China"
+  },
+  {
+    "code": "JIM",
+    "name": "Aba Segud Airport",
+    "city": "Jimma",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "JIN",
+    "name": "Jinja Airport",
+    "city": "Jinja",
+    "country": "Uganda"
+  },
+  {
+    "code": "JIO",
+    "name": "Jos Orno Imsula Airport",
+    "city": "Tiakur, Southwest Maluku",
+    "country": "Indonesia"
+  },
+  {
+    "code": "JIP",
+    "name": "Jipijapa Airport",
+    "city": "Jipijapa",
+    "country": "Ecuador"
+  },
+  {
+    "code": "JIQ",
+    "name": "Qianjiang Wulingshan Airport",
+    "city": "Qianjiang, Chongqing",
+    "country": "China"
+  },
+  {
+    "code": "JIR",
+    "name": "Jiri Airport",
+    "city": "Jiri",
+    "country": "Nepal"
+  },
+  {
+    "code": "JIU",
+    "name": "Jiujiang Lushan Airport",
+    "city": "Jiujiang, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "JIW",
+    "name": "Jiwani Airport",
+    "city": "Jiwani",
+    "country": "Pakistan"
+  },
+  {
+    "code": "JJA",
+    "name": "Jajao Airport",
+    "city": "Jajao, Isabel Province",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "JJD",
+    "name": "Comte. Ariston Pessoa Regional Airport",
+    "city": "Jijoca de Jericoacoara",
+    "country": "Brazil"
+  },
+  {
+    "code": "JJG",
+    "name": "Humberto Ghizzo Bortoluzzi Regional Airport",
+    "city": "Jaguaruna, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "JJI",
+    "name": "Juanjuí Airport",
+    "city": "Juanjuí",
+    "country": "Peru"
+  },
+  {
+    "code": "JJM",
+    "name": "Mulika Lodge Airport",
+    "city": "Meru National Park",
+    "country": "Kenya"
+  },
+  {
+    "code": "JJN",
+    "name": "Quanzhou Jinjiang International Airport",
+    "city": "Quanzhou, Fujian",
+    "country": "China"
+  },
+  {
+    "code": "JKG",
+    "name": "Jönköping Airport",
+    "city": "Jönköping",
+    "country": "Sweden"
+  },
+  {
+    "code": "JKH",
+    "name": "Chios Island National Airport",
+    "city": "Chios",
+    "country": "Greece"
+  },
+  {
+    "code": "JKL",
+    "name": "Kalymnos Island National Airport",
+    "city": "Kalymnos",
+    "country": "Greece"
+  },
+  {
+    "code": "JKR",
+    "name": "Janakpur Airport",
+    "city": "Janakpur",
+    "country": "Nepal"
+  },
+  {
+    "code": "JKT",
+    "name": "metropolitan area2",
+    "city": "Jakarta",
+    "country": "Indonesia"
+  },
+  {
+    "code": "JKV",
+    "name": "Cherokee County Airport (FAA: JSO)",
+    "city": "Jacksonville, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "JLA",
+    "name": "Quartz Creek Airport",
+    "city": "Cooper Landing, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "JLN",
+    "name": "Joplin Regional Airport",
+    "city": "Joplin, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "JLR",
+    "name": "Jabalpur Airport (Dumna Airport)",
+    "city": "Jabalpur, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "JLS",
+    "name": "Jales Airport",
+    "city": "Jales, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "JMB",
+    "name": "Jamba Airport",
+    "city": "Jamba",
+    "country": "Angola"
+  },
+  {
+    "code": "JMJ",
+    "name": "Lancang Jingmai Airport",
+    "city": "Donghui Township, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "JMK",
+    "name": "Mykonos Island National Airport",
+    "city": "Mykonos",
+    "country": "Greece"
+  },
+  {
+    "code": "JMO",
+    "name": "Jomsom Airport",
+    "city": "Jomsom",
+    "country": "Nepal"
+  },
+  {
+    "code": "JMS",
+    "name": "Jamestown Regional Airport",
+    "city": "Jamestown, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "JMU",
+    "name": "Jiamusi Dongjiao Airport",
+    "city": "Jiamusi, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "JNA",
+    "name": "Januária Airport",
+    "city": "Januária, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "JNB",
+    "name": "O. R. Tambo International Airport",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "code": "JNG",
+    "name": "Jining Qufu Airport",
+    "city": "Jining, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "JNI",
+    "name": "Junín Airport",
+    "city": "Junín, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "JNJ",
+    "name": "Ja'Aluni Airport",
+    "city": "Duqm",
+    "country": "Oman"
+  },
+  {
+    "code": "JNU",
+    "name": "Juneau International Airport",
+    "city": "Juneau, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "JNX",
+    "name": "Naxos Island National Airport",
+    "city": "Naxos",
+    "country": "Greece"
+  },
+  {
+    "code": "JNZ",
+    "name": "Jinzhou Bay Airport",
+    "city": "Jinzhou, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "JOE",
+    "name": "Joensuu Airport",
+    "city": "Joensuu",
+    "country": "Finland"
+  },
+  {
+    "code": "JOG",
+    "name": "Adisucipto International Airport",
+    "city": "Yogyakarta",
+    "country": "Indonesia"
+  },
+  {
+    "code": "JOH",
+    "name": "Port St. Johns Airport",
+    "city": "Port St. Johns",
+    "country": "South Africa"
+  },
+  {
+    "code": "JOI",
+    "name": "Joinville-Lauro Carneiro de Loyola Airport",
+    "city": "Joinville, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "JOJ",
+    "name": "Doris Lake Aerodrome (TC: CDL7)",
+    "city": "Doris Lake, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "JOK",
+    "name": "Yoshkar-Ola Airport",
+    "city": "Yoshkar-Ola, Mari El",
+    "country": "Russia"
+  },
+  {
+    "code": "JOL",
+    "name": "Jolo Airport",
+    "city": "Jolo",
+    "country": "Philippines"
+  },
+  {
+    "code": "JOM",
+    "name": "Njombe Airport",
+    "city": "Njombe",
+    "country": "Tanzania"
+  },
+  {
+    "code": "JOP",
+    "name": "Josephstaal Airport",
+    "city": "Josephstaal",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "JOS",
+    "name": "Yakubu Gowon Airport",
+    "city": "Jos",
+    "country": "Nigeria"
+  },
+  {
+    "code": "JOT",
+    "name": "Joliet Regional Airport",
+    "city": "Joliet, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "JPA",
+    "name": "Presidente Castro Pinto International Airport",
+    "city": "João Pessoa, Paraíba",
+    "country": "Brazil"
+  },
+  {
+    "code": "JPR",
+    "name": "José Coleto Airport",
+    "city": "Ji-Paraná, Rondônia",
+    "country": "Brazil"
+  },
+  {
+    "code": "JQA",
+    "name": "Qaarsut Airport (Uummannaq/Qaarsut Airport)",
+    "city": "Qaarsut",
+    "country": "Greenland"
+  },
+  {
+    "code": "JQE",
+    "name": "Jaqué Airport",
+    "city": "Jaqué",
+    "country": "Panama"
+  },
+  {
+    "code": "JRF",
+    "name": "Kalaeloa Airport (John Rodgers Field)",
+    "city": "Kapalua, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "JRG",
+    "name": "Veer Surendra Sai Airport",
+    "city": "Jharsuguda, Odisha",
+    "country": "India"
+  },
+  {
+    "code": "JRH",
+    "name": "Jorhat Airport (Rowriah Airport)",
+    "city": "Jorhat, Assam",
+    "country": "India"
+  },
+  {
+    "code": "JRN",
+    "name": "Juruena Airport",
+    "city": "Juruena, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "JRO",
+    "name": "Kilimanjaro International Airport",
+    "city": "Kilimanjaro",
+    "country": "Tanzania"
+  },
+  {
+    "code": "JRS",
+    "name": "Atarot Airport (Jerusalem International Airport)",
+    "city": "Jerusalem",
+    "country": "Israel1"
+  },
+  {
+    "code": "JSA",
+    "name": "Jaisalmer Airport",
+    "city": "Jaisalmer, Rajasthan",
+    "country": "India"
+  },
+  {
+    "code": "JSH",
+    "name": "Sitia Public Airport",
+    "city": "Sitia",
+    "country": "Greece"
+  },
+  {
+    "code": "JSI",
+    "name": "Skiathos Island National Airport",
+    "city": "Skiathos",
+    "country": "Greece"
+  },
+  {
+    "code": "JSJ",
+    "name": "Jiansanjiang Airport",
+    "city": "Jiansanjiang, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "JSK",
+    "name": "Jask Airport",
+    "city": "Jask, Hormozgan",
+    "country": "Iran"
+  },
+  {
+    "code": "JSM",
+    "name": "José de San Martín Airport",
+    "city": "José de San Martín, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "JSR",
+    "name": "Jessore Airport",
+    "city": "Jessore",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "JST",
+    "name": "John Murtha Johnstown–Cambria County Airport",
+    "city": "Johnstown, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "JSU",
+    "name": "Maniitsoq Airport",
+    "city": "Maniitsoq",
+    "country": "Greenland"
+  },
+  {
+    "code": "JSY",
+    "name": "Syros Island National Airport",
+    "city": "Syros",
+    "country": "Greece"
+  },
+  {
+    "code": "JTC",
+    "name": "Moussa Nakhl Tobias–Bauru/Arealva State Airport",
+    "city": "Bauru, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "JTI",
+    "name": "Jataí Airport",
+    "city": "Jataí, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "JTR",
+    "name": "Santorini (Thira) National Airport",
+    "city": "Santorini (Thira)",
+    "country": "Greece"
+  },
+  {
+    "code": "JTY",
+    "name": "Astypalaia Island National Airport",
+    "city": "Astypalaia",
+    "country": "Greece"
+  },
+  {
+    "code": "JUA",
+    "name": "Inácio Luís do Nascimento Airport",
+    "city": "Juara, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "JUB",
+    "name": "Juba International Airport",
+    "city": "Juba",
+    "country": "South Sudan"
+  },
+  {
+    "code": "JUH",
+    "name": "Chizhou Jiuhuashan Airport",
+    "city": "Chizhou / Tongling, Anhui",
+    "country": "China"
+  },
+  {
+    "code": "JUI",
+    "name": "Juist Airport",
+    "city": "Juist, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "JUJ",
+    "name": "Gobernador Horacio Guzmán International Airport",
+    "city": "San Salvador de Jujuy, Jujuy",
+    "country": "Argentina"
+  },
+  {
+    "code": "JUL",
+    "name": "Inca Manco Cápac International Airport",
+    "city": "Juliaca",
+    "country": "Peru"
+  },
+  {
+    "code": "JUM",
+    "name": "Jumla Airport",
+    "city": "Jumla",
+    "country": "Nepal"
+  },
+  {
+    "code": "JUN",
+    "name": "Jundah Airport",
+    "city": "Jundah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "JUO",
+    "name": "Juradó Airport",
+    "city": "Juradó",
+    "country": "Colombia"
+  },
+  {
+    "code": "JUR",
+    "name": "Jurien Bay Airport",
+    "city": "Jurien Bay, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "JUT",
+    "name": "Juticalpa Airport",
+    "city": "Juticalpa",
+    "country": "Honduras"
+  },
+  {
+    "code": "JUV",
+    "name": "Upernavik Airport",
+    "city": "Upernavik",
+    "country": "Greenland"
+  },
+  {
+    "code": "JUZ",
+    "name": "Quzhou Airport",
+    "city": "Quzhou, Zhejiang",
+    "country": "China"
+  },
+  {
+    "code": "JVA",
+    "name": "Ankavandra Airport",
+    "city": "Ankavandra",
+    "country": "Madagascar"
+  },
+  {
+    "code": "JVI",
+    "name": "Central Jersey Regional Airport (FAA: 47N)",
+    "city": "Manville, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "JVL",
+    "name": "Southern Wisconsin Regional Airport",
+    "city": "Janesville, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "JWA",
+    "name": "Jwaneng Airport",
+    "city": "Jwaneng",
+    "country": "Botswana"
+  },
+  {
+    "code": "JWN",
+    "name": "Zanjan Airport",
+    "city": "Zanjan",
+    "country": "Iran"
+  },
+  {
+    "code": "JWO",
+    "name": "Jungwon Air Base",
+    "city": "Chungju",
+    "country": "South Korea"
+  },
+  {
+    "code": "JXA",
+    "name": "Jixi Xingkaihu Airport",
+    "city": "Jixi, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "JXN",
+    "name": "Jackson County Airport (Reynolds Field)",
+    "city": "Jackson, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "JYR",
+    "name": "Jiroft Airport",
+    "city": "Jiroft",
+    "country": "Iran"
+  },
+  {
+    "code": "JYV",
+    "name": "Jyväskylä Airport",
+    "city": "Jyväskylä",
+    "country": "Finland"
+  },
+  {
+    "code": "JZH",
+    "name": "Jiuzhai Huanglong Airport",
+    "city": "Jiuzhaigou, Sichuan",
+    "country": "China"
+  }
+]

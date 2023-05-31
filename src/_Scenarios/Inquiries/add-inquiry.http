@@ -1,0 +1,65 @@
+﻿POST https://localhost:7055/inquiries
+accept: */*
+Content-Type: application/json
+
+{
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "inquirer": {
+    "name": "Bob",
+    "surname": "Exemplar",
+    "email": "bob@example.com",
+    "phoneNumber": "123-345-567"
+  },
+  "travel": {
+    "date": "2023-06-30",
+    "sourceAirport": {
+      "code": {
+        "value": "WAR"
+      },
+      "city": "Warsaw",
+      "name": "Warsaw Chopin",
+      "country": "Poland"
+    },
+    "targetAirport": {
+      "code": {
+        "value": "BCN"
+      },
+      "city": "Barcelona",
+      "name": "Barcelona Airport",
+      "country": "Spain"
+    }
+  },
+  "return": {
+    "date": "2023-07-12",
+    "sourceAirport": {
+      "code": {
+        "value": "BCN"
+      },
+      "city": "Barcelona",
+      "name": "Barcelona Airport",
+      "country": "Spain"
+    },
+    "targetAirport": {
+      "code": {
+        "value": "WAR"
+      },
+      "city": "Warsaw",
+      "name": "Warsaw Chopin",
+      "country": "Spain"
+    }
+  },
+  "declaredPassengers": {
+    "infantCount": 0,
+    "childrenCount": 9,
+    "adultCount": 1
+  },
+  "priorities": [
+    {
+      "feature": 1,
+      "priority": 1
+    }
+  ],
+  "checkedBaggageRequired": true,
+  "additionalServicesRequired": false,
+  "comments": "W razie braku odpowiedzi na telefon, prosze o kontakt mailowy"
+}

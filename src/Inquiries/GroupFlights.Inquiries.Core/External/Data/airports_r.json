@@ -1,0 +1,2030 @@
+﻿[
+  {
+    "code": "RAA",
+    "name": "Rakanda Airport",
+    "city": "Rakanda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RAB",
+    "name": "Rabaul Airport (Tokua Airport)",
+    "city": "Rabaul",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RAC",
+    "name": "John H. Batten Airport",
+    "city": "Racine, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "RAD",
+    "name": "Road Town Seaplane Base",
+    "city": "Tortola",
+    "country": "British Overseas Territory of Virgin Islands"
+  },
+  {
+    "code": "RAE",
+    "name": "Arar Domestic Airport",
+    "city": "Arar",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "RAF",
+    "name": "Rafaela Airport",
+    "city": "Rafaela, Santa Fe",
+    "country": "Argentina"
+  },
+  {
+    "code": "RAG",
+    "name": "Raglan Aerodrome",
+    "city": "Raglan",
+    "country": "New Zealand"
+  },
+  {
+    "code": "RAH",
+    "name": "Rafha Domestic Airport",
+    "city": "Rafha",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "RAI",
+    "name": "Nelson Mandela International Airport",
+    "city": "Praia",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "RAJ",
+    "name": "Rajkot Airport",
+    "city": "Rajkot, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "RAK",
+    "name": "Marrakesh Menara Airport",
+    "city": "Marrakesh",
+    "country": "Morocco"
+  },
+  {
+    "code": "RAL",
+    "name": "Riverside Municipal Airport",
+    "city": "Riverside, California",
+    "country": "United States"
+  },
+  {
+    "code": "RAM",
+    "name": "Ramingining Airport",
+    "city": "Ramingining, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "RAN",
+    "name": "Ravenna Airport",
+    "city": "Ravenna, Emilia-Romagna",
+    "country": "Italy"
+  },
+  {
+    "code": "RAO",
+    "name": "Leite Lopes Airport",
+    "city": "Ribeirão Preto, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "RAP",
+    "name": "Rapid City Regional Airport",
+    "city": "Rapid City, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "RAQ",
+    "name": "Sugimanuru Airport",
+    "city": "Muna Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RAR",
+    "name": "Rarotonga International Airport",
+    "city": "Avarua, Rarotonga",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "RAS",
+    "name": "Rasht Airport",
+    "city": "Rasht",
+    "country": "Iran"
+  },
+  {
+    "code": "RAT",
+    "name": "Raduzhny Airport",
+    "city": "Raduzhny, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "RAV",
+    "name": "Cravo Norte Airport",
+    "city": "Cravo Norte",
+    "country": "Colombia"
+  },
+  {
+    "code": "RAW",
+    "name": "Arawa Airport",
+    "city": "Arawa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RAX",
+    "name": "Oram Airport",
+    "city": "Oram",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RAZ",
+    "name": "Rawalakot Airport",
+    "city": "Rawalakot",
+    "country": "Pakistan"
+  },
+  {
+    "code": "RBA",
+    "name": "Rabat–Salé Airport",
+    "city": "Rabat",
+    "country": "Morocco"
+  },
+  {
+    "code": "RBB",
+    "name": "Borba Airport",
+    "city": "Borba, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "RBC",
+    "name": "Robinvale Airport",
+    "city": "Robinvale, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "RBD",
+    "name": "Dallas Executive Airport",
+    "city": "Dallas, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "RBE",
+    "name": "Ratanakiri Airport",
+    "city": "Ratanakiri",
+    "country": "Cambodia"
+  },
+  {
+    "code": "RBF",
+    "name": "Big Bear City Airport (FAA: L35)",
+    "city": "Big Bear City, California",
+    "country": "United States"
+  },
+  {
+    "code": "RBG",
+    "name": "Roseburg Regional Airport",
+    "city": "Roseburg, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "RBI",
+    "name": "Rabi Airport",
+    "city": "Rabi Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "RBJ",
+    "name": "Rebun Airport",
+    "city": "Rebun, Rebun Island",
+    "country": "Japan"
+  },
+  {
+    "code": "RBK",
+    "name": "French Valley Airport (FAA: F70)",
+    "city": "Murrieta / Temecula, California",
+    "country": "United States"
+  },
+  {
+    "code": "RBL",
+    "name": "Red Bluff Municipal Airport",
+    "city": "Red Bluff, California",
+    "country": "United States"
+  },
+  {
+    "code": "RBM",
+    "name": "Straubing Wallmühle Airport",
+    "city": "Straubing, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "RBO",
+    "name": "Roboré Airport",
+    "city": "Roboré",
+    "country": "Bolivia"
+  },
+  {
+    "code": "RBP",
+    "name": "Rabaraba Airport",
+    "city": "Rabaraba",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RBQ",
+    "name": "Rurrenabaque Airport",
+    "city": "Rurrenabaque",
+    "country": "Bolivia"
+  },
+  {
+    "code": "RBR",
+    "name": "Plácido de Castro International Airport",
+    "city": "Rio Branco, Acre",
+    "country": "Brazil"
+  },
+  {
+    "code": "RBS",
+    "name": "Orbost Airport",
+    "city": "Orbost, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "RBT",
+    "name": "Marsabit Airport",
+    "city": "Marsabit",
+    "country": "Kenya"
+  },
+  {
+    "code": "RBU",
+    "name": "Roebourne Airport",
+    "city": "Roebourne, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RBV",
+    "name": "Ramata Airport",
+    "city": "Ramata Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "RBW",
+    "name": "Lowcountry Regional Airport",
+    "city": "Walterboro, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "RBX",
+    "name": "Rumbek Airport",
+    "city": "Rumbek",
+    "country": "South Sudan"
+  },
+  {
+    "code": "RBY",
+    "name": "Ruby Airport",
+    "city": "Ruby, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "RCA",
+    "name": "Ellsworth Air Force Base",
+    "city": "Rapid City, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "RCB",
+    "name": "Richards Bay Airport",
+    "city": "Richards Bay",
+    "country": "South Africa"
+  },
+  {
+    "code": "RCE",
+    "name": "Roche Harbor Seaplane Base",
+    "city": "Roche Harbor, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "RCH",
+    "name": "Almirante Padilla Airport",
+    "city": "Riohacha",
+    "country": "Colombia"
+  },
+  {
+    "code": "RCK",
+    "name": "H. H. Coffield Regional Airport",
+    "city": "Rockdale, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "RCL",
+    "name": "Redcliffe Airport",
+    "city": "Redcliffe, Aoba Island",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "RCM",
+    "name": "Richmond Airport",
+    "city": "Richmond, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "RCN",
+    "name": "American River Airport",
+    "city": "American River, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RCO",
+    "name": "Rochefort – Saint-Agnant Airport",
+    "city": "Rochefort, Poitou-Charentes",
+    "country": "France"
+  },
+  {
+    "code": "RCQ",
+    "name": "Reconquista Airport",
+    "city": "Reconquista, Santa Fe",
+    "country": "Argentina"
+  },
+  {
+    "code": "RCR",
+    "name": "Fulton County Airport",
+    "city": "Rochester, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "RCS",
+    "name": "Rochester Airport",
+    "city": "Rochester, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "RCT",
+    "name": "Nartron Field",
+    "city": "Reed City, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "RCU",
+    "name": "Las Higueras Airport",
+    "city": "Río Cuarto, Córdoba",
+    "country": "Argentina"
+  },
+  {
+    "code": "RCY",
+    "name": "Port Nelson Airport",
+    "city": "Port Nelson, Rum Cay Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "RDA",
+    "name": "Rockhampton Downs Airport",
+    "city": "Rockhampton Downs, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "RDB",
+    "name": "Red Dog Airport",
+    "city": "Red Dog, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "RDC",
+    "name": "Redenção Airport",
+    "city": "Redenção, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "RDD",
+    "name": "Redding Municipal Airport",
+    "city": "Redding, California",
+    "country": "United States"
+  },
+  {
+    "code": "RDE",
+    "name": "Merdey Airport (Jahabra Airport)",
+    "city": "Merdey",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RDG",
+    "name": "Reading Regional Airport (Carl A. Spaatz Field)",
+    "city": "Reading, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "RDM",
+    "name": "Roberts Field",
+    "city": "Redmond / Bend, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "RDN",
+    "name": "Redang Airport",
+    "city": "Redang Island, Terengganu",
+    "country": "Malaysia"
+  },
+  {
+    "code": "RDO",
+    "name": "Radom Airport",
+    "city": "Radom",
+    "country": "Poland"
+  },
+  {
+    "code": "RDP",
+    "name": "Kazi Nazrul Islam Airport",
+    "city": "Durgapur, West Bengal",
+    "country": "India"
+  },
+  {
+    "code": "RDR",
+    "name": "Grand Forks Air Force Base",
+    "city": "Grand Forks, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "RDS",
+    "name": "Rincón de los Sauces Airport",
+    "city": "Rincón de los Sauces, Neuquén",
+    "country": "Argentina"
+  },
+  {
+    "code": "RDT",
+    "name": "Richard Toll Airport",
+    "city": "Richard Toll",
+    "country": "Senegal"
+  },
+  {
+    "code": "RDU",
+    "name": "Raleigh–Durham International Airport",
+    "city": "Raleigh / Durham, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "RDV",
+    "name": "Red Devil Airport",
+    "city": "Red Devil, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "RDZ",
+    "name": "Rodez–Marcillac Airport",
+    "city": "Rodez, Midi-Pyrénées",
+    "country": "France"
+  },
+  {
+    "code": "REA",
+    "name": "Reao Airport",
+    "city": "Reao, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "REB",
+    "name": "Rechlin–Lärz Airfield",
+    "city": "Rechlin, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "REC",
+    "name": "Recife/Guararapes–Gilberto Freyre International Airport",
+    "city": "Recife, Pernambuco",
+    "country": "Brazil"
+  },
+  {
+    "code": "RED",
+    "name": "Mifflin County Airport (FAA: RVL)",
+    "city": "Reedsville / Lewistown, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "REE",
+    "name": "Reese Airpark (FAA: 8XS8)",
+    "city": "Lubbock, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "REG",
+    "name": "Reggio di Calabria Airport",
+    "city": "Reggio di Calabria, Calabria",
+    "country": "Italy"
+  },
+  {
+    "code": "REI",
+    "name": "Régina Airport",
+    "city": "Régina",
+    "country": "French Guiana"
+  },
+  {
+    "code": "REK",
+    "name": "metropolitan area1",
+    "city": "Reykjavík",
+    "country": "Iceland"
+  },
+  {
+    "code": "REL",
+    "name": "Almirante Marcos A. Zar Airport",
+    "city": "Trelew, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "REN",
+    "name": "Orenburg Tsentralny Airport",
+    "city": "Orenburg, Orenburg Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "REO",
+    "name": "Rome State Airport",
+    "city": "Rome, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "REP",
+    "name": "Siem Reap International Airport (Angkor Int'l)",
+    "city": "Siem Reap",
+    "country": "Cambodia"
+  },
+  {
+    "code": "REQ",
+    "name": "Reko Diq Airport",
+    "city": "Reko Diq",
+    "country": "Pakistan"
+  },
+  {
+    "code": "RER",
+    "name": "Retalhuleu Airport",
+    "city": "Retalhuleu",
+    "country": "Guatemala"
+  },
+  {
+    "code": "RES",
+    "name": "Resistencia International Airport",
+    "city": "Resistencia, Chaco",
+    "country": "Argentina"
+  },
+  {
+    "code": "RET",
+    "name": "Røst Airport",
+    "city": "Røst",
+    "country": "Norway"
+  },
+  {
+    "code": "REU",
+    "name": "Reus Airport",
+    "city": "Reus, Catalonia",
+    "country": "Spain"
+  },
+  {
+    "code": "REW",
+    "name": "Churhata Airport",
+    "city": "Rewa, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "REX",
+    "name": "General Lucio Blanco International Airport",
+    "city": "Reynosa, Tamaulipas",
+    "country": "Mexico"
+  },
+  {
+    "code": "REY",
+    "name": "Reyes Airport",
+    "city": "Reyes",
+    "country": "Bolivia"
+  },
+  {
+    "code": "REZ",
+    "name": "Resende Airport",
+    "city": "Resende, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "RFA",
+    "name": "Rafaï Airport",
+    "city": "Rafaï",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "RFD",
+    "name": "Chicago Rockford International Airport (Greater Rockford Airport)",
+    "city": "Rockford, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "RFG",
+    "name": "Rooke Field",
+    "city": "Refugio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "RFK",
+    "name": "Rollang Field (FAA: 5MS1)",
+    "city": "Rolling Fork, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "RFN",
+    "name": "Raufarhöfn Airport",
+    "city": "Raufarhöfn",
+    "country": "Iceland"
+  },
+  {
+    "code": "RFP",
+    "name": "Raiatea Airport (Uturoa Airport)",
+    "city": "Raiatea, Society Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RFR",
+    "name": "Río Frío Airport",
+    "city": "Río Frío",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "RFS",
+    "name": "Rosita Airport",
+    "city": "Rosita",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "RGA",
+    "name": "Hermes Quijada International Airport",
+    "city": "Río Grande, Tierra del Fuego",
+    "country": "Argentina"
+  },
+  {
+    "code": "RGE",
+    "name": "Porgera Airport",
+    "city": "Porgera",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RGH",
+    "name": "Balurghat Airport",
+    "city": "Balurghat, West Bengal",
+    "country": "India"
+  },
+  {
+    "code": "RGI",
+    "name": "Rangiroa Airport",
+    "city": "Rangiroa, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RGK",
+    "name": "Gorno-Altaysk Airport",
+    "city": "Gorno-Altaysk, Altai Republic",
+    "country": "Russia"
+  },
+  {
+    "code": "RGL",
+    "name": "Piloto Civil Norberto Fernández International Airport",
+    "city": "Río Gallegos, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "RGN",
+    "name": "Yangon International Airport",
+    "city": "Yangon",
+    "country": "Myanmar"
+  },
+  {
+    "code": "RGO",
+    "name": "Chongjin Airport",
+    "city": "Chongjin",
+    "country": "North Korea"
+  },
+  {
+    "code": "RGR",
+    "name": "Ranger Municipal Airport (FAA: F23)",
+    "city": "Ranger, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "RGS",
+    "name": "Burgos Airport",
+    "city": "Burgos, Castile and León",
+    "country": "Spain"
+  },
+  {
+    "code": "RGT",
+    "name": "Japura Airport",
+    "city": "Rengat",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RHA",
+    "name": "Reykhólar Airport",
+    "city": "Reykhólar",
+    "country": "Iceland"
+  },
+  {
+    "code": "RHD",
+    "name": "Termas de Río Hondo Airport",
+    "city": "Termas de Río Hondo, Santiago del Estero",
+    "country": "Argentina"
+  },
+  {
+    "code": "RHE",
+    "name": "Reims – Champagne Air Base",
+    "city": "Reims, Champagne-Ardenne",
+    "country": "France"
+  },
+  {
+    "code": "RHG",
+    "name": "Ruhengeri Airport",
+    "city": "Ruhengeri",
+    "country": "Rwanda"
+  },
+  {
+    "code": "RHI",
+    "name": "Rhinelander–Oneida County Airport",
+    "city": "Rhinelander, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "RHL",
+    "name": "Roy Hill Station Airport",
+    "city": "Roy Hill Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RHN",
+    "name": "Skorpion Mine Airport",
+    "city": "Rosh Pinah",
+    "country": "Namibia"
+  },
+  {
+    "code": "RHO",
+    "name": "Rhodes International Airport",
+    "city": "Rhodes",
+    "country": "Greece"
+  },
+  {
+    "code": "RHP",
+    "name": "Ramechhap Airport",
+    "city": "Ramechhap",
+    "country": "Nepal"
+  },
+  {
+    "code": "RHR",
+    "name": "Al Hamra Seaplane Base",
+    "city": "Ras al-Khaimah",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "RHT",
+    "name": "Alxa Right Banner Badanjilin Airport",
+    "city": "Alxa Right Banner, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "RHV",
+    "name": "Reid–Hillview Airport of Santa Clara County",
+    "city": "San Jose, California",
+    "country": "United States"
+  },
+  {
+    "code": "RIA",
+    "name": "Santa Maria Airport",
+    "city": "Santa Maria, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "RIB",
+    "name": "Riberalta Airport",
+    "city": "Riberalta",
+    "country": "Bolivia"
+  },
+  {
+    "code": "RIC",
+    "name": "Richmond International Airport",
+    "city": "Richmond, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "RID",
+    "name": "Richmond Municipal Airport",
+    "city": "Richmond, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "RIE",
+    "name": "Rice Lake Regional Airport (Carl's Field) (FAA: RPD)",
+    "city": "Rice Lake, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "RIF",
+    "name": "Richfield Municipal Airport",
+    "city": "Richfield, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "RIG",
+    "name": "Rio Grande Regional Airport",
+    "city": "Rio Grande, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "RIH",
+    "name": "Scarlett Martinez International Airport",
+    "city": "Río Hato",
+    "country": "Panama"
+  },
+  {
+    "code": "RIJ",
+    "name": "Juan Simons Vela Airport",
+    "city": "Rioja",
+    "country": "Peru"
+  },
+  {
+    "code": "RIL",
+    "name": "Garfield County Regional Airport",
+    "city": "Rifle, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "RIM",
+    "name": "San Nicolas Airport",
+    "city": "Rodríguez de Mendoza",
+    "country": "Peru"
+  },
+  {
+    "code": "RIN",
+    "name": "Ringgi Cove Airport",
+    "city": "Ringgi Cove",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "RIO",
+    "name": "metropolitan area2",
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "RIR",
+    "name": "Flabob Airport",
+    "city": "Riverside, California",
+    "country": "United States"
+  },
+  {
+    "code": "RIS",
+    "name": "Rishiri Airport",
+    "city": "Rishiri, Rishiri Island",
+    "country": "Japan"
+  },
+  {
+    "code": "RIV",
+    "name": "March Air Reserve Base",
+    "city": "Riverside, California",
+    "country": "United States"
+  },
+  {
+    "code": "RIW",
+    "name": "Central Wyoming Regional Airport",
+    "city": "Riverton, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "RIX",
+    "name": "Riga International Airport",
+    "city": "Riga",
+    "country": "Latvia"
+  },
+  {
+    "code": "RIY",
+    "name": "Riyan Airport",
+    "city": "Mukalla",
+    "country": "Yemen"
+  },
+  {
+    "code": "RIZ",
+    "name": "Rizhao Shanzihe Airport",
+    "city": "Rizhao, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "RJA",
+    "name": "Rajahmundry Airport",
+    "city": "Rajahmundry, Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "RJB",
+    "name": "Rajbiraj Airport",
+    "city": "Rajbiraj",
+    "country": "Nepal"
+  },
+  {
+    "code": "RJH",
+    "name": "Shah Makhdum Airport",
+    "city": "Rajshahi",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "RJI",
+    "name": "Rajouri Airport",
+    "city": "Rajouri, Jammu and Kashmir",
+    "country": "India"
+  },
+  {
+    "code": "RJK",
+    "name": "Rijeka Airport",
+    "city": "Rijeka",
+    "country": "Croatia"
+  },
+  {
+    "code": "RJL",
+    "name": "Logroño–Agoncillo Airport",
+    "city": "Logroño, La Rioja",
+    "country": "Spain"
+  },
+  {
+    "code": "RJM",
+    "name": "Marinda Airport",
+    "city": "Waisai",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RJN",
+    "name": "Rafsanjan Airport",
+    "city": "Rafsanjan",
+    "country": "Iran"
+  },
+  {
+    "code": "RKA",
+    "name": "Aratika-Nord Airport",
+    "city": "Aratika, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RKD",
+    "name": "Knox County Regional Airport",
+    "city": "Rockland, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "RKE",
+    "name": "Roskilde Airport",
+    "city": "Copenhagen",
+    "country": "Denmark"
+  },
+  {
+    "code": "RKH",
+    "name": "Rock Hill/York County Airport (FAA: UZA)",
+    "city": "Rock Hill, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "RKI",
+    "name": "Rokot Airport",
+    "city": "Sipura",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RKP",
+    "name": "Aransas County Airport",
+    "city": "Rockport, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "RKR",
+    "name": "Robert S. Kerr Airport",
+    "city": "Poteau, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "RKS",
+    "name": "Rock Springs–Sweetwater County Airport",
+    "city": "Rock Springs, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "RKT",
+    "name": "Ras Al Khaimah International Airport",
+    "city": "Ras al-Khaimah",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "RKU",
+    "name": "Kairuku Airport",
+    "city": "Yule Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RKV",
+    "name": "Reykjavík Airport",
+    "city": "Reykjavík",
+    "country": "Iceland"
+  },
+  {
+    "code": "RKW",
+    "name": "Rockwood Municipal Airport",
+    "city": "Rockwood, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "RKY",
+    "name": "Rokeby Airport",
+    "city": "Rokeby, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "RKZ",
+    "name": "Shigatse Peace Airport",
+    "city": "Shigatse, Tibet Autonomous Region",
+    "country": "China"
+  },
+  {
+    "code": "RLD",
+    "name": "Richland Airport",
+    "city": "Richland, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "RLG",
+    "name": "Rostock–Laage Airport",
+    "city": "Rostock, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "RLK",
+    "name": "Bayannur Tianjitai Airport",
+    "city": "Bayannur, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "RLO",
+    "name": "Valle del Conlara Airport",
+    "city": "Villa de Merlo, San Luis",
+    "country": "Argentina"
+  },
+  {
+    "code": "RLP",
+    "name": "Rosella Plains Airport",
+    "city": "Rosella Plains, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "RLR",
+    "name": "Relais de la Reine Airport",
+    "city": "Isalo",
+    "country": "Madagascar"
+  },
+  {
+    "code": "RLT",
+    "name": "Arlit Airport",
+    "city": "Arlit",
+    "country": "Niger"
+  },
+  {
+    "code": "RMA",
+    "name": "Roma Airport",
+    "city": "Roma, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "RMB",
+    "name": "Buraimi Airport",
+    "city": "Buraimi",
+    "country": "Oman"
+  },
+  {
+    "code": "RMD",
+    "name": "Ramagundam Airport (Basanth Nagar Airport)",
+    "city": "Ramagundam, Telangana",
+    "country": "India"
+  },
+  {
+    "code": "RME",
+    "name": "Griffiss International Airport",
+    "city": "Rome, New York",
+    "country": "United States"
+  },
+  {
+    "code": "RMF",
+    "name": "Marsa Alam International Airport",
+    "city": "Marsa Alam",
+    "country": "Egypt"
+  },
+  {
+    "code": "RMG",
+    "name": "Richard B. Russell Airport",
+    "city": "Rome, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "RMI",
+    "name": "Federico Fellini International Airport",
+    "city": "Rimini, Emilia-Romagna",
+    "country": "Italy"
+  },
+  {
+    "code": "RMK",
+    "name": "Renmark Airport",
+    "city": "Renmark, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RML",
+    "name": "Colombo International Airport, Ratmalana",
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "RMN",
+    "name": "Rumginae Airport",
+    "city": "Rumginae",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RMP",
+    "name": "Rampart Airport",
+    "city": "Rampart, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "RMQ",
+    "name": "Taichung Airport (Taichung Ching Chuan Kang Airport)",
+    "city": "Taichung",
+    "country": "Taiwan"
+  },
+  {
+    "code": "RMS",
+    "name": "Ramstein Air Base",
+    "city": "Ramstein, Rhineland-Palatinate",
+    "country": "Germany"
+  },
+  {
+    "code": "RMT",
+    "name": "Rimatara Airport",
+    "city": "Rimatara, Austral Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RMU",
+    "name": "Región de Murcia International Airport",
+    "city": "Murcia / Cartagena, Murcia",
+    "country": "Spain"
+  },
+  {
+    "code": "RMY",
+    "name": "Mariposa-Yosemite Airport (FAA: MPI)",
+    "city": "Mariposa, California",
+    "country": "United States"
+  },
+  {
+    "code": "RNA",
+    "name": "Ulawa Airport",
+    "city": "Arona, Ulawa Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "RNB",
+    "name": "Ronneby Airport",
+    "city": "Ronneby / Karlskrona",
+    "country": "Sweden"
+  },
+  {
+    "code": "RNC",
+    "name": "Warren County Memorial Airport",
+    "city": "McMinnville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "RND",
+    "name": "Randolph Air Force Base",
+    "city": "San Antonio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "RNE",
+    "name": "Roanne Renaison Airport",
+    "city": "Roanne, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "RNG",
+    "name": "Rangely Airport (FAA: 4V0)",
+    "city": "Rangely, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "RNH",
+    "name": "New Richmond Regional Airport",
+    "city": "New Richmond, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "RNI",
+    "name": "Corn Island Airport",
+    "city": "Corn Islands",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "RNJ",
+    "name": "Yoron Airport",
+    "city": "Yoronjima, Amami Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "RNL",
+    "name": "Rennell/Tingoa Airport",
+    "city": "Rennell Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "RNM",
+    "name": "Qarn Alam Airport",
+    "city": "Qarn Alam",
+    "country": "Oman"
+  },
+  {
+    "code": "RNN",
+    "name": "Bornholm Airport",
+    "city": "Rønne",
+    "country": "Denmark"
+  },
+  {
+    "code": "RNO",
+    "name": "Reno–Tahoe International Airport",
+    "city": "Reno, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "RNP",
+    "name": "Rongelap Airport",
+    "city": "Rongelap Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "RNR",
+    "name": "Robinson River Airport",
+    "city": "Robinson River",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RNS",
+    "name": "Rennes–Saint-Jacques Airport",
+    "city": "Rennes, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "RNT",
+    "name": "Renton Municipal Airport",
+    "city": "Renton, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "RNU",
+    "name": "Ranau Airport",
+    "city": "Ranau, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "RNZ",
+    "name": "Jasper County Airport (FAA: RZL)",
+    "city": "Rensselaer, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "ROA",
+    "name": "Roanoke–Blacksburg Regional Airport (Woodrum Field)",
+    "city": "Roanoke, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "ROB",
+    "name": "Roberts International Airport",
+    "city": "Monrovia",
+    "country": "Liberia"
+  },
+  {
+    "code": "ROC",
+    "name": "Greater Rochester International Airport",
+    "city": "Rochester, New York",
+    "country": "United States"
+  },
+  {
+    "code": "ROD",
+    "name": "Robertson Airfield",
+    "city": "Robertson",
+    "country": "South Africa"
+  },
+  {
+    "code": "ROF",
+    "name": "Montague Airport (Yreka Rohrer Field) (FAA: 1O5)",
+    "city": "Montague / Yreka, California",
+    "country": "United States"
+  },
+  {
+    "code": "ROG",
+    "name": "Rogers Municipal Airport (Carter Field)",
+    "city": "Rogers, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "ROH",
+    "name": "Robinhood Airport",
+    "city": "Robinhood, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ROI",
+    "name": "Roi Et Airport",
+    "city": "Roi Et",
+    "country": "Thailand"
+  },
+  {
+    "code": "ROK",
+    "name": "Rockhampton Airport",
+    "city": "Rockhampton, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ROL",
+    "name": "Roosevelt Municipal Airport",
+    "city": "Roosevelt, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "ROM",
+    "name": "metropolitan area3",
+    "city": "Rome, Lazio",
+    "country": "Italy"
+  },
+  {
+    "code": "RON",
+    "name": "Juan José Rondón Airport",
+    "city": "Paipa",
+    "country": "Colombia"
+  },
+  {
+    "code": "ROO",
+    "name": "Maestro Marinho Franco Airport",
+    "city": "Rondonópolis, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "ROP",
+    "name": "Rota International Airport (FAA: GRO)",
+    "city": "Rota",
+    "country": "Northern Mariana Islands"
+  },
+  {
+    "code": "ROR",
+    "name": "Roman Tmetuchl International Airport",
+    "city": "Koror",
+    "country": "Palau"
+  },
+  {
+    "code": "ROS",
+    "name": "Rosario – Islas Malvinas International Airport",
+    "city": "Rosario, Santa Fe",
+    "country": "Argentina"
+  },
+  {
+    "code": "ROT",
+    "name": "Rotorua Regional Airport",
+    "city": "Rotorua",
+    "country": "New Zealand"
+  },
+  {
+    "code": "ROU",
+    "name": "Ruse Airport",
+    "city": "Ruse",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "ROV",
+    "name": "Platov International Airport",
+    "city": "Novocherkassk, Rostov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "ROW",
+    "name": "Roswell International Air Center",
+    "city": "Roswell, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "ROX",
+    "name": "Roseau Municipal Airport (Rudy Billberg Field)",
+    "city": "Roseau, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "ROY",
+    "name": "Río Mayo Airport",
+    "city": "Río Mayo, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "ROZ",
+    "name": "US Naval Station Rota",
+    "city": "Rota, Andalusia",
+    "country": "Spain"
+  },
+  {
+    "code": "RPA",
+    "name": "Rolpa Airport",
+    "city": "Rolpa",
+    "country": "Nepal"
+  },
+  {
+    "code": "RPB",
+    "name": "Roper Bar Airport",
+    "city": "Roper Bar, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "RPI",
+    "name": "Rampi Airport",
+    "city": "Rampi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RPM",
+    "name": "Ngukurr Airport",
+    "city": "Ngukurr, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "RPN",
+    "name": "Rosh Pina Airport",
+    "city": "Rosh Pinna",
+    "country": "Israel"
+  },
+  {
+    "code": "RPR",
+    "name": "Swami Vivekananda Airport",
+    "city": "Raipur, Chhattisgarh",
+    "country": "India"
+  },
+  {
+    "code": "RPV",
+    "name": "Roper Valley Airport",
+    "city": "Roper Valley, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "RPX",
+    "name": "Roundup Airport",
+    "city": "Roundup, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "RQA",
+    "name": "Ruoqiang Loulan Airport",
+    "city": "Ruoqiang, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "RQW",
+    "name": "Qayyarah Airfield West",
+    "city": "Qayyarah",
+    "country": "Iraq"
+  },
+  {
+    "code": "RRE",
+    "name": "Marree Airport",
+    "city": "Marree, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RRG",
+    "name": "Sir Gaëtan Duval Airport",
+    "city": "Rodrigues Island",
+    "country": "Mauritius"
+  },
+  {
+    "code": "RRI",
+    "name": "Barora Airport",
+    "city": "Barora",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "RRJ",
+    "name": "Jacarepaguá Airport",
+    "city": "Barra da Tijuca, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "RRK",
+    "name": "Rourkela Airport",
+    "city": "Rourkela, Odisha",
+    "country": "India"
+  },
+  {
+    "code": "RRL",
+    "name": "Merrill Municipal Airport",
+    "city": "Merrill, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "RRM",
+    "name": "Marromeu Airport",
+    "city": "Marromeu",
+    "country": "Mozambique"
+  },
+  {
+    "code": "RRR",
+    "name": "Raroia Airport",
+    "city": "Raroia, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RRS",
+    "name": "Røros Airport",
+    "city": "Røros",
+    "country": "Norway"
+  },
+  {
+    "code": "RRT",
+    "name": "Warroad International Memorial Airport (Swede Carlson Field)",
+    "city": "Warroad, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "RRV",
+    "name": "Robinson River Airport",
+    "city": "Robinson River, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "RSA",
+    "name": "Santa Rosa Airport",
+    "city": "Santa Rosa, La Pampa",
+    "country": "Argentina"
+  },
+  {
+    "code": "RSB",
+    "name": "Roseberth Airport",
+    "city": "Roseberth, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "RSD",
+    "name": "Rock Sound International Airport",
+    "city": "Rock Sound, Eleuthera Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "RSE",
+    "name": "Rose Bay Water Airport",
+    "city": "Sydney, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "RSH",
+    "name": "Russian Mission Airport",
+    "city": "Russian Mission, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "RSI",
+    "name": "Red Sea International Airport",
+    "city": "Red Sea Project, Tabuk Province",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "RSJ",
+    "name": "Rosario Seaplane Base (FAA: W49)",
+    "city": "Orcas Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "RSK",
+    "name": "Abresso Airport",
+    "city": "Ransiki",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RSL",
+    "name": "Russell Municipal Airport",
+    "city": "Russell, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "RSN",
+    "name": "Ruston Regional Airport",
+    "city": "Ruston, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "RSS",
+    "name": "Damazin Airport",
+    "city": "Ad-Damazin",
+    "country": "Sudan"
+  },
+  {
+    "code": "RST",
+    "name": "Rochester International Airport",
+    "city": "Rochester, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "RSU",
+    "name": "Yeosu/Suncheon Airport",
+    "city": "Yeosu / Suncheon",
+    "country": "South Korea"
+  },
+  {
+    "code": "RSW",
+    "name": "Southwest Florida International Airport",
+    "city": "Fort Myers, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "RSX",
+    "name": "Rouses Point Seaplane Base (FAA: K21)",
+    "city": "Rouses Point, New York",
+    "country": "United States"
+  },
+  {
+    "code": "RTA",
+    "name": "Rotuma Airport",
+    "city": "Rotuma Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "RTB",
+    "name": "Juan Manuel Gálvez International Airport",
+    "city": "Roatán",
+    "country": "Honduras"
+  },
+  {
+    "code": "RTC",
+    "name": "Ratnagiri Airport",
+    "city": "Ratnagiri, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "RTG",
+    "name": "Frans Sales Lega Airport",
+    "city": "Ruteng",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RTI",
+    "name": "David Constantijn Saudale Airport",
+    "city": "Rote Island (Roti)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RTL",
+    "name": "Spirit Lake Municipal Airport (FAA: 0F3)",
+    "city": "Spirit Lake, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "RTM",
+    "name": "Rotterdam The Hague Airport",
+    "city": "Rotterdam",
+    "country": "Netherlands"
+  },
+  {
+    "code": "RTN",
+    "name": "Raton Municipal Airport (Crews Field)",
+    "city": "Raton, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "RTP",
+    "name": "Rutland Plains Airport",
+    "city": "Rutland Plains, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "RTS",
+    "name": "Rottnest Island Airport",
+    "city": "Rottnest Island, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RTW",
+    "name": "Saratov Tsentralny Airport",
+    "city": "Saratov, Saratov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "RTY",
+    "name": "Merty Merty Airport",
+    "city": "Merty Merty, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RUA",
+    "name": "Arua Airport",
+    "city": "Arua",
+    "country": "Uganda"
+  },
+  {
+    "code": "RUD",
+    "name": "Shahroud Airport",
+    "city": "Shahrud",
+    "country": "Iran"
+  },
+  {
+    "code": "RUE",
+    "name": "Butembo Airport",
+    "city": "Butembo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "RUF",
+    "name": "Yuruf Airport",
+    "city": "Yuruf",
+    "country": "Indonesia"
+  },
+  {
+    "code": "RUG",
+    "name": "Rugao Air Base",
+    "city": "Rugao, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "RUH",
+    "name": "King Khalid International Airport",
+    "city": "Riyadh",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "RUI",
+    "name": "Sierra Blanca Regional Airport (FAA: SRR)",
+    "city": "Ruidoso, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "RUK",
+    "name": "Chaurjahari Airport",
+    "city": "Rukumkot",
+    "country": "Nepal"
+  },
+  {
+    "code": "RUL",
+    "name": "Maavarulu Airport",
+    "city": "Gaafu Dhaalu Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "RUM",
+    "name": "Rumjatar Airport",
+    "city": "Rumjatar",
+    "country": "Nepal"
+  },
+  {
+    "code": "RUN",
+    "name": "Roland Garros Airport",
+    "city": "St-Denis, Réunion",
+    "country": "France"
+  },
+  {
+    "code": "RUP",
+    "name": "Rupsi Airport",
+    "city": "Rupsi, Assam",
+    "country": "India"
+  },
+  {
+    "code": "RUR",
+    "name": "Rurutu Airport",
+    "city": "Rurutu",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RUS",
+    "name": "Marau Airport",
+    "city": "Marau",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "RUT",
+    "name": "Rutland – Southern Vermont Regional Airport",
+    "city": "Rutland, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "RUU",
+    "name": "Ruti Airport",
+    "city": "Kawbenaberi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "RUV",
+    "name": "Rubelsanto Airport",
+    "city": "Rubelsanto",
+    "country": "Guatemala"
+  },
+  {
+    "code": "RUY",
+    "name": "Copán Ruinas Airport",
+    "city": "Copán Ruinas",
+    "country": "Honduras"
+  },
+  {
+    "code": "RVA",
+    "name": "Farafangana Airport",
+    "city": "Farafangana",
+    "country": "Madagascar"
+  },
+  {
+    "code": "RVC",
+    "name": "River Cess Airport",
+    "city": "River Cess",
+    "country": "Liberia"
+  },
+  {
+    "code": "RVD",
+    "name": "General Leite de Castro Airport",
+    "city": "Rio Verde, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "RVE",
+    "name": "Los Colonizadores Airport",
+    "city": "Saravena",
+    "country": "Colombia"
+  },
+  {
+    "code": "RVH",
+    "name": "Rzhevka Airport",
+    "city": "Saint Petersburg",
+    "country": "Russia"
+  },
+  {
+    "code": "RVI",
+    "name": "Rostov-on-Don Airport",
+    "city": "Rostov-on-Don, Rostov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "RVK",
+    "name": "Rørvik Airport, Ryum",
+    "city": "Rørvik",
+    "country": "Norway"
+  },
+  {
+    "code": "RVN",
+    "name": "Rovaniemi Airport",
+    "city": "Rovaniemi",
+    "country": "Finland"
+  },
+  {
+    "code": "RVO",
+    "name": "Reivilo Airport",
+    "city": "Reivilo",
+    "country": "South Africa"
+  },
+  {
+    "code": "RVR",
+    "name": "Green River Municipal Airport (FAA: U34)",
+    "city": "Green River, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "RVS",
+    "name": "Richard Lloyd Jones Jr. Airport",
+    "city": "Tulsa, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "RVT",
+    "name": "Ravensthorpe Airport",
+    "city": "Ravensthorpe, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "RVV",
+    "name": "Raivavae Airport",
+    "city": "Raivavae, Austral Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "RVY",
+    "name": "Pres. Gral. Óscar D. Gestido International Airport",
+    "city": "Rivera",
+    "country": "Uruguay"
+  },
+  {
+    "code": "RWF",
+    "name": "Redwood Falls Municipal Airport",
+    "city": "Redwood Falls, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "RWI",
+    "name": "Rocky Mount–Wilson Regional Airport",
+    "city": "Rocky Mount, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "RWL",
+    "name": "Rawlins Municipal Airport (Harvey Field)",
+    "city": "Rawlins, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "RWN",
+    "name": "Rivne International Airport",
+    "city": "Rivne",
+    "country": "Ukraine"
+  },
+  {
+    "code": "RXA",
+    "name": "Ar Rawdah Airport",
+    "city": "Ar Rawdah (Raudha)",
+    "country": "Yemen"
+  },
+  {
+    "code": "RXE",
+    "name": "Rexburg–Madison County Airport",
+    "city": "Rexburg, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "RXS",
+    "name": "Roxas Airport",
+    "city": "Roxas",
+    "country": "Philippines"
+  },
+  {
+    "code": "RYB",
+    "name": "Staroselye Airport",
+    "city": "Rybinsk, Yaroslavl Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "RYG",
+    "name": "Moss Airport, Rygge / Rygge Air Station",
+    "city": "Oslo / Moss",
+    "country": "Norway"
+  },
+  {
+    "code": "RYK",
+    "name": "Shaikh Zayed International Airport",
+    "city": "Rahim Yar Khan",
+    "country": "Pakistan"
+  },
+  {
+    "code": "RYL",
+    "name": "Royal Airstrip",
+    "city": "Lower Zambezi National Park",
+    "country": "Zambia"
+  },
+  {
+    "code": "RYN",
+    "name": "Royan – Médis Aerodrome",
+    "city": "Royan, Poitou-Charentes",
+    "country": "France"
+  },
+  {
+    "code": "RYO",
+    "name": "Rio Turbio Airport",
+    "city": "Río Turbio, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "RZA",
+    "name": "Santa Cruz Airport",
+    "city": "Puerto Santa Cruz, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "RZE",
+    "name": "Rzeszów–Jasionka Airport",
+    "city": "Rzeszów",
+    "country": "Poland"
+  },
+  {
+    "code": "RZN",
+    "name": "Turlatovo Airport",
+    "city": "Ryazan, Ryazan Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "RZP",
+    "name": "Cesar Lim Rodriguez Airport",
+    "city": "Taytay",
+    "country": "Philippines"
+  },
+  {
+    "code": "RZR",
+    "name": "Ramsar International Airport",
+    "city": "Ramsar",
+    "country": "Iran"
+  },
+  {
+    "code": "RZS",
+    "name": "Sawan Airport",
+    "city": "Sawan",
+    "country": "Pakistan"
+  },
+  {
+    "code": "RZV",
+    "name": "Rize–Artvin Airport",
+    "city": "Rize Province",
+    "country": "Turkey"
+  },
+  {
+    "code": "RZZ",
+    "name": "Halifax County Airport",
+    "city": "Roanoke Rapids, North Carolina",
+    "country": "United States"
+  }
+]

@@ -1,0 +1,4 @@
+﻿POST https://localhost:7055/sales/offers/70a41a8c-0e92-4683-ab8b-d535f97ca6e0/variants/OFFER-1/accepted
+accept: */*
+Content-Type: application/x-www-form-urlencoded
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de

@@ -1,0 +1,4 @@
+﻿POST https://localhost:7055/backoffice/contracts/66178e85-8920-43c7-97eb-69734efce749/signed
+accept: */*
+Content-Type: application/x-www-form-urlencoded
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de

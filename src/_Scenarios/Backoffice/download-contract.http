@@ -1,0 +1,3 @@
+﻿GET https://localhost:7055/backoffice/contracts/3203506b-a1e7-48cf-b465-5ff2dfa07e07
+accept: */*
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de

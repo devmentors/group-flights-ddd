@@ -1,0 +1,3068 @@
+﻿[
+  {
+    "code": "KAA",
+    "name": "Kasama Airport",
+    "city": "Kasama",
+    "country": "Zambia"
+  },
+  {
+    "code": "KAB",
+    "name": "Kariba Airport",
+    "city": "Kariba",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "KAC",
+    "name": "Kamishly Airport",
+    "city": "Qamishli (Kamishly)",
+    "country": "Syria"
+  },
+  {
+    "code": "KAD",
+    "name": "Kaduna Airport",
+    "city": "Kaduna",
+    "country": "Nigeria"
+  },
+  {
+    "code": "KAE",
+    "name": "Kake Seaplane Base",
+    "city": "Kake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KAF",
+    "name": "Karato Airport",
+    "city": "Karato",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KAG",
+    "name": "Gangneung Air Base",
+    "city": "Gangneung",
+    "country": "South Korea"
+  },
+  {
+    "code": "KAI",
+    "name": "Kaieteur International Airport",
+    "city": "Kaieteur",
+    "country": "Guyana"
+  },
+  {
+    "code": "KAJ",
+    "name": "Kajaani Airport",
+    "city": "Kajaani",
+    "country": "Finland"
+  },
+  {
+    "code": "KAK",
+    "name": "Kar Airport",
+    "city": "Kar",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KAL",
+    "name": "Kaltag Airport",
+    "city": "Kaltag, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KAM",
+    "name": "Kamaran Airport",
+    "city": "Kamaran",
+    "country": "Yemen"
+  },
+  {
+    "code": "KAN",
+    "name": "Mallam Aminu Kano International Airport",
+    "city": "Kano",
+    "country": "Nigeria"
+  },
+  {
+    "code": "KAO",
+    "name": "Kuusamo Airport",
+    "city": "Kuusamo",
+    "country": "Finland"
+  },
+  {
+    "code": "KAP",
+    "name": "Kapanga Airport",
+    "city": "Kapanga",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KAQ",
+    "name": "Kamulai Airport",
+    "city": "Kamulai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KAR",
+    "name": "Kamarang Airport",
+    "city": "Kamarang",
+    "country": "Guyana"
+  },
+  {
+    "code": "KAS",
+    "name": "Karasburg Airport",
+    "city": "Karasburg",
+    "country": "Namibia"
+  },
+  {
+    "code": "KAT",
+    "name": "Kaitaia Airport",
+    "city": "Kaitaia",
+    "country": "New Zealand"
+  },
+  {
+    "code": "KAU",
+    "name": "Kauhava Airfield",
+    "city": "Kauhava",
+    "country": "Finland"
+  },
+  {
+    "code": "KAV",
+    "name": "Kavanayén Airport",
+    "city": "Kavanayén",
+    "country": "Venezuela"
+  },
+  {
+    "code": "KAW",
+    "name": "Kawthaung Airport",
+    "city": "Kawthaung",
+    "country": "Myanmar"
+  },
+  {
+    "code": "KAX",
+    "name": "Kalbarri Airport",
+    "city": "Kalbarri, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KAY",
+    "name": "Wakaya Airport",
+    "city": "Wakaya Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "KAZ",
+    "name": "Kuabang Airport",
+    "city": "Kao",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KBA",
+    "name": "Kabala Airport",
+    "city": "Kabala",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "KBB",
+    "name": "Kirkimbie Airport",
+    "city": "Kirkimbie Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KBC",
+    "name": "Birch Creek Airport (FAA: Z91)",
+    "city": "Birch Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KBD",
+    "name": "Kimberley Downs Airport",
+    "city": "Kimberley Downs, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KBE",
+    "name": "Bell Island Hot Springs Seaplane Base",
+    "city": "Bell Island, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KBF",
+    "name": "Karubaga Airport",
+    "city": "Karubaga",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KBG",
+    "name": "Kabalega Falls Airport",
+    "city": "Kabalega Falls",
+    "country": "Uganda"
+  },
+  {
+    "code": "KBI",
+    "name": "Kribi Airport",
+    "city": "Kribi",
+    "country": "Cameroon"
+  },
+  {
+    "code": "KBJ",
+    "name": "Kings Canyon Airport",
+    "city": "Kings Canyon, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KBL",
+    "name": "Kabul International Airport",
+    "city": "Kabul",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "KBM",
+    "name": "Kabwum Airport",
+    "city": "Kabwum",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KBN",
+    "name": "Tunta Airport",
+    "city": "Kabinda",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KBO",
+    "name": "Kabalo Airport",
+    "city": "Kabalo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KBP",
+    "name": "Boryspil International Airport",
+    "city": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KBQ",
+    "name": "Kasungu Airport",
+    "city": "Kasungu",
+    "country": "Malawi"
+  },
+  {
+    "code": "KBR",
+    "name": "Sultan Ismail Petra Airport",
+    "city": "Kota Bharu, Kelantan",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KBS",
+    "name": "Bo Airport",
+    "city": "Bo",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "KBT",
+    "name": "Kaben Airport",
+    "city": "Kaben, Maloelap Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "KBU",
+    "name": "Gusti Syamsir Alam Airport (Stagen Airport)",
+    "city": "Kotabaru",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KBV",
+    "name": "Krabi Airport",
+    "city": "Krabi",
+    "country": "Thailand"
+  },
+  {
+    "code": "KBW",
+    "name": "Chignik Bay Seaplane Base (FAA: Z78)",
+    "city": "Chignik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KBX",
+    "name": "Kambuaya Airport",
+    "city": "Ayamaru",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KBY",
+    "name": "Streaky Bay Airport",
+    "city": "Streaky Bay, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KBZ",
+    "name": "Kaikoura Aerodrome",
+    "city": "Kaikoura",
+    "country": "New Zealand"
+  },
+  {
+    "code": "KCA",
+    "name": "Kuqa Qiuci Airport",
+    "city": "Kuqa, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "KCB",
+    "name": "Tepoe Airstrip",
+    "city": "Kasikasima",
+    "country": "Suriname"
+  },
+  {
+    "code": "KCC",
+    "name": "Coffman Cove Seaplane Base",
+    "city": "Coffman Cove, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KCD",
+    "name": "Kamur Airport",
+    "city": "Kamur",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KCE",
+    "name": "Collinsville Airport",
+    "city": "Collinsville, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KCF",
+    "name": "Kadanwari Airport",
+    "city": "Kadanwari",
+    "country": "Pakistan"
+  },
+  {
+    "code": "KCG",
+    "name": "Chignik Fisheries Airport (closed)",
+    "city": "Chignik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KCH",
+    "name": "Kuching International Airport",
+    "city": "Kuching, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KCJ",
+    "name": "Komaio Airport",
+    "city": "Komaio",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KCK",
+    "name": "Kirensk Airport",
+    "city": "Kirensk, Irkutsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KCL",
+    "name": "Chignik Lagoon Airport (Chignik Flats Airport)",
+    "city": "Chignik Lagoon, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KCM",
+    "name": "Kahramanmaraş Airport",
+    "city": "Kahramanmaraş",
+    "country": "Turkey"
+  },
+  {
+    "code": "KCN",
+    "name": "Chernofski Harbor Seaplane Base",
+    "city": "Chernofski Harbor, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KCO",
+    "name": "Cengiz Topel Naval Air Station",
+    "city": "İzmit",
+    "country": "Turkey"
+  },
+  {
+    "code": "KCP",
+    "name": "Kamianets-Podilskyi Airport",
+    "city": "Kamianets-Podilskyi",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KCQ",
+    "name": "Chignik Lake Airport (FAA: A79)",
+    "city": "Chignik Lake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KCR",
+    "name": "Colorado Creek Airport",
+    "city": "Colorado Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KCS",
+    "name": "Kings Creek Station Airport",
+    "city": "Kings Creek Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KCT",
+    "name": "Koggala Airport",
+    "city": "Koggala",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "KCU",
+    "name": "Masindi Airport",
+    "city": "Masindi",
+    "country": "Uganda"
+  },
+  {
+    "code": "KCZ",
+    "name": "Kōchi Ryōma Airport",
+    "city": "Kōchi, Shikoku",
+    "country": "Japan"
+  },
+  {
+    "code": "KDA",
+    "name": "Kolda North Airport",
+    "city": "Kolda",
+    "country": "Senegal"
+  },
+  {
+    "code": "KDB",
+    "name": "Kambalda Airport",
+    "city": "Kambalda, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KDC",
+    "name": "Kandi Airport",
+    "city": "Kandi",
+    "country": "Benin"
+  },
+  {
+    "code": "KDD",
+    "name": "Khuzdar Airport",
+    "city": "Khuzdar",
+    "country": "Pakistan"
+  },
+  {
+    "code": "KDE",
+    "name": "Koroba Airport",
+    "city": "Koroba",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KDH",
+    "name": "Kandahar International Airport",
+    "city": "Kandahar",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "KDI",
+    "name": "Haluoleo Airport",
+    "city": "Kendari",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KDJ",
+    "name": "Ndjolé Ville Airport",
+    "city": "Ndjolé",
+    "country": "Gabon"
+  },
+  {
+    "code": "KDK",
+    "name": "Kodiak Municipal Airport",
+    "city": "Kodiak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KDL",
+    "name": "Kärdla Airport",
+    "city": "Kärdla",
+    "country": "Estonia"
+  },
+  {
+    "code": "KDM",
+    "name": "Kaadedhdhoo Airport",
+    "city": "Kaadedhdhoo Island, Gaafu Dhaalu Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "KDN",
+    "name": "Ndendé Airport",
+    "city": "Ndendé",
+    "country": "Gabon"
+  },
+  {
+    "code": "KDO",
+    "name": "Kadhdhoo Airport",
+    "city": "Kadhdhoo Island, Laamu Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "KDP",
+    "name": "Kandep Airport",
+    "city": "Kandep",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KDQ",
+    "name": "Kamberatoro Airport",
+    "city": "Kamberatoro",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KDR",
+    "name": "Kandrian Airport",
+    "city": "Kandrian",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KDS",
+    "name": "Kamaran Downs Airport",
+    "city": "Kamaran Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KDT",
+    "name": "Kamphaeng Saen Airport",
+    "city": "Kamphaeng Saen",
+    "country": "Thailand"
+  },
+  {
+    "code": "KDU",
+    "name": "Skardu Airport",
+    "city": "Skardu",
+    "country": "Pakistan"
+  },
+  {
+    "code": "KDV",
+    "name": "Vunisea Airport",
+    "city": "Vunisea, Kadavu Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "KDW",
+    "name": "Victoria Reservoir Seaplane Base",
+    "city": "Kandy",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "KDX",
+    "name": "Kadugli Airport",
+    "city": "Kaduqli (Kadugli)",
+    "country": "Sudan"
+  },
+  {
+    "code": "KDY",
+    "name": "Teply Klyuch Airport",
+    "city": "Khandyga, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "KDZ",
+    "name": "Polgolla Reservoir Seaplane Base",
+    "city": "Kandy",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "KEA",
+    "name": "Kerki Airport",
+    "city": "Kerki",
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "KEB",
+    "name": "Nanwalek Airport",
+    "city": "Nanwalek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KEC",
+    "name": "Kasenga Airport",
+    "city": "Kasenga",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KED",
+    "name": "Kaédi Airport",
+    "city": "Kaédi",
+    "country": "Mauritania"
+  },
+  {
+    "code": "KEE",
+    "name": "Kelle Airport",
+    "city": "Kellé",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "KEF",
+    "name": "Keflavík International Airport",
+    "city": "Reykjavík",
+    "country": "Iceland"
+  },
+  {
+    "code": "KEG",
+    "name": "Keglsugl Airport",
+    "city": "Keglsugl",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KEH",
+    "name": "Kenmore Air Harbor (FAA: S60)",
+    "city": "Kenmore, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "KEI",
+    "name": "Kepi Airport",
+    "city": "Kepi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KEJ",
+    "name": "Kemerovo International Airport",
+    "city": "Kemerovo, Kemerovo Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KEK",
+    "name": "Ekwok Airport",
+    "city": "Ekwok, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KEL",
+    "name": "Kiel Airport",
+    "city": "Kiel, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "KEM",
+    "name": "Kemi-Tornio Airport",
+    "city": "Kemi / Tornio",
+    "country": "Finland"
+  },
+  {
+    "code": "KEN",
+    "name": "Kenema Airport",
+    "city": "Kenema",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "KEO",
+    "name": "Odienné Airport",
+    "city": "Odienné",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "KEP",
+    "name": "Nepalgunj Airport",
+    "city": "Nepalgunj",
+    "country": "Nepal"
+  },
+  {
+    "code": "KEQ",
+    "name": "Kebar Airport",
+    "city": "Kebar",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KER",
+    "name": "Kerman Airport",
+    "city": "Kerman",
+    "country": "Iran"
+  },
+  {
+    "code": "KES",
+    "name": "Kelsey Airport",
+    "city": "Kelsey, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "KET",
+    "name": "Kengtung Airport",
+    "city": "Kengtung",
+    "country": "Myanmar"
+  },
+  {
+    "code": "KEU",
+    "name": "Keekorok Airport",
+    "city": "Keekorok",
+    "country": "Kenya"
+  },
+  {
+    "code": "KEV",
+    "name": "Halli Airport",
+    "city": "Kuorevesi",
+    "country": "Finland"
+  },
+  {
+    "code": "KEW",
+    "name": "Keewaywin Airport (TC LID: CPV8)",
+    "city": "Keewaywin, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "KEX",
+    "name": "Kanabea Airport",
+    "city": "Kanabea",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KEY",
+    "name": "Kericho Airport",
+    "city": "Kericho",
+    "country": "Kenya"
+  },
+  {
+    "code": "KEZ",
+    "name": "Kelani River-Peliyagoda Waterdrome",
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "KFA",
+    "name": "Kiffa Airport",
+    "city": "Kiffa",
+    "country": "Mauritania"
+  },
+  {
+    "code": "KFE",
+    "name": "Fortescue Dave Forrest Airport",
+    "city": "Cloudbreak, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KFG",
+    "name": "Kalkgurung Airport",
+    "city": "Kalkarindji, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KFM",
+    "name": "Kirby Lake Airport",
+    "city": "Wood Buffalo, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "KFP",
+    "name": "False Pass Airport",
+    "city": "False Pass, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KFS",
+    "name": "Kastamonu Airport",
+    "city": "Kastamonu",
+    "country": "Turkey"
+  },
+  {
+    "code": "KFZ",
+    "name": "Kukës International Airport",
+    "city": "Kukës",
+    "country": "Albania"
+  },
+  {
+    "code": "KGA",
+    "name": "Kananga Airport",
+    "city": "Kananga",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KGB",
+    "name": "Konge Airport",
+    "city": "Konge",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KGC",
+    "name": "Kingscote Airport",
+    "city": "Cygnet River, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KGD",
+    "name": "Khrabrovo Airport",
+    "city": "Kaliningrad, Kaliningrad Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KGE",
+    "name": "Kaghau Airport",
+    "city": "Kaghau Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "KGF",
+    "name": "Sary-Arka Airport",
+    "city": "Karaganda",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "KGG",
+    "name": "Kédougou Airport",
+    "city": "Kédougou",
+    "country": "Senegal"
+  },
+  {
+    "code": "KGH",
+    "name": "Yongai Airport",
+    "city": "Yongai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KGI",
+    "name": "Kalgoorlie-Boulder Airport",
+    "city": "Kalgoorlie, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KGJ",
+    "name": "Karonga Airport",
+    "city": "Karonga",
+    "country": "Malawi"
+  },
+  {
+    "code": "KGK",
+    "name": "Koliganek Airport (FAA: JZZ)",
+    "city": "Koliganek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KGL",
+    "name": "Kigali International Airport (Kanombe Airport)",
+    "city": "Kigali",
+    "country": "Rwanda"
+  },
+  {
+    "code": "KGM",
+    "name": "Kungim Airport",
+    "city": "Kungim",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KGN",
+    "name": "Kasongo Lunda Airport",
+    "city": "Kasongo Lunda",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KGO",
+    "name": "Kirovohrad Airport",
+    "city": "Kropyvnytskyi",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KGP",
+    "name": "Kogalym International Airport",
+    "city": "Kogalym, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "KGR",
+    "name": "Kulgera Airport",
+    "city": "Kulgera, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KGS",
+    "name": "Kos Island International Airport",
+    "city": "Kos",
+    "country": "Greece"
+  },
+  {
+    "code": "KGT",
+    "name": "Kangding Airport",
+    "city": "Kangding, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "KGU",
+    "name": "Keningau Airport",
+    "city": "Keningau, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KGW",
+    "name": "Kagi Airport",
+    "city": "Kagi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KGX",
+    "name": "Grayling Airport",
+    "city": "Grayling, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KGY",
+    "name": "Kingaroy Airport",
+    "city": "Kingaroy, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KGZ",
+    "name": "Glacier Creek Airport",
+    "city": "Glacier Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KHA",
+    "name": "Khaneh Airport (Piranshahr Airport)",
+    "city": "Piranshahr (Khaneh)",
+    "country": "Iran"
+  },
+  {
+    "code": "KHC",
+    "name": "Kerch Airport (Voykovo Airport)",
+    "city": "Kerch",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KHD",
+    "name": "Khorramabad Airport",
+    "city": "Khorramabad",
+    "country": "Iran"
+  },
+  {
+    "code": "KHE",
+    "name": "Kherson International Airport",
+    "city": "Kherson",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KHG",
+    "name": "Kashgar Airport (Kashi Airport)",
+    "city": "Kashgar, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "KHH",
+    "name": "Kaohsiung International Airport",
+    "city": "Kaohsiung",
+    "country": "Taiwan"
+  },
+  {
+    "code": "KHI",
+    "name": "Jinnah International Airport",
+    "city": "Karachi",
+    "country": "Pakistan"
+  },
+  {
+    "code": "KHJ",
+    "name": "Kauhajoki Airfield",
+    "city": "Kauhajoki",
+    "country": "Finland"
+  },
+  {
+    "code": "KHK",
+    "name": "Kharg Airport",
+    "city": "Kharg Island",
+    "country": "Iran"
+  },
+  {
+    "code": "KHM",
+    "name": "Khamti Airport",
+    "city": "Khamti",
+    "country": "Myanmar"
+  },
+  {
+    "code": "KHN",
+    "name": "Nanchang Changbei International Airport",
+    "city": "Nanchang, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "KHO",
+    "name": "Khoka Moya Airport",
+    "city": "Manyeleti",
+    "country": "South Africa"
+  },
+  {
+    "code": "KHR",
+    "name": "Kharkhorin Airport",
+    "city": "Kharkhorin",
+    "country": "Mongolia"
+  },
+  {
+    "code": "KHS",
+    "name": "Khasab Airport",
+    "city": "Khasab",
+    "country": "Oman"
+  },
+  {
+    "code": "KHT",
+    "name": "Khost Airfield",
+    "city": "Khost",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "KHU",
+    "name": "Kremenchuk Airport",
+    "city": "Kremenchuk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KHV",
+    "name": "Khabarovsk Novy Airport",
+    "city": "Khabarovsk, Khabarovsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "KHW",
+    "name": "Khwai River Airport",
+    "city": "Khwai River Lodge",
+    "country": "Botswana"
+  },
+  {
+    "code": "KHX",
+    "name": "Kihihi Airstrip",
+    "city": "Kihihi",
+    "country": "Uganda"
+  },
+  {
+    "code": "KHY",
+    "name": "Khoy Airport",
+    "city": "Khoy",
+    "country": "Iran"
+  },
+  {
+    "code": "KHZ",
+    "name": "Kauehi Aerodrome",
+    "city": "Kauehi, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "KIA",
+    "name": "Kaiapit Airport",
+    "city": "Kaiapit",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KIB",
+    "name": "Ivanof Bay Seaplane Base",
+    "city": "Ivanof Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KIC",
+    "name": "Mesa Del Rey Airport",
+    "city": "King City, California",
+    "country": "United States"
+  },
+  {
+    "code": "KID",
+    "name": "Kristianstad Airport",
+    "city": "Kristianstad",
+    "country": "Sweden"
+  },
+  {
+    "code": "KIE",
+    "name": "Aropa Airport",
+    "city": "Kieta",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KIF",
+    "name": "Kingfisher Lake Airport",
+    "city": "Kingfisher Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "KIG",
+    "name": "Koingnaas Airport",
+    "city": "Koingnaas",
+    "country": "South Africa"
+  },
+  {
+    "code": "KIH",
+    "name": "Kish International Airport",
+    "city": "Kish Island",
+    "country": "Iran"
+  },
+  {
+    "code": "KII",
+    "name": "Kibuli Airport",
+    "city": "Kibuli",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KIJ",
+    "name": "Niigata Airport",
+    "city": "Niigata, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "KIK",
+    "name": "Kirkuk Airport",
+    "city": "Kirkuk",
+    "country": "Iraq"
+  },
+  {
+    "code": "KIL",
+    "name": "Kilwa Airport",
+    "city": "Kilwa",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KIM",
+    "name": "Kimberley Airport",
+    "city": "Kimberley",
+    "country": "South Africa"
+  },
+  {
+    "code": "KIN",
+    "name": "Norman Manley International Airport",
+    "city": "Kingston",
+    "country": "Jamaica"
+  },
+  {
+    "code": "KIO",
+    "name": "Kili Airport (FAA: Q51)",
+    "city": "Kili Island",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "KIP",
+    "name": "Kickapoo Downtown Airport (FAA: CWC)",
+    "city": "Wichita Falls, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "KIQ",
+    "name": "Kira Airport",
+    "city": "Kira",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KIR",
+    "name": "Kerry Airport (Farranfore Airport)",
+    "city": "Kerry",
+    "country": "Ireland"
+  },
+  {
+    "code": "KIS",
+    "name": "Kisumu International Airport",
+    "city": "Kisumu",
+    "country": "Kenya"
+  },
+  {
+    "code": "KIT",
+    "name": "Kithira Island National Airport",
+    "city": "Kythira",
+    "country": "Greece"
+  },
+  {
+    "code": "KIU",
+    "name": "Kiunga Airport",
+    "city": "Kiunga",
+    "country": "Kenya"
+  },
+  {
+    "code": "KIV",
+    "name": "Chișinău International Airport",
+    "city": "Chișinău",
+    "country": "Moldova"
+  },
+  {
+    "code": "KIW",
+    "name": "Southdowns Airport",
+    "city": "Kitwe",
+    "country": "Zambia"
+  },
+  {
+    "code": "KIX",
+    "name": "Kansai International Airport",
+    "city": "Osaka, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "KIY",
+    "name": "Kilwa Masoko Airport",
+    "city": "Kilwa Masoko",
+    "country": "Tanzania"
+  },
+  {
+    "code": "KIZ",
+    "name": "Kikinonda Airport",
+    "city": "Kikinonda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KJA",
+    "name": "Yemelyanovo International Airport",
+    "city": "Krasnoyarsk, Krasnoyarsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "KJB",
+    "name": "Kurnool Airport",
+    "city": "Orvakal, Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "KJH",
+    "name": "Kaili Huangping Airport",
+    "city": "Kaili, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "KJI",
+    "name": "Kanas Airport",
+    "city": "Burqin, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "KJK",
+    "name": "Kortrijk–Wevelgem International Airport",
+    "city": "Kortrijk",
+    "country": "Belgium"
+  },
+  {
+    "code": "KJP",
+    "name": "Kerama Airport",
+    "city": "Fukaji Island, Kerama Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "KJT",
+    "name": "Kertajati International Airport",
+    "city": "Majalengka, West Java",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KJU",
+    "name": "Kamiraba Airport",
+    "city": "Kamiraba",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KJX",
+    "name": "Blangpidie Airport",
+    "city": "Blangpidie, Southwest Aceh Regency",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KKA",
+    "name": "Koyuk Alfred Adams Airport",
+    "city": "Koyuk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KKB",
+    "name": "Kitoi Bay Seaplane Base",
+    "city": "Kitoi Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KKC",
+    "name": "Khon Kaen Airport",
+    "city": "Khon Kaen",
+    "country": "Thailand"
+  },
+  {
+    "code": "KKD",
+    "name": "Kokoda Airport",
+    "city": "Kokoda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KKE",
+    "name": "Kerikeri Airport (Bay of Islands Airport)",
+    "city": "Kerikeri",
+    "country": "New Zealand"
+  },
+  {
+    "code": "KKG",
+    "name": "Konawaruk Airport",
+    "city": "Konawaruk",
+    "country": "Guyana"
+  },
+  {
+    "code": "KKH",
+    "name": "Kongiganak Airport (FAA: DUY)",
+    "city": "Kongiganak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KKI",
+    "name": "Akiachak Airport (FAA: Z13)",
+    "city": "Akiachak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KKJ",
+    "name": "Kitakyushu Airport",
+    "city": "Kitakyushu, Kyushu",
+    "country": "Japan"
+  },
+  {
+    "code": "KKK",
+    "name": "Kalakaket Creek Air Station (FAA: 1KC)",
+    "city": "Kalakaket Creek, Alaska",
+    "country": "United States (Google Earth view)"
+  },
+  {
+    "code": "KKL",
+    "name": "Karluk Lake Seaplane Base",
+    "city": "Karluk Lake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KKM",
+    "name": "Khok Kathiam Air Force Base",
+    "city": "Lopburi",
+    "country": "Thailand"
+  },
+  {
+    "code": "KKN",
+    "name": "Kirkenes Airport, Høybuktmoen",
+    "city": "Kirkenes",
+    "country": "Norway"
+  },
+  {
+    "code": "KKO",
+    "name": "Kaikohe Aerodrome",
+    "city": "Kaikohe",
+    "country": "New Zealand"
+  },
+  {
+    "code": "KKP",
+    "name": "Koolburra Airport",
+    "city": "Koolburra, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KKQ",
+    "name": "Krasnoselkup Airport",
+    "city": "Krasnoselkup, Yamalo-Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "KKR",
+    "name": "Kaukura Airport",
+    "city": "Kaukura Atoll, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "KKS",
+    "name": "Kashan Airport",
+    "city": "Kashan, Isfahan",
+    "country": "Iran"
+  },
+  {
+    "code": "KKT",
+    "name": "Kentland Municipal Airport (FAA: 50I)",
+    "city": "Kentland, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "KKU",
+    "name": "Ekuk Airport",
+    "city": "Ekuk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KKW",
+    "name": "Kikwit Airport",
+    "city": "Kikwit",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KKX",
+    "name": "Kikai Airport (Kikaiga Shima Airport)",
+    "city": "Kikai, Satsunan Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "KKY",
+    "name": "Kilkenny Airport",
+    "city": "Kilkenny",
+    "country": "Ireland"
+  },
+  {
+    "code": "KKZ",
+    "name": "Koh Kong Airport",
+    "city": "Koh Kong",
+    "country": "Cambodia"
+  },
+  {
+    "code": "KLB",
+    "name": "Kalabo Airport",
+    "city": "Kalabo",
+    "country": "Zambia"
+  },
+  {
+    "code": "KLC",
+    "name": "Kaolack Airport",
+    "city": "Kaolack",
+    "country": "Senegal"
+  },
+  {
+    "code": "KLD",
+    "name": "Migalovo Air Base",
+    "city": "Tver, Tver Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KLE",
+    "name": "Kaélé Airport",
+    "city": "Kaélé",
+    "country": "Cameroon"
+  },
+  {
+    "code": "KLF",
+    "name": "Grabtsevo Airport",
+    "city": "Kaluga, Kaluga Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KLG",
+    "name": "Kalskag Airport",
+    "city": "Kalskag, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KLH",
+    "name": "Kolhapur Airport",
+    "city": "Kolhapur, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "KLI",
+    "name": "Kotakoli Air Base",
+    "city": "Kotakoli",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KLK",
+    "name": "Kalokol Airport (Fergusons Gulf Airport)",
+    "city": "Kalokol",
+    "country": "Kenya"
+  },
+  {
+    "code": "KLL",
+    "name": "Levelock Airport (FAA: 9Z8)",
+    "city": "Levelock, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KLM",
+    "name": "Kalaleh Airport",
+    "city": "Kalaleh",
+    "country": "Iran"
+  },
+  {
+    "code": "KLN",
+    "name": "Larsen Bay Airport (FAA: 2A3)",
+    "city": "Larsen Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KLO",
+    "name": "Kalibo International Airport",
+    "city": "Kalibo",
+    "country": "Philippines"
+  },
+  {
+    "code": "KLQ",
+    "name": "Keluang Airport",
+    "city": "Keluang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KLR",
+    "name": "Kalmar Airport",
+    "city": "Kalmar",
+    "country": "Sweden"
+  },
+  {
+    "code": "KLS",
+    "name": "Southwest Washington Regional Airport",
+    "city": "Kelso, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "KLU",
+    "name": "Klagenfurt Airport",
+    "city": "Klagenfurt",
+    "country": "Austria"
+  },
+  {
+    "code": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "KLW",
+    "name": "Klawock Airport (FAA: AKW)",
+    "city": "Klawock, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KLX",
+    "name": "Kalamata International Airport",
+    "city": "Kalamata",
+    "country": "Greece"
+  },
+  {
+    "code": "KLY",
+    "name": "Kamisuku Airport",
+    "city": "Kalima",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KLZ",
+    "name": "Kleinzee Airport",
+    "city": "Kleinzee",
+    "country": "South Africa"
+  },
+  {
+    "code": "KMA",
+    "name": "Kerema Airport",
+    "city": "Kerema",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KMB",
+    "name": "Koinambe Airport",
+    "city": "Koinambe",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KMC",
+    "name": "King Khaled Military City Airport",
+    "city": "King Khalid Military City",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "KME",
+    "name": "Kamembe Airport",
+    "city": "Cyangugu",
+    "country": "Rwanda"
+  },
+  {
+    "code": "KMF",
+    "name": "Kamina Airport",
+    "city": "Kamina",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KMG",
+    "name": "Kunming Changshui International Airport",
+    "city": "Kunming, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "KMH",
+    "name": "Johan Pienaar Airport",
+    "city": "Kuruman",
+    "country": "South Africa"
+  },
+  {
+    "code": "KMI",
+    "name": "Miyazaki Airport",
+    "city": "Miyazaki, Kyushu",
+    "country": "Japan"
+  },
+  {
+    "code": "KMJ",
+    "name": "Kumamoto Airport",
+    "city": "Mashiki, Kyushu",
+    "country": "Japan"
+  },
+  {
+    "code": "KMK",
+    "name": "Makabana Airport",
+    "city": "Makabana",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "KML",
+    "name": "Kamileroi Airport",
+    "city": "Kamileroi, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KMM",
+    "name": "Kimam Airport",
+    "city": "Kimam",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KMN",
+    "name": "Kamina Airport (Kamina Ville Airport)",
+    "city": "Kamina",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KMO",
+    "name": "Manokotak Airport (FAA: MBA)",
+    "city": "Manokotak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KMP",
+    "name": "Keetmanshoop Airport",
+    "city": "Keetmanshoop",
+    "country": "Namibia"
+  },
+  {
+    "code": "KMQ",
+    "name": "Komatsu Airport (Kanazawa Airport)",
+    "city": "Komatsu, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "KMR",
+    "name": "Karimui Airport",
+    "city": "Karimui",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KMS",
+    "name": "Kumasi Airport",
+    "city": "Kumasi",
+    "country": "Ghana"
+  },
+  {
+    "code": "KMT",
+    "name": "Kampot Airport",
+    "city": "Kampot",
+    "country": "Cambodia"
+  },
+  {
+    "code": "KMU",
+    "name": "Kismayo Airport (Kisimayu Airport)",
+    "city": "Kismayo",
+    "country": "Somalia"
+  },
+  {
+    "code": "KMV",
+    "name": "Kalaymyo Airport (Kalemyo Airport)",
+    "city": "Kalaymyo",
+    "country": "Myanmar"
+  },
+  {
+    "code": "KMW",
+    "name": "Kostroma Airport",
+    "city": "Kostroma, Kostroma Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KMX",
+    "name": "King Khalid Air Base",
+    "city": "Khamis Mushait",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "KMY",
+    "name": "Moser Bay Seaplane Base",
+    "city": "Moser Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KMZ",
+    "name": "Kaoma Airport",
+    "city": "Kaoma",
+    "country": "Zambia"
+  },
+  {
+    "code": "KNA",
+    "name": "Viña del Mar Airport",
+    "city": "Viña del Mar",
+    "country": "Chile"
+  },
+  {
+    "code": "KNB",
+    "name": "Kanab Municipal Airport",
+    "city": "Kanab, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "KND",
+    "name": "Kindu Airport",
+    "city": "Kindu",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KNE",
+    "name": "Kanainj Airport",
+    "city": "Kanainj",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KNF",
+    "name": "RAF Marham",
+    "city": "King's Lynn, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "KNG",
+    "name": "Kaimana Airport",
+    "city": "Kaimana",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KNH",
+    "name": "Kinmen Airport (Shang Yi Airport)",
+    "city": "Kinmen",
+    "country": "Taiwan"
+  },
+  {
+    "code": "KNI",
+    "name": "Katanning Airport",
+    "city": "Katanning, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KNJ",
+    "name": "Kindamba Airport",
+    "city": "Kindamba",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "KNK",
+    "name": "Kokhanok Airport (FAA: 9K2)",
+    "city": "Kokhanok, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KNL",
+    "name": "Kelanoa Airport",
+    "city": "Kelanoa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KNM",
+    "name": "Kaniama Airport",
+    "city": "Kaniama",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KNN",
+    "name": "Kankan Airport (Diankana Airport)",
+    "city": "Kankan",
+    "country": "Guinea"
+  },
+  {
+    "code": "KNO",
+    "name": "Kualanamu International Airport",
+    "city": "Medan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KNP",
+    "name": "Kapanda Airport",
+    "city": "Capanda",
+    "country": "Angola"
+  },
+  {
+    "code": "KNQ",
+    "name": "Koné Airport",
+    "city": "Koné",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "KNR",
+    "name": "Jam Airport",
+    "city": "Kangan",
+    "country": "Iran"
+  },
+  {
+    "code": "KNS",
+    "name": "King Island Airport",
+    "city": "King Island, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "KNT",
+    "name": "Kennett Memorial Airport (FAA: TKX)",
+    "city": "Kennett, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "KNU",
+    "name": "Kanpur Airport (Chakeri Air Force Station)",
+    "city": "Kanpur, Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "KNW",
+    "name": "New Stuyahok Airport",
+    "city": "New Stuyahok, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KNX",
+    "name": "East Kimberley Regional Airport",
+    "city": "Kununurra, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KNZ",
+    "name": "Kéniéba Airport",
+    "city": "Kéniéba",
+    "country": "Mali"
+  },
+  {
+    "code": "KOA",
+    "name": "Kona International Airport at Keāhole",
+    "city": "Kailua / Kona, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "KOC",
+    "name": "Koumac Airport",
+    "city": "Koumac",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "KOD",
+    "name": "Kotabangun Airport",
+    "city": "Kotabangun",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KOE",
+    "name": "El Tari Airport",
+    "city": "Kupang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KOF",
+    "name": "Komatipoort Airport",
+    "city": "Komatipoort",
+    "country": "South Africa"
+  },
+  {
+    "code": "KOG",
+    "name": "Khong Island Airport",
+    "city": "Khong",
+    "country": "Laos"
+  },
+  {
+    "code": "KOH",
+    "name": "Koolatah Airport",
+    "city": "Koolatah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KOI",
+    "name": "Kirkwall Airport",
+    "city": "Kirkwall, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "KOJ",
+    "name": "Kagoshima Airport",
+    "city": "Kagoshima, Kyushu",
+    "country": "Japan"
+  },
+  {
+    "code": "KOK",
+    "name": "Kokkola-Pietarsaari Airport",
+    "city": "Kokkola / Jakobstad",
+    "country": "Finland"
+  },
+  {
+    "code": "KOL",
+    "name": "Koumala Airport",
+    "city": "Koumala",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "KOM",
+    "name": "Komo-Manda Airport",
+    "city": "Komo-Manda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KON",
+    "name": "Kontum Airport",
+    "city": "Kon Tum",
+    "country": "Vietnam"
+  },
+  {
+    "code": "KOO",
+    "name": "Kongolo Airport",
+    "city": "Kongolo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KOP",
+    "name": "Nakhon Phanom Airport",
+    "city": "Nakhon Phanom",
+    "country": "Thailand"
+  },
+  {
+    "code": "KOQ",
+    "name": "Köthen Airport",
+    "city": "Köthen, Saxony-Anhalt",
+    "country": "Germany"
+  },
+  {
+    "code": "KOR",
+    "name": "Kakoro Airport",
+    "city": "Kakoro",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KOS",
+    "name": "Sihanoukville International Airport (Kaong Kang Airport)",
+    "city": "Sihanoukville",
+    "country": "Cambodia"
+  },
+  {
+    "code": "KOT",
+    "name": "Kotlik Airport (FAA: 2A9)",
+    "city": "Kotlik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KOU",
+    "name": "Koulamoutou Airport",
+    "city": "Koulamoutou",
+    "country": "Gabon"
+  },
+  {
+    "code": "KOV",
+    "name": "Kokshetau Airport",
+    "city": "Kokshetau",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "KOW",
+    "name": "Ganzhou Huangjin Airport",
+    "city": "Ganzhou, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "KOX",
+    "name": "Kokonao Airport",
+    "city": "Kokonao",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KOY",
+    "name": "Olga Bay Seaplane Base",
+    "city": "Olga Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KOZ",
+    "name": "Ouzinkie Airport (FAA: 4K5)",
+    "city": "Ouzinkie, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KPA",
+    "name": "Kopiago Airport",
+    "city": "Kopiago",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KPB",
+    "name": "Point Baker Seaplane Base",
+    "city": "Point Baker, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KPC",
+    "name": "Port Clarence Coast Guard Station",
+    "city": "Port Clarence, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KPE",
+    "name": "Yapsiei Airport",
+    "city": "Yapsiei",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KPF",
+    "name": "Kondubol Airport",
+    "city": "Kondubol",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KPG",
+    "name": "Kurupung Airport",
+    "city": "Kurupung",
+    "country": "Guyana"
+  },
+  {
+    "code": "KPI",
+    "name": "Kapit Airport",
+    "city": "Kapit, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KPL",
+    "name": "Kapal Airport",
+    "city": "Kapal",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KPM",
+    "name": "Kompiam Airport",
+    "city": "Kompiam",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KPN",
+    "name": "Kipnuk Airport (FAA: IIK)",
+    "city": "Kipnuk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KPO",
+    "name": "Pohang Airport",
+    "city": "Pohang",
+    "country": "South Korea"
+  },
+  {
+    "code": "KPP",
+    "name": "Kalpowar Airport",
+    "city": "Kalpowar, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KPR",
+    "name": "Port Williams Seaplane Base",
+    "city": "Port Williams, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KPS",
+    "name": "Kempsey Airport",
+    "city": "Kempsey, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "KPT",
+    "name": "Jackpot Airport (Hayden Field) (FAA: 06U)",
+    "city": "Jackpot, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "KPV",
+    "name": "Perryville Airport (FAA: PEV)",
+    "city": "Perryville, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KPW",
+    "name": "Keperveyem Airport",
+    "city": "Keperveyem, Chukotka",
+    "country": "Russia"
+  },
+  {
+    "code": "KPY",
+    "name": "Port Bailey Seaplane Base",
+    "city": "Port Bailey, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KQA",
+    "name": "Akutan Airport",
+    "city": "Akutan, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KQH",
+    "name": "Ajmer Kishangarh Airport",
+    "city": "Kishangarh, Rajasthan",
+    "country": "India"
+  },
+  {
+    "code": "KQL",
+    "name": "Kol Airport",
+    "city": "Kol",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KQR",
+    "name": "Karara Airport",
+    "city": "Karara, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KQT",
+    "name": "Bokhtar International Airport",
+    "city": "Bokhtar",
+    "country": "Tajikistan"
+  },
+  {
+    "code": "KRA",
+    "name": "Kerang Airport",
+    "city": "Kerang, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "KRB",
+    "name": "Karumba Airport",
+    "city": "Karumba, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KRC",
+    "name": "Depati Parbo Airport",
+    "city": "Kerinci",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KRD",
+    "name": "Kurundi Airport",
+    "city": "Kurundi Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KRE",
+    "name": "Kirundo Airport",
+    "city": "Kirundo",
+    "country": "Burundi"
+  },
+  {
+    "code": "KRF",
+    "name": "Höga Kusten Airport (Kramfors-Sollefteå Airport)",
+    "city": "Kramfors / Sollefteå",
+    "country": "Sweden"
+  },
+  {
+    "code": "KRG",
+    "name": "Karasabai Airport",
+    "city": "Karasabai",
+    "country": "Guyana"
+  },
+  {
+    "code": "KRI",
+    "name": "Kikori Airport",
+    "city": "Kikori",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KRJ",
+    "name": "Karawari Airport",
+    "city": "Karawari",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KRK",
+    "name": "John Paul II International Airport Kraków–Balice",
+    "city": "Kraków",
+    "country": "Poland"
+  },
+  {
+    "code": "KRL",
+    "name": "Korla Airport",
+    "city": "Korla, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "KRM",
+    "name": "Karanambo Airport",
+    "city": "Karanambo",
+    "country": "Guyana"
+  },
+  {
+    "code": "KRN",
+    "name": "Kiruna Airport",
+    "city": "Kiruna",
+    "country": "Sweden"
+  },
+  {
+    "code": "KRO",
+    "name": "Kurgan Airport",
+    "city": "Kurgan, Kurgan Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KRP",
+    "name": "Karup Airport",
+    "city": "Karup",
+    "country": "Denmark"
+  },
+  {
+    "code": "KRQ",
+    "name": "Kramatorsk Airport",
+    "city": "Kramatorsk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KRR",
+    "name": "Krasnodar International Airport (Pashkovsky Airport)",
+    "city": "Krasnodar, Krasnodar Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "KRS",
+    "name": "Kristiansand Airport, Kjevik",
+    "city": "Kristiansand",
+    "country": "Norway"
+  },
+  {
+    "code": "KRT",
+    "name": "Khartoum International Airport",
+    "city": "Khartoum",
+    "country": "Sudan"
+  },
+  {
+    "code": "KRU",
+    "name": "Kerau Airport",
+    "city": "Kerau",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KRV",
+    "name": "Kimwarer Airport (Kerio Valley Airport)",
+    "city": "Kimwarer",
+    "country": "Kenya"
+  },
+  {
+    "code": "KRW",
+    "name": "Turkmenbashi International Airport",
+    "city": "Türkmenbaşy",
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "KRX",
+    "name": "Karkar Airport",
+    "city": "Karkar Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KRY",
+    "name": "Karamay Airport",
+    "city": "Karamay, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "KRZ",
+    "name": "Basango Mboliasa Airport",
+    "city": "Kiri",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KSA",
+    "name": "Kosrae International Airport (FAA: TTK)",
+    "city": "Kosrae",
+    "country": "Federated States of Micronesia"
+  },
+  {
+    "code": "KSB",
+    "name": "Kasanombe Airport",
+    "city": "Kasanombe",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KSC",
+    "name": "Košice International Airport",
+    "city": "Košice",
+    "country": "Slovakia"
+  },
+  {
+    "code": "KSD",
+    "name": "Karlstad Airport",
+    "city": "Karlstad",
+    "country": "Sweden"
+  },
+  {
+    "code": "KSE",
+    "name": "Kasese Airport",
+    "city": "Kasese",
+    "country": "Uganda"
+  },
+  {
+    "code": "KSF",
+    "name": "Kassel Airport",
+    "city": "Kassel, Hesse",
+    "country": "Germany"
+  },
+  {
+    "code": "KSG",
+    "name": "Kisengam Airport",
+    "city": "Kisengam",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KSH",
+    "name": "Shahid Ashrafi Esfahani Airport (Kermanshah Airport)",
+    "city": "Kermanshah",
+    "country": "Iran"
+  },
+  {
+    "code": "KSI",
+    "name": "Kissidougou Airport",
+    "city": "Kissidougou",
+    "country": "Guinea"
+  },
+  {
+    "code": "KSJ",
+    "name": "Kasos Island Public Airport",
+    "city": "Kasos Island",
+    "country": "Greece"
+  },
+  {
+    "code": "KSK",
+    "name": "Karlskoga Airport",
+    "city": "Karlskoga",
+    "country": "Sweden"
+  },
+  {
+    "code": "KSL",
+    "name": "Kassala Airport",
+    "city": "Kassala",
+    "country": "Sudan"
+  },
+  {
+    "code": "KSM",
+    "name": "St. Mary's Airport",
+    "city": "St. Mary's, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KSN",
+    "name": "Kostanay Airport",
+    "city": "Kostanay",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "KSO",
+    "name": "Kastoria National Airport (Aristotelis Airport)",
+    "city": "Kastoria",
+    "country": "Greece"
+  },
+  {
+    "code": "KSP",
+    "name": "Kosipe Airport",
+    "city": "Kosipe",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KSQ",
+    "name": "Karshi Airport",
+    "city": "Karshi",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "KSR",
+    "name": "H. Aroeppala Airport",
+    "city": "Selayar Islands, Sulawesi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KSS",
+    "name": "Sikasso Airport",
+    "city": "Sikasso",
+    "country": "Mali"
+  },
+  {
+    "code": "KST",
+    "name": "Rabak Airport",
+    "city": "Kosti",
+    "country": "Sudan"
+  },
+  {
+    "code": "KSU",
+    "name": "Kristiansund Airport, Kvernberget",
+    "city": "Kristiansund",
+    "country": "Norway"
+  },
+  {
+    "code": "KSV",
+    "name": "Springvale Airport",
+    "city": "Springvale, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KSW",
+    "name": "Kiryat Shmona Airport",
+    "city": "Kiryat Shmona",
+    "country": "Israel"
+  },
+  {
+    "code": "KSX",
+    "name": "Yasuru Airport",
+    "city": "Yasuru",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KSY",
+    "name": "Kars Harakani Airport",
+    "city": "Kars",
+    "country": "Turkey"
+  },
+  {
+    "code": "KSZ",
+    "name": "Kotlas Airport",
+    "city": "Kotlas, Arkhangelsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KTA",
+    "name": "Karratha Airport",
+    "city": "Karratha, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KTB",
+    "name": "Thorne Bay Seaplane Base",
+    "city": "Thorne Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KTC",
+    "name": "Katiola Airport",
+    "city": "Katiola",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "KTD",
+    "name": "Kitadaito Airport",
+    "city": "Kitadaito, Daitō Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "KTE",
+    "name": "Kerteh Airport",
+    "city": "Kerteh, Terengganu",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KTF",
+    "name": "Takaka Aerodrome",
+    "city": "Takaka",
+    "country": "New Zealand"
+  },
+  {
+    "code": "KTG",
+    "name": "Rahadi Osman Airport (Ketapang Airport)",
+    "city": "Ketapang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KTH",
+    "name": "Tikchik Lodge Seaplane Base (FAA: AK56)",
+    "city": "Tikchik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KTI",
+    "name": "Kratié Airport",
+    "city": "Kratié",
+    "country": "Cambodia"
+  },
+  {
+    "code": "KTJ",
+    "name": "Kichwa Tembo Airport",
+    "city": "Kichwa Tembo",
+    "country": "Kenya"
+  },
+  {
+    "code": "KTK",
+    "name": "Kunua Airport",
+    "city": "Kunua",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KTL",
+    "name": "Kitale Airport",
+    "city": "Kitale",
+    "country": "Kenya"
+  },
+  {
+    "code": "KTM",
+    "name": "Tribhuvan International Airport",
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  {
+    "code": "KTN",
+    "name": "Ketchikan International Airport",
+    "city": "Ketchikan, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KTO",
+    "name": "Kato Airport",
+    "city": "Kato",
+    "country": "Guyana"
+  },
+  {
+    "code": "KTP",
+    "name": "Tinson Pen Aerodrome",
+    "city": "Kingston",
+    "country": "Jamaica"
+  },
+  {
+    "code": "KTQ",
+    "name": "Kitee Airfield",
+    "city": "Kitee",
+    "country": "Finland"
+  },
+  {
+    "code": "KTR",
+    "name": "RAAF Base Tindal",
+    "city": "Katherine, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "KTS",
+    "name": "Brevig Mission Airport",
+    "city": "Brevig Mission, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KTT",
+    "name": "Kittilä Airport",
+    "city": "Kittilä",
+    "country": "Finland"
+  },
+  {
+    "code": "KTU",
+    "name": "Kota Airport",
+    "city": "Kota, Rajasthan",
+    "country": "India"
+  },
+  {
+    "code": "KTV",
+    "name": "Kamarata Airport",
+    "city": "Kamarata",
+    "country": "Venezuela"
+  },
+  {
+    "code": "KTW",
+    "name": "Katowice International Airport",
+    "city": "Katowice",
+    "country": "Poland"
+  },
+  {
+    "code": "KTX",
+    "name": "Koutiala Airport",
+    "city": "Koutiala",
+    "country": "Mali"
+  },
+  {
+    "code": "KTY",
+    "name": "Katukurunda Airport",
+    "city": "Kalutara",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "KUA",
+    "name": "Sultan Haji Ahmad Shah Airport (RMAF Kuantan)",
+    "city": "Kuantan, Pahang",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KUC",
+    "name": "Kuria Airport",
+    "city": "Kuria",
+    "country": "Kiribati"
+  },
+  {
+    "code": "KUD",
+    "name": "Kudat Airport",
+    "city": "Kudat, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KUE",
+    "name": "Kukundu Airport",
+    "city": "Kolombangara, Western Province",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "KUF",
+    "name": "Kurumoch International Airport",
+    "city": "Samara, Samara Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KUG",
+    "name": "Kubin Airport",
+    "city": "Moa Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KUH",
+    "name": "Kushiro Airport",
+    "city": "Kushiro, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "KUK",
+    "name": "Kasigluk Airport (FAA: Z09)",
+    "city": "Kasigluk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KUL",
+    "name": "Kuala Lumpur International Airport",
+    "city": "Kuala Lumpur",
+    "country": "1 Malaysia"
+  },
+  {
+    "code": "KUM",
+    "name": "Yakushima Airport",
+    "city": "Yakushima, Ōsumi Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "KUN",
+    "name": "Kaunas International Airport",
+    "city": "Kaunas",
+    "country": "Lithuania"
+  },
+  {
+    "code": "KUO",
+    "name": "Kuopio Airport",
+    "city": "Kuopio",
+    "country": "Finland"
+  },
+  {
+    "code": "KUP",
+    "name": "Kupiano Airport",
+    "city": "Kupiano",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KUQ",
+    "name": "Kuri Airport",
+    "city": "Kuri",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KUR",
+    "name": "Razer Airport",
+    "city": "Koran va Monjan (Kiran wa Munjan)",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "KUS",
+    "name": "Kulusuk Airport",
+    "city": "Kulusuk",
+    "country": "Greenland"
+  },
+  {
+    "code": "KUT",
+    "name": "David the Builder Kutaisi International Airport",
+    "city": "Kutaisi",
+    "country": "Georgia"
+  },
+  {
+    "code": "KUU",
+    "name": "Bhuntar Airport (Kullu Manali Airport)",
+    "city": "Kullu, Himachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "KUV",
+    "name": "Gunsan Airport",
+    "city": "Gunsan",
+    "country": "South Korea"
+  },
+  {
+    "code": "KUX",
+    "name": "Kuyol Airport",
+    "city": "Kuyol",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KUY",
+    "name": "Kamusi Airport",
+    "city": "Kamusi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KVA",
+    "name": "Kavala International Airport (Alexander the Great Airport)",
+    "city": "Kavala",
+    "country": "Greece"
+  },
+  {
+    "code": "KVB",
+    "name": "Skövde Airport",
+    "city": "Skövde",
+    "country": "Sweden"
+  },
+  {
+    "code": "KVC",
+    "name": "King Cove Airport",
+    "city": "King Cove, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KVD",
+    "name": "Ganja International Airport",
+    "city": "Ganja",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "KVE",
+    "name": "Kitava Island Airport",
+    "city": "Kitava Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KVG",
+    "name": "Kavieng Airport",
+    "city": "Kavieng",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KVK",
+    "name": "Kirovsk-Apatity Airport (Khibiny Airport)",
+    "city": "Kirovsk / Apatity, Murmansk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KVL",
+    "name": "Kivalina Airport",
+    "city": "Kivalina, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KVM",
+    "name": "Markovo Airport",
+    "city": "Markovo, Chukotka",
+    "country": "Russia"
+  },
+  {
+    "code": "KVO",
+    "name": "Morava Airport",
+    "city": "Lađevci",
+    "country": "Serbia"
+  },
+  {
+    "code": "KVR",
+    "name": "Kavalerovo Airport",
+    "city": "Kavalerovo, Primorsky Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "KVU",
+    "name": "Korolevu Seaplane Base",
+    "city": "Korolevu",
+    "country": "Fiji"
+  },
+  {
+    "code": "KVX",
+    "name": "Pobedilovo Airport",
+    "city": "Kirov, Kirov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "KWA",
+    "name": "Bucholz Army Airfield",
+    "city": "Kwajalein",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "KWB",
+    "name": "Dewadaru Airport",
+    "city": "Karimun Java",
+    "country": "Indonesia"
+  },
+  {
+    "code": "KWD",
+    "name": "Kavadja Airport",
+    "city": "Kavadja",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "KWE",
+    "name": "Guiyang Longdongbao International Airport",
+    "city": "Guiyang, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "KWF",
+    "name": "Waterfall Seaplane Base",
+    "city": "Waterfall, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KWG",
+    "name": "Kryvyi Rih International Airport",
+    "city": "Kryvyi Rih (Krivoi Rog)",
+    "country": "Ukraine"
+  },
+  {
+    "code": "KWH",
+    "name": "Khwahan Airport",
+    "city": "Khwahan",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "KWI",
+    "name": "Kuwait International Airport",
+    "city": "Kuwait City",
+    "country": "Kuwait"
+  },
+  {
+    "code": "KWJ",
+    "name": "Gwangju Airport",
+    "city": "Gwangju (Kwangju)",
+    "country": "South Korea"
+  },
+  {
+    "code": "KWK",
+    "name": "Kwigillingok Airport (FAA: GGV)",
+    "city": "Kwigillingok, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KWL",
+    "name": "Guilin Liangjiang International Airport",
+    "city": "Guilin, Guangxi",
+    "country": "China"
+  },
+  {
+    "code": "KWM",
+    "name": "Kowanyama Airport",
+    "city": "Kowanyama, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "KWN",
+    "name": "Quinhagak Airport (FAA: AQH)",
+    "city": "Quinhagak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KWO",
+    "name": "Kawito Airport",
+    "city": "Kawito",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KWP",
+    "name": "West Point Village Seaplane Base",
+    "city": "West Point, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KWR",
+    "name": "Kwai Harbour Airport",
+    "city": "Kwai Harbour",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "KWS",
+    "name": "Kwailabesi Airport",
+    "city": "Kwailabesi",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "KWT",
+    "name": "Kwethluk Airport",
+    "city": "Kwethluk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KWV",
+    "name": "Kurwina Airport",
+    "city": "Kurwina",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KWX",
+    "name": "Kiwai Island Airport",
+    "city": "Kiwai Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KWY",
+    "name": "Kiwayu Airport",
+    "city": "Kiwayu",
+    "country": "Kenya"
+  },
+  {
+    "code": "KWZ",
+    "name": "Kolwezi Airport",
+    "city": "Kolwezi",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "KXA",
+    "name": "Kasaan Seaplane Base",
+    "city": "Kasaan, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KXD",
+    "name": "Kondinskoye Airport",
+    "city": "Kondinskoye, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "KXE",
+    "name": "Klerksdorp Airport (P.C. Pelser Airport)",
+    "city": "Klerksdorp",
+    "country": "South Africa"
+  },
+  {
+    "code": "KXF",
+    "name": "Koro Airport",
+    "city": "Koro Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "KXK",
+    "name": "Komsomolsk-on-Amur Airport",
+    "city": "Komsomolsk-on-Amur, Khabarovsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "KXR",
+    "name": "Karoola Airport",
+    "city": "Karoola",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KXU",
+    "name": "Katiu Airport",
+    "city": "Katiu, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "KYA",
+    "name": "Konya Airport",
+    "city": "Konya",
+    "country": "Turkey"
+  },
+  {
+    "code": "KYD",
+    "name": "Lanyu Airport",
+    "city": "Orchid Island",
+    "country": "Taiwan"
+  },
+  {
+    "code": "KYE",
+    "name": "Rene Mouawad Air Base (Kleyate Airport)",
+    "city": "Tripoli",
+    "country": "Lebanon"
+  },
+  {
+    "code": "KYF",
+    "name": "Yeelirrie Airport",
+    "city": "Yeelirrie, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KYI",
+    "name": "Yalata Airport",
+    "city": "Yalata Mission, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "KYK",
+    "name": "Karluk Airport",
+    "city": "Karluk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KYO",
+    "name": "Tampa North Aero Park (FAA: X39)",
+    "city": "Tampa, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "KYP",
+    "name": "Kyaukpyu Airport",
+    "city": "Kyaukpyu",
+    "country": "Myanmar"
+  },
+  {
+    "code": "KYS",
+    "name": "Kayes Airport (Dag-Dag Airport)",
+    "city": "Kayes",
+    "country": "Mali"
+  },
+  {
+    "code": "KYT",
+    "name": "Kyauktu Airport",
+    "city": "Kyaukhtu",
+    "country": "Myanmar"
+  },
+  {
+    "code": "KYU",
+    "name": "Koyukuk Airport",
+    "city": "Koyukuk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KYX",
+    "name": "Yalumet Airport",
+    "city": "Yalumet",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KYZ",
+    "name": "Kyzyl Airport",
+    "city": "Kyzyl, Tuva",
+    "country": "Russia"
+  },
+  {
+    "code": "KZB",
+    "name": "Zachar Bay Seaplane Base",
+    "city": "Zachar Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "KZC",
+    "name": "Kampong Chhnang Airport",
+    "city": "Kampong Chhnang",
+    "country": "Cambodia"
+  },
+  {
+    "code": "KZD",
+    "name": "Krakor Airport",
+    "city": "Krakor",
+    "country": "Cambodia"
+  },
+  {
+    "code": "KZF",
+    "name": "Kaintiba Airport",
+    "city": "Kaintiba",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "KZG",
+    "name": "Kitzingen Airport",
+    "city": "Kitzingen, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "KZI",
+    "name": "Kozani National Airport (Filippos Airport)",
+    "city": "Kozani",
+    "country": "Greece"
+  },
+  {
+    "code": "KZN",
+    "name": "Kazan International Airport",
+    "city": "Kazan, Tatarstan",
+    "country": "Russia"
+  },
+  {
+    "code": "KZO",
+    "name": "Kyzylorda Airport",
+    "city": "Kyzylorda",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "KZR",
+    "name": "Zafer Airport",
+    "city": "Kütahya",
+    "country": "Turkey"
+  },
+  {
+    "code": "KZS",
+    "name": "Kastellorizo Island Public Airport",
+    "city": "Kastellorizo",
+    "country": "Greece"
+  }
+]

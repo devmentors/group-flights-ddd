@@ -1,0 +1,1094 @@
+﻿[
+  {
+    "code": "VAA",
+    "name": "Vaasa Airport",
+    "city": "Vaasa",
+    "country": "Finland"
+  },
+  {
+    "code": "VAB",
+    "name": "Yavarate Airport",
+    "city": "Yavarate",
+    "country": "Colombia"
+  },
+  {
+    "code": "VAC",
+    "name": "Varrelbusch Airport",
+    "city": "Cloppenburg, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "VAD",
+    "name": "Moody Air Force Base",
+    "city": "Valdosta, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "VAF",
+    "name": "Valence-Chabeuil Airport",
+    "city": "Valence, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "VAG",
+    "name": "Major Brigadeiro Trompowsky Airport",
+    "city": "Varginha, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "VAH",
+    "name": "Cap. Av. Vidal Villagomez Toledo Airport",
+    "city": "Vallegrande",
+    "country": "Bolivia"
+  },
+  {
+    "code": "VAI",
+    "name": "Vanimo Airport",
+    "city": "Vanimo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "VAK",
+    "name": "Chevak Airport",
+    "city": "Chevak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "VAL",
+    "name": "Valença Airport",
+    "city": "Valença, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "VAM",
+    "name": "Villa International Airport Maamigili",
+    "city": "Maamigili",
+    "country": "Maldives"
+  },
+  {
+    "code": "VAN",
+    "name": "Van Ferit Melen Airport",
+    "city": "Van",
+    "country": "Turkey"
+  },
+  {
+    "code": "VAO",
+    "name": "Suavanao Airport",
+    "city": "Suavanao",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "VAP",
+    "name": "Rodelillo Airfield",
+    "city": "Valparaíso",
+    "country": "Chile"
+  },
+  {
+    "code": "VAR",
+    "name": "Varna Airport",
+    "city": "Varna",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "VAS",
+    "name": "Sivas Airport",
+    "city": "Sivas",
+    "country": "Turkey"
+  },
+  {
+    "code": "VAT",
+    "name": "Vatomandry Airport",
+    "city": "Vatomandry",
+    "country": "Madagascar"
+  },
+  {
+    "code": "VAU",
+    "name": "Vatukoula Airport",
+    "city": "Vatukoula",
+    "country": "Fiji"
+  },
+  {
+    "code": "VAV",
+    "name": "Vavaʻu International Airport",
+    "city": "Vavaʻu",
+    "country": "Tonga"
+  },
+  {
+    "code": "VAW",
+    "name": "Vardø Airport, Svartnes",
+    "city": "Vardø",
+    "country": "Norway"
+  },
+  {
+    "code": "VBA",
+    "name": "Ann Airport",
+    "city": "Ann",
+    "country": "Myanmar"
+  },
+  {
+    "code": "VBC",
+    "name": "Mandalay Chanmyathazi Airport",
+    "city": "Mandalay",
+    "country": "Myanmar"
+  },
+  {
+    "code": "VBG",
+    "name": "Vandenberg Air Force Base",
+    "city": "Lompoc, California",
+    "country": "United States"
+  },
+  {
+    "code": "VBP",
+    "name": "Bokpyin Airport",
+    "city": "Bokpyin",
+    "country": "Myanmar"
+  },
+  {
+    "code": "VBS",
+    "name": "Brescia Airport (Gabriele D'Annunzio Airport)",
+    "city": "Brescia, Lombardy",
+    "country": "Italy"
+  },
+  {
+    "code": "VBV",
+    "name": "Vanuabalavu Airport",
+    "city": "Vanua Balavu",
+    "country": "Fiji"
+  },
+  {
+    "code": "VBY",
+    "name": "Visby Airport",
+    "city": "Visby",
+    "country": "Sweden"
+  },
+  {
+    "code": "VCA",
+    "name": "Can Tho International Airport",
+    "city": "Can Tho (Cần Thơ)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VCD",
+    "name": "Victoria River Downs Airport",
+    "city": "Victoria River Downs Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "VCE",
+    "name": "Venice Marco Polo Airport",
+    "city": "Venice, Veneto",
+    "country": "Italy"
+  },
+  {
+    "code": "VCF",
+    "name": "Valcheta Airport",
+    "city": "Valcheta, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "VCH",
+    "name": "Vichadero Airport",
+    "city": "Vichadero",
+    "country": "Uruguay"
+  },
+  {
+    "code": "VCL",
+    "name": "Chu Lai International Airport",
+    "city": "Chu Lai",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VCP",
+    "name": "Viracopos/Campinas International Airport",
+    "city": "São Paulo / Campinas, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "VCR",
+    "name": "Carora Airport",
+    "city": "Carora",
+    "country": "Venezuela"
+  },
+  {
+    "code": "VCS",
+    "name": "Con Dao Airport (Cỏ Ống Airport)",
+    "city": "Con Dao Island (Côn Đảo)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VCT",
+    "name": "Victoria Regional Airport",
+    "city": "Victoria, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "VCV",
+    "name": "Southern California Logistics Airport",
+    "city": "Victorville, California",
+    "country": "United States"
+  },
+  {
+    "code": "VDA",
+    "name": "Ovda Airport",
+    "city": "Ovda (Uvda)",
+    "country": "Israel"
+  },
+  {
+    "code": "VDB",
+    "name": "Fagernes Airport, Leirin",
+    "city": "Fagernes",
+    "country": "Norway"
+  },
+  {
+    "code": "VDC",
+    "name": "Glauber Rocha Airport",
+    "city": "Vitória da Conquista, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "VDE",
+    "name": "El Hierro Airport",
+    "city": "Valverde, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "VDH",
+    "name": "Dong Hoi Airport",
+    "city": "Dong Hoi (Đồng Hới)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VDI",
+    "name": "Vidalia Regional Airport",
+    "city": "Vidalia, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "VDM",
+    "name": "Gobernador Edgardo Castello Airport",
+    "city": "Viedma, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "VDO",
+    "name": "Van Don International Airport",
+    "city": "Ha Long, Quang Ninh (Quảng Ninh)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VDP",
+    "name": "Valle de la Pascua Airport",
+    "city": "Valle de la Pascua",
+    "country": "Venezuela"
+  },
+  {
+    "code": "VDR",
+    "name": "Villa Dolores Airport",
+    "city": "Villa Dolores, Córdoba",
+    "country": "Argentina"
+  },
+  {
+    "code": "VDS",
+    "name": "Vadsø Airport",
+    "city": "Vadsø",
+    "country": "Norway"
+  },
+  {
+    "code": "VDY",
+    "name": "Vidyanagar Airport (Jindal Airport)",
+    "city": "Toranagallu, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "VDZ",
+    "name": "Valdez Airport (Pioneer Field)",
+    "city": "Valdez, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "VEE",
+    "name": "Venetie Airport",
+    "city": "Venetie, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "VEG",
+    "name": "Maikwak Airport",
+    "city": "Maikwak",
+    "country": "Guyana"
+  },
+  {
+    "code": "VEL",
+    "name": "Vernal Regional Airport",
+    "city": "Vernal, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "VER",
+    "name": "General Heriberto Jara International Airport",
+    "city": "Veracruz, Veracruz",
+    "country": "Mexico"
+  },
+  {
+    "code": "VEV",
+    "name": "Barakoma Airport",
+    "city": "Barakoma",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "VEX",
+    "name": "Tioga Municipal Airport (FAA: D60)",
+    "city": "Tioga, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "VEY",
+    "name": "Vestmannaeyjar Airport",
+    "city": "Vestmannaeyjar",
+    "country": "Iceland"
+  },
+  {
+    "code": "VFA",
+    "name": "Victoria Falls Airport",
+    "city": "Victoria Falls",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "VGA",
+    "name": "NTR Amaravati International Airport",
+    "city": "Vijayawada, Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "VGD",
+    "name": "Vologda Airport",
+    "city": "Vologda, Vologda Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "VGO",
+    "name": "Vigo–Peinador Airport",
+    "city": "Vigo, Galicia",
+    "country": "Spain"
+  },
+  {
+    "code": "VGS",
+    "name": "General Villegas Airport",
+    "city": "General Villegas, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "VGT",
+    "name": "North Las Vegas Airport",
+    "city": "Las Vegas, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "VGZ",
+    "name": "Villa Garzón Airport",
+    "city": "Villagarzón",
+    "country": "Colombia"
+  },
+  {
+    "code": "VHC",
+    "name": "Henrique de Carvalho Airport",
+    "city": "Saurimo",
+    "country": "Angola"
+  },
+  {
+    "code": "VHM",
+    "name": "Vilhelmina Airport",
+    "city": "Vilhelmina",
+    "country": "Sweden"
+  },
+  {
+    "code": "VHN",
+    "name": "Culberson County Airport",
+    "city": "Van Horn, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "VHV",
+    "name": "Verkhnevilyuysk Airport",
+    "city": "Verkhnevilyuysk, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "VHY",
+    "name": "Vichy — Charmeil Airport",
+    "city": "Vichy, Auvergne",
+    "country": "France"
+  },
+  {
+    "code": "VHZ",
+    "name": "Vahitahi Airport",
+    "city": "Vahitahi, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "VIA",
+    "name": "Ângelo Ponzoni Municipal Airport",
+    "city": "Videira, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "VIB",
+    "name": "Villa Constitución Airport",
+    "city": "Ciudad Constitución, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "VIC",
+    "name": "Vicenza Airport",
+    "city": "Vicenza, Veneto",
+    "country": "Italy"
+  },
+  {
+    "code": "VIE",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "code": "VIG",
+    "name": "Juan Pablo Pérez Alfonzo Airport",
+    "city": "El Vigía",
+    "country": "Venezuela"
+  },
+  {
+    "code": "VIH",
+    "name": "Rolla National Airport",
+    "city": "Rolla / Vichy, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "VII",
+    "name": "Vinh International Airport",
+    "city": "Vinh",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VIJ",
+    "name": "Virgin Gorda Airport",
+    "city": "Virgin Gorda",
+    "country": "British Overseas Territory of Virgin Islands"
+  },
+  {
+    "code": "VIL",
+    "name": "Dakhla Airport",
+    "city": "Dakhla",
+    "country": "Morocco"
+  },
+  {
+    "code": "VIN",
+    "name": "Havryshivka Vinnytsia International Airport",
+    "city": "Vinnytsia",
+    "country": "Ukraine"
+  },
+  {
+    "code": "VIQ",
+    "name": "Viqueque Airport",
+    "city": "Viqueque",
+    "country": "East Timor"
+  },
+  {
+    "code": "VIR",
+    "name": "Virginia Airport",
+    "city": "Durban",
+    "country": "South Africa"
+  },
+  {
+    "code": "VIS",
+    "name": "Visalia Municipal Airport",
+    "city": "Visalia, California",
+    "country": "United States"
+  },
+  {
+    "code": "VIT",
+    "name": "Vitoria Airport",
+    "city": "Vitoria-Gasteiz, Basque Country",
+    "country": "Spain"
+  },
+  {
+    "code": "VIU",
+    "name": "Viru Harbour Airport",
+    "city": "Viru Harbour",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "VIV",
+    "name": "Vivigani Airfield",
+    "city": "Vivigani",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "VIX",
+    "name": "Eurico de Aguiar Salles Airport",
+    "city": "Vitória, Espírito Santo",
+    "country": "Brazil"
+  },
+  {
+    "code": "VIY",
+    "name": "Vélizy – Villacoublay Air Base",
+    "city": "Paris, Île-de-France",
+    "country": "France"
+  },
+  {
+    "code": "VJB",
+    "name": "Xai-Xai Airport",
+    "city": "Xai-Xai",
+    "country": "Mozambique"
+  },
+  {
+    "code": "VJI",
+    "name": "Virginia Highlands Airport",
+    "city": "Abingdon, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "VJQ",
+    "name": "Gurúé Airport",
+    "city": "Gurúè",
+    "country": "Mozambique"
+  },
+  {
+    "code": "VKG",
+    "name": "Rach Gia Airport",
+    "city": "Rach Gia (Rạch Giá)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VKO",
+    "name": "Vnukovo International Airport",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "code": "VKS",
+    "name": "Vicksburg Municipal Airport",
+    "city": "Vicksburg, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "VKT",
+    "name": "Vorkuta Airport",
+    "city": "Vorkuta, Komi Republic",
+    "country": "Russia"
+  },
+  {
+    "code": "VLA",
+    "name": "Vandalia Municipal Airport",
+    "city": "Vandalia, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "VLC",
+    "name": "Valencia Airport",
+    "city": "Valencia, Valencian Community",
+    "country": "Spain"
+  },
+  {
+    "code": "VLD",
+    "name": "Valdosta Regional Airport",
+    "city": "Valdosta, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "VLE",
+    "name": "Valle Airport (FAA: 40G)",
+    "city": "Grand Canyon, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "VLG",
+    "name": "Villa Gesell Airport",
+    "city": "Villa Gesell, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "VLI",
+    "name": "Bauerfield International Airport",
+    "city": "Port Vila",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "VLK",
+    "name": "Volgodonsk Airport",
+    "city": "Volgodonsk, Rostov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "VLL",
+    "name": "Valladolid Airport",
+    "city": "Valladolid, Castile and León",
+    "country": "Spain"
+  },
+  {
+    "code": "VLM",
+    "name": "Lieutenant Colonel Rafael Pabón Airport",
+    "city": "Villamontes",
+    "country": "Bolivia"
+  },
+  {
+    "code": "VLN",
+    "name": "Arturo Michelena International Airport",
+    "city": "Valencia",
+    "country": "Venezuela"
+  },
+  {
+    "code": "VLP",
+    "name": "Vila Rica Municipal Airport",
+    "city": "Vila Rica, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "VLR",
+    "name": "Vallenar Airport",
+    "city": "Vallenar",
+    "country": "Chile"
+  },
+  {
+    "code": "VLS",
+    "name": "Valesdir Airport",
+    "city": "Valesdir",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "VLU",
+    "name": "Velikiye Luki Airport",
+    "city": "Velikiye Luki, Pskov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "VLV",
+    "name": "Dr. Antonio Nicolás Briceño Airport",
+    "city": "Valera",
+    "country": "Venezuela"
+  },
+  {
+    "code": "VLY",
+    "name": "Anglesey Airport / RAF Valley",
+    "city": "Anglesey, Wales",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "VME",
+    "name": "Villa Reynolds Airport",
+    "city": "Villa Mercedes, San Luis",
+    "country": "Argentina"
+  },
+  {
+    "code": "VMI",
+    "name": "Dr. Juan Plate Airport",
+    "city": "Puerto Valle-Mi",
+    "country": "Paraguay"
+  },
+  {
+    "code": "VMU",
+    "name": "Baimuru Airport",
+    "city": "Baimuru",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "VNA",
+    "name": "Salavan Airport",
+    "city": "Salavan (Saravane)",
+    "country": "Laos"
+  },
+  {
+    "code": "VNC",
+    "name": "Venice Municipal Airport",
+    "city": "Venice, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "VND",
+    "name": "Vangaindrano Airport",
+    "city": "Vangaindrano",
+    "country": "Madagascar"
+  },
+  {
+    "code": "VNE",
+    "name": "Meucon Airport",
+    "city": "Vannes, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "VNO",
+    "name": "Vilnius Airport",
+    "city": "Vilnius",
+    "country": "Lithuania"
+  },
+  {
+    "code": "VNR",
+    "name": "Vanrook Airport",
+    "city": "Vanrook Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "VNS",
+    "name": "Lal Bahadur Shastri Airport",
+    "city": "Varanasi, Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "VNT",
+    "name": "Ventspils International Airport",
+    "city": "Ventspils",
+    "country": "Latvia"
+  },
+  {
+    "code": "VNX",
+    "name": "Vilankulo Airport",
+    "city": "Vilankulo",
+    "country": "Mozambique"
+  },
+  {
+    "code": "VNY",
+    "name": "Van Nuys Airport",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "code": "VOD",
+    "name": "Vodochody Airport",
+    "city": "Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "VOG",
+    "name": "Volgograd International Airport",
+    "city": "Volgograd, Volgograd Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "VOH",
+    "name": "Vohemar Airport",
+    "city": "Vohemar (Vohimarina)",
+    "country": "Madagascar"
+  },
+  {
+    "code": "VOI",
+    "name": "Voinjama Airport (Tenebu Airport)",
+    "city": "Voinjama",
+    "country": "Liberia"
+  },
+  {
+    "code": "VOK",
+    "name": "Volk Field Air National Guard Base",
+    "city": "Camp Douglas, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "VOL",
+    "name": "Nea Anchialos National Airport",
+    "city": "Volos",
+    "country": "Greece"
+  },
+  {
+    "code": "VOT",
+    "name": "Votuporanga Airport (Domingos Pignatari Airport)",
+    "city": "Votuporanga, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "VOZ",
+    "name": "Voronezh International Airport (Chertovitskoye Airport)",
+    "city": "Voronezh, Voronezh Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "VPE",
+    "name": "Ondjiva Pereira Airport",
+    "city": "Ondjiva",
+    "country": "Angola"
+  },
+  {
+    "code": "VPG",
+    "name": "Vipingo Airport",
+    "city": "Vipingo",
+    "country": "Kenya"
+  },
+  {
+    "code": "VPN",
+    "name": "Vopnafjörður Airport",
+    "city": "Vopnafjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "VPS",
+    "name": "Destin–Fort Walton Beach Airport / Eglin Air Force Base",
+    "city": "Destin / Fort Walton Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "VPY",
+    "name": "Chimoio Airport",
+    "city": "Chimoio",
+    "country": "Mozambique"
+  },
+  {
+    "code": "VPZ",
+    "name": "Porter County Regional Airport",
+    "city": "Valparaiso, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "VQQ",
+    "name": "Cecil Airport",
+    "city": "Jacksonville, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "VQS",
+    "name": "Antonio Rivera Rodríguez Airport",
+    "city": "Vieques, Puerto Rico",
+    "country": "United States"
+  },
+  {
+    "code": "VRA",
+    "name": "Juan Gualberto Gómez Airport",
+    "city": "Varadero",
+    "country": "Cuba"
+  },
+  {
+    "code": "VRB",
+    "name": "Vero Beach Regional Airport",
+    "city": "Vero Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "VRC",
+    "name": "Virac Airport",
+    "city": "Virac",
+    "country": "Philippines"
+  },
+  {
+    "code": "VRE",
+    "name": "Vredendal Airport",
+    "city": "Vredendal",
+    "country": "South Africa"
+  },
+  {
+    "code": "VRI",
+    "name": "Varandey Airport",
+    "city": "Varandey, Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "VRK",
+    "name": "Varkaus Airport",
+    "city": "Varkaus",
+    "country": "Finland"
+  },
+  {
+    "code": "VRL",
+    "name": "Vila Real Airport",
+    "city": "Vila Real",
+    "country": "Portugal"
+  },
+  {
+    "code": "VRN",
+    "name": "Verona Villafranca Airport",
+    "city": "Verona, Veneto",
+    "country": "Italy"
+  },
+  {
+    "code": "VRO",
+    "name": "Kawama Airport",
+    "city": "Varadero",
+    "country": "Cuba"
+  },
+  {
+    "code": "VRS",
+    "name": "Roy Otten Memorial Airfield (FAA: 3VS)",
+    "city": "Versailles, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "VRU",
+    "name": "Vryburg Airport",
+    "city": "Vryburg",
+    "country": "South Africa"
+  },
+  {
+    "code": "VSA",
+    "name": "Carlos Rovirosa Pérez International Airport",
+    "city": "Villahermosa, Tabasco",
+    "country": "Mexico"
+  },
+  {
+    "code": "VSE",
+    "name": "Viseu Airport",
+    "city": "Viseu",
+    "country": "Portugal"
+  },
+  {
+    "code": "VSF",
+    "name": "Hartness State Airport",
+    "city": "Springfield, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "VSG",
+    "name": "Luhansk International Airport",
+    "city": "Luhansk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "VST",
+    "name": "Stockholm Västerås Airport",
+    "city": "Stockholm / Västerås",
+    "country": "Sweden"
+  },
+  {
+    "code": "VTB",
+    "name": "Vitebsk Vostochny Airport",
+    "city": "Vitebsk",
+    "country": "Belarus"
+  },
+  {
+    "code": "VTE",
+    "name": "Wattay International Airport",
+    "city": "Vientiane",
+    "country": "Laos"
+  },
+  {
+    "code": "VTF",
+    "name": "Vatulele Airport",
+    "city": "Vatulele",
+    "country": "Fiji"
+  },
+  {
+    "code": "VTG",
+    "name": "Vung Tau Airport",
+    "city": "Vung Tau (Vũng Tàu)",
+    "country": "Vietnam"
+  },
+  {
+    "code": "VTL",
+    "name": "Vittel - Champ-de-Courses Airport",
+    "city": "Vittel, Lorraine",
+    "country": "France"
+  },
+  {
+    "code": "VTM",
+    "name": "Nevatim Airbase",
+    "city": "Nevatim",
+    "country": "Israel"
+  },
+  {
+    "code": "VTN",
+    "name": "Miller Field",
+    "city": "Valentine, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "VTU",
+    "name": "Hermanos Ameijeiras Airport",
+    "city": "Las Tunas",
+    "country": "Cuba"
+  },
+  {
+    "code": "VTZ",
+    "name": "Visakhapatnam Airport",
+    "city": "Visakhapatnam (Vishakhapatnam), Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "VUP",
+    "name": "Alfonso López Pumarejo Airport",
+    "city": "Valledupar",
+    "country": "Colombia"
+  },
+  {
+    "code": "VUS",
+    "name": "Veliky Ustyug Airport",
+    "city": "Veliky Ustyug, Vologda Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "VUU",
+    "name": "Mvuu Camp Airport",
+    "city": "Liwonde",
+    "country": "Malawi"
+  },
+  {
+    "code": "VVB",
+    "name": "Mahanoro Airport",
+    "city": "Mahanoro",
+    "country": "Madagascar"
+  },
+  {
+    "code": "VVC",
+    "name": "La Vanguardia Airport",
+    "city": "Villavicencio",
+    "country": "Colombia"
+  },
+  {
+    "code": "VVI",
+    "name": "Viru Viru International Airport",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia"
+  },
+  {
+    "code": "VVK",
+    "name": "Västervik Airport",
+    "city": "Västervik",
+    "country": "Sweden"
+  },
+  {
+    "code": "VVN",
+    "name": "Las Malvinas Airport",
+    "city": "Las Malvinas",
+    "country": "Peru"
+  },
+  {
+    "code": "VVO",
+    "name": "Vladivostok International Airport",
+    "city": "Vladivostok, Primorsky Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "VVZ",
+    "name": "Takhamalt Airport",
+    "city": "Illizi",
+    "country": "Algeria"
+  },
+  {
+    "code": "VXC",
+    "name": "Lichinga Airport",
+    "city": "Lichinga",
+    "country": "Mozambique"
+  },
+  {
+    "code": "VXE",
+    "name": "Cesária Évora Airport (São Pedro Airport)",
+    "city": "São Vicente",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "VXO",
+    "name": "Växjö/Kronoberg Airport",
+    "city": "Växjö",
+    "country": "Sweden"
+  },
+  {
+    "code": "VYD",
+    "name": "Vryheid Airport",
+    "city": "Vryheid",
+    "country": "South Africa"
+  },
+  {
+    "code": "VYI",
+    "name": "Vilyuysk Airport",
+    "city": "Vilyuysk, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "VYS",
+    "name": "Illinois Valley Regional Airport (Walter A. Duncan Field)",
+    "city": "Peru, Illinois",
+    "country": "United States"
+  }
+]

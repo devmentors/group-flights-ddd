@@ -1,0 +1,2882 @@
+﻿[
+  {
+    "code": "PAA",
+    "name": "Hpa-An Airport",
+    "city": "Hpa-An",
+    "country": "Myanmar"
+  },
+  {
+    "code": "PAB",
+    "name": "Bilaspur Airport",
+    "city": "Bilaspur, Chhattisgarh",
+    "country": "India"
+  },
+  {
+    "code": "PAC",
+    "name": "Albrook 'Marcos A. Gelabert' International Airport",
+    "city": "Panama City",
+    "country": "Panama"
+  },
+  {
+    "code": "PAD",
+    "name": "Paderborn Lippstadt Airport",
+    "city": "Paderborn / Lippstadt, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "PAE",
+    "name": "Paine Field (Snohomish County Airport)",
+    "city": "Everett, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "PAF",
+    "name": "Pakuba Airfield",
+    "city": "Pakuba",
+    "country": "Uganda"
+  },
+  {
+    "code": "PAG",
+    "name": "Pagadian Airport",
+    "city": "Pagadian",
+    "country": "Philippines"
+  },
+  {
+    "code": "PAH",
+    "name": "Barkley Regional Airport",
+    "city": "Paducah, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "PAJ",
+    "name": "Parachinar Airport",
+    "city": "Parachinar",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PAK",
+    "name": "Port Allen Airport",
+    "city": "Hanapepe, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "PAL",
+    "name": "Captain Germán Olano Moreno Air Base",
+    "city": "Palanquero",
+    "country": "Colombia"
+  },
+  {
+    "code": "PAM",
+    "name": "Tyndall Air Force Base",
+    "city": "Panama City, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "PAN",
+    "name": "Pattani Airport",
+    "city": "Pattani",
+    "country": "Thailand"
+  },
+  {
+    "code": "PAO",
+    "name": "Palo Alto Airport (Santa Clara County Airport)",
+    "city": "Palo Alto, California",
+    "country": "United States"
+  },
+  {
+    "code": "PAP",
+    "name": "Toussaint L'Ouverture International Airport",
+    "city": "Port-au-Prince",
+    "country": "Haiti"
+  },
+  {
+    "code": "PAQ",
+    "name": "Palmer Municipal Airport",
+    "city": "Palmer, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PAR",
+    "name": "metropolitan area1",
+    "city": "Paris, Île-de-France",
+    "country": "France"
+  },
+  {
+    "code": "PAS",
+    "name": "Paros National Airport",
+    "city": "Paros",
+    "country": "Greece"
+  },
+  {
+    "code": "PAT",
+    "name": "Lok Nayak Jayaprakash Airport",
+    "city": "Patna, Bihar",
+    "country": "India"
+  },
+  {
+    "code": "PAU",
+    "name": "Pauk Airport",
+    "city": "Pauk",
+    "country": "Myanmar"
+  },
+  {
+    "code": "PAV",
+    "name": "Paulo Afonso Airport",
+    "city": "Paulo Afonso, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "PAW",
+    "name": "Pambwa Airport",
+    "city": "Pambwa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PAX",
+    "name": "Port-de-Paix Airport",
+    "city": "Port-de-Paix",
+    "country": "Haiti"
+  },
+  {
+    "code": "PAY",
+    "name": "Pamol Airport",
+    "city": "Pamol, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "PAZ",
+    "name": "El Tajín National Airport",
+    "city": "Poza Rica, Veracruz",
+    "country": "Mexico"
+  },
+  {
+    "code": "PBB",
+    "name": "Paranaíba Airport",
+    "city": "Paranaíba, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "PBC",
+    "name": "Hermanos Serdán International Airport",
+    "city": "Puebla City, Puebla",
+    "country": "Mexico"
+  },
+  {
+    "code": "PBD",
+    "name": "Porbandar Airport",
+    "city": "Porbandar, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "PBE",
+    "name": "Morela Airport (Puerto Berrío Airport)",
+    "city": "Puerto Berrío",
+    "country": "Colombia"
+  },
+  {
+    "code": "PBF",
+    "name": "Grider Field",
+    "city": "Pine Bluff, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "PBG",
+    "name": "Plattsburgh International Airport",
+    "city": "Plattsburgh, New York",
+    "country": "United States"
+  },
+  {
+    "code": "PBH",
+    "name": "Paro International Airport",
+    "city": "Paro",
+    "country": "Bhutan"
+  },
+  {
+    "code": "PBI",
+    "name": "Palm Beach International Airport",
+    "city": "West Palm Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "PBJ",
+    "name": "Paama Airport",
+    "city": "Paama",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "PBL",
+    "name": "Bartolomé Salom Airport",
+    "city": "Puerto Cabello",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PBM",
+    "name": "Johan Adolf Pengel International Airport",
+    "city": "Paramaribo",
+    "country": "Suriname"
+  },
+  {
+    "code": "PBN",
+    "name": "Porto Amboim Airport",
+    "city": "Porto Amboim",
+    "country": "Angola"
+  },
+  {
+    "code": "PBO",
+    "name": "Paraburdoo Airport",
+    "city": "Paraburdoo, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PBP",
+    "name": "Punta Islita Airport",
+    "city": "Punta Islita",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "PBQ",
+    "name": "Pimenta Bueno Airport",
+    "city": "Pimenta Bueno, Rondônia",
+    "country": "Brazil"
+  },
+  {
+    "code": "PBR",
+    "name": "Puerto Barrios Airport",
+    "city": "Puerto Barrios",
+    "country": "Guatemala"
+  },
+  {
+    "code": "PBT",
+    "name": "Puerto Leda Airport",
+    "city": "Puerto Leda",
+    "country": "Paraguay"
+  },
+  {
+    "code": "PBU",
+    "name": "Putao Airport",
+    "city": "Putao",
+    "country": "Myanmar"
+  },
+  {
+    "code": "PBV",
+    "name": "Porto dos Gaúchos Airport",
+    "city": "Porto dos Gaúchos, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "PBX",
+    "name": "Fazenda Piraguassu Airport",
+    "city": "Porto Alegre do Norte, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "PBZ",
+    "name": "Plettenberg Bay Airport",
+    "city": "Plettenberg Bay",
+    "country": "South Africa"
+  },
+  {
+    "code": "PCA",
+    "name": "Portage Creek Airport (FAA: A14)",
+    "city": "Portage Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PCB",
+    "name": "Pondok Cabe Airport",
+    "city": "South Tangerang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PCC",
+    "name": "Puerto Rico Airport",
+    "city": "Puerto Rico",
+    "country": "Colombia"
+  },
+  {
+    "code": "PCD",
+    "name": "Prairie du Chien Municipal Airport (FAA: PDC)",
+    "city": "Prairie du Chien, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "PCF",
+    "name": "Potchefstroom Airport",
+    "city": "Potchefstroom",
+    "country": "South Africa"
+  },
+  {
+    "code": "PCH",
+    "name": "Palacios Airport",
+    "city": "Palacios",
+    "country": "Honduras"
+  },
+  {
+    "code": "PCJ",
+    "name": "Puerto La Victoria Airport",
+    "city": "Puerto Casado (La Victoria)",
+    "country": "Paraguay"
+  },
+  {
+    "code": "PCL",
+    "name": "FAP Captain David Abensur Rengifo International Airport",
+    "city": "Pucallpa",
+    "country": "Peru"
+  },
+  {
+    "code": "PCM",
+    "name": "Playa del Carmen Airport",
+    "city": "Playa del Carmen, Quintana Roo",
+    "country": "Mexico"
+  },
+  {
+    "code": "PCN",
+    "name": "Picton Aerodrome",
+    "city": "Picton",
+    "country": "New Zealand"
+  },
+  {
+    "code": "PCO",
+    "name": "Punta Colorada Airstrip",
+    "city": "La Ribera, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "PCP",
+    "name": "Príncipe Airport",
+    "city": "Príncipe Island",
+    "country": "São Tomé and Príncipe"
+  },
+  {
+    "code": "PCQ",
+    "name": "Boun Neua Airport",
+    "city": "Phongsaly",
+    "country": "Laos"
+  },
+  {
+    "code": "PCR",
+    "name": "Germán Olano Airport",
+    "city": "Puerto Carreño",
+    "country": "Colombia"
+  },
+  {
+    "code": "PCS",
+    "name": "Picos Airport",
+    "city": "Picos, Piauí",
+    "country": "Brazil"
+  },
+  {
+    "code": "PCT",
+    "name": "Princeton Airport (FAA: 39N)",
+    "city": "Princeton / Rocky Hill, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "PCU",
+    "name": "Poplarville-Pearl River County Airport (FAA: M13)",
+    "city": "Poplarville, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "PCV",
+    "name": "Punta Chivato Airstrip",
+    "city": "Punta Chivato, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "PDA",
+    "name": "Obando Airport",
+    "city": "Puerto Inírida",
+    "country": "Colombia"
+  },
+  {
+    "code": "PDB",
+    "name": "Pedro Bay Airport (FAA: 4K0)",
+    "city": "Pedro Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PDC",
+    "name": "Mueo/Nickel Airport",
+    "city": "Mueo",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "PDD",
+    "name": "Ponta do Ouro Airport",
+    "city": "Ponta do Ouro",
+    "country": "Mozambique"
+  },
+  {
+    "code": "PDE",
+    "name": "Pandie Pandie Airport",
+    "city": "Pandie Pandie Station, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PDF",
+    "name": "Faz Taua Airport",
+    "city": "Prado, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "PDG",
+    "name": "Minangkabau International Airport",
+    "city": "Padang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PDI",
+    "name": "Pindiu Airport",
+    "city": "Pindiu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PDK",
+    "name": "DeKalb–Peachtree Airport",
+    "city": "Atlanta, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "PDL",
+    "name": "João Paulo II Airport",
+    "city": "Ponta Delgada, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "PDM",
+    "name": "Pedasí Airport (Capt. J. Montenegro Airport)",
+    "city": "Pedasí",
+    "country": "Panama"
+  },
+  {
+    "code": "PDN",
+    "name": "Parndana Airport",
+    "city": "Parndana, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PDO",
+    "name": "Pendopo Airport",
+    "city": "Pendopo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PDP",
+    "name": "Capitán de Corbeta Carlos A. Curbelo International Airport",
+    "city": "Punta del Este",
+    "country": "Uruguay"
+  },
+  {
+    "code": "PDR",
+    "name": "Presidente Dutra Airport",
+    "city": "Presidente Dutra, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "PDS",
+    "name": "Piedras Negras International Airport",
+    "city": "Piedras Negras, Coahuila",
+    "country": "Mexico"
+  },
+  {
+    "code": "PDT",
+    "name": "Eastern Oregon Regional Airport",
+    "city": "Pendleton, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "PDU",
+    "name": "Tydeo Larre Borges International Airport",
+    "city": "Paysandú",
+    "country": "Uruguay"
+  },
+  {
+    "code": "PDV",
+    "name": "Plovdiv Airport",
+    "city": "Plovdiv",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "PDX",
+    "name": "Portland International Airport",
+    "city": "Portland, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "PDZ",
+    "name": "Pedernales Airport",
+    "city": "Pedernales",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PEA",
+    "name": "Penneshaw Airport",
+    "city": "Penneshaw, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PEB",
+    "name": "Pebane Airport",
+    "city": "Pebane",
+    "country": "Mozambique"
+  },
+  {
+    "code": "PEC",
+    "name": "Pelican Seaplane Base",
+    "city": "Pelican, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "PEE",
+    "name": "Perm International Airport (Bolshoye Savino Airport)",
+    "city": "Perm, Perm Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "PEF",
+    "name": "Peenemünde Airfield",
+    "city": "Peenemünde, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "PEG",
+    "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+    "city": "Perugia, Umbria",
+    "country": "Italy"
+  },
+  {
+    "code": "PEH",
+    "name": "Comodoro Pedro Zanni Airport",
+    "city": "Pehuajó, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "PEI",
+    "name": "Matecaña International Airport",
+    "city": "Pereira",
+    "country": "Colombia"
+  },
+  {
+    "code": "PEK",
+    "name": "Beijing Capital International Airport",
+    "city": "Beijing",
+    "country": "China"
+  },
+  {
+    "code": "PEL",
+    "name": "Pelaneng Airport",
+    "city": "Pelaneng",
+    "country": "Lesotho"
+  },
+  {
+    "code": "PEM",
+    "name": "Padre Aldamiz International Airport",
+    "city": "Puerto Maldonado",
+    "country": "Peru"
+  },
+  {
+    "code": "PEN",
+    "name": "Penang International Airport",
+    "city": "Penang",
+    "country": "Malaysia"
+  },
+  {
+    "code": "PEP",
+    "name": "Peppimenarti Airport",
+    "city": "Peppimenarti, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "PEQ",
+    "name": "Pecos Municipal Airport",
+    "city": "Pecos, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PER",
+    "name": "Perth Airport",
+    "city": "Perth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PES",
+    "name": "Petrozavodsk Airport (Besovets Airport)",
+    "city": "Petrozavodsk, Karelia",
+    "country": "Russia"
+  },
+  {
+    "code": "PET",
+    "name": "João Simões Lopes Neto International Airport",
+    "city": "Pelotas, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "PEU",
+    "name": "Puerto Lempira Airport",
+    "city": "Puerto Lempira",
+    "country": "Honduras"
+  },
+  {
+    "code": "PEV",
+    "name": "Pécs-Pogány International Airport",
+    "city": "Pécs",
+    "country": "Hungary"
+  },
+  {
+    "code": "PEW",
+    "name": "Bacha Khan International Airport",
+    "city": "Peshawar",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PEX",
+    "name": "Pechora Airport",
+    "city": "Pechora, Komi Republic",
+    "country": "Russia"
+  },
+  {
+    "code": "PEY",
+    "name": "Penong Airport",
+    "city": "Penong, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PEZ",
+    "name": "Penza Airport (Ternovka Airport)",
+    "city": "Penza, Penza Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "PFB",
+    "name": "Lauro Kurtz Airport",
+    "city": "Passo Fundo, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "PFC",
+    "name": "Pacific City State Airport",
+    "city": "Pacific City, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "PFJ",
+    "name": "Patreksfjörður Airport",
+    "city": "Patreksfjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "PFM",
+    "name": "Primrose Aerodrome",
+    "city": "Wood Buffalo, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "PFO",
+    "name": "Paphos International Airport",
+    "city": "Paphos",
+    "country": "Cyprus"
+  },
+  {
+    "code": "PFQ",
+    "name": "Parsabad-Moghan Airport",
+    "city": "Parsabad",
+    "country": "Iran"
+  },
+  {
+    "code": "PFR",
+    "name": "Ilebo Airport",
+    "city": "Ilebo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "PGA",
+    "name": "Page Municipal Airport",
+    "city": "Page, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "PGB",
+    "name": "Pangoa Airport",
+    "city": "Pangoa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PGC",
+    "name": "Grant County Airport (FAA: W99)",
+    "city": "Petersburg, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "PGD",
+    "name": "Punta Gorda Airport",
+    "city": "Punta Gorda, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "PGE",
+    "name": "Yegepa Airport",
+    "city": "Yegepa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PGF",
+    "name": "Perpignan–Rivesaltes Airport",
+    "city": "Perpignan, Languedoc-Roussillon",
+    "country": "France"
+  },
+  {
+    "code": "PGH",
+    "name": "Pantnagar Airport",
+    "city": "Pantnagar, Uttarakhand",
+    "country": "India"
+  },
+  {
+    "code": "PGI",
+    "name": "Chitato Airport",
+    "city": "Chitato",
+    "country": "Angola"
+  },
+  {
+    "code": "PGK",
+    "name": "Depati Amir Airport",
+    "city": "Pangkal Pinang (Pangkalpinang)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PGL",
+    "name": "Trent Lott International Airport (FAA: PQL)",
+    "city": "Pascagoula, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "PGM",
+    "name": "Port Graham Airport",
+    "city": "Port Graham, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PGN",
+    "name": "Pangia Airport",
+    "city": "Pangia",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PGO",
+    "name": "Stevens Field (FAA: PSO)",
+    "city": "Pagosa Springs, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "PGQ",
+    "name": "Buli Airport",
+    "city": "Buli, North Maluku",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PGR",
+    "name": "Kirk Field",
+    "city": "Paragould, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "PGS",
+    "name": "Grand Canyon Caverns Airport (FAA: L37)",
+    "city": "Peach Springs, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "PGU",
+    "name": "Persian Gulf Airport",
+    "city": "Asaluyeh (Asaloyeh)",
+    "country": "Iran"
+  },
+  {
+    "code": "PGV",
+    "name": "Pitt–Greenville Airport",
+    "city": "Greenville, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "PGX",
+    "name": "Périgueux Bassillac Airport",
+    "city": "Périgueux, Aquitaine",
+    "country": "France"
+  },
+  {
+    "code": "PGZ",
+    "name": "Comte. Antonio Amilton Beraldo Airport",
+    "city": "Ponta Grossa, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "PHA",
+    "name": "Phan Rang Air Base",
+    "city": "Phan Rang–Tháp Chàm",
+    "country": "Vietnam"
+  },
+  {
+    "code": "PHB",
+    "name": "Parnaíba-Prefeito Dr. João Silva Filho International Airport",
+    "city": "Parnaíba, Piauí",
+    "country": "Brazil"
+  },
+  {
+    "code": "PHC",
+    "name": "Port Harcourt International Airport",
+    "city": "Port Harcourt",
+    "country": "Nigeria"
+  },
+  {
+    "code": "PHD",
+    "name": "Harry Clever Field",
+    "city": "New Philadelphia, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "PHE",
+    "name": "Port Hedland International Airport",
+    "city": "Port Hedland, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PHF",
+    "name": "Newport News/Williamsburg International Airport",
+    "city": "Newport News / Williamsburg, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "PHG",
+    "name": "Port Harcourt City Airport",
+    "city": "Port Harcourt",
+    "country": "Nigeria"
+  },
+  {
+    "code": "PHI",
+    "name": "Pinheiro Airport",
+    "city": "Pinheiro, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "PHK",
+    "name": "Palm Beach County Glades Airport",
+    "city": "Pahokee, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "PHL",
+    "name": "Philadelphia International Airport",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "PHN",
+    "name": "St. Clair County International Airport",
+    "city": "Port Huron, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "PHO",
+    "name": "Point Hope Airport",
+    "city": "Point Hope, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PHP",
+    "name": "Philip Airport",
+    "city": "Philip, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "PHQ",
+    "name": "The Monument Airport",
+    "city": "Phosphate Hill, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "PHR",
+    "name": "Pacific Harbour Airport",
+    "city": "Pacific Harbour",
+    "country": "Fiji"
+  },
+  {
+    "code": "PHS",
+    "name": "Phitsanulok Airport",
+    "city": "Phitsanulok",
+    "country": "Thailand"
+  },
+  {
+    "code": "PHT",
+    "name": "Henry County Airport",
+    "city": "Paris, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "PHW",
+    "name": "Hendrik Van Eck Airport",
+    "city": "Phalaborwa",
+    "country": "South Africa"
+  },
+  {
+    "code": "PHX",
+    "name": "Phoenix Sky Harbor International Airport",
+    "city": "Phoenix, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "PHY",
+    "name": "Phetchabun Airport",
+    "city": "Phetchabun",
+    "country": "Thailand"
+  },
+  {
+    "code": "PIA",
+    "name": "General Wayne A. Downing Peoria International Airport",
+    "city": "Peoria, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "PIB",
+    "name": "Hattiesburg–Laurel Regional Airport",
+    "city": "Hattiesburg / Laurel, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "PIC",
+    "name": "Pine Cay Airport",
+    "city": "Pine Cay",
+    "country": "British Overseas Territory of Turks and Caicos Islands"
+  },
+  {
+    "code": "PIE",
+    "name": "St. Pete–Clearwater International Airport",
+    "city": "St. Petersburg / Clearwater",
+    "country": "United States"
+  },
+  {
+    "code": "PIF",
+    "name": "Pingtung South Airport",
+    "city": "Pingtung City",
+    "country": "Taiwan"
+  },
+  {
+    "code": "PIH",
+    "name": "Pocatello Regional Airport",
+    "city": "Pocatello, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "PIK",
+    "name": "Glasgow Prestwick Airport",
+    "city": "Glasgow, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "PIL",
+    "name": "Carlos Miguel Jiménez Airport",
+    "city": "Pilar",
+    "country": "Paraguay"
+  },
+  {
+    "code": "PIM",
+    "name": "Harris County Airport",
+    "city": "Pine Mountain, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "PIN",
+    "name": "Júlio Belém Airport",
+    "city": "Parintins, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "PIO",
+    "name": "Capitán FAP Renán Elías Olivera Airport",
+    "city": "Pisco",
+    "country": "Peru"
+  },
+  {
+    "code": "PIP",
+    "name": "Pilot Point Airport (FAA: PNP)",
+    "city": "Pilot Point, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PIQ",
+    "name": "Pipillipai Airport",
+    "city": "Pipillipai",
+    "country": "Guyana"
+  },
+  {
+    "code": "PIR",
+    "name": "Pierre Regional Airport",
+    "city": "Pierre, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "PIS",
+    "name": "Poitiers–Biard Airport",
+    "city": "Poitiers, Poitou-Charentes",
+    "country": "France"
+  },
+  {
+    "code": "PIT",
+    "name": "Pittsburgh International Airport",
+    "city": "Pittsburgh, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "PIU",
+    "name": "FAP Captain Guillermo Concha Iberico International Airport",
+    "city": "Piura",
+    "country": "Peru"
+  },
+  {
+    "code": "PIV",
+    "name": "Pirapora Airport",
+    "city": "Pirapora, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "PIW",
+    "name": "Pikwitonei Airport",
+    "city": "Pikwitonei, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "PIX",
+    "name": "Pico Airport",
+    "city": "Pico Island, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "PIZ",
+    "name": "Point Lay LRRS Airport",
+    "city": "Point Lay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PJA",
+    "name": "Pajala Airport",
+    "city": "Pajala",
+    "country": "Sweden"
+  },
+  {
+    "code": "PJB",
+    "name": "Payson Airport (FAA: PAN)",
+    "city": "Payson, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "PJC",
+    "name": "Dr. Augusto Roberto Fuster International Airport",
+    "city": "Pedro Juan Caballero",
+    "country": "Paraguay"
+  },
+  {
+    "code": "PJG",
+    "name": "Panjgur Airport",
+    "city": "Panjgur",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PJM",
+    "name": "Puerto Jiménez Airport",
+    "city": "Puerto Jiménez",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "PKA",
+    "name": "Napaskiak Airport",
+    "city": "Napaskiak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PKB",
+    "name": "Mid-Ohio Valley Regional Airport",
+    "city": "Parkersburg, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "PKC",
+    "name": "Petropavlovsk-Kamchatsky Airport (Yelizovo Airport)",
+    "city": "Petropavlovsk-Kamchatsky, Kamchatka Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "PKD",
+    "name": "Park Rapids Municipal Airport (Konshok Field)",
+    "city": "Park Rapids, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "PKE",
+    "name": "Parkes Airport",
+    "city": "Parkes, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "PKF",
+    "name": "Park Falls Municipal Airport",
+    "city": "Park Falls, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "PKG",
+    "name": "Pangkor Airport",
+    "city": "Pangkor Island, Perak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "PKH",
+    "name": "Porto Cheli Airport",
+    "city": "Porto Cheli (Portochelion)",
+    "country": "Greece"
+  },
+  {
+    "code": "PKJ",
+    "name": "Playa Grande Airport",
+    "city": "Playa Grande",
+    "country": "Guatemala"
+  },
+  {
+    "code": "PKK",
+    "name": "Pakokku Airport",
+    "city": "Pakokku",
+    "country": "Myanmar"
+  },
+  {
+    "code": "PKM",
+    "name": "Port Kaituma Airport",
+    "city": "Port Kaituma",
+    "country": "Guyana"
+  },
+  {
+    "code": "PKN",
+    "name": "Iskandar Airport",
+    "city": "Pangkalan Bun (Pangkalanbuun)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PKO",
+    "name": "Parakou Airport",
+    "city": "Parakou",
+    "country": "Benin"
+  },
+  {
+    "code": "PKP",
+    "name": "Puka-Puka Airport",
+    "city": "Puka-Puka, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "PKR",
+    "name": "Pokhara Airport",
+    "city": "Pokhara",
+    "country": "Nepal"
+  },
+  {
+    "code": "PKT",
+    "name": "Port Keats Airfield",
+    "city": "Wadeye (Port Keats), Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "PKU",
+    "name": "Sultan Syarif Kasim II International Airport",
+    "city": "Pekanbaru",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PKV",
+    "name": "Pskov Airport",
+    "city": "Pskov, Pskov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "PKW",
+    "name": "Selebi-Phikwe Airport",
+    "city": "Selebi-Phikwe",
+    "country": "Botswana"
+  },
+  {
+    "code": "PKX",
+    "name": "Beijing Daxing International Airport",
+    "city": "Beijing",
+    "country": "China"
+  },
+  {
+    "code": "PKY",
+    "name": "Tjilik Riwut Airport",
+    "city": "Palangkaraya",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PKZ",
+    "name": "Pakse International Airport",
+    "city": "Pakse",
+    "country": "Laos"
+  },
+  {
+    "code": "PLA",
+    "name": "Planadas Airport",
+    "city": "Planadas",
+    "country": "Colombia"
+  },
+  {
+    "code": "PLC",
+    "name": "Planeta Rica Airport",
+    "city": "Planeta Rica",
+    "country": "Colombia"
+  },
+  {
+    "code": "PLD",
+    "name": "Carrillo Airport (Playa Samara/Carrillo Airport)",
+    "city": "Sámara / Puerto Carrillo",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "PLE",
+    "name": "Paiela Airport",
+    "city": "Paiela",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PLF",
+    "name": "Pala Airport",
+    "city": "Pala",
+    "country": "Chad"
+  },
+  {
+    "code": "PLH",
+    "name": "Plymouth City Airport",
+    "city": "Plymouth, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "PLI",
+    "name": "Palm Island Airport",
+    "city": "Palm Island",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "PLJ",
+    "name": "Placencia Airport",
+    "city": "Placencia",
+    "country": "Belize"
+  },
+  {
+    "code": "PLK",
+    "name": "M. Graham Clark Downtown Airport",
+    "city": "Point Lookout, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "PLL",
+    "name": "Manaus Air Force Base",
+    "city": "Manaus, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "PLM",
+    "name": "Sultan Mahmud Badaruddin II International Airport",
+    "city": "Palembang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PLN",
+    "name": "Pellston Regional Airport (Emmet County)",
+    "city": "Pellston, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "PLO",
+    "name": "Port Lincoln Airport",
+    "city": "Port Lincoln, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PLP",
+    "name": "Captain Ramon Xatruch Airport",
+    "city": "La Palma",
+    "country": "Panama"
+  },
+  {
+    "code": "PLQ",
+    "name": "Palanga International Airport",
+    "city": "Palanga",
+    "country": "Lithuania"
+  },
+  {
+    "code": "PLR",
+    "name": "St. Clair County Airport",
+    "city": "Pell City, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "PLS",
+    "name": "Providenciales International Airport",
+    "city": "Providenciales",
+    "country": "British Overseas Territory\\nof Turks and Caicos Islands"
+  },
+  {
+    "code": "PLT",
+    "name": "Plato Airport",
+    "city": "Plato",
+    "country": "Colombia"
+  },
+  {
+    "code": "PLU",
+    "name": "Belo Horizonte/Pampulha – Carlos Drummond de Andrade Airport",
+    "city": "Belo Horizonte, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "PLV",
+    "name": "Poltava Airport",
+    "city": "Poltava",
+    "country": "Ukraine"
+  },
+  {
+    "code": "PLW",
+    "name": "Mutiara Airport",
+    "city": "Palu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PLX",
+    "name": "Semey Airport",
+    "city": "Semey",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "PLY",
+    "name": "Plymouth Municipal Airport (FAA: C65)",
+    "city": "Plymouth, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "PLZ",
+    "name": "Port Elizabeth Airport",
+    "city": "Port Elizabeth",
+    "country": "South Africa"
+  },
+  {
+    "code": "PMA",
+    "name": "Pemba Airport",
+    "city": "Pemba Island",
+    "country": "Tanzania"
+  },
+  {
+    "code": "PMB",
+    "name": "Pembina Municipal Airport",
+    "city": "Pembina, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "PMC",
+    "name": "El Tepual Airport",
+    "city": "Puerto Montt",
+    "country": "Chile"
+  },
+  {
+    "code": "PMD",
+    "name": "Palmdale Regional Airport",
+    "city": "Palmdale, California",
+    "country": "United States"
+  },
+  {
+    "code": "PMF",
+    "name": "Parma Airport (Giuseppe Verdi Airport)",
+    "city": "Parma, Emilia-Romagna",
+    "country": "Italy"
+  },
+  {
+    "code": "PMG",
+    "name": "Ponta Porã International Airport",
+    "city": "Ponta Porã, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "PMH",
+    "name": "Greater Portsmouth Regional Airport",
+    "city": "Portsmouth, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "PMI",
+    "name": "Palma de Mallorca Airport",
+    "city": "Palma de Mallorca, Balearic Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "PMK",
+    "name": "Palm Island Airport",
+    "city": "Palm Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "PML",
+    "name": "Port Moller Airport (FAA: 1AK3)",
+    "city": "Cold Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PMN",
+    "name": "Pumani Airport",
+    "city": "Pumani",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PMO",
+    "name": "Falcone–Borsellino Airport (Punta Raisi Airport)",
+    "city": "Palermo, Sicily",
+    "country": "Italy"
+  },
+  {
+    "code": "PMP",
+    "name": "Pimaga Airport",
+    "city": "Pimaga",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PMQ",
+    "name": "Perito Moreno Airport",
+    "city": "Perito Moreno, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "PMR",
+    "name": "Palmerston North Airport",
+    "city": "Palmerston North",
+    "country": "New Zealand"
+  },
+  {
+    "code": "PMS",
+    "name": "Palmyra Airport",
+    "city": "Palmyra (Tadmur)",
+    "country": "Syria"
+  },
+  {
+    "code": "PMT",
+    "name": "Paramakatoi Airport",
+    "city": "Paramakatoi",
+    "country": "Guyana"
+  },
+  {
+    "code": "PMV",
+    "name": "Santiago Mariño Caribbean International Airport",
+    "city": "Porlamar",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PMW",
+    "name": "Palmas–Brigadeiro Lysias Rodrigues Airport",
+    "city": "Palmas, Tocantins",
+    "country": "Brazil"
+  },
+  {
+    "code": "PMX",
+    "name": "Metropolitan Airport (FAA: 13MA)",
+    "city": "Palmer, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "PMY",
+    "name": "El Tehuelche Airport",
+    "city": "Puerto Madryn, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "PMZ",
+    "name": "Palmar Sur Airport",
+    "city": "Palmar Sur",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "PNA",
+    "name": "Pamplona Airport",
+    "city": "Pamplona, Navarre",
+    "country": "Spain"
+  },
+  {
+    "code": "PNB",
+    "name": "Porto Nacional Airport",
+    "city": "Porto Nacional, Tocantins",
+    "country": "Brazil"
+  },
+  {
+    "code": "PNC",
+    "name": "Ponca City Regional Airport",
+    "city": "Ponca City, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "PND",
+    "name": "Punta Gorda Airport",
+    "city": "Punta Gorda",
+    "country": "Belize"
+  },
+  {
+    "code": "PNE",
+    "name": "Northeast Philadelphia Airport",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "PNG",
+    "name": "Santos Dumont Airport",
+    "city": "Paranaguá, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "PNH",
+    "name": "Phnom Penh International Airport",
+    "city": "Phnom Penh",
+    "country": "Cambodia"
+  },
+  {
+    "code": "PNI",
+    "name": "Pohnpei International Airport",
+    "city": "Pohnpei",
+    "country": "Federated States of Micronesia"
+  },
+  {
+    "code": "PNJ",
+    "name": "Penglai Shahekou Airport",
+    "city": "Penglai, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "PNK",
+    "name": "Supadio Airport",
+    "city": "Pontianak",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PNL",
+    "name": "Pantelleria Airport",
+    "city": "Pantelleria, Sicily",
+    "country": "Italy"
+  },
+  {
+    "code": "PNN",
+    "name": "Princeton Municipal Airport",
+    "city": "Princeton, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "PNP",
+    "name": "Girua Airport",
+    "city": "Popondetta",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PNQ",
+    "name": "Pune Airport",
+    "city": "Pune, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "PNR",
+    "name": "Pointe Noire Airport",
+    "city": "Pointe-Noire",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "PNS",
+    "name": "Pensacola International Airport",
+    "city": "Pensacola, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "PNT",
+    "name": "Teniente Julio Gallardo Airport",
+    "city": "Puerto Natales",
+    "country": "Chile"
+  },
+  {
+    "code": "PNU",
+    "name": "Panguitch Municipal Airport (FAA: U55)",
+    "city": "Panguitch, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "PNV",
+    "name": "Panevėžys Air Base (Pajuostis Airport)",
+    "city": "Panevėžys",
+    "country": "Lithuania"
+  },
+  {
+    "code": "PNX",
+    "name": "North Texas Regional Airport (FAA: GYI)",
+    "city": "Sherman / Denison, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PNY",
+    "name": "Puducherry Airport",
+    "city": "Pondicherry, Puducherry",
+    "country": "India"
+  },
+  {
+    "code": "PNZ",
+    "name": "Senador Nilo Coelho Airport",
+    "city": "Petrolina, Pernambuco",
+    "country": "Brazil"
+  },
+  {
+    "code": "POA",
+    "name": "Salgado Filho International Airport",
+    "city": "Porto Alegre, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "POB",
+    "name": "Pope Field (Pope AFB)",
+    "city": "Fort Bragg, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "POC",
+    "name": "Brackett Field",
+    "city": "La Verne, California",
+    "country": "United States"
+  },
+  {
+    "code": "POD",
+    "name": "Podor Airport",
+    "city": "Podor",
+    "country": "Senegal"
+  },
+  {
+    "code": "POE",
+    "name": "Polk Army Airfield",
+    "city": "Fort Polk, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "POF",
+    "name": "Poplar Bluff Municipal Airport",
+    "city": "Poplar Bluff, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "POG",
+    "name": "Port-Gentil International Airport",
+    "city": "Port-Gentil",
+    "country": "Gabon"
+  },
+  {
+    "code": "POH",
+    "name": "Pocahontas Municipal Airport",
+    "city": "Pocahontas, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "POI",
+    "name": "Captain Nicolas Rojas Airport",
+    "city": "Potosí",
+    "country": "Bolivia"
+  },
+  {
+    "code": "POJ",
+    "name": "Pedro Pereira dos Santos Airport",
+    "city": "Patos de Minas, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "POL",
+    "name": "Pemba Airport",
+    "city": "Pemba",
+    "country": "Mozambique"
+  },
+  {
+    "code": "POM",
+    "name": "Jacksons International Airport",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PON",
+    "name": "Poptún Airport",
+    "city": "Poptún",
+    "country": "Guatemala"
+  },
+  {
+    "code": "POO",
+    "name": "Poços de Caldas Airport",
+    "city": "Poços de Caldas, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "POP",
+    "name": "Gregorio Luperón International Airport",
+    "city": "San Felipe de Puerto Plata",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "POR",
+    "name": "Pori Airport",
+    "city": "Pori",
+    "country": "Finland"
+  },
+  {
+    "code": "POS",
+    "name": "Piarco International Airport",
+    "city": "Port of Spain",
+    "country": "Trinidad and Tobago"
+  },
+  {
+    "code": "POT",
+    "name": "Ken Jones Aerodrome",
+    "city": "Port Antonio",
+    "country": "Jamaica"
+  },
+  {
+    "code": "POU",
+    "name": "Dutchess County Airport",
+    "city": "Poughkeepsie, New York",
+    "country": "United States"
+  },
+  {
+    "code": "POV",
+    "name": "Prešov Air Base",
+    "city": "Prešov",
+    "country": "Slovakia"
+  },
+  {
+    "code": "POW",
+    "name": "Portorož Airport",
+    "city": "Portorož",
+    "country": "Slovenia"
+  },
+  {
+    "code": "POX",
+    "name": "Pontoise – Cormeilles Aerodrome",
+    "city": "Paris, Île-de-France",
+    "country": "France"
+  },
+  {
+    "code": "POY",
+    "name": "Powell Municipal Airport",
+    "city": "Powell / Lovell, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "POZ",
+    "name": "Poznań–Ławica Airport",
+    "city": "Poznań",
+    "country": "Poland"
+  },
+  {
+    "code": "PPA",
+    "name": "Perry Lefors Field",
+    "city": "Pampa, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PPB",
+    "name": "Presidente Prudente Airport",
+    "city": "Presidente Prudente, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "PPC",
+    "name": "Prospect Creek Airport",
+    "city": "Prospect Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PPE",
+    "name": "Puerto Peñasco International Airport",
+    "city": "Puerto Peñasco, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "code": "PPF",
+    "name": "Tri-City Airport",
+    "city": "Parsons, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "PPG",
+    "name": "Pago Pago International Airport",
+    "city": "Pago Pago",
+    "country": "American Samoa"
+  },
+  {
+    "code": "PPH",
+    "name": "Parai-tepuí Airport",
+    "city": "Parai-tepuí (Peraitepuy)",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PPI",
+    "name": "Port Pirie Airport",
+    "city": "Port Pirie, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PPJ",
+    "name": "Panjang Island Airport",
+    "city": "Panjang Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PPK",
+    "name": "Petropavl Airport",
+    "city": "Petropavl (Petropavlovsk)",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "PPL",
+    "name": "Phaplu Airport",
+    "city": "Phaphlu",
+    "country": "Nepal"
+  },
+  {
+    "code": "PPM",
+    "name": "Pompano Beach Airpark (FAA: PMP)",
+    "city": "Pompano Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "PPN",
+    "name": "Guillermo León Valencia Airport",
+    "city": "Popayán",
+    "country": "Colombia"
+  },
+  {
+    "code": "PPP",
+    "name": "Whitsunday Coast Airport",
+    "city": "Proserpine, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "PPQ",
+    "name": "Kapiti Coast Airport",
+    "city": "Paraparaumu Beach",
+    "country": "New Zealand"
+  },
+  {
+    "code": "PPR",
+    "name": "Tuanku Tambusai Airport",
+    "city": "Pasir Pangaraian (Pasir Pangarayan)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PPS",
+    "name": "Puerto Princesa International Airport",
+    "city": "Puerto Princesa",
+    "country": "Philippines"
+  },
+  {
+    "code": "PPT",
+    "name": "Fa'a'ā International Airport",
+    "city": "Papeete, Tahiti",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "PPU",
+    "name": "Papun Airport",
+    "city": "Papun",
+    "country": "Myanmar"
+  },
+  {
+    "code": "PPV",
+    "name": "Port Protection Seaplane Base (FAA: 19P)",
+    "city": "Port Protection, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PPW",
+    "name": "Papa Westray Airport",
+    "city": "Papa Westray, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "PPX",
+    "name": "Param Airport",
+    "city": "Param",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PPY",
+    "name": "Pouso Alegre Airport",
+    "city": "Pouso Alegre, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "PPZ",
+    "name": "Puerto Páez Airport",
+    "city": "Puerto Páez",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PQC",
+    "name": "Phu Quoc International Airport",
+    "city": "Phu Quoc Island",
+    "country": "Vietnam"
+  },
+  {
+    "code": "PQD",
+    "name": "Batticaloa Seaplane Base",
+    "city": "Batticaloa",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "PQI",
+    "name": "Northern Maine Regional Airport at Presque Isle",
+    "city": "Presque Isle, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "PQM",
+    "name": "Palenque International Airport",
+    "city": "Palenque, Chiapas",
+    "country": "Mexico"
+  },
+  {
+    "code": "PQQ",
+    "name": "Port Macquarie Airport",
+    "city": "Port Macquarie, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "PQS",
+    "name": "Pilot Station Airport (FAA: 0AK)",
+    "city": "Pilot Station, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PRA",
+    "name": "General Justo José de Urquiza Airport",
+    "city": "Paraná, Entre Ríos",
+    "country": "Argentina"
+  },
+  {
+    "code": "PRB",
+    "name": "Paso Robles Municipal Airport",
+    "city": "Paso Robles, California",
+    "country": "United States"
+  },
+  {
+    "code": "PRC",
+    "name": "Ernest A. Love Field",
+    "city": "Prescott, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "PRD",
+    "name": "Pardoo Airport",
+    "city": "Pardoo Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PRE",
+    "name": "Pore Airport",
+    "city": "Pore",
+    "country": "Colombia"
+  },
+  {
+    "code": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "PRH",
+    "name": "Phrae Airport",
+    "city": "Phrae",
+    "country": "Thailand"
+  },
+  {
+    "code": "PRI",
+    "name": "Praslin Island Airport",
+    "city": "Praslin Island",
+    "country": "Seychelles"
+  },
+  {
+    "code": "PRK",
+    "name": "Prieska Airport",
+    "city": "Prieska",
+    "country": "South Africa"
+  },
+  {
+    "code": "PRM",
+    "name": "Portimão Airport",
+    "city": "Portimão",
+    "country": "Portugal"
+  },
+  {
+    "code": "PRN",
+    "name": "Pristina International Airport Adem Jashari",
+    "city": "Pristina",
+    "country": "Kosovo"
+  },
+  {
+    "code": "PRO",
+    "name": "Perry Municipal Airport",
+    "city": "Perry, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "PRP",
+    "name": "Propriano Airport",
+    "city": "Propriano, Corsica",
+    "country": "France"
+  },
+  {
+    "code": "PRQ",
+    "name": "Presidencia Roque Sáenz Peña Airport",
+    "city": "Presidencia Roque Sáenz Peña, Chaco",
+    "country": "Argentina"
+  },
+  {
+    "code": "PRR",
+    "name": "Paruima Airport",
+    "city": "Paruima",
+    "country": "Guyana"
+  },
+  {
+    "code": "PRS",
+    "name": "Parasi Airport",
+    "city": "Parasi",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "PRU",
+    "name": "Pyay Airport",
+    "city": "Pyay (Prome)",
+    "country": "Myanmar"
+  },
+  {
+    "code": "PRV",
+    "name": "Přerov Airport",
+    "city": "Přerov",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "PRW",
+    "name": "Prentice Airport (FAA: 5N2)",
+    "city": "Prentice, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "PRX",
+    "name": "Cox Field",
+    "city": "Paris, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PRY",
+    "name": "Wonderboom Airport",
+    "city": "Pretoria",
+    "country": "South Africa"
+  },
+  {
+    "code": "PRZ",
+    "name": "Prineville Airport (FAA: S39)",
+    "city": "Prineville, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "PSA",
+    "name": "Pisa International Airport (Galileo Galilei Airport)",
+    "city": "Pisa, Tuscany",
+    "country": "Italy"
+  },
+  {
+    "code": "PSB",
+    "name": "Mid-State Regional Airport",
+    "city": "Rush Township, Centre County, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "PSC",
+    "name": "Tri-Cities Airport",
+    "city": "Pasco, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "PSD",
+    "name": "Port Said Airport",
+    "city": "Port Said",
+    "country": "Egypt"
+  },
+  {
+    "code": "PSE",
+    "name": "Mercedita Airport",
+    "city": "Ponce",
+    "country": "Puerto Rico"
+  },
+  {
+    "code": "PSF",
+    "name": "Pittsfield Municipal Airport",
+    "city": "Pittsfield, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "PSG",
+    "name": "Petersburg James A. Johnson Airport",
+    "city": "Petersburg, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PSH",
+    "name": "Sankt Peter-Ording Airport",
+    "city": "Sankt Peter-Ording, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "PSI",
+    "name": "Pasni Airport",
+    "city": "Pasni",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PSJ",
+    "name": "Kasiguncu Airport",
+    "city": "Poso",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PSK",
+    "name": "New River Valley Airport",
+    "city": "Dublin, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "PSL",
+    "name": "Perth Airport (Scone Airport)",
+    "city": "Perth, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "PSM",
+    "name": "Portsmouth International Airport at Pease",
+    "city": "Portsmouth, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "PSN",
+    "name": "Palestine Municipal Airport",
+    "city": "Palestine, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PSO",
+    "name": "Antonio Nariño Airport",
+    "city": "Pasto",
+    "country": "Colombia"
+  },
+  {
+    "code": "PSP",
+    "name": "Palm Springs International Airport",
+    "city": "Palm Springs, California",
+    "country": "United States"
+  },
+  {
+    "code": "PSQ",
+    "name": "Philadelphia Seaplane Base (FAA: 9N2)",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "PSR",
+    "name": "Abruzzo Airport",
+    "city": "Pescara, Abruzzo",
+    "country": "Italy"
+  },
+  {
+    "code": "PSS",
+    "name": "Libertador General José de San Martín Airport",
+    "city": "Posadas, Misiones",
+    "country": "Argentina"
+  },
+  {
+    "code": "PSU",
+    "name": "Pangsuma Airport",
+    "city": "Putussibau",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PSV",
+    "name": "Papa Stour Airstrip",
+    "city": "Papa Stour, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "PSW",
+    "name": "Passos Airport",
+    "city": "Passos, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "PSX",
+    "name": "Palacios Municipal Airport",
+    "city": "Palacios, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PSY",
+    "name": "Port Stanley Airport",
+    "city": "Stanley",
+    "country": "British Overseas Territory of Falkland Islands"
+  },
+  {
+    "code": "PSZ",
+    "name": "Puerto Suárez International Airport",
+    "city": "Puerto Suárez",
+    "country": "Bolivia"
+  },
+  {
+    "code": "PTA",
+    "name": "Port Alsworth Airport (FAA: TPO)",
+    "city": "Port Alsworth, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PTB",
+    "name": "Dinwiddie County Airport",
+    "city": "Petersburg, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "PTC",
+    "name": "Port Alice Seaplane Base (FAA: 16K)",
+    "city": "Port Alice, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PTD",
+    "name": "Port Alexander Seaplane Base (FAA: AHP)",
+    "city": "Port Alexander, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PTF",
+    "name": "Malolo Lailai Airport",
+    "city": "Malolo Lailai",
+    "country": "Fiji"
+  },
+  {
+    "code": "PTG",
+    "name": "Polokwane International Airport",
+    "city": "Polokwane",
+    "country": "South Africa"
+  },
+  {
+    "code": "PTH",
+    "name": "Port Heiden Airport",
+    "city": "Port Heiden, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PTJ",
+    "name": "Portland Airport",
+    "city": "Portland, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "PTK",
+    "name": "Oakland County International Airport",
+    "city": "Pontiac, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "PTM",
+    "name": "Palmarito Airport",
+    "city": "Palmarito",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PTN",
+    "name": "Harry P. Williams Memorial Airport",
+    "city": "Patterson, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "PTO",
+    "name": "Juvenal Loureiro Cardoso Airport",
+    "city": "Pato Branco, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "PTP",
+    "name": "Pointe-à-Pitre International Airport (Le Raizet Airport)",
+    "city": "Pointe-à-Pitre",
+    "country": "Guadeloupe"
+  },
+  {
+    "code": "PTQ",
+    "name": "Porto de Moz Airport",
+    "city": "Porto de Moz, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "PTS",
+    "name": "Atkinson Municipal Airport",
+    "city": "Pittsburg, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "PTT",
+    "name": "Pratt Regional Airport",
+    "city": "Pratt, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "PTU",
+    "name": "Platinum Airport",
+    "city": "Platinum, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PTV",
+    "name": "Porterville Municipal Airport",
+    "city": "Porterville, California",
+    "country": "United States"
+  },
+  {
+    "code": "PTW",
+    "name": "Heritage Field",
+    "city": "Pottstown, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "PTX",
+    "name": "Contador Airport",
+    "city": "Pitalito",
+    "country": "Colombia"
+  },
+  {
+    "code": "PTY",
+    "name": "Tocumen International Airport",
+    "city": "Panama City",
+    "country": "Panama"
+  },
+  {
+    "code": "PTZ",
+    "name": "Río Amazonas Airport",
+    "city": "Shell",
+    "country": "Ecuador"
+  },
+  {
+    "code": "PUA",
+    "name": "Puas Airport",
+    "city": "Puas",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PUB",
+    "name": "Pueblo Memorial Airport",
+    "city": "Pueblo, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "PUC",
+    "name": "Carbon County Regional Airport",
+    "city": "Price, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "PUD",
+    "name": "Puerto Deseado Airport",
+    "city": "Puerto Deseado, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "PUE",
+    "name": "Puerto Obaldia Airport",
+    "city": "Puerto Obaldía",
+    "country": "Panama"
+  },
+  {
+    "code": "PUF",
+    "name": "Pau Pyrénées Airport",
+    "city": "Pau, Aquitaine",
+    "country": "France"
+  },
+  {
+    "code": "PUG",
+    "name": "Port Augusta Airport",
+    "city": "Port Augusta, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PUI",
+    "name": "Pureni Airport",
+    "city": "Pureni",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PUJ",
+    "name": "Punta Cana International Airport",
+    "city": "Punta Cana",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "PUK",
+    "name": "Pukarua Airport",
+    "city": "Pukarua, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "PUL",
+    "name": "Port of Poulsbo Marina Moorage Seaplane Base (FAA: 83Q)",
+    "city": "Poulsbo, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "PUM",
+    "name": "Sangia Nibandera Airport",
+    "city": "Kolaka",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PUN",
+    "name": "Punia Airport",
+    "city": "Punia",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "PUP",
+    "name": "Pô Airport",
+    "city": "Pô",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "PUQ",
+    "name": "Presidente Carlos Ibáñez del Campo International Airport",
+    "city": "Punta Arenas",
+    "country": "Chile"
+  },
+  {
+    "code": "PUR",
+    "name": "Puerto Rico Airport",
+    "city": "Puerto Rico",
+    "country": "Bolivia"
+  },
+  {
+    "code": "PUS",
+    "name": "Gimhae International Airport",
+    "city": "Busan",
+    "country": "South Korea"
+  },
+  {
+    "code": "PUT",
+    "name": "Sri Sathya Sai Airport",
+    "city": "Puttaparthi, Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "PUU",
+    "name": "Tres de Mayo Airport",
+    "city": "Puerto Asís",
+    "country": "Colombia"
+  },
+  {
+    "code": "PUV",
+    "name": "Malabou Airport",
+    "city": "Poum",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "PUW",
+    "name": "Pullman–Moscow Regional Airport",
+    "city": "Pullman / Moscow (ID), Washington",
+    "country": "United States"
+  },
+  {
+    "code": "PUX",
+    "name": "El Mirador Airport",
+    "city": "Puerto Varas",
+    "country": "Chile"
+  },
+  {
+    "code": "PUY",
+    "name": "Pula Airport",
+    "city": "Pula",
+    "country": "Croatia"
+  },
+  {
+    "code": "PUZ",
+    "name": "Puerto Cabezas Airport",
+    "city": "Puerto Cabezas",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "PVA",
+    "name": "El Embrujo Airport",
+    "city": "Providencia Island",
+    "country": "Colombia"
+  },
+  {
+    "code": "PVC",
+    "name": "Provincetown Municipal Airport",
+    "city": "Provincetown, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "PVD",
+    "name": "Theodore Francis Green State Airport",
+    "city": "Providence, Rhode Island",
+    "country": "United States"
+  },
+  {
+    "code": "PVE",
+    "name": "El Porvenir Airport",
+    "city": "El Porvenir",
+    "country": "Panama"
+  },
+  {
+    "code": "PVF",
+    "name": "Placerville Airport",
+    "city": "Placerville, California",
+    "country": "United States"
+  },
+  {
+    "code": "PVG",
+    "name": "Shanghai Pudong International Airport",
+    "city": "Shanghai",
+    "country": "China"
+  },
+  {
+    "code": "PVH",
+    "name": "Governador Jorge Teixeira de Oliveira International Airport",
+    "city": "Porto Velho, Rondônia",
+    "country": "Brazil"
+  },
+  {
+    "code": "PVI",
+    "name": "Edu Chaves Airport",
+    "city": "Paranavaí, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "PVK",
+    "name": "Aktion National Airport",
+    "city": "Preveza / Lefkada",
+    "country": "Greece"
+  },
+  {
+    "code": "PVL",
+    "name": "Pike County Airport (FAA: PBX)",
+    "city": "Pikeville, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "PVO",
+    "name": "Reales Tamarindos Airport",
+    "city": "Portoviejo",
+    "country": "Ecuador"
+  },
+  {
+    "code": "PVR",
+    "name": "Licenciado Gustavo Díaz Ordaz International Airport",
+    "city": "Puerto Vallarta, Jalisco",
+    "country": "Mexico"
+  },
+  {
+    "code": "PVS",
+    "name": "Provideniya Bay Airport",
+    "city": "Provideniya, Chukotka",
+    "country": "Russia"
+  },
+  {
+    "code": "PVU",
+    "name": "Provo Municipal Airport",
+    "city": "Provo, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "PVW",
+    "name": "Hale County Airport",
+    "city": "Plainview, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "PWA",
+    "name": "Wiley Post Airport",
+    "city": "Oklahoma City, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "PWD",
+    "name": "Sher-Wood Airport",
+    "city": "Plentywood, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "PWE",
+    "name": "Pevek Airport",
+    "city": "Pevek, Chukotka",
+    "country": "Russia"
+  },
+  {
+    "code": "PWI",
+    "name": "Beles Airport",
+    "city": "Pawi",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "PWK",
+    "name": "Chicago Executive Airport",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "PWL",
+    "name": "Wirasaba Airport",
+    "city": "Purwokerto",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PWM",
+    "name": "Portland International Jetport",
+    "city": "Portland, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "PWN",
+    "name": "Pitts Town Airport",
+    "city": "Pitts Town, Crooked Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "PWO",
+    "name": "Pweto Airport",
+    "city": "Pweto",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "PWQ",
+    "name": "Pavlodar Airport",
+    "city": "Pavlodar",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "PWR",
+    "name": "Port Walter Seaplane Base",
+    "city": "Port Walter, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PWT",
+    "name": "Bremerton National Airport",
+    "city": "Bremerton, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "PWY",
+    "name": "Ralph Wenz Field (FAA: PNA)",
+    "city": "Pinedale, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "PXA",
+    "name": "Atung Bungsu Airport",
+    "city": "Pagar Alam, South Sumatra",
+    "country": "Indonesia"
+  },
+  {
+    "code": "PXH",
+    "name": "Prominent Hill Airport",
+    "city": "Prominent Hill, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "PXL",
+    "name": "Polacca Airport (FAA: P10)",
+    "city": "Polacca, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "PXM",
+    "name": "Puerto Escondido International Airport",
+    "city": "Puerto Escondido, Oaxaca",
+    "country": "Mexico"
+  },
+  {
+    "code": "PXO",
+    "name": "Porto Santo Airport",
+    "city": "Porto Santo Island, Madeira",
+    "country": "Portugal"
+  },
+  {
+    "code": "PXR",
+    "name": "Surin Airport",
+    "city": "Surin",
+    "country": "Thailand"
+  },
+  {
+    "code": "PXU",
+    "name": "Pleiku Airport",
+    "city": "Pleiku",
+    "country": "Vietnam"
+  },
+  {
+    "code": "PYA",
+    "name": "Velasquez Airport",
+    "city": "Puerto Boyacá",
+    "country": "Colombia"
+  },
+  {
+    "code": "PYB",
+    "name": "Jeypore Airport",
+    "city": "Jeypore, Odisha",
+    "country": "India"
+  },
+  {
+    "code": "PYC",
+    "name": "Playón Chico Airport",
+    "city": "Ukupseni (Playón Chico)",
+    "country": "Panama"
+  },
+  {
+    "code": "PYE",
+    "name": "Tongareva Airport",
+    "city": "Penrhyn Atoll",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "PYG",
+    "name": "Pakyong Airport",
+    "city": "Pakyong, Sikkim",
+    "country": "India"
+  },
+  {
+    "code": "PYH",
+    "name": "Cacique Aramare Airport",
+    "city": "Puerto Ayacucho",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PYJ",
+    "name": "Polyarny Airport",
+    "city": "Polyarny, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "PYK",
+    "name": "Payam International Airport",
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  {
+    "code": "PYL",
+    "name": "Perry Island Seaplane Base",
+    "city": "Perry Island, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "PYM",
+    "name": "Plymouth Municipal Airport",
+    "city": "Plymouth, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "PYN",
+    "name": "Payán Airport",
+    "city": "Payán",
+    "country": "Colombia"
+  },
+  {
+    "code": "PYO",
+    "name": "Putumayo Airport",
+    "city": "Puerto El Carmen de Putumayo",
+    "country": "Ecuador"
+  },
+  {
+    "code": "PYR",
+    "name": "Andravida Air Base",
+    "city": "Pyrgos",
+    "country": "Greece"
+  },
+  {
+    "code": "PYS",
+    "name": "Paradise Skypark (FAA: CA92)",
+    "city": "Paradise, California",
+    "country": "United States"
+  },
+  {
+    "code": "PYV",
+    "name": "Yaviza Airport",
+    "city": "Yaviza",
+    "country": "Panama"
+  },
+  {
+    "code": "PYY",
+    "name": "Pai Airport",
+    "city": "Pai",
+    "country": "Thailand"
+  },
+  {
+    "code": "PZA",
+    "name": "Paz de Ariporo Airport",
+    "city": "Paz de Ariporo",
+    "country": "Colombia"
+  },
+  {
+    "code": "PZB",
+    "name": "Pietermaritzburg Airport",
+    "city": "Pietermaritzburg",
+    "country": "South Africa"
+  },
+  {
+    "code": "PZH",
+    "name": "Zhob Airport",
+    "city": "Zhob",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PZI",
+    "name": "Panzhihua Bao'anying Airport",
+    "city": "Panzhihua, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "PZK",
+    "name": "Pukapuka Island Airfield",
+    "city": "Pukapuka Island",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "PZL",
+    "name": "Zulu Inyala Airport",
+    "city": "Phinda",
+    "country": "South Africa"
+  },
+  {
+    "code": "PZO",
+    "name": "Manuel Carlos Piar Guayana Airport",
+    "city": "Ciudad Guayana / Puerto Ordaz",
+    "country": "Venezuela"
+  },
+  {
+    "code": "PZS",
+    "name": "Maquehue Airport",
+    "city": "Temuco",
+    "country": "Chile"
+  },
+  {
+    "code": "PZU",
+    "name": "Port Sudan New International Airport",
+    "city": "Port Sudan",
+    "country": "Sudan"
+  },
+  {
+    "code": "PZY",
+    "name": "Piešťany Airport",
+    "city": "Piešťany",
+    "country": "Slovakia"
+  }
+]

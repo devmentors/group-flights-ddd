@@ -1,0 +1,716 @@
+﻿[
+  {
+    "code": "ZAA",
+    "name": "Alice Arm/Silver City Water Aerodrome (TC: CAC3)",
+    "city": "Alice Arm, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZAC",
+    "name": "York Landing Airport",
+    "city": "York Landing, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ZAD",
+    "name": "Zadar Airport",
+    "city": "Zadar",
+    "country": "Croatia"
+  },
+  {
+    "code": "ZAG",
+    "name": "Franjo Tuđman Airport",
+    "city": "Zagreb",
+    "country": "Croatia"
+  },
+  {
+    "code": "ZAH",
+    "name": "Zahedan Airport",
+    "city": "Zahedan",
+    "country": "Iran"
+  },
+  {
+    "code": "ZAJ",
+    "name": "Zaranj Airport",
+    "city": "Zaranj",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "ZAL",
+    "name": "Pichoy Airport",
+    "city": "Valdivia",
+    "country": "Chile"
+  },
+  {
+    "code": "ZAM",
+    "name": "Zamboanga International Airport",
+    "city": "Zamboanga City",
+    "country": "Philippines"
+  },
+  {
+    "code": "ZAO",
+    "name": "Cahors - Lalbenque Airport",
+    "city": "Cahors, Midi-Pyrénées",
+    "country": "France"
+  },
+  {
+    "code": "ZAR",
+    "name": "Zaria Airport",
+    "city": "Zaria",
+    "country": "Nigeria"
+  },
+  {
+    "code": "ZAT",
+    "name": "Zhaotong Airport",
+    "city": "Zhaotong, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "ZAZ",
+    "name": "Zaragoza Airport",
+    "city": "Zaragoza, Aragon",
+    "country": "Spain"
+  },
+  {
+    "code": "ZBE",
+    "name": "Zábřeh Airport",
+    "city": "Dolní Benešov",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "ZBF",
+    "name": "Bathurst Airport",
+    "city": "Bathurst, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "ZBK",
+    "name": "Žabljak Airport",
+    "city": "Žabljak",
+    "country": "Montenegro"
+  },
+  {
+    "code": "ZBL",
+    "name": "Biloela Airport",
+    "city": "Biloela, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ZBM",
+    "name": "Roland-Désourdy Airport",
+    "city": "Bromont, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "ZBO",
+    "name": "Bowen Airport",
+    "city": "Bowen, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ZBR",
+    "name": "Konarak Airport",
+    "city": "Chabahar (Chah Bahar)",
+    "country": "Iran"
+  },
+  {
+    "code": "ZBY",
+    "name": "Sayaboury Airport",
+    "city": "Sainyabuli (Sayaboury)",
+    "country": "Laos"
+  },
+  {
+    "code": "ZCL",
+    "name": "General Leobardo C. Ruiz International Airport",
+    "city": "Zacatecas City, Zacatecas",
+    "country": "Mexico"
+  },
+  {
+    "code": "ZCO",
+    "name": "La Araucanía Airport",
+    "city": "Temuco",
+    "country": "Chile"
+  },
+  {
+    "code": "ZDJ",
+    "name": "Bern Railway Station",
+    "city": "Bern",
+    "country": "Switzerland"
+  },
+  {
+    "code": "ZDY",
+    "name": "Dalma Airport",
+    "city": "Dalma Island (Delma Island)",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "ZEC",
+    "name": "Secunda Airport",
+    "city": "Secunda",
+    "country": "South Africa"
+  },
+  {
+    "code": "ZEG",
+    "name": "Senggo Airport",
+    "city": "Senggo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "ZEL",
+    "name": "Bella Bella (Campbell Island) Airport",
+    "city": "Bella Bella, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZEM",
+    "name": "Eastmain River Airport",
+    "city": "Eastmain, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "ZEN",
+    "name": "Zenag Airport",
+    "city": "Zenag",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "ZER",
+    "name": "Zero Airport (Ziro Airport)",
+    "city": "Ziro, Arunachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "ZFA",
+    "name": "Faro Airport",
+    "city": "Faro, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "ZFD",
+    "name": "Fond-du-Lac Airport",
+    "city": "Fond-du-Lac, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "ZFM",
+    "name": "Fort McPherson Airport",
+    "city": "Fort McPherson, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "ZFN",
+    "name": "Tulita Airport",
+    "city": "Tulita, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "ZFW",
+    "name": "Fairview Airport (TC: CEB5)",
+    "city": "Fairview, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "ZGF",
+    "name": "Grand Forks Airport",
+    "city": "Grand Forks, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZGI",
+    "name": "Gods River Airport",
+    "city": "Gods River, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ZGL",
+    "name": "South Galway Airport",
+    "city": "South Galway Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ZGM",
+    "name": "Ngoma Airport",
+    "city": "Ngoma",
+    "country": "Zambia"
+  },
+  {
+    "code": "ZGR",
+    "name": "Little Grand Rapids Airport",
+    "city": "Little Grand Rapids, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ZGS",
+    "name": "La Romaine Airport (TC: CTT5)",
+    "city": "La Romaine, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "ZGU",
+    "name": "Gaua Airport",
+    "city": "Gaua",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "ZHA",
+    "name": "Zhanjiang Airport",
+    "city": "Zhanjiang, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "ZHM",
+    "name": "Shamshernagar Airport",
+    "city": "Shamshernagar",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "ZHP",
+    "name": "High Prairie Airport",
+    "city": "High Prairie, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "ZHT",
+    "name": "Geneva Railway Station",
+    "city": "Geneva",
+    "country": "Switzerland"
+  },
+  {
+    "code": "ZHY",
+    "name": "Zhongwei Shapotou Airport (Zhongwei Xiangshan Airport)",
+    "city": "Zhongwei, Ningxia",
+    "country": "China"
+  },
+  {
+    "code": "ZIA",
+    "name": "Ramenskoye Airport (Zhukovsky Airport)",
+    "city": "Zhukovsky, Moscow Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "ZIC",
+    "name": "Victoria Airport",
+    "city": "Victoria",
+    "country": "Chile"
+  },
+  {
+    "code": "ZIG",
+    "name": "Ziguinchor Airport",
+    "city": "Ziguinchor",
+    "country": "Senegal"
+  },
+  {
+    "code": "ZIH",
+    "name": "Ixtapa-Zihuatanejo International Airport",
+    "city": "Ixtapa / Zihuatanejo, Guerrero",
+    "country": "Mexico"
+  },
+  {
+    "code": "ZIS",
+    "name": "Alzintan Airport",
+    "city": "Zintan",
+    "country": "Libya"
+  },
+  {
+    "code": "ZIX",
+    "name": "Zhigansk Airport",
+    "city": "Zhigansk, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "ZIZ",
+    "name": "Zamzama Airport",
+    "city": "Zamzama",
+    "country": "Pakistan"
+  },
+  {
+    "code": "ZJG",
+    "name": "Jenpeg Airport",
+    "city": "Jenpeg, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ZJN",
+    "name": "Swan River Airport",
+    "city": "Swan River, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ZJT",
+    "name": "Tanjung Pelepas Port Airport",
+    "city": "Tanjung Pelepas, Johor",
+    "country": "Malaysia"
+  },
+  {
+    "code": "ZKB",
+    "name": "Kasaba Bay Airport",
+    "city": "Kasaba Bay",
+    "country": "Zambia"
+  },
+  {
+    "code": "ZKE",
+    "name": "Kashechewan Airport",
+    "city": "Kashechewan, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "ZKG",
+    "name": "Kegaska Airport (TC: CTK6)",
+    "city": "Kegaska (Kegashka), Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "ZKP",
+    "name": "Zyryanka Airport",
+    "city": "Zyryanka, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "ZLO",
+    "name": "Playa de Oro International Airport",
+    "city": "Manzanillo, Colima",
+    "country": "Mexico"
+  },
+  {
+    "code": "ZLT",
+    "name": "La Tabatière Airport (TC: CTU5)",
+    "city": "Gros-Mécatina (La Tabatière), Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "ZLW",
+    "name": "Pasir Gudang Port Airport",
+    "city": "Pasir Gudang, Johor",
+    "country": "Malaysia"
+  },
+  {
+    "code": "ZLX",
+    "name": "Zalingei Airport",
+    "city": "Zalingei (Zalengei)",
+    "country": "Sudan"
+  },
+  {
+    "code": "ZMD",
+    "name": "Sena Madureira Airport",
+    "city": "Sena Madureira, Acre",
+    "country": "Brazil"
+  },
+  {
+    "code": "ZMH",
+    "name": "South Cariboo Regional Airport",
+    "city": "108 Mile Ranch, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZMM",
+    "name": "Zamora National Airport",
+    "city": "Zamora, Michoacán",
+    "country": "Mexico"
+  },
+  {
+    "code": "ZMT",
+    "name": "Masset Airport",
+    "city": "Masset, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZNA",
+    "name": "Nanaimo Harbour Water Airport (TC: CAC8)",
+    "city": "Nanaimo, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZNC",
+    "name": "Nyac Airport",
+    "city": "Nyac, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ZND",
+    "name": "Zinder Airport",
+    "city": "Zinder",
+    "country": "Niger"
+  },
+  {
+    "code": "ZNE",
+    "name": "Newman Airport",
+    "city": "Newman, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "ZNU",
+    "name": "Namu Water Aerodrome",
+    "city": "Namu, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZNZ",
+    "name": "Abeid Amani Karume International Airport",
+    "city": "Zanzibar",
+    "country": "Tanzania"
+  },
+  {
+    "code": "ZOF",
+    "name": "Ocean Falls Water Aerodrome (TC: CAH2)",
+    "city": "Ocean Falls, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZOS",
+    "name": "Cañal Bajo Carlos Hott Siebert Airport",
+    "city": "Osorno",
+    "country": "Chile"
+  },
+  {
+    "code": "ZPB",
+    "name": "Sachigo Lake Airport",
+    "city": "Sachigo Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "ZPC",
+    "name": "Pucón Airport",
+    "city": "Pucón",
+    "country": "Chile"
+  },
+  {
+    "code": "ZPH",
+    "name": "Zephyrhills Municipal Airport",
+    "city": "Zephyrhills, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "ZPO",
+    "name": "Pinehouse Lake Airport",
+    "city": "Pinehouse, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "ZQN",
+    "name": "Queenstown Airport",
+    "city": "Queenstown",
+    "country": "New Zealand"
+  },
+  {
+    "code": "ZQS",
+    "name": "Queen Charlotte City Water Aerodrome (TC: CAQ6)",
+    "city": "Queen Charlotte, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZQW",
+    "name": "Zweibrücken Airport",
+    "city": "Zweibrücken, Rhineland-Palatinate",
+    "country": "Germany"
+  },
+  {
+    "code": "ZQZ",
+    "name": "Zhangjiakou Ningyuan Airport",
+    "city": "Zhangjiakou, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "ZRH",
+    "name": "Zurich Airport",
+    "city": "Zürich",
+    "country": "Switzerland"
+  },
+  {
+    "code": "ZRI",
+    "name": "Serui Airport",
+    "city": "Serui",
+    "country": "Indonesia"
+  },
+  {
+    "code": "ZRJ",
+    "name": "Round Lake (Weagamow Lake) Airport",
+    "city": "North Caribou Lake (Round Lake), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "ZRM",
+    "name": "Sarmi Orai Airport",
+    "city": "Sarmi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "ZSA",
+    "name": "San Salvador Airport (Cockburn Town Airport)",
+    "city": "San Salvador Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "ZSE",
+    "name": "Pierrefonds Airport",
+    "city": "Saint-Pierre, Réunion",
+    "country": "France"
+  },
+  {
+    "code": "ZSJ",
+    "name": "Sandy Lake Airport",
+    "city": "Sandy Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "ZSS",
+    "name": "Sassandra Airport",
+    "city": "Sassandra",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "ZST",
+    "name": "Stewart Aerodrome",
+    "city": "Stewart, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZSW",
+    "name": "Prince Rupert/Seal Cove Water Airport",
+    "city": "Prince Rupert, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZTA",
+    "name": "Tureia Airport",
+    "city": "Tureia, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "ZTB",
+    "name": "Tête-à-la-Baleine Airport (TC: CTB6)",
+    "city": "Tête-à-la-Baleine, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "ZTH",
+    "name": "Zakynthos International Airport (Dionysios SolomosAirport)",
+    "city": "Zakynthos",
+    "country": "Greece"
+  },
+  {
+    "code": "ZTM",
+    "name": "Shamattawa Airport",
+    "city": "Shamattawa, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ZTR",
+    "name": "Zhytomyr Airport",
+    "city": "Zhytomyr",
+    "country": "Ukraine"
+  },
+  {
+    "code": "ZTS",
+    "name": "Tahsis Water Aerodrome (TC: CAL9)",
+    "city": "Tahsis, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "ZTU",
+    "name": "Zaqatala International Airport",
+    "city": "Zaqatala",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "ZUC",
+    "name": "Ignace Municipal Airport",
+    "city": "Ignace, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "ZUD",
+    "name": "Pupelde Airfield",
+    "city": "Ancud",
+    "country": "Chile"
+  },
+  {
+    "code": "ZUH",
+    "name": "Zhuhai Jinwan Airport (Zhuhai Sanzao Airport)",
+    "city": "Zhuhai, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "ZUL",
+    "name": "Zilfi Airport",
+    "city": "Al Zulfi (Zilfi)",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "ZUM",
+    "name": "Churchill Falls Airport",
+    "city": "Churchill Falls, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "ZVA",
+    "name": "Miandrivazo Airport",
+    "city": "Miandrivazo",
+    "country": "Madagascar"
+  },
+  {
+    "code": "ZVG",
+    "name": "Springvale Airport",
+    "city": "Springvale, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "ZVK",
+    "name": "Savannakhet Airport",
+    "city": "Savannakhet",
+    "country": "Laos"
+  },
+  {
+    "code": "ZWA",
+    "name": "Andapa Airport",
+    "city": "Andapa",
+    "country": "Madagascar"
+  },
+  {
+    "code": "ZWL",
+    "name": "Wollaston Lake Airport",
+    "city": "Wollaston Lake, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "ZXT",
+    "name": "Zabrat Airport",
+    "city": "Baku",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "ZYI",
+    "name": "Zunyi Xinzhou Airport",
+    "city": "Zunyi, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "ZYL",
+    "name": "Osmani International Airport",
+    "city": "Sylhet",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "ZZE",
+    "name": "Zangilan International Airport",
+    "city": "Zangilan, East Zangezur",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "ZZO",
+    "name": "Zonalnoye Airport",
+    "city": "Tymovskoye, Sakhalin Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "ZZU",
+    "name": "Mzuzu Airport",
+    "city": "Mzuzu",
+    "country": "Malawi"
+  },
+  {
+    "code": "ZZV",
+    "name": "Zanesville Municipal Airport",
+    "city": "Zanesville, Ohio",
+    "country": "United States"
+  }
+]

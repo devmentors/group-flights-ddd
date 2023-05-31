@@ -1,0 +1,3698 @@
+﻿[
+  {
+    "code": "BAA",
+    "name": "Bialla Airport",
+    "city": "Bialla",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BAB",
+    "name": "Beale Air Force Base",
+    "city": "Marysville, California",
+    "country": "United States"
+  },
+  {
+    "code": "BAC",
+    "name": "Barranca de Upia Airport",
+    "city": "Barranca de Upía",
+    "country": "Colombia"
+  },
+  {
+    "code": "BAD",
+    "name": "Barksdale Air Force Base",
+    "city": "Bossier City, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "BAE",
+    "name": "Barcelonnette – Saint-Pons Airport",
+    "city": "Barcelonnette, Alpes-de-Haute-Provence",
+    "country": "France"
+  },
+  {
+    "code": "BAF",
+    "name": "Westfield-Barnes Regional Airport",
+    "city": "Westfield / Springfield, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "BAG",
+    "name": "Loakan Airport",
+    "city": "Baguio",
+    "country": "Philippines"
+  },
+  {
+    "code": "BAH",
+    "name": "Bahrain International Airport",
+    "city": "Manama",
+    "country": "Bahrain"
+  },
+  {
+    "code": "BAI",
+    "name": "Buenos Aires Airport",
+    "city": "Buenos Aires",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "BAJ",
+    "name": "Bali Airport",
+    "city": "Bali",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BAK",
+    "name": "metropolitan area2",
+    "city": "Baku",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "BAL",
+    "name": "Batman Airport",
+    "city": "Batman",
+    "country": "Turkey"
+  },
+  {
+    "code": "BAM",
+    "name": "Battle Mountain Airport (Lander County Airport)",
+    "city": "Battle Mountain, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "BAN",
+    "name": "Basongo Airport",
+    "city": "Basongo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BAP",
+    "name": "Baibara Airport",
+    "city": "Baibara",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BAQ",
+    "name": "Ernesto Cortissoz International Airport",
+    "city": "Barranquilla",
+    "country": "Colombia"
+  },
+  {
+    "code": "BAR",
+    "name": "Qionghai Bo'ao Airport",
+    "city": "Qionghai, Hainan",
+    "country": "China"
+  },
+  {
+    "code": "BAS",
+    "name": "Balalae Airport",
+    "city": "Balalae Island, Western",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "BAT",
+    "name": "Chafei Amsei Airport",
+    "city": "Barretos, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "BAV",
+    "name": "Baotou Airport",
+    "city": "Baotou, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "BAW",
+    "name": "Biawonque Airport",
+    "city": "Biawonque",
+    "country": "Gabon"
+  },
+  {
+    "code": "BAX",
+    "name": "Barnaul Airport",
+    "city": "Barnaul, Altai Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "BAY",
+    "name": "Baia Mare Airport",
+    "city": "Baia Mare",
+    "country": "Romania"
+  },
+  {
+    "code": "BAZ",
+    "name": "Barcelos Airport",
+    "city": "Barcelos, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "BBA",
+    "name": "Balmaceda Airport",
+    "city": "Balmaceda",
+    "country": "Chile"
+  },
+  {
+    "code": "BBB",
+    "name": "Benson Municipal Airport",
+    "city": "Benson, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "BBC",
+    "name": "Bay City Municipal Airport (FAA: BYY)",
+    "city": "Bay City, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BBD",
+    "name": "Curtis Field",
+    "city": "Brady, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BBG",
+    "name": "Butaritari Atoll Airport",
+    "city": "Butaritari Atoll",
+    "country": "Kiribati"
+  },
+  {
+    "code": "BBH",
+    "name": "Stralsund–Barth Airport",
+    "city": "Stralsund / Barth, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "BBI",
+    "name": "Biju Patnaik International Airport",
+    "city": "Bhubaneswar, Odisha",
+    "country": "India"
+  },
+  {
+    "code": "BBJ",
+    "name": "Bitburg Airport (former Bitburg Air Base)",
+    "city": "Bitburg, Rhineland-Palatinate",
+    "country": "Germany"
+  },
+  {
+    "code": "BBK",
+    "name": "Kasane Airport",
+    "city": "Kasane",
+    "country": "Botswana"
+  },
+  {
+    "code": "BBL",
+    "name": "Ballera Airport",
+    "city": "Ballera gas plant, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BBM",
+    "name": "Battambang Airport",
+    "city": "Battambang",
+    "country": "Cambodia"
+  },
+  {
+    "code": "BBN",
+    "name": "Bario Airport",
+    "city": "Bario, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BBO",
+    "name": "Berbera Airport",
+    "city": "Berbera",
+    "country": "Somalia"
+  },
+  {
+    "code": "BBP",
+    "name": "Bembridge Airport",
+    "city": "Bembridge",
+    "country": "England"
+  },
+  {
+    "code": "BBQ",
+    "name": "Barbuda Codrington Airport",
+    "city": "Barbuda",
+    "country": "Antigua and Barbuda"
+  },
+  {
+    "code": "BBR",
+    "name": "Baillif Airport",
+    "city": "Basse-Terre",
+    "country": "Guadeloupe"
+  },
+  {
+    "code": "BBS",
+    "name": "Blackbushe Airport",
+    "city": "Yateley",
+    "country": "England"
+  },
+  {
+    "code": "BBT",
+    "name": "Berbérati Airport",
+    "city": "Berbérati",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BBU",
+    "name": "Aurel Vlaicu International Airport (Băneasa Airport)",
+    "city": "Bucharest",
+    "country": "Romania"
+  },
+  {
+    "code": "BBV",
+    "name": "Nero-Mer Airport",
+    "city": "Grand-Béréby",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "BBW",
+    "name": "Broken Bow Municipal Airport",
+    "city": "Broken Bow, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "BBX",
+    "name": "Wings Field (FAA: LOM)",
+    "city": "Philadelphia, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "BBY",
+    "name": "Bambari Airport",
+    "city": "Bambari",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BBZ",
+    "name": "Zambezi Airport",
+    "city": "Zambezi",
+    "country": "Zambia"
+  },
+  {
+    "code": "BCA",
+    "name": "Gustavo Rizo Airport",
+    "city": "Baracoa",
+    "country": "Cuba"
+  },
+  {
+    "code": "BCB",
+    "name": "Virginia Tech Montgomery Executive Airport",
+    "city": "Blacksburg, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "BCC",
+    "name": "Bear Creek 3 Airport (FAA: Z48)",
+    "city": "Bear Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BCD",
+    "name": "Bacolod–Silay International Airport",
+    "city": "Bacolod",
+    "country": "Philippines"
+  },
+  {
+    "code": "BCE",
+    "name": "Bryce Canyon Airport",
+    "city": "Bryce Canyon, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "BCF",
+    "name": "Bouca Airport",
+    "city": "Bouca",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BCG",
+    "name": "Bemichi Airport",
+    "city": "Kumaka",
+    "country": "Guyana"
+  },
+  {
+    "code": "BCH",
+    "name": "Baucau Airport",
+    "city": "Baucau",
+    "country": "East Timor"
+  },
+  {
+    "code": "BCI",
+    "name": "Barcaldine Airport",
+    "city": "Barcaldine, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BCK",
+    "name": "Bolwarra Airport",
+    "city": "Bolwarra, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BCL",
+    "name": "Barra del Colorado Airport",
+    "city": "Barra del Colorado",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "BCM",
+    "name": "Bacău International Airport",
+    "city": "Bacău",
+    "country": "Romania"
+  },
+  {
+    "code": "BCN",
+    "name": "Barcelona–El Prat Airport",
+    "city": "Barcelona, Catalonia",
+    "country": "Spain"
+  },
+  {
+    "code": "BCO",
+    "name": "Baco Airport (Jinka Airport)",
+    "city": "Jinka",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "BCP",
+    "name": "Bambu Airport",
+    "city": "Bambu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BCQ",
+    "name": "Brak Airport",
+    "city": "Brak",
+    "country": "Libya"
+  },
+  {
+    "code": "BCR",
+    "name": "Novo Campo Airport",
+    "city": "Boca do Acre, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "BCS",
+    "name": "Southern Seaplane Airport (FAA: 65LA)",
+    "city": "Belle Chasse, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "BCT",
+    "name": "Boca Raton Airport",
+    "city": "Boca Raton, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "BCU",
+    "name": "Bauchi State Airport",
+    "city": "Bauchi",
+    "country": "Nigeria"
+  },
+  {
+    "code": "BCV",
+    "name": "Hector Silva Airstrip",
+    "city": "Belmopan",
+    "country": "Belize"
+  },
+  {
+    "code": "BCW",
+    "name": "Benguerra Island Airport",
+    "city": "Benguerra Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "BCX",
+    "name": "Beloretsk Airport",
+    "city": "Beloretsk, Republic of Bashkortostan",
+    "country": "Russia"
+  },
+  {
+    "code": "BCY",
+    "name": "Bulchi Airport",
+    "city": "Bulchi",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "BCZ",
+    "name": "Bickerton Island Airport",
+    "city": "Bickerton Island, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "BDA",
+    "name": "L.F. Wade International Airport",
+    "city": "Hamilton",
+    "country": "British Overseas Territory of Bermuda"
+  },
+  {
+    "code": "BDB",
+    "name": "Bundaberg Airport",
+    "city": "Bundaberg, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BDC",
+    "name": "Barra do Corda Airport",
+    "city": "Barra do Corda, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "BDD",
+    "name": "Badu Island Airport",
+    "city": "Badu Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BDE",
+    "name": "Baudette International Airport",
+    "city": "Baudette, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "BDF",
+    "name": "Rinkenberger RLA Airport (FAA: 3IS8)",
+    "city": "Bradford, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "BDG",
+    "name": "Blanding Municipal Airport",
+    "city": "Blanding, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "BDH",
+    "name": "Bandar Lengeh Airport",
+    "city": "Bandar Lengeh",
+    "country": "Iran"
+  },
+  {
+    "code": "BDI",
+    "name": "Bird Island Airport",
+    "city": "Bird Island",
+    "country": "Seychelles"
+  },
+  {
+    "code": "BDJ",
+    "name": "Syamsudin Noor Airport",
+    "city": "Banjarmasin",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BDK",
+    "name": "Soko Airport",
+    "city": "Bondoukou",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "BDL",
+    "name": "Bradley International Airport",
+    "city": "Windsor Locks / Hartford, Connecticut",
+    "country": "United States"
+  },
+  {
+    "code": "BDM",
+    "name": "Bandırma Airport",
+    "city": "Bandırma",
+    "country": "Turkey"
+  },
+  {
+    "code": "BDN",
+    "name": "Talhar Airport",
+    "city": "Badin",
+    "country": "Pakistan"
+  },
+  {
+    "code": "BDO",
+    "name": "Husein Sastranegara International Airport",
+    "city": "Bandung",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BDP",
+    "name": "Bhadrapur Airport (Chandragadhi Airport)",
+    "city": "Bhadrapur / Chandragadhi",
+    "country": "Nepal"
+  },
+  {
+    "code": "BDQ",
+    "name": "Vadodara Airport (Civil Airport Harni)",
+    "city": "Vadodara, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "BDR",
+    "name": "Igor I. Sikorsky Memorial Airport",
+    "city": "Bridgeport, Connecticut",
+    "country": "United States"
+  },
+  {
+    "code": "BDS",
+    "name": "Brindisi – Salento Airport",
+    "city": "Brindisi, Apulia",
+    "country": "Italy"
+  },
+  {
+    "code": "BDT",
+    "name": "Gbadolite Airport",
+    "city": "Gbadolite",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BDU",
+    "name": "Bardufoss Airport",
+    "city": "Bardufoss",
+    "country": "Norway"
+  },
+  {
+    "code": "BDV",
+    "name": "Moba Airport",
+    "city": "Moba",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BDW",
+    "name": "Bedford Downs Airport",
+    "city": "Bedford Downs, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BDX",
+    "name": "Broadus Airport",
+    "city": "Broadus, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "BDY",
+    "name": "Bandon State Airport (FAA: S05)",
+    "city": "Bandon, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "BDZ",
+    "name": "Baindoung Airport",
+    "city": "Baindoung",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BEA",
+    "name": "Bereina Airport",
+    "city": "Bereina",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BEB",
+    "name": "Benbecula Airport",
+    "city": "Benbecula",
+    "country": "Scotland"
+  },
+  {
+    "code": "BEC",
+    "name": "Beech Factory Airport",
+    "city": "Wichita, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "BED",
+    "name": "Laurence G. Hanscom Field",
+    "city": "Bedford, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "BEE",
+    "name": "Beagle Bay Airport",
+    "city": "Beagle Bay, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BEF",
+    "name": "Bluefields Airport",
+    "city": "Bluefields",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "BEG",
+    "name": "Belgrade Nikola Tesla Airport",
+    "city": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "code": "BEH",
+    "name": "Southwest Michigan Regional Airport",
+    "city": "Benton Harbor, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "BEI",
+    "name": "Beica Airport",
+    "city": "Beica",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "BEJ",
+    "name": "Kalimarau Airport",
+    "city": "Tanjung Redeb",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BEK",
+    "name": "Bareilly Airport",
+    "city": "Bareilly, Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "BEL",
+    "name": "Val de Cans International Airport",
+    "city": "Belém, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "BEM",
+    "name": "Beni Mellal Airport",
+    "city": "Beni Mellal",
+    "country": "Morocco"
+  },
+  {
+    "code": "BEN",
+    "name": "Benina International Airport",
+    "city": "Benghazi",
+    "country": "Libya"
+  },
+  {
+    "code": "BEO",
+    "name": "Lake Macquarie Airport (Belmont Airport)",
+    "city": "Newcastle, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BEP",
+    "name": "Bellary Airport",
+    "city": "Bellary, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "BEQ",
+    "name": "RAF Honington",
+    "city": "Bury St Edmunds",
+    "country": "England"
+  },
+  {
+    "code": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "code": "BES",
+    "name": "Brest Bretagne Airport",
+    "city": "Brest, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "BET",
+    "name": "Bethel Airport",
+    "city": "Bethel, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BEU",
+    "name": "Bedourie Airport",
+    "city": "Bedourie, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BEV",
+    "name": "Beersheba Airport",
+    "city": "Beersheba",
+    "country": "Israel"
+  },
+  {
+    "code": "BEW",
+    "name": "Beira Airport",
+    "city": "Beira",
+    "country": "Mozambique"
+  },
+  {
+    "code": "BEX",
+    "name": "RAF Benson",
+    "city": "Benson",
+    "country": "England"
+  },
+  {
+    "code": "BEY",
+    "name": "Beirut–Rafic Hariri International Airport / Beirut Air Base",
+    "city": "Beirut",
+    "country": "Lebanon"
+  },
+  {
+    "code": "BEZ",
+    "name": "Beru Island Airport",
+    "city": "Beru Island",
+    "country": "Kiribati"
+  },
+  {
+    "code": "BFA",
+    "name": "Bahía Negra Airport",
+    "city": "Bahía Negra",
+    "country": "Paraguay"
+  },
+  {
+    "code": "BFC",
+    "name": "Bloomfield Airport",
+    "city": "Bloomfield, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BFD",
+    "name": "Bradford Regional Airport",
+    "city": "Bradford, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "BFE",
+    "name": "Bielefeld Airport",
+    "city": "Bielefeld, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "BFF",
+    "name": "Western Nebraska Regional Airport (William B. Heilig Field)",
+    "city": "Scottsbluff, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "BFG",
+    "name": "Bullfrog Basin Airport (FAA: U07)",
+    "city": "Glen Canyon, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "BFH",
+    "name": "Bacacheri Airport",
+    "city": "Curitiba, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "BFI",
+    "name": "Boeing Field/King County International Airport",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "BFJ",
+    "name": "Bijie Feixiong Airport",
+    "city": "Bijie, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "BFK",
+    "name": "Buckley Space Force Base",
+    "city": "Aurora, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "BFL",
+    "name": "Meadows Field Airport",
+    "city": "Bakersfield, California",
+    "country": "United States"
+  },
+  {
+    "code": "BFM",
+    "name": "Mobile Downtown Airport",
+    "city": "Mobile, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "BFN",
+    "name": "Bloemfontein Airport",
+    "city": "Bloemfontein",
+    "country": "South Africa"
+  },
+  {
+    "code": "BFO",
+    "name": "Buffalo Range Airport",
+    "city": "Chiredzi",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "BFP",
+    "name": "Beaver County Airport (FAA: BVI)",
+    "city": "Beaver Falls, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "BFQ",
+    "name": "Bahía Piña Airport",
+    "city": "Puerto Piña",
+    "country": "Panama"
+  },
+  {
+    "code": "BFR",
+    "name": "Virgil I. Grissom Municipal Airport",
+    "city": "Bedford, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "BFS",
+    "name": "Belfast International Airport",
+    "city": "Belfast",
+    "country": "Northern Ireland"
+  },
+  {
+    "code": "BFT",
+    "name": "Beaufort County Airport (FAA: ARW)",
+    "city": "Beaufort County, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "BFU",
+    "name": "Bengbu Airport",
+    "city": "Bengbu, Anhui",
+    "country": "China"
+  },
+  {
+    "code": "BFV",
+    "name": "Buriram Airport",
+    "city": "Buriram",
+    "country": "Thailand"
+  },
+  {
+    "code": "BFW",
+    "name": "Sidi Bel Abbès Airport",
+    "city": "Sidi Bel Abbès",
+    "country": "Algeria"
+  },
+  {
+    "code": "BFX",
+    "name": "Bafoussam Airport",
+    "city": "Bafoussam",
+    "country": "Cameroon"
+  },
+  {
+    "code": "BGA",
+    "name": "Palonegro International Airport",
+    "city": "Bucaramanga",
+    "country": "Colombia"
+  },
+  {
+    "code": "BGB",
+    "name": "Booué Airport",
+    "city": "Booué",
+    "country": "Gabon"
+  },
+  {
+    "code": "BGC",
+    "name": "Bragança Airport",
+    "city": "Bragança",
+    "country": "Portugal"
+  },
+  {
+    "code": "BGD",
+    "name": "Hutchinson County Airport",
+    "city": "Borger, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BGE",
+    "name": "Decatur County Industrial Air Park",
+    "city": "Bainbridge, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "BGF",
+    "name": "Bangui M'Poko International Airport",
+    "city": "Bangui",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BGG",
+    "name": "Bingöl Airport",
+    "city": "Bingöl",
+    "country": "Turkey"
+  },
+  {
+    "code": "BGH",
+    "name": "Abbaye Airport",
+    "city": "Bogué",
+    "country": "Mauritania"
+  },
+  {
+    "code": "BGI",
+    "name": "Grantley Adams International Airport",
+    "city": "Bridgetown",
+    "country": "Barbados"
+  },
+  {
+    "code": "BGJ",
+    "name": "Borgarfjörður Eystri Airport",
+    "city": "Borgarfjörður Eystri",
+    "country": "Iceland"
+  },
+  {
+    "code": "BGK",
+    "name": "Big Creek Airport",
+    "city": "Big Creek",
+    "country": "Belize"
+  },
+  {
+    "code": "BGL",
+    "name": "Baglung Airport",
+    "city": "Baglung",
+    "country": "Nepal"
+  },
+  {
+    "code": "BGM",
+    "name": "Greater Binghamton Airport (Edwin A. Link Field)",
+    "city": "Binghamton, New York",
+    "country": "United States"
+  },
+  {
+    "code": "BGN",
+    "name": "Belaya Gora Airport",
+    "city": "Belaya Gora, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "BGO",
+    "name": "Bergen Airport, Flesland",
+    "city": "Bergen",
+    "country": "Norway"
+  },
+  {
+    "code": "BGP",
+    "name": "Bongo Airport",
+    "city": "Bongo",
+    "country": "Gabon"
+  },
+  {
+    "code": "BGQ",
+    "name": "Big Lake Airport",
+    "city": "Big Lake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BGR",
+    "name": "Bangor International Airport",
+    "city": "Bangor, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "BGT",
+    "name": "Bagdad Airport (FAA: E51)",
+    "city": "Bagdad, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "BGU",
+    "name": "Bangassou Airport",
+    "city": "Bangassou",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BGV",
+    "name": "Bento Gonçalves Airport",
+    "city": "Bento Gonçalves, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "BGW",
+    "name": "Baghdad International Airport",
+    "city": "Baghdad",
+    "country": "Iraq"
+  },
+  {
+    "code": "BGX",
+    "name": "Comandante Gustavo Kraemer Airport",
+    "city": "Bagé, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "BGY",
+    "name": "Il Caravaggio International Airport (Orio al Serio Airport)",
+    "city": "Milan / Bergamo, Lombardy",
+    "country": "Italy"
+  },
+  {
+    "code": "BGZ",
+    "name": "Braga Airport",
+    "city": "Braga",
+    "country": "Portugal"
+  },
+  {
+    "code": "BHA",
+    "name": "Los Perales Airport",
+    "city": "Bahía de Caráquez",
+    "country": "Ecuador"
+  },
+  {
+    "code": "BHB",
+    "name": "Hancock County-Bar Harbor Airport",
+    "city": "Bar Harbor, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "BHD",
+    "name": "George Best Belfast City Airport",
+    "city": "Belfast",
+    "country": "Northern Ireland"
+  },
+  {
+    "code": "BHE",
+    "name": "Woodbourne Airport",
+    "city": "Blenheim",
+    "country": "New Zealand"
+  },
+  {
+    "code": "BHF",
+    "name": "Bahía Cupica Airport",
+    "city": "Bahía Cupica",
+    "country": "Colombia"
+  },
+  {
+    "code": "BHG",
+    "name": "Brus Laguna Airport",
+    "city": "Brus Laguna",
+    "country": "Honduras"
+  },
+  {
+    "code": "BHH",
+    "name": "Bisha Domestic Airport",
+    "city": "Bisha",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "BHI",
+    "name": "Comandante Espora Airport",
+    "city": "Bahía Blanca, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "BHJ",
+    "name": "Bhuj Airport / Bhuj Rudra Mata Air Force Base",
+    "city": "Bhuj, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "BHK",
+    "name": "Bukhara International Airport",
+    "city": "Bukhara",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "BHL",
+    "name": "Bahía de los Ángeles Airport",
+    "city": "Bahía de los Ángeles, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "code": "BHM",
+    "name": "Birmingham–Shuttlesworth International Airport",
+    "city": "Birmingham, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "BHN",
+    "name": "Beihan Airport",
+    "city": "Beihan",
+    "country": "Yemen"
+  },
+  {
+    "code": "BHO",
+    "name": "Raja Bhoj Airport",
+    "city": "Bhopal, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "BHP",
+    "name": "Bhojpur Airport",
+    "city": "Bhojpur",
+    "country": "Nepal"
+  },
+  {
+    "code": "BHQ",
+    "name": "Broken Hill Airport",
+    "city": "Broken Hill, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BHR",
+    "name": "Bharatpur Airport",
+    "city": "Bharatpur",
+    "country": "Nepal"
+  },
+  {
+    "code": "BHS",
+    "name": "Bathurst Airport",
+    "city": "Bathurst, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BHT",
+    "name": "Brighton Downs Airport",
+    "city": "Brighton Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BHU",
+    "name": "Bhavnagar Airport",
+    "city": "Bhavnagar, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "BHV",
+    "name": "Bahawalpur Airport",
+    "city": "Bahawalpur",
+    "country": "Pakistan"
+  },
+  {
+    "code": "BHW",
+    "name": "Bhagatanwala Airport",
+    "city": "Sargodha",
+    "country": "Pakistan"
+  },
+  {
+    "code": "BHX",
+    "name": "Birmingham Airport",
+    "city": "Birmingham",
+    "country": "England"
+  },
+  {
+    "code": "BHY",
+    "name": "Beihai Fucheng Airport",
+    "city": "Beihai, Guangxi",
+    "country": "China"
+  },
+  {
+    "code": "BHZ",
+    "name": "metropolitan area3",
+    "city": "Belo Horizonte, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "BIA",
+    "name": "Bastia – Poretta Airport",
+    "city": "Bastia, Corsica",
+    "country": "France"
+  },
+  {
+    "code": "BIB",
+    "name": "Baidoa Airport",
+    "city": "Baidoa",
+    "country": "Somalia"
+  },
+  {
+    "code": "BID",
+    "name": "Block Island State Airport",
+    "city": "Block Island, Rhode Island",
+    "country": "United States"
+  },
+  {
+    "code": "BIE",
+    "name": "Beatrice Municipal Airport",
+    "city": "Beatrice, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "BIF",
+    "name": "Biggs Army Airfield",
+    "city": "El Paso, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BIG",
+    "name": "Allen Army Airfield",
+    "city": "Delta Junction, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BIH",
+    "name": "Eastern Sierra Regional Airport",
+    "city": "Bishop, California",
+    "country": "United States"
+  },
+  {
+    "code": "BII",
+    "name": "Bikini Atoll Airport",
+    "city": "Bikini Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "BIJ",
+    "name": "Biliau Airport",
+    "city": "Biliau",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BIK",
+    "name": "Frans Kaisiepo Airport",
+    "city": "Biak",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BIL",
+    "name": "Billings Logan International Airport",
+    "city": "Billings, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "BIM",
+    "name": "South Bimini Airport",
+    "city": "Bimini",
+    "country": "Bahamas"
+  },
+  {
+    "code": "BIN",
+    "name": "Bamyan Airport",
+    "city": "Bamyan",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "BIO",
+    "name": "Bilbao Airport",
+    "city": "Bilbao, Basque Country",
+    "country": "Spain"
+  },
+  {
+    "code": "BIP",
+    "name": "Bulimba Airport",
+    "city": "Bulimba, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BIQ",
+    "name": "Biarritz Pays Basque Airport",
+    "city": "Biarritz, Aquitaine",
+    "country": "France"
+  },
+  {
+    "code": "BIR",
+    "name": "Biratnagar Airport",
+    "city": "Biratnagar",
+    "country": "Nepal"
+  },
+  {
+    "code": "BIS",
+    "name": "Bismarck Municipal Airport",
+    "city": "Bismarck, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "BIT",
+    "name": "Baitadi Airport",
+    "city": "Baitadi",
+    "country": "Nepal"
+  },
+  {
+    "code": "BIU",
+    "name": "Bíldudalur Airport",
+    "city": "Bíldudalur",
+    "country": "Iceland"
+  },
+  {
+    "code": "BIV",
+    "name": "Bria Airport",
+    "city": "Bria",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BIW",
+    "name": "Billiluna Airport",
+    "city": "Billiluna, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BIX",
+    "name": "Keesler Air Force Base",
+    "city": "Biloxi, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "BIY",
+    "name": "Bhisho Airport",
+    "city": "Bhisho",
+    "country": "South Africa"
+  },
+  {
+    "code": "BIZ",
+    "name": "Bimin Airport",
+    "city": "Bimin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BJA",
+    "name": "Soummam – Abane Ramdane Airport",
+    "city": "Béjaïa",
+    "country": "Algeria"
+  },
+  {
+    "code": "BJB",
+    "name": "Bojnord Airport",
+    "city": "Bojnord",
+    "country": "Iran"
+  },
+  {
+    "code": "BJC",
+    "name": "Rocky Mountain Metropolitan Airport",
+    "city": "Denver, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "BJD",
+    "name": "Bakkafjörður Airport",
+    "city": "Bakkafjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "BJE",
+    "name": "Baleela Airport",
+    "city": "Baleela",
+    "country": "Sudan"
+  },
+  {
+    "code": "BJF",
+    "name": "Båtsfjord Airport",
+    "city": "Båtsfjord",
+    "country": "Norway"
+  },
+  {
+    "code": "BJG",
+    "name": "Kotamobagu Mopait Airport",
+    "city": "Kotamobagu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BJH",
+    "name": "Bajhang Airport",
+    "city": "Bajhang",
+    "country": "Nepal"
+  },
+  {
+    "code": "BJI",
+    "name": "Bemidji Regional Airport",
+    "city": "Bemidji, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "BJJ",
+    "name": "Wayne County Airport",
+    "city": "Wooster, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "BJK",
+    "name": "Benjina Airport (Nangasuri Airport)",
+    "city": "Benjina",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BJL",
+    "name": "Banjul International Airport",
+    "city": "Banjul",
+    "country": "Gambia"
+  },
+  {
+    "code": "BJM",
+    "name": "Bujumbura International Airport",
+    "city": "Bujumbura",
+    "country": "Burundi"
+  },
+  {
+    "code": "BJN",
+    "name": "Bajone Airport",
+    "city": "Bajone",
+    "country": "Mozambique"
+  },
+  {
+    "code": "BJO",
+    "name": "Bermejo Airport",
+    "city": "Bermejo",
+    "country": "Bolivia"
+  },
+  {
+    "code": "BJP",
+    "name": "Arthur Siqueira–Bragança Paulista State Airport",
+    "city": "Bragança Paulista, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "BJQ",
+    "name": "Bahja Airport",
+    "city": "Bahja",
+    "country": "Oman"
+  },
+  {
+    "code": "BJR",
+    "name": "Bahir Dar Airport",
+    "city": "Bahir Dar",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "BJS",
+    "name": "metropolitan area4",
+    "city": "Beijing",
+    "country": "China"
+  },
+  {
+    "code": "BJT",
+    "name": "Bentota River Airport",
+    "city": "Bentota",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "BJU",
+    "name": "Bajura Airport",
+    "city": "Bajura",
+    "country": "Nepal"
+  },
+  {
+    "code": "BJV",
+    "name": "Milas–Bodrum Airport",
+    "city": "Milas / Bodrum",
+    "country": "Turkey"
+  },
+  {
+    "code": "BJW",
+    "name": "Bajawa Soa Airport",
+    "city": "Bajawa",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BJX",
+    "name": "Del Bajío International Airport (Guanajuato Int'l Airport)",
+    "city": "León, Guanajuato",
+    "country": "Mexico"
+  },
+  {
+    "code": "BJY",
+    "name": "Batajnica Air Base",
+    "city": "Batajnica",
+    "country": "Serbia"
+  },
+  {
+    "code": "BJZ",
+    "name": "Badajoz Airport (Talavera la Real Air Base)",
+    "city": "Badajoz, Extremadura",
+    "country": "Spain"
+  },
+  {
+    "code": "BKB",
+    "name": "Nal Airport",
+    "city": "Bikaner, Rajasthan",
+    "country": "India"
+  },
+  {
+    "code": "BKC",
+    "name": "Buckland Airport (FAA: BVK)",
+    "city": "Buckland, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BKD",
+    "name": "Stephens County Airport",
+    "city": "Breckenridge, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BKE",
+    "name": "Baker City Municipal Airport",
+    "city": "Baker City, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "BKF",
+    "name": "Lake Brooks Seaplane Base",
+    "city": "Brooks Camp, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BKG",
+    "name": "Branson Airport (FAA: BBG)",
+    "city": "Branson, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "BKH",
+    "name": "Barking Sands PMRF",
+    "city": "Kekaha, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "BKI",
+    "name": "Kota Kinabalu International Airport",
+    "city": "Kota Kinabalu, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BKJ",
+    "name": "Boké Baralande Airport",
+    "city": "Boké",
+    "country": "Guinea"
+  },
+  {
+    "code": "BKK",
+    "name": "Suvarnabhumi Airport",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "code": "BKL",
+    "name": "Cleveland Burke Lakefront Airport",
+    "city": "Cleveland, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "BKM",
+    "name": "Bakelalan Airport",
+    "city": "Bakelalan, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BKN",
+    "name": "Balkanabat Airport",
+    "city": "Balkanabat",
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "BKO",
+    "name": "Bamako–Sénou International Airport",
+    "city": "Bamako",
+    "country": "Mali"
+  },
+  {
+    "code": "BKP",
+    "name": "Barkly Downs Airport",
+    "city": "Barkly Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BKQ",
+    "name": "Blackall Airport",
+    "city": "Blackall, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BKR",
+    "name": "Bokoro Airport",
+    "city": "Bokoro",
+    "country": "Chad"
+  },
+  {
+    "code": "BKS",
+    "name": "Fatmawati Soekarno Airport",
+    "city": "Bengkulu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BKT",
+    "name": "Blackstone Army Airfield (Allen C. Perkinson Airport)",
+    "city": "Blackstone, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "BKU",
+    "name": "Betioky Airport",
+    "city": "Betioky",
+    "country": "Madagascar"
+  },
+  {
+    "code": "BKW",
+    "name": "Raleigh County Memorial Airport",
+    "city": "Beckley, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "BKX",
+    "name": "Brookings Regional Airport",
+    "city": "Brookings, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "BKY",
+    "name": "Kavumu Airport",
+    "city": "Bukavu",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BKZ",
+    "name": "Bukoba Airport",
+    "city": "Bukoba",
+    "country": "Tanzania"
+  },
+  {
+    "code": "BLA",
+    "name": "General José Antonio Anzoátegui International Airport",
+    "city": "Barcelona",
+    "country": "Venezuela"
+  },
+  {
+    "code": "BLB",
+    "name": "Panamá Pacífico International Airport (former Howard AFB)",
+    "city": "Panama Pacifico",
+    "country": "Panama"
+  },
+  {
+    "code": "BLC",
+    "name": "Bali Airport",
+    "city": "Bali",
+    "country": "Cameroon"
+  },
+  {
+    "code": "BLD",
+    "name": "Boulder City Municipal Airport (FAA: 61B)",
+    "city": "Boulder City, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "BLE",
+    "name": "Dala Airport (Borlänge Airport)",
+    "city": "Borlänge",
+    "country": "Sweden"
+  },
+  {
+    "code": "BLF",
+    "name": "Mercer County Airport",
+    "city": "Bluefield, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "BLG",
+    "name": "Belaga Airport",
+    "city": "Belaga, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BLH",
+    "name": "Blythe Airport",
+    "city": "Blythe, California",
+    "country": "United States"
+  },
+  {
+    "code": "BLI",
+    "name": "Bellingham International Airport",
+    "city": "Bellingham, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "BLJ",
+    "name": "Mostépha Ben Boulaid Airport",
+    "city": "Batna",
+    "country": "Algeria"
+  },
+  {
+    "code": "BLK",
+    "name": "Blackpool Airport",
+    "city": "Blackpool",
+    "country": "England"
+  },
+  {
+    "code": "BLL",
+    "name": "Billund Airport",
+    "city": "Billund",
+    "country": "Denmark"
+  },
+  {
+    "code": "BLM",
+    "name": "Monmouth Executive Airport",
+    "city": "Belmar / Farmingdale, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "BLN",
+    "name": "Benalla Airport",
+    "city": "Benalla, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "BLO",
+    "name": "Blönduós Airport",
+    "city": "Blönduós",
+    "country": "Iceland"
+  },
+  {
+    "code": "BLP",
+    "name": "Huallaga Airport",
+    "city": "Bellavista",
+    "country": "Peru"
+  },
+  {
+    "code": "BLQ",
+    "name": "Bologna Guglielmo Marconi Airport",
+    "city": "Bologna, Emilia-Romagna",
+    "country": "Italy"
+  },
+  {
+    "code": "BLR",
+    "name": "Kempegowda International Airport",
+    "city": "Bangalore, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "BLS",
+    "name": "Bollon Airport",
+    "city": "Bollon, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BLT",
+    "name": "Blackwater Airport",
+    "city": "Blackwater, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BLU",
+    "name": "Blue Canyon–Nyack Airport",
+    "city": "Emigrant Gap, California",
+    "country": "United States"
+  },
+  {
+    "code": "BLV",
+    "name": "MidAmerica St. Louis Airport / Scott Air Force Base",
+    "city": "Belleville, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "BLX",
+    "name": "Belluno Airport",
+    "city": "Belluno, Veneto",
+    "country": "Italy"
+  },
+  {
+    "code": "BLY",
+    "name": "Belmullet Aerodrome",
+    "city": "Belmullet",
+    "country": "Ireland"
+  },
+  {
+    "code": "BLZ",
+    "name": "Chileka International Airport",
+    "city": "Blantyre",
+    "country": "Malawi"
+  },
+  {
+    "code": "BMA",
+    "name": "Stockholm Bromma Airport",
+    "city": "Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "code": "BMB",
+    "name": "Bumba Airport",
+    "city": "Bumba",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BMC",
+    "name": "Brigham City Airport",
+    "city": "Brigham City, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "BMD",
+    "name": "Belo sur Tsiribihina Airport",
+    "city": "Belo sur Tsiribihina",
+    "country": "Madagascar"
+  },
+  {
+    "code": "BME",
+    "name": "Broome International Airport",
+    "city": "Broome, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BMF",
+    "name": "Bakouma Airport",
+    "city": "Bakouma",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BMG",
+    "name": "Monroe County Airport",
+    "city": "Bloomington, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "BMH",
+    "name": "Bomai Airport",
+    "city": "Bomai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BMI",
+    "name": "Central Illinois Regional Airport",
+    "city": "Bloomington, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "BMJ",
+    "name": "Baramita Airport",
+    "city": "Baramita",
+    "country": "Guyana"
+  },
+  {
+    "code": "BMK",
+    "name": "Borkum Airfield",
+    "city": "Borkum, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "BML",
+    "name": "Berlin Regional Airport",
+    "city": "Berlin, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "BMM",
+    "name": "Bitam Airport",
+    "city": "Bitam",
+    "country": "Gabon"
+  },
+  {
+    "code": "BMN",
+    "name": "Bamarni Airport",
+    "city": "Bamarni",
+    "country": "Iraq"
+  },
+  {
+    "code": "BMO",
+    "name": "Bhamo Airport",
+    "city": "Bhamo",
+    "country": "Myanmar"
+  },
+  {
+    "code": "BMP",
+    "name": "Brampton Island Airport",
+    "city": "Brampton Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BMQ",
+    "name": "Bamburi Airport",
+    "city": "Bamburi",
+    "country": "Kenya"
+  },
+  {
+    "code": "BMR",
+    "name": "Baltrum Airport",
+    "city": "Baltrum, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "BMS",
+    "name": "Socrates Mariani Bittencourt Airport",
+    "city": "Brumado, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "BMT",
+    "name": "Beaumont Municipal Airport",
+    "city": "Beaumont, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BMU",
+    "name": "Sultan Muhammad Salahudin Airport (Bima Airport)",
+    "city": "Bima",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BMV",
+    "name": "Buon Ma Thuot Airport",
+    "city": "Buon Ma Thuot",
+    "country": "Vietnam"
+  },
+  {
+    "code": "BMW",
+    "name": "Bordj Mokhtar Airport",
+    "city": "Bordj Badji Mokhtar",
+    "country": "Algeria"
+  },
+  {
+    "code": "BMX",
+    "name": "Big Mountain Air Force Station (FAA: 37AK)",
+    "city": "Big Mountain, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BMY",
+    "name": "Île Art – Waala Airport",
+    "city": "Waala, Belep Islands",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "BMZ",
+    "name": "Bamu Airport",
+    "city": "Bamu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BNA",
+    "name": "Nashville International Airport",
+    "city": "Nashville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "BNB",
+    "name": "Boende Airport",
+    "city": "Boende",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BNC",
+    "name": "Beni Airport",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BND",
+    "name": "Bandar Abbas International Airport",
+    "city": "Bandar Abbas",
+    "country": "Iran"
+  },
+  {
+    "code": "BNE",
+    "name": "Brisbane Airport",
+    "city": "Brisbane, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BNF",
+    "name": "Warm Springs Bay Seaplane Base",
+    "city": "Baranof Warm Springs, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BNG",
+    "name": "Banning Municipal Airport",
+    "city": "Banning, California",
+    "country": "United States"
+  },
+  {
+    "code": "BNI",
+    "name": "Benin Airport",
+    "city": "Benin City",
+    "country": "Nigeria"
+  },
+  {
+    "code": "BNK",
+    "name": "Ballina Byron Gateway Airport",
+    "city": "Ballina, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BNL",
+    "name": "Barnwell Regional Airport",
+    "city": "Barnwell, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "BNM",
+    "name": "Bodinumu Airport",
+    "city": "Bodinumu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BNN",
+    "name": "Brønnøysund Airport, Brønnøy",
+    "city": "Brønnøysund",
+    "country": "Norway"
+  },
+  {
+    "code": "BNO",
+    "name": "Burns Municipal Airport",
+    "city": "Burns, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "BNP",
+    "name": "Bannu Airport",
+    "city": "Bannu",
+    "country": "Pakistan"
+  },
+  {
+    "code": "BNQ",
+    "name": "Baganga Airport",
+    "city": "Baganga",
+    "country": "Philippines"
+  },
+  {
+    "code": "BNR",
+    "name": "Banfora Airport",
+    "city": "Banfora",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "BNS",
+    "name": "Barinas Airport",
+    "city": "Barinas",
+    "country": "Venezuela"
+  },
+  {
+    "code": "BNT",
+    "name": "Bundi Airport",
+    "city": "Bundi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BNU",
+    "name": "Blumenau Airport",
+    "city": "Blumenau, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "BNV",
+    "name": "Boana Airport",
+    "city": "Boana",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BNW",
+    "name": "Boone Municipal Airport",
+    "city": "Boone, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "BNX",
+    "name": "Banja Luka International Airport",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "BNY",
+    "name": "Bellona/Anua Airport",
+    "city": "Bellona Island, Rennell and Bellona",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "BNZ",
+    "name": "Banz Airport",
+    "city": "Banz",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BOA",
+    "name": "Boma Airport",
+    "city": "Boma",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BOB",
+    "name": "Bora Bora Airport (Motu Mute Airport)",
+    "city": "Bora Bora",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "BOC",
+    "name": "Bocas del Toro Isla Colón International Airport",
+    "city": "Bocas Town",
+    "country": "Panama"
+  },
+  {
+    "code": "BOD",
+    "name": "Bordeaux–Mérignac Airport",
+    "city": "Bordeaux, Aquitaine",
+    "country": "France"
+  },
+  {
+    "code": "BOE",
+    "name": "Boundji Airport",
+    "city": "Boundji",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "BOG",
+    "name": "El Dorado International Airport",
+    "city": "Bogotá",
+    "country": "Colombia"
+  },
+  {
+    "code": "BOH",
+    "name": "Bournemouth Airport",
+    "city": "Bournemouth",
+    "country": "England"
+  },
+  {
+    "code": "BOI",
+    "name": "Boise Air Terminal (Gowen Field)",
+    "city": "Boise, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "BOJ",
+    "name": "Burgas Airport",
+    "city": "Burgas",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "BOK",
+    "name": "Brookings Airport",
+    "city": "Brookings, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "BOL",
+    "name": "Ballykelly Airfield (RAF Ballykelly)",
+    "city": "Ballykelly",
+    "country": "Northern Ireland"
+  },
+  {
+    "code": "BOM",
+    "name": "Chhatrapati Shivaji International Airport",
+    "city": "Mumbai, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "BON",
+    "name": "Flamingo International Airport",
+    "city": "Kralendijk, Bonaire",
+    "country": "Caribbean Netherlands"
+  },
+  {
+    "code": "BOO",
+    "name": "Bodø Airport",
+    "city": "Bodø",
+    "country": "Norway"
+  },
+  {
+    "code": "BOP",
+    "name": "Bouar Airport",
+    "city": "Bouar",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BOQ",
+    "name": "Boku Airport",
+    "city": "Boku",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BOS",
+    "name": "Logan International Airport",
+    "city": "Boston, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "BOT",
+    "name": "Bosset Airport",
+    "city": "Bosset",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BOU",
+    "name": "Bourges Airport",
+    "city": "Bourges, Centre-Val de Loire",
+    "country": "France"
+  },
+  {
+    "code": "BOV",
+    "name": "Boang Island Airport",
+    "city": "Boang Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BOW",
+    "name": "Bartow Municipal Airport",
+    "city": "Bartow, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "BOX",
+    "name": "Borroloola Airport",
+    "city": "Borroloola, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "BOY",
+    "name": "Bobo Dioulasso Airport",
+    "city": "Bobo-Dioulasso",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "BOZ",
+    "name": "Bozoum Airport",
+    "city": "Bozoum",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BPB",
+    "name": "Boridi Airport",
+    "city": "Boridi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BPC",
+    "name": "Bamenda Airport",
+    "city": "Bamenda",
+    "country": "Cameroon"
+  },
+  {
+    "code": "BPD",
+    "name": "Bapi Airport",
+    "city": "Bapi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BPE",
+    "name": "Qinhuangdao Beidaihe Airport",
+    "city": "Qinhuangdao, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "BPF",
+    "name": "Batuna Airport",
+    "city": "Batuna",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "BPG",
+    "name": "Barra do Garças Airport",
+    "city": "Barra do Garças, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "BPH",
+    "name": "Bislig Airport",
+    "city": "Bislig",
+    "country": "Philippines"
+  },
+  {
+    "code": "BPI",
+    "name": "Miley Memorial Field",
+    "city": "Big Piney, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "BPK",
+    "name": "Biangabip Airport",
+    "city": "Biangabip",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BPL",
+    "name": "Bole Alashankou Airport",
+    "city": "Bole, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "BPM",
+    "name": "Begumpet Airport",
+    "city": "Hyderabad, Telangana",
+    "country": "India"
+  },
+  {
+    "code": "BPN",
+    "name": "Sultan Aji Muhammad Sulaiman Airport",
+    "city": "Balikpapan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BPS",
+    "name": "Porto Seguro Airport",
+    "city": "Porto Seguro, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "BPT",
+    "name": "Jack Brooks Regional Airport",
+    "city": "Beaumont / Port Arthur, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BPX",
+    "name": "Qamdo Bamda Airport",
+    "city": "Qamdo, Tibet Autonomous Region",
+    "country": "China"
+  },
+  {
+    "code": "BPY",
+    "name": "Besalampy Airport",
+    "city": "Besalampy",
+    "country": "Madagascar"
+  },
+  {
+    "code": "BQA",
+    "name": "Dr. Juan C. Angara Airport",
+    "city": "Baler",
+    "country": "Philippines"
+  },
+  {
+    "code": "BQB",
+    "name": "Busselton Margaret River Airport",
+    "city": "Busselton, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BQE",
+    "name": "Bubaque Airport",
+    "city": "Bubaque",
+    "country": "Guinea-Bissau"
+  },
+  {
+    "code": "BQG",
+    "name": "Bogorodskoye Airport",
+    "city": "Bogorodskoye, Khabarovsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "BQH",
+    "name": "London Biggin Hill Airport",
+    "city": "London / Biggin Hill",
+    "country": "England"
+  },
+  {
+    "code": "BQI",
+    "name": "Bagani Airport",
+    "city": "Bagani",
+    "country": "Namibia"
+  },
+  {
+    "code": "BQJ",
+    "name": "Batagay Airport",
+    "city": "Batagay, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "BQK",
+    "name": "Brunswick Golden Isles Airport",
+    "city": "Brunswick, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "BQL",
+    "name": "Boulia Airport",
+    "city": "Boulia, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BQN",
+    "name": "Rafael Hernández Airport",
+    "city": "Aguadilla, Puerto Rico",
+    "country": "United States"
+  },
+  {
+    "code": "BQO",
+    "name": "Tehini Airport",
+    "city": "Bouna",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "BQQ",
+    "name": "Barra Airport",
+    "city": "Barra, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "BQS",
+    "name": "Ignatyevo Airport",
+    "city": "Blagoveshchensk, Amur Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "BQT",
+    "name": "Brest Airport",
+    "city": "Brest",
+    "country": "Belarus"
+  },
+  {
+    "code": "BQU",
+    "name": "J. F. Mitchell Airport",
+    "city": "Bequia",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "BQV",
+    "name": "Bartlett Cove Seaplane Base",
+    "city": "Bartlett Cove, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BQW",
+    "name": "Balgo Hill Airport",
+    "city": "Balgo Hill, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BRA",
+    "name": "Barreiras Airport",
+    "city": "Barreiras, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "BRB",
+    "name": "Barreirinhas Airport",
+    "city": "Barreirinhas, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "BRC",
+    "name": "San Carlos de Bariloche Airport",
+    "city": "San Carlos de Bariloche, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "BRD",
+    "name": "Brainerd Lakes Regional Airport",
+    "city": "Brainerd, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "BRE",
+    "name": "Bremen Airport",
+    "city": "Bremen, Bremen",
+    "country": "Germany"
+  },
+  {
+    "code": "BRH",
+    "name": "Brahman Airport",
+    "city": "Brahman",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BRI",
+    "name": "Bari Karol Wojtyła Airport",
+    "city": "Bari, Apulia",
+    "country": "Italy"
+  },
+  {
+    "code": "BRJ",
+    "name": "Bright Airport",
+    "city": "Bright, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "BRK",
+    "name": "Bourke Airport",
+    "city": "Bourke, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BRL",
+    "name": "Southeast Iowa Regional Airport",
+    "city": "Burlington, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "BRM",
+    "name": "Jacinto Lara International Airport",
+    "city": "Barquisimeto",
+    "country": "Venezuela"
+  },
+  {
+    "code": "BRN",
+    "name": "Bern Airport",
+    "city": "Bern",
+    "country": "Switzerland"
+  },
+  {
+    "code": "BRO",
+    "name": "Brownsville/South Padre Island International Airport",
+    "city": "Brownsville, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BRP",
+    "name": "Biaru Airport",
+    "city": "Biaru",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BRQ",
+    "name": "Brno–Tuřany Airport",
+    "city": "Brno",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "BRR",
+    "name": "Barra Airport",
+    "city": "Barra",
+    "country": "Scotland"
+  },
+  {
+    "code": "BRS",
+    "name": "Bristol Airport",
+    "city": "Bristol",
+    "country": "England"
+  },
+  {
+    "code": "BRT",
+    "name": "Bathurst Island Airport",
+    "city": "Bathurst Island, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "BRU",
+    "name": "Brussels Airport (Zaventem Airport)",
+    "city": "Brussels",
+    "country": "Belgium"
+  },
+  {
+    "code": "BRV",
+    "name": "Bremerhaven Airport",
+    "city": "Bremerhaven, Bremen",
+    "country": "Germany"
+  },
+  {
+    "code": "BRW",
+    "name": "Wiley Post–Will Rogers Memorial Airport",
+    "city": "Barrow, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BRX",
+    "name": "María Montez International Airport",
+    "city": "Barahona",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "BRY",
+    "name": "Samuels Field",
+    "city": "Bardstown, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "BSA",
+    "name": "Bender Qassim International Airport",
+    "city": "Bosaso",
+    "country": "Somalia"
+  },
+  {
+    "code": "BSB",
+    "name": "Brasília International Airport (Presidente J. Kubitschek Int'l Airport)",
+    "city": "Brasília, Distrito Federal",
+    "country": "Brazil"
+  },
+  {
+    "code": "BSC",
+    "name": "José Celestino Mutis Airport",
+    "city": "Bahía Solano",
+    "country": "Colombia"
+  },
+  {
+    "code": "BSD",
+    "name": "Baoshan Yunduan Airport",
+    "city": "Baoshan, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "BSE",
+    "name": "Sematan Airport",
+    "city": "Sematan, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BSF",
+    "name": "Bradshaw Army Airfield",
+    "city": "Camp Pohakuloa, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "BSG",
+    "name": "Bata Airport",
+    "city": "Bata",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "code": "BSI",
+    "name": "Balesin Airport",
+    "city": "Balesin Island, Quezon",
+    "country": "Philippines"
+  },
+  {
+    "code": "BSJ",
+    "name": "Bairnsdale Airport",
+    "city": "Bairnsdale, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "BSK",
+    "name": "Biskra Airport",
+    "city": "Biskra",
+    "country": "Algeria"
+  },
+  {
+    "code": "BSL",
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "city": "Basel",
+    "country": "Switzerland"
+  },
+  {
+    "code": "BSM",
+    "name": "Bishe Kola Air Base",
+    "city": "Amol",
+    "country": "Iran"
+  },
+  {
+    "code": "BSN",
+    "name": "Bossangoa Airport",
+    "city": "Bossangoa",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BSO",
+    "name": "Basco Airport",
+    "city": "Basco",
+    "country": "Philippines"
+  },
+  {
+    "code": "BSP",
+    "name": "Bensbach Airport",
+    "city": "Bensbach",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BSQ",
+    "name": "Bisbee Municipal Airport (FAA: P04)",
+    "city": "Bisbee, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "BSR",
+    "name": "Basra International Airport",
+    "city": "Basra",
+    "country": "Iraq"
+  },
+  {
+    "code": "BSS",
+    "name": "Balsas Airport",
+    "city": "Balsas, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "BST",
+    "name": "Bost Airport",
+    "city": "Lashkar Gah (Bost)",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "BSU",
+    "name": "Basankusu Airport",
+    "city": "Basankusu",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BSV",
+    "name": "Besakoa Airport",
+    "city": "Besakoa",
+    "country": "Madagascar"
+  },
+  {
+    "code": "BSW",
+    "name": "Boswell Bay Airport (FAA: AK97)",
+    "city": "Boswell Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BSX",
+    "name": "Pathein Airport",
+    "city": "Pathein",
+    "country": "Myanmar"
+  },
+  {
+    "code": "BSY",
+    "name": "Bardera Airport",
+    "city": "Bardera",
+    "country": "Somalia"
+  },
+  {
+    "code": "BTA",
+    "name": "Bertoua Airport",
+    "city": "Bertoua",
+    "country": "Cameroon"
+  },
+  {
+    "code": "BTB",
+    "name": "Bétou Airport",
+    "city": "Bétou",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "BTC",
+    "name": "Batticaloa International Airport",
+    "city": "Batticaloa",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "BTD",
+    "name": "Brunette Downs Airport",
+    "city": "Brunette Downs, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "BTE",
+    "name": "Sherbro International Airport",
+    "city": "Bonthe",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "BTF",
+    "name": "Skypark Airport",
+    "city": "Bountiful, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "BTG",
+    "name": "Batangafo Airport",
+    "city": "Batangafo",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "BTH",
+    "name": "Hang Nadim Airport",
+    "city": "Batam",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BTI",
+    "name": "Barter Island LRRS Airport",
+    "city": "Barter Island, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BTJ",
+    "name": "Sultan Iskandar Muda International Airport",
+    "city": "Banda Aceh",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BTK",
+    "name": "Bratsk Airport",
+    "city": "Bratsk, Irkutsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "BTL",
+    "name": "W. K. Kellogg Airport",
+    "city": "Battle Creek, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "BTM",
+    "name": "Bert Mooney Airport",
+    "city": "Butte, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "BTN",
+    "name": "Marlboro County Jetport (FAA: BBP)",
+    "city": "Bennettsville, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "BTO",
+    "name": "Botopasi Airstrip",
+    "city": "Botopasi",
+    "country": "Suriname"
+  },
+  {
+    "code": "BTP",
+    "name": "Butler County Airport (K.W. Scholter Field)",
+    "city": "Butler, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "BTQ",
+    "name": "Butare Airport",
+    "city": "Butare",
+    "country": "Rwanda"
+  },
+  {
+    "code": "BTR",
+    "name": "Baton Rouge Metropolitan Airport (Ryan Field)",
+    "city": "Baton Rouge, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "BTS",
+    "name": "M. R. Štefánik Airport",
+    "city": "Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "code": "BTT",
+    "name": "Bettles Airport",
+    "city": "Bettles, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BTU",
+    "name": "Bintulu Airport",
+    "city": "Bintulu, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BTV",
+    "name": "Burlington International Airport",
+    "city": "Burlington, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "BTW",
+    "name": "Batu Licin Airport",
+    "city": "Batu Licin",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BTX",
+    "name": "Betoota Airport",
+    "city": "Betoota, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BTY",
+    "name": "Beatty Airport",
+    "city": "Beatty, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "BUA",
+    "name": "Buka Island Airport",
+    "city": "Buka Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BUB",
+    "name": "Cram Field",
+    "city": "Burwell, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "BUC",
+    "name": "Burketown Airport",
+    "city": "Burketown, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BUD",
+    "name": "Budapest Ferenc Liszt International Airport",
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "code": "BUE",
+    "name": "metropolitan area5",
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "BUF",
+    "name": "Buffalo Niagara International Airport",
+    "city": "Buffalo, New York",
+    "country": "United States"
+  },
+  {
+    "code": "BUG",
+    "name": "Benguela Airport (Gen. V. Deslandes Airport)",
+    "city": "Benguela",
+    "country": "Angola"
+  },
+  {
+    "code": "BUH",
+    "name": "Bucharest Baneasa6",
+    "city": "Bucharest",
+    "country": "Romania"
+  },
+  {
+    "code": "BUI",
+    "name": "Bokondini Airport",
+    "city": "Bokondini",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BUJ",
+    "name": "Bou Saada Airport",
+    "city": "Bou Saâda",
+    "country": "Algeria"
+  },
+  {
+    "code": "BUK",
+    "name": "Albuq Airport",
+    "city": "Albuq",
+    "country": "Yemen"
+  },
+  {
+    "code": "BUL",
+    "name": "Bulolo Airport",
+    "city": "Bulolo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BUM",
+    "name": "Butler Memorial Airport",
+    "city": "Butler, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "BUN",
+    "name": "Gerardo Tobar López Airport",
+    "city": "Buenaventura",
+    "country": "Colombia"
+  },
+  {
+    "code": "BUO",
+    "name": "Burao Airport",
+    "city": "Burao",
+    "country": "Somalia"
+  },
+  {
+    "code": "BUP",
+    "name": "Bathinda Airport (Bhisiana Air Force Station)",
+    "city": "Bathinda, Punjab",
+    "country": "India"
+  },
+  {
+    "code": "BUQ",
+    "name": "Joshua Mqabuko Nkomo International Airport",
+    "city": "Bulawayo",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "BUR",
+    "name": "Bob Hope Airport",
+    "city": "Burbank, California",
+    "country": "United States"
+  },
+  {
+    "code": "BUS",
+    "name": "Batumi International Airport (Alexander Kartveli Batumi Int'l Airport)",
+    "city": "Batumi",
+    "country": "Georgia"
+  },
+  {
+    "code": "BUT",
+    "name": "Bathpalathang Airport",
+    "city": "Jakar",
+    "country": "Bhutan"
+  },
+  {
+    "code": "BUU",
+    "name": "Muara Bungo Airport",
+    "city": "Bungo Regency, Jambi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BUV",
+    "name": "Placeres Airport",
+    "city": "Bella Unión",
+    "country": "Uruguay"
+  },
+  {
+    "code": "BUW",
+    "name": "Betoambari Airport",
+    "city": "Baubau",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BUX",
+    "name": "Bunia Airport",
+    "city": "Bunia",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BUY",
+    "name": "Bunbury Airport",
+    "city": "Bunbury, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BUZ",
+    "name": "Bushehr Airport",
+    "city": "Bushehr",
+    "country": "Iran"
+  },
+  {
+    "code": "BVA",
+    "name": "Beauvais–Tillé Airport",
+    "city": "Beauvais, Picardy",
+    "country": "France"
+  },
+  {
+    "code": "BVB",
+    "name": "Boa Vista International Airport",
+    "city": "Boa Vista, Roraima",
+    "country": "Brazil"
+  },
+  {
+    "code": "BVC",
+    "name": "Aristides Pereira International Airport (Rabil Airport)",
+    "city": "Boa Vista",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "BVE",
+    "name": "Brive–Souillac Airport",
+    "city": "Brive-la-Gaillarde, Limousin",
+    "country": "France"
+  },
+  {
+    "code": "BVF",
+    "name": "Dama Airport",
+    "city": "Bua",
+    "country": "Fiji"
+  },
+  {
+    "code": "BVG",
+    "name": "Berlevåg Airport",
+    "city": "Berlevåg",
+    "country": "Norway"
+  },
+  {
+    "code": "BVH",
+    "name": "Vilhena Airport (Brigadeiro Camarão Airport)",
+    "city": "Vilhena, Rondônia",
+    "country": "Brazil"
+  },
+  {
+    "code": "BVI",
+    "name": "Birdsville Airport",
+    "city": "Birdsville, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BVJ",
+    "name": "Bovanenkovo Airport",
+    "city": "Bovanenkovo gas field, Yamalo-Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "BVK",
+    "name": "Huacaraje Airport",
+    "city": "Huacaraje",
+    "country": "Bolivia"
+  },
+  {
+    "code": "BVL",
+    "name": "Baures Airport",
+    "city": "Baures",
+    "country": "Bolivia"
+  },
+  {
+    "code": "BVM",
+    "name": "Belmonte Airport",
+    "city": "Belmonte, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "BVO",
+    "name": "Bartlesville Municipal Airport",
+    "city": "Bartlesville, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "BVP",
+    "name": "Bolovip Airport",
+    "city": "Bolovip",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BVR",
+    "name": "Esperadinha Airport",
+    "city": "Brava",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "BVS",
+    "name": "Breves Airport",
+    "city": "Breves, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "BVU",
+    "name": "Beluga Airport (FAA: BLG)",
+    "city": "Beluga, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BVV",
+    "name": "Burevestnik Airport",
+    "city": "Burevestnik, Sakhalin Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "BVW",
+    "name": "Batavia Downs Airport",
+    "city": "Batavia Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BVX",
+    "name": "Batesville Regional Airport",
+    "city": "Batesville, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "BVY",
+    "name": "Beverly Municipal Airport",
+    "city": "Beverly, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "BVZ",
+    "name": "Beverley Springs Airport",
+    "city": "Beverley Springs, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BWA",
+    "name": "Gautam Buddha Airport",
+    "city": "Siddharthanagar (Bhairawa)",
+    "country": "Nepal"
+  },
+  {
+    "code": "BWB",
+    "name": "Barrow Island Airport",
+    "city": "Barrow Island, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BWC",
+    "name": "Brawley Municipal Airport",
+    "city": "Brawley, California",
+    "country": "United States"
+  },
+  {
+    "code": "BWD",
+    "name": "Brownwood Regional Airport",
+    "city": "Brownwood, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BWE",
+    "name": "Braunschweig–Wolfsburg Airport",
+    "city": "Braunschweig, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "BWF",
+    "name": "Barrow/Walney Island Airport",
+    "city": "Barrow-in-Furness",
+    "country": "England"
+  },
+  {
+    "code": "BWG",
+    "name": "Bowling Green-Warren County Regional Airport",
+    "city": "Bowling Green, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "BWH",
+    "name": "RMAF Butterworth",
+    "city": "Butterworth, Penang",
+    "country": "Malaysia"
+  },
+  {
+    "code": "BWI",
+    "name": "Baltimore/Washington International Thurgood Marshall Airport",
+    "city": "Baltimore–Washington metropolitan area",
+    "country": "United States"
+  },
+  {
+    "code": "BWJ",
+    "name": "Bawan Airport",
+    "city": "Bawan",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BWK",
+    "name": "Bol Airport (Brač Airport)",
+    "city": "Bol",
+    "country": "Croatia"
+  },
+  {
+    "code": "BWL",
+    "name": "Blackwell–Tonkawa Municipal Airport (FAA: BKN)",
+    "city": "Blackwell, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "BWM",
+    "name": "Bowman Municipal Airport (FAA: BPP)",
+    "city": "Bowman, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "BWN",
+    "name": "Brunei International Airport",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei"
+  },
+  {
+    "code": "BWO",
+    "name": "Balakovo Airport",
+    "city": "Balakovo, Saratov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "BWP",
+    "name": "Bewani Airport",
+    "city": "Bewani",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BWQ",
+    "name": "Brewarrina Airport",
+    "city": "Brewarrina, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BWT",
+    "name": "Burnie Airport",
+    "city": "Burnie, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "BWU",
+    "name": "Bankstown Airport",
+    "city": "Bankstown, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BWW",
+    "name": "Las Brujas Airport",
+    "city": "Cayo Santa María",
+    "country": "Cuba"
+  },
+  {
+    "code": "BWX",
+    "name": "Banyuwangi Airport",
+    "city": "Banyuwangi",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BWY",
+    "name": "RAF Bentwaters",
+    "city": "Woodbridge",
+    "country": "England"
+  },
+  {
+    "code": "BXA",
+    "name": "George R. Carr Memorial Air Field",
+    "city": "Bogalusa, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "BXB",
+    "name": "Babo Airport",
+    "city": "Babo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BXD",
+    "name": "Bade Airport",
+    "city": "Bade",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BXE",
+    "name": "Bakel Airport",
+    "city": "Bakel",
+    "country": "Senegal"
+  },
+  {
+    "code": "BXF",
+    "name": "Bellburn Airstrip",
+    "city": "Bellburn Camps, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BXG",
+    "name": "Bendigo Airport",
+    "city": "Bendigo, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "BXH",
+    "name": "Balkhash Airport",
+    "city": "Balkhash",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "BXI",
+    "name": "Boundiali Airport",
+    "city": "Boundiali",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "BXJ",
+    "name": "Boraldai Airport",
+    "city": "Almaty",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "BXK",
+    "name": "Buckeye Municipal Airport",
+    "city": "Buckeye, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "BXL",
+    "name": "Blue Lagoon Seaplane Base",
+    "city": "Nanuya Lailai",
+    "country": "Fiji"
+  },
+  {
+    "code": "BXM",
+    "name": "Batom Airport",
+    "city": "Batom",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BXN",
+    "name": "Bodrum-Imsik Airport",
+    "city": "Bodrum",
+    "country": "Turkey"
+  },
+  {
+    "code": "BXO",
+    "name": "Buochs Airport",
+    "city": "Buochs",
+    "country": "Switzerland"
+  },
+  {
+    "code": "BXP",
+    "name": "Biała Podlaska Airport",
+    "city": "Biała Podlaska",
+    "country": "Poland"
+  },
+  {
+    "code": "BXR",
+    "name": "Bam Airport",
+    "city": "Bam",
+    "country": "Iran"
+  },
+  {
+    "code": "BXS",
+    "name": "Borrego Valley Airport (FAA: L08)",
+    "city": "Borrego Springs, California",
+    "country": "United States"
+  },
+  {
+    "code": "BXT",
+    "name": "PT Badak Bontang Airport",
+    "city": "Bontang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BXU",
+    "name": "Bancasi Airport",
+    "city": "Butuan",
+    "country": "Philippines"
+  },
+  {
+    "code": "BXV",
+    "name": "Breiðdalsvík Airport",
+    "city": "Breiðdalsvík",
+    "country": "Iceland"
+  },
+  {
+    "code": "BXW",
+    "name": "Bawean Airport",
+    "city": "Bawean, East Java",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BXX",
+    "name": "Borama Airport",
+    "city": "Borama",
+    "country": "Somalia"
+  },
+  {
+    "code": "BXY",
+    "name": "Krayniy Airport",
+    "city": "Baikonur",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "BXZ",
+    "name": "Bunsil Airport",
+    "city": "Bunsil",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "BYA",
+    "name": "Boundary Airport",
+    "city": "Boundary, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "BYB",
+    "name": "Dibba Airport",
+    "city": "Dibba Al-Baya",
+    "country": "Oman"
+  },
+  {
+    "code": "BYC",
+    "name": "Yacuiba Airport",
+    "city": "Yacuíba",
+    "country": "Bolivia"
+  },
+  {
+    "code": "BYD",
+    "name": "Al Bayda Airport",
+    "city": "Al Bayda",
+    "country": "Yemen"
+  },
+  {
+    "code": "BYF",
+    "name": "Albert – Picardie Airport",
+    "city": "Albert, Picardy",
+    "country": "France"
+  },
+  {
+    "code": "BYG",
+    "name": "Johnson County Airport",
+    "city": "Buffalo, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "BYH",
+    "name": "Arkansas International Airport",
+    "city": "Blytheville, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "BYI",
+    "name": "Burley Municipal Airport",
+    "city": "Burley, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "BYJ",
+    "name": "Beja Airport",
+    "city": "Beja",
+    "country": "Portugal"
+  },
+  {
+    "code": "BYK",
+    "name": "Bouaké Airport",
+    "city": "Bouaké",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "BYL",
+    "name": "Bella Yella Airport",
+    "city": "Bella Yella",
+    "country": "Liberia"
+  },
+  {
+    "code": "BYM",
+    "name": "Carlos Manuel de Céspedes Airport",
+    "city": "Bayamo",
+    "country": "Cuba"
+  },
+  {
+    "code": "BYN",
+    "name": "Bayankhongor Airport",
+    "city": "Bayankhongor",
+    "country": "Mongolia"
+  },
+  {
+    "code": "BYO",
+    "name": "Bonito Airport",
+    "city": "Bonito, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "BYP",
+    "name": "Barimunya Airport",
+    "city": "Barimunya, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "BYQ",
+    "name": "Bunyu Airport",
+    "city": "Bunyu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "BYR",
+    "name": "Læsø Airport",
+    "city": "Læsø",
+    "country": "Denmark"
+  },
+  {
+    "code": "BYS",
+    "name": "Bicycle Lake Army Airfield (Fort Irwin)",
+    "city": "Barstow, California",
+    "country": "United States"
+  },
+  {
+    "code": "BYT",
+    "name": "Bantry Aerodrome",
+    "city": "Bantry",
+    "country": "Ireland"
+  },
+  {
+    "code": "BYU",
+    "name": "Bindlacher Berg Airport",
+    "city": "Bayreuth, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "BYV",
+    "name": "Beira Lake Seaplane Base",
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "BYW",
+    "name": "Blakely Island Airport (FAA: 38WA)",
+    "city": "Blakely Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "BYX",
+    "name": "Baniyala Airport",
+    "city": "Baniyala, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "BZA",
+    "name": "San Pedro Airport",
+    "city": "Bonanza",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "BZB",
+    "name": "Bazaruto Island Airport",
+    "city": "Bazaruto Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "BZC",
+    "name": "Umberto Modiano Airport",
+    "city": "Armação dos Búzios, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "BZD",
+    "name": "Balranald Airport",
+    "city": "Balranald, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "BZE",
+    "name": "Philip S. W. Goldson International Airport",
+    "city": "Belize City",
+    "country": "Belize"
+  },
+  {
+    "code": "BZF",
+    "name": "Benton Field",
+    "city": "Redding, California",
+    "country": "United States"
+  },
+  {
+    "code": "BZG",
+    "name": "Bydgoszcz Ignacy Jan Paderewski Airport",
+    "city": "Bydgoszcz",
+    "country": "Poland"
+  },
+  {
+    "code": "BZH",
+    "name": "Bumi Hills Airstrip",
+    "city": "Bumi Hills",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "BZI",
+    "name": "Balıkesir Airport (Merkez Airport)",
+    "city": "Balıkesir",
+    "country": "Turkey"
+  },
+  {
+    "code": "BZK",
+    "name": "Bryansk International Airport",
+    "city": "Bryansk, Bryansk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "BZL",
+    "name": "Barisal Airport",
+    "city": "Barisal",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "BZM",
+    "name": "Bemolanga Airport",
+    "city": "Bemolanga",
+    "country": "Madagascar"
+  },
+  {
+    "code": "BZN",
+    "name": "Bozeman Yellowstone International Airport (Gallatin Field)",
+    "city": "Bozeman, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "BZO",
+    "name": "Bolzano Airport",
+    "city": "Bolzano, Trentino-Alto Adige/Südtirol",
+    "country": "Italy"
+  },
+  {
+    "code": "BZP",
+    "name": "Bizant Airport",
+    "city": "Bizant, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "BZR",
+    "name": "Béziers Cap d'Agde Airport",
+    "city": "Béziers, Languedoc-Roussillon",
+    "country": "France"
+  },
+  {
+    "code": "BZT",
+    "name": "Eagle Air Park",
+    "city": "Brazoria, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "BZU",
+    "name": "Buta Zega Airport",
+    "city": "Buta",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "BZV",
+    "name": "Maya-Maya Airport",
+    "city": "Brazzaville",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "BZX",
+    "name": "Bazhong Enyang Airport",
+    "city": "Bazhong, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "BZY",
+    "name": "Bălți International Airport",
+    "city": "Bălți",
+    "country": "Moldova"
+  },
+  {
+    "code": "BZZ",
+    "name": "RAF Brize Norton",
+    "city": "Carterton",
+    "country": "England"
+  }
+]

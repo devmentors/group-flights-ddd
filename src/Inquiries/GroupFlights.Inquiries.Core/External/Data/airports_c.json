@@ -1,0 +1,3278 @@
+﻿[
+  {
+    "code": "CAA",
+    "name": "El Aguacate Airport",
+    "city": "Catacamas",
+    "country": "Honduras"
+  },
+  {
+    "code": "CAB",
+    "name": "Cabinda Airport",
+    "city": "Cabinda",
+    "country": "Angola"
+  },
+  {
+    "code": "CAC",
+    "name": "Cascavel Airport (Adalberto Mendes da Silva Airport)",
+    "city": "Cascavel, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "CAD",
+    "name": "Wexford County Airport",
+    "city": "Cadillac, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "CAE",
+    "name": "Columbia Metropolitan Airport",
+    "city": "Columbia, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CAF",
+    "name": "Carauari Airport",
+    "city": "Carauari, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "CAG",
+    "name": "Cagliari Elmas Airport",
+    "city": "Cagliari, Sardinia",
+    "country": "Italy"
+  },
+  {
+    "code": "CAH",
+    "name": "Cà Mau Airport",
+    "city": "Cà Mau",
+    "country": "Vietnam"
+  },
+  {
+    "code": "CAI",
+    "name": "Cairo International Airport",
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "code": "CAJ",
+    "name": "Canaima Airport",
+    "city": "Canaima",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CAK",
+    "name": "Akron-Canton Airport",
+    "city": "Akron / Canton, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "CAL",
+    "name": "Campbeltown Airport / RAF Machrihanish",
+    "city": "Campbeltown, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CAM",
+    "name": "Camiri Airport",
+    "city": "Camiri",
+    "country": "Bolivia"
+  },
+  {
+    "code": "CAN",
+    "name": "Guangzhou Baiyun International Airport",
+    "city": "Guangzhou, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "CAO",
+    "name": "Clayton Municipal Airpark",
+    "city": "Clayton, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "CAP",
+    "name": "Hugo Chávez International Airport",
+    "city": "Cap-Haïtien",
+    "country": "Haiti"
+  },
+  {
+    "code": "CAQ",
+    "name": "Juan H. White Airport",
+    "city": "Caucasia",
+    "country": "Colombia"
+  },
+  {
+    "code": "CAR",
+    "name": "Caribou Municipal Airport",
+    "city": "Caribou, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "CAS",
+    "name": "Anfa Airport",
+    "city": "Casablanca",
+    "country": "Morocco"
+  },
+  {
+    "code": "CAT",
+    "name": "Cascais Municipal Aerodrome",
+    "city": "Cascais",
+    "country": "Portugal"
+  },
+  {
+    "code": "CAU",
+    "name": "Caruaru Airport (Oscar Laranjeiras Airport)",
+    "city": "Caruaru, Pernambuco",
+    "country": "Brazil"
+  },
+  {
+    "code": "CAV",
+    "name": "Cazombo Airport",
+    "city": "Cazombo",
+    "country": "Angola"
+  },
+  {
+    "code": "CAW",
+    "name": "Bartolomeu Lysandro Airport",
+    "city": "Campos dos Goytacazes, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "CAX",
+    "name": "Carlisle Lake District Airport",
+    "city": "Carlisle, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CAY",
+    "name": "Cayenne – Félix Eboué Airport",
+    "city": "Cayenne",
+    "country": "French Guiana"
+  },
+  {
+    "code": "CAZ",
+    "name": "Cobar Airport",
+    "city": "Cobar, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CBB",
+    "name": "Jorge Wilstermann International Airport",
+    "city": "Cochabamba",
+    "country": "Bolivia"
+  },
+  {
+    "code": "CBC",
+    "name": "Cherrabun Airport",
+    "city": "Cherrabun, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CBD",
+    "name": "Car Nicobar Air Force Base",
+    "city": "Car Nicobar, Andaman and Nicobar Islands",
+    "country": "India"
+  },
+  {
+    "code": "CBE",
+    "name": "Greater Cumberland Regional Airport",
+    "city": "Cumberland, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "CBF",
+    "name": "Council Bluffs Municipal Airport",
+    "city": "Council Bluffs, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "CBG",
+    "name": "Cambridge Airport",
+    "city": "Cambridge, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CBH",
+    "name": "Boudghene Ben Ali Lotfi Airport",
+    "city": "Béchar",
+    "country": "Algeria"
+  },
+  {
+    "code": "CBI",
+    "name": "Cape Barren Island Airport",
+    "city": "Cape Barren Island, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "CBJ",
+    "name": "Cabo Rojo Airport",
+    "city": "Pedernales",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "CBK",
+    "name": "Colby Municipal Airport (Shalz Field)",
+    "city": "Colby, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "CBL",
+    "name": "Tomás de Heres Airport",
+    "city": "Ciudad Bolívar",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CBM",
+    "name": "Columbus Air Force Base",
+    "city": "Columbus, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "CBN",
+    "name": "Penggung Airport (Cakrabuwana Airport)",
+    "city": "Cirebon",
+    "country": "Indonesia"
+  },
+  {
+    "code": "CBO",
+    "name": "Awang Airport",
+    "city": "Cotabato City",
+    "country": "Philippines"
+  },
+  {
+    "code": "CBP",
+    "name": "Coimbra Airport",
+    "city": "Coimbra",
+    "country": "Portugal"
+  },
+  {
+    "code": "CBQ",
+    "name": "Margaret Ekpo International Airport",
+    "city": "Calabar",
+    "country": "Nigeria"
+  },
+  {
+    "code": "CBR",
+    "name": "Canberra Airport",
+    "city": "Canberra, Australian Capital Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "CBS",
+    "name": "Oro Negro Airport",
+    "city": "Cabimas",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CBT",
+    "name": "Catumbela Airport",
+    "city": "Catumbela",
+    "country": "Angola"
+  },
+  {
+    "code": "CBU",
+    "name": "Cottbus-Drewitz Airport",
+    "city": "Cottbus, Brandenburg",
+    "country": "Germany"
+  },
+  {
+    "code": "CBV",
+    "name": "Cobán Airport",
+    "city": "Cobán",
+    "country": "Guatemala"
+  },
+  {
+    "code": "CBW",
+    "name": "Campo Mourão Airport",
+    "city": "Campo Mourão, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "CBX",
+    "name": "Condobolin Airport",
+    "city": "Condobolin, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CBY",
+    "name": "Canobie Airport",
+    "city": "Canobie Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CCA",
+    "name": "Chimore Airport",
+    "city": "Chimoré, Cochabamba",
+    "country": "Bolivia"
+  },
+  {
+    "code": "CCB",
+    "name": "Cable Airport",
+    "city": "Upland, California",
+    "country": "United States"
+  },
+  {
+    "code": "CCC",
+    "name": "Jardines del Rey Airport",
+    "city": "Cayo Coco",
+    "country": "Cuba"
+  },
+  {
+    "code": "CCF",
+    "name": "Carcassonne Airport",
+    "city": "Carcassonne, Languedoc-Roussillon",
+    "country": "France"
+  },
+  {
+    "code": "CCG",
+    "name": "Crane County Airport (FAA: E13)",
+    "city": "Crane, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CCH",
+    "name": "Chile Chico Airfield",
+    "city": "Chile Chico",
+    "country": "Chile"
+  },
+  {
+    "code": "CCI",
+    "name": "Concórdia Airport",
+    "city": "Concórdia, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "CCJ",
+    "name": "Calicut International Airport",
+    "city": "Kozhikode (Calicut), Kerala",
+    "country": "India"
+  },
+  {
+    "code": "CCK",
+    "name": "Cocos (Keeling) Islands Airport",
+    "city": "Cocos (Keeling) Islands",
+    "country": "Australia"
+  },
+  {
+    "code": "CCL",
+    "name": "Chinchilla Airport",
+    "city": "Chinchilla, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CCM",
+    "name": "Diomício Freitas Airport",
+    "city": "Criciúma, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "CCN",
+    "name": "Chaghcharan Airport",
+    "city": "Chaghcharan",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "CCO",
+    "name": "Carimagua Airport",
+    "city": "Carimagua",
+    "country": "Colombia"
+  },
+  {
+    "code": "CCP",
+    "name": "Carriel Sur International Airport",
+    "city": "Concepción",
+    "country": "Chile"
+  },
+  {
+    "code": "CCR",
+    "name": "Buchanan Field Airport",
+    "city": "Concord, California",
+    "country": "United States"
+  },
+  {
+    "code": "CCS",
+    "name": "Simón Bolívar International Airport",
+    "city": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CCT",
+    "name": "Colonia Catriel Airport",
+    "city": "Catriel, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "CCU",
+    "name": "Netaji Subhas Chandra Bose International Airport",
+    "city": "Kolkata, West Bengal",
+    "country": "India"
+  },
+  {
+    "code": "CCV",
+    "name": "Craig Cove Airport",
+    "city": "Craig Cove, Ambrym Island, Malampa",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "CCW",
+    "name": "Cowell Airport",
+    "city": "Cowell, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CCX",
+    "name": "Cáceres Airport",
+    "city": "Cáceres, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "CCY",
+    "name": "Northeast Iowa Regional Airport",
+    "city": "Charles City, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "CCZ",
+    "name": "Chub Cay International Airport",
+    "city": "Chub Cay, Berry Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "CDA",
+    "name": "Cooinda Airport",
+    "city": "Cooinda, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "CDB",
+    "name": "Cold Bay Airport",
+    "city": "Cold Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CDC",
+    "name": "Cedar City Regional Airport",
+    "city": "Cedar City, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "CDD",
+    "name": "Cauquira Airport",
+    "city": "Cauquira",
+    "country": "Honduras"
+  },
+  {
+    "code": "CDE",
+    "name": "Chengde Puning Airport",
+    "city": "Chengde, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "CDG",
+    "name": "Charles de Gaulle Airport (Roissy Airport)",
+    "city": "Paris, Île-de-France",
+    "country": "France"
+  },
+  {
+    "code": "CDH",
+    "name": "Harrell Field",
+    "city": "Camden, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "CDI",
+    "name": "Cachoeiro de Itapemirim Airport (Raimundo de Andrade Airport)",
+    "city": "Cachoeiro de Itapemirim, Espírito Santo",
+    "country": "Brazil"
+  },
+  {
+    "code": "CDJ",
+    "name": "Conceição do Araguaia Airport",
+    "city": "Conceição do Araguaia, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "CDK",
+    "name": "George T. Lewis Airport",
+    "city": "Cedar Key, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "CDL",
+    "name": "Candle 2 Airport (FAA: AK75)",
+    "city": "Candle, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CDN",
+    "name": "Woodward Field",
+    "city": "Camden, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CDO",
+    "name": "Cradock Airport",
+    "city": "Cradock",
+    "country": "South Africa"
+  },
+  {
+    "code": "CDP",
+    "name": "Kadapa Airport",
+    "city": "Kadapa, Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "CDQ",
+    "name": "Croydon Airport",
+    "city": "Croydon, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CDR",
+    "name": "Chadron Municipal Airport",
+    "city": "Chadron, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "CDS",
+    "name": "Childress Municipal Airport",
+    "city": "Childress, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CDT",
+    "name": "Castellón–Costa Azahar Airport",
+    "city": "Castellón de la Plana, Valencia",
+    "country": "Spain"
+  },
+  {
+    "code": "CDU",
+    "name": "Camden Airport",
+    "city": "Camden, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CDV",
+    "name": "Merle K. (Mudhole) Smith Airport",
+    "city": "Cordova, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CDW",
+    "name": "Essex County Airport",
+    "city": "Caldwell, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "CDY",
+    "name": "Cagayan de Sulu Airport",
+    "city": "Mapun",
+    "country": "Philippines"
+  },
+  {
+    "code": "CEA",
+    "name": "Cessna Aircraft Field",
+    "city": "Wichita, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "CEB",
+    "name": "Mactan–Cebu International Airport",
+    "city": "Lapu-Lapu",
+    "country": "Philippines"
+  },
+  {
+    "code": "CEC",
+    "name": "Del Norte County Airport (Jack McNamara Field)",
+    "city": "Crescent City, California",
+    "country": "United States"
+  },
+  {
+    "code": "CED",
+    "name": "Ceduna Airport",
+    "city": "Ceduna, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CEE",
+    "name": "Cherepovets Airport",
+    "city": "Cherepovets, Vologda Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "CEF",
+    "name": "Westover Metropolitan Airport / Westover Air Reserve Base",
+    "city": "Springfield, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "CEG",
+    "name": "Hawarden Airport (Chester Airport)",
+    "city": "Chester, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CEH",
+    "name": "Chelinda Airport",
+    "city": "Chelinda",
+    "country": "Malawi"
+  },
+  {
+    "code": "CEI",
+    "name": "Chiang Rai International Airport (Mae Fah Luang Int'l)",
+    "city": "Chiang Rai",
+    "country": "Thailand"
+  },
+  {
+    "code": "CEK",
+    "name": "Chelyabinsk Airport",
+    "city": "Chelyabinsk, Chelyabinsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "CEL",
+    "name": "Canela Airport",
+    "city": "Canela, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CEM",
+    "name": "Central Airport",
+    "city": "Central, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CEN",
+    "name": "Ciudad Obregón International Airport",
+    "city": "Ciudad Obregón, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "code": "CEO",
+    "name": "Waco Kungo Airport",
+    "city": "Waku-Kungo",
+    "country": "Angola"
+  },
+  {
+    "code": "CEP",
+    "name": "Concepción Airport",
+    "city": "Concepción",
+    "country": "Bolivia"
+  },
+  {
+    "code": "CEQ",
+    "name": "Cannes – Mandelieu Airport",
+    "city": "Cannes, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "CER",
+    "name": "Cherbourg – Maupertus Airport",
+    "city": "Cherbourg-Octeville, Lower Normandy",
+    "country": "France"
+  },
+  {
+    "code": "CES",
+    "name": "Cessnock Airport",
+    "city": "Cessnock, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CET",
+    "name": "Cholet Le Pontreau Airport",
+    "city": "Cholet, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "CEU",
+    "name": "Oconee County Regional Airport",
+    "city": "Clemson, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CEV",
+    "name": "Mettel Field",
+    "city": "Connersville, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "CEW",
+    "name": "Bob Sikes Airport",
+    "city": "Crestview, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "CEX",
+    "name": "Chena Hot Springs Airport (FAA: AK13)",
+    "city": "Chena Hot Springs, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CEY",
+    "name": "Murray-Calloway County Airport",
+    "city": "Murray, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "CEZ",
+    "name": "Cortez Municipal Airport",
+    "city": "Cortez, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "CFB",
+    "name": "Cabo Frio International Airport",
+    "city": "Cabo Frio, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "CFC",
+    "name": "Caçador Airport",
+    "city": "Caçador, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "CFD",
+    "name": "Coulter Field",
+    "city": "Bryan, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CFE",
+    "name": "Clermont-Ferrand Auvergne Airport",
+    "city": "Clermont-Ferrand, Auvergne",
+    "country": "France"
+  },
+  {
+    "code": "CFF",
+    "name": "Cafunfo Airport",
+    "city": "Cafunfo",
+    "country": "Angola"
+  },
+  {
+    "code": "CFG",
+    "name": "Jaime González Airport",
+    "city": "Cienfuegos",
+    "country": "Cuba"
+  },
+  {
+    "code": "CFH",
+    "name": "Clifton Hills Airport",
+    "city": "Clifton Hills, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CFI",
+    "name": "Camfield Airport",
+    "city": "Camfield Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "CFK",
+    "name": "Chlef International Airport",
+    "city": "Chlef",
+    "country": "Algeria"
+  },
+  {
+    "code": "CFM",
+    "name": "Conklin (Leismer) Airport",
+    "city": "Wood Buffalo, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "CFN",
+    "name": "Donegal Airport",
+    "city": "Donegal",
+    "country": "Ireland"
+  },
+  {
+    "code": "CFO",
+    "name": "Confresa Airport",
+    "city": "Confresa, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "CFP",
+    "name": "Carpentaria Downs Airport",
+    "city": "Carpentaria Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CFQ",
+    "name": "Creston Aerodrome (TC: CAJ3)",
+    "city": "Creston, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "CFR",
+    "name": "Caen – Carpiquet Airport",
+    "city": "Caen, Lower Normandy",
+    "country": "France"
+  },
+  {
+    "code": "CFS",
+    "name": "Coffs Harbour Airport",
+    "city": "Coffs Harbour, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CFT",
+    "name": "Greenlee County Airport",
+    "city": "Clifton / Morenci, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "CFU",
+    "name": "Corfu International Airport (Ioannis Kapodistrias Int'l Airport)",
+    "city": "Corfu",
+    "country": "Greece"
+  },
+  {
+    "code": "CFV",
+    "name": "Coffeyville Municipal Airport",
+    "city": "Coffeyville, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "CGA",
+    "name": "Craig Seaplane Base",
+    "city": "Craig, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CGB",
+    "name": "Marechal Rondon International Airport",
+    "city": "Cuiabá, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "CGC",
+    "name": "Cape Gloucester Airport",
+    "city": "Cape Gloucester",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "CGD",
+    "name": "Changde Taohuayuan Airport",
+    "city": "Changde, Hunan",
+    "country": "China"
+  },
+  {
+    "code": "CGE",
+    "name": "Cambridge–Dorchester Airport",
+    "city": "Cambridge, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "CGF",
+    "name": "Cuyahoga County Airport",
+    "city": "Cleveland, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "CGG",
+    "name": "Casiguran Airport",
+    "city": "Casiguran",
+    "country": "Philippines"
+  },
+  {
+    "code": "CGH",
+    "name": "São Paulo/Congonhas–Deputado Freitas Nobre Airport",
+    "city": "São Paulo, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "CGI",
+    "name": "Cape Girardeau Regional Airport",
+    "city": "Cape Girardeau, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "CGJ",
+    "name": "Kasompe Airport",
+    "city": "Chingola",
+    "country": "Zambia"
+  },
+  {
+    "code": "CGK",
+    "name": "Soekarno–Hatta International Airport",
+    "city": "Jakarta",
+    "country": "Indonesia"
+  },
+  {
+    "code": "CGM",
+    "name": "Camiguin Airport",
+    "city": "Mambajao",
+    "country": "Philippines"
+  },
+  {
+    "code": "CGN",
+    "name": "Cologne Bonn Airport",
+    "city": "Cologne / Bonn, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "CGO",
+    "name": "Zhengzhou Xinzheng International Airport",
+    "city": "Zhengzhou, Henan",
+    "country": "China"
+  },
+  {
+    "code": "CGP",
+    "name": "Shah Amanat International Airport",
+    "city": "Chittagong",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "CGQ",
+    "name": "Changchun Longjia International Airport",
+    "city": "Changchun, Jilin",
+    "country": "China"
+  },
+  {
+    "code": "CGR",
+    "name": "Campo Grande International Airport",
+    "city": "Campo Grande, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CGS",
+    "name": "College Park Airport",
+    "city": "College Park, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "CGT",
+    "name": "Chinguetti Airport",
+    "city": "Chinguetti",
+    "country": "Mauritania"
+  },
+  {
+    "code": "CGV",
+    "name": "Caiguna Airport",
+    "city": "Caiguna, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CGY",
+    "name": "Laguindingan Airport",
+    "city": "Cagayan de Oro",
+    "country": "Philippines"
+  },
+  {
+    "code": "CGZ",
+    "name": "Casa Grande Municipal Airport",
+    "city": "Casa Grande, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "CHA",
+    "name": "Chattanooga Metropolitan Airport (Lovell Field)",
+    "city": "Chattanooga, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "CHB",
+    "name": "Chilas Airport",
+    "city": "Chilas",
+    "country": "Pakistan"
+  },
+  {
+    "code": "CHC",
+    "name": "Christchurch International Airport",
+    "city": "Christchurch",
+    "country": "New Zealand"
+  },
+  {
+    "code": "CHF",
+    "name": "Jinhae Airport",
+    "city": "Jinhae",
+    "country": "South Korea"
+  },
+  {
+    "code": "CHG",
+    "name": "Chaoyang Airport",
+    "city": "Chaoyang, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "CHH",
+    "name": "Chachapoyas Airport",
+    "city": "Chachapoyas",
+    "country": "Peru"
+  },
+  {
+    "code": "CHI",
+    "name": "metropolitan area2",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "CHJ",
+    "name": "Chipinge Airport",
+    "city": "Chipinge",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "CHK",
+    "name": "Chickasha Municipal Airport",
+    "city": "Chickasha, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "CHL",
+    "name": "Challis Airport (FAA: LLJ)",
+    "city": "Challis, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "CHM",
+    "name": "Tnte. FAP Jaime Montreuil Morales Airport",
+    "city": "Chimbote",
+    "country": "Peru"
+  },
+  {
+    "code": "CHN",
+    "name": "Jeonju Airport",
+    "city": "Jeonju",
+    "country": "South Korea"
+  },
+  {
+    "code": "CHO",
+    "name": "Charlottesville–Albemarle Airport",
+    "city": "Charlottesville, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "CHP",
+    "name": "Circle Hot Springs Airport",
+    "city": "Circle Hot Springs, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CHQ",
+    "name": "Chania International Airport (Ioannis Daskalogiannis)",
+    "city": "Chania",
+    "country": "Greece"
+  },
+  {
+    "code": "CHR",
+    "name": "Châteauroux-Centre Marcel Dassault Airport",
+    "city": "Châteauroux, Centre-Val de Loire",
+    "country": "France"
+  },
+  {
+    "code": "CHS",
+    "name": "Charleston International Airport / Charleston Air Force Base",
+    "city": "Charleston, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CHT",
+    "name": "Chatham Islands / Tuuta Airport",
+    "city": "Chatham Islands",
+    "country": "New Zealand"
+  },
+  {
+    "code": "CHU",
+    "name": "Chuathbaluk Airport (FAA: 9A3)",
+    "city": "Chuathbaluk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CHV",
+    "name": "Chaves Airport",
+    "city": "Chaves",
+    "country": "Portugal"
+  },
+  {
+    "code": "CHX",
+    "name": "Changuinola Capitán Manuel Niño International Airport",
+    "city": "Changuinola",
+    "country": "Panama"
+  },
+  {
+    "code": "CHY",
+    "name": "Choiseul Bay Airport",
+    "city": "Choiseul Bay, Taro Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "CHZ",
+    "name": "Chiloquin State Airport (FAA: 2S7)",
+    "city": "Chiloquin, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "CIA",
+    "name": "Ciampino–G. B. Pastine International Airport",
+    "city": "Rome, Lazio",
+    "country": "Italy"
+  },
+  {
+    "code": "CIC",
+    "name": "Chico Municipal Airport",
+    "city": "Chico, California",
+    "country": "United States"
+  },
+  {
+    "code": "CID",
+    "name": "The Eastern Iowa Airport",
+    "city": "Cedar Rapids, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "CIE",
+    "name": "Collie Airport",
+    "city": "Collie, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CIF",
+    "name": "Chifeng Yulong Airport",
+    "city": "Chifeng, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "CIG",
+    "name": "Craig–Moffat Airport (FAA: CAG)",
+    "city": "Craig, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "CIH",
+    "name": "Changzhi Wangcun Airport",
+    "city": "Changzhi, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "CII",
+    "name": "Aydın Airport (Çıldır Airport)",
+    "city": "Aydın",
+    "country": "Turkey"
+  },
+  {
+    "code": "CIJ",
+    "name": "Captain Aníbal Arab Airport",
+    "city": "Cobija",
+    "country": "Bolivia"
+  },
+  {
+    "code": "CIK",
+    "name": "Chalkyitsik Airport",
+    "city": "Chalkyitsik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CIL",
+    "name": "Council Airport (FAA: K29)",
+    "city": "Council, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CIM",
+    "name": "Cimitarra Airport",
+    "city": "Cimitarra",
+    "country": "Colombia"
+  },
+  {
+    "code": "CIN",
+    "name": "Arthur N. Neu Airport",
+    "city": "Carroll, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "CIO",
+    "name": "Teniente Coronel Carmelo Peralta Airport",
+    "city": "Concepción",
+    "country": "Paraguay"
+  },
+  {
+    "code": "CIP",
+    "name": "Chipata Airport",
+    "city": "Chipata",
+    "country": "Zambia"
+  },
+  {
+    "code": "CIQ",
+    "name": "Chiquimula Airport",
+    "city": "Chiquimula",
+    "country": "Guatemala"
+  },
+  {
+    "code": "CIR",
+    "name": "Cairo Regional Airport",
+    "city": "Cairo, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "CIS",
+    "name": "Canton Island Airport",
+    "city": "Canton Island",
+    "country": "Kiribati"
+  },
+  {
+    "code": "CIT",
+    "name": "Shymkent International Airport",
+    "city": "Shymkent",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "CIU",
+    "name": "Chippewa County International Airport",
+    "city": "Sault Ste Marie, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "CIW",
+    "name": "Canouan Airport",
+    "city": "Canouan",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "CIX",
+    "name": "FAP Captain José Abelardo Quiñones González International Airport",
+    "city": "Chiclayo",
+    "country": "Peru"
+  },
+  {
+    "code": "CIY",
+    "name": "Comiso Airport",
+    "city": "Comiso, Sicily",
+    "country": "Italy"
+  },
+  {
+    "code": "CIZ",
+    "name": "Coari Airport",
+    "city": "Coari, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "CJA",
+    "name": "Mayor General FAP Armando Revoredo Iglesias Airport",
+    "city": "Cajamarca",
+    "country": "Peru"
+  },
+  {
+    "code": "CJB",
+    "name": "Coimbatore International Airport",
+    "city": "Coimbatore, Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "CJC",
+    "name": "El Loa Airport",
+    "city": "Calama",
+    "country": "Chile"
+  },
+  {
+    "code": "CJD",
+    "name": "Candilejas Airport",
+    "city": "Candilejas",
+    "country": "Colombia"
+  },
+  {
+    "code": "CJF",
+    "name": "Coondewanna Airport",
+    "city": "Coondewanna, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CJH",
+    "name": "Chilko Lake (Tsylos Park Lodge) Aerodrome (TC: CAG3)",
+    "city": "Chilko Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "CJJ",
+    "name": "Cheongju International Airport",
+    "city": "Cheongju",
+    "country": "South Korea"
+  },
+  {
+    "code": "CJL",
+    "name": "Chitral Airport",
+    "city": "Chitral",
+    "country": "Pakistan"
+  },
+  {
+    "code": "CJM",
+    "name": "Chumphon Airport",
+    "city": "Chumphon",
+    "country": "Thailand"
+  },
+  {
+    "code": "CJN",
+    "name": "Cijulang Nusawiru Airport",
+    "city": "Cijulang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "CJS",
+    "name": "Abraham González International Airport",
+    "city": "Ciudad Juárez, Chihuahua",
+    "country": "Mexico"
+  },
+  {
+    "code": "CJT",
+    "name": "Copalar Airport",
+    "city": "Comitán, Chiapas",
+    "country": "Mexico"
+  },
+  {
+    "code": "CJU",
+    "name": "Jeju International Airport",
+    "city": "Jeju",
+    "country": "South Korea"
+  },
+  {
+    "code": "CKA",
+    "name": "Kegelman Air Force Auxiliary Field",
+    "city": "Cherokee, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "CKB",
+    "name": "North Central West Virginia Airport",
+    "city": "Clarksburg, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "CKC",
+    "name": "Cherkasy International Airport",
+    "city": "Cherkasy",
+    "country": "Ukraine"
+  },
+  {
+    "code": "CKD",
+    "name": "Crooked Creek Airport (FAA: CJX)",
+    "city": "Crooked Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CKE",
+    "name": "Lampson Field (FAA: 1O2)",
+    "city": "Lakeport, California",
+    "country": "United States"
+  },
+  {
+    "code": "CKG",
+    "name": "Chongqing Jiangbei International Airport",
+    "city": "Chongqing",
+    "country": "China"
+  },
+  {
+    "code": "CKH",
+    "name": "Chokurdakh Airport",
+    "city": "Chokurdakh, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "CKI",
+    "name": "Croker Island Airport",
+    "city": "Croker Island, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "CKK",
+    "name": "Sharp County Regional Airport (FAA: CVK)",
+    "city": "Ash Flat, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "CKL",
+    "name": "Chkalovsky Airport",
+    "city": "Shchyolkovo (Moscow Oblast)",
+    "country": "Russia"
+  },
+  {
+    "code": "CKM",
+    "name": "Fletcher Field",
+    "city": "Clarksdale, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "CKN",
+    "name": "Crookston Municipal Airport (Kirkwood Field)",
+    "city": "Crookston, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "CKO",
+    "name": "Cornélio Procópio Airport",
+    "city": "Cornélio Procópio, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "CKR",
+    "name": "Crane Island Airstrip",
+    "city": "Crane Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "CKS",
+    "name": "Carajás Airport",
+    "city": "Parauapebas, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "CKT",
+    "name": "Sarakhs Airport",
+    "city": "Sarakhs",
+    "country": "Iran"
+  },
+  {
+    "code": "CKU",
+    "name": "Cordova Municipal Airport",
+    "city": "Cordova, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CKV",
+    "name": "Clarksville–Montgomery County Regional Airport (Outlaw Field)",
+    "city": "Clarksville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "CKW",
+    "name": "Graeme Rowley Aerodrome",
+    "city": "Christmas Creek mine, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CKX",
+    "name": "Chicken Airport",
+    "city": "Chicken, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CKY",
+    "name": "Conakry International Airport (Gbessia Int'l Airport)",
+    "city": "Conakry",
+    "country": "Guinea"
+  },
+  {
+    "code": "CKZ",
+    "name": "Çanakkale Airport",
+    "city": "Çanakkale",
+    "country": "Turkey"
+  },
+  {
+    "code": "CLA",
+    "name": "Comilla Airport",
+    "city": "Comilla",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "CLD",
+    "name": "McClellan–Palomar Airport (FAA: CRQ)",
+    "city": "Carlsbad, California",
+    "country": "United States"
+  },
+  {
+    "code": "CLE",
+    "name": "Cleveland Hopkins International Airport",
+    "city": "Cleveland, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "CLG",
+    "name": "New Coalinga Municipal Airport (FAA: C80)",
+    "city": "Coalinga, California",
+    "country": "United States"
+  },
+  {
+    "code": "CLH",
+    "name": "Coolah Airport",
+    "city": "Coolah, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CLI",
+    "name": "Clintonville Municipal Airport",
+    "city": "Clintonville, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "CLJ",
+    "name": "Cluj-Napoca International Airport",
+    "city": "Cluj-Napoca",
+    "country": "Romania"
+  },
+  {
+    "code": "CLK",
+    "name": "Clinton Regional Airport",
+    "city": "Clinton, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "CLL",
+    "name": "Easterwood Airport (Easterwood Field)",
+    "city": "College Station, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CLM",
+    "name": "William R. Fairchild International Airport",
+    "city": "Port Angeles, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "CLN",
+    "name": "Carolina Airport",
+    "city": "Carolina, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "CLO",
+    "name": "Alfonso Bonilla Aragón International Airport",
+    "city": "Cali",
+    "country": "Colombia"
+  },
+  {
+    "code": "CLP",
+    "name": "Clarks Point Airport",
+    "city": "Clark's Point, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CLQ",
+    "name": "Licenciado Miguel de la Madrid Airport",
+    "city": "Colima City, Colima",
+    "country": "Mexico"
+  },
+  {
+    "code": "CLR",
+    "name": "Cliff Hatfield Memorial Airport",
+    "city": "Calipatria, California",
+    "country": "United States"
+  },
+  {
+    "code": "CLS",
+    "name": "Chehalis-Centralia Airport",
+    "city": "Chehalis, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "CLT",
+    "name": "Charlotte Douglas International Airport",
+    "city": "Charlotte, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CLU",
+    "name": "Columbus Municipal Airport (FAA: BAK)",
+    "city": "Columbus, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "CLV",
+    "name": "Caldas Novas Airport",
+    "city": "Caldas Novas, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "CLW",
+    "name": "Clearwater Air Park",
+    "city": "Clearwater, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "CLX",
+    "name": "Clorinda Airport",
+    "city": "Clorinda, Formosa",
+    "country": "Argentina"
+  },
+  {
+    "code": "CLY",
+    "name": "Calvi – Sainte-Catherine Airport",
+    "city": "Calvi, Corsica",
+    "country": "France"
+  },
+  {
+    "code": "CLZ",
+    "name": "Calabozo Airport",
+    "city": "Calabozo",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CMA",
+    "name": "Cunnamulla Airport",
+    "city": "Cunnamulla, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CMB",
+    "name": "Bandaranaike International Airport",
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "CMC",
+    "name": "Camocim Airport",
+    "city": "Camocim, Ceará",
+    "country": "Brazil"
+  },
+  {
+    "code": "CMD",
+    "name": "Cootamundra Airport",
+    "city": "Cootamundra, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CME",
+    "name": "Ciudad del Carmen International Airport",
+    "city": "Ciudad del Carmen, Campeche",
+    "country": "Mexico"
+  },
+  {
+    "code": "CMF",
+    "name": "Chambéry-Savoie Airport",
+    "city": "Chambéry, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "CMG",
+    "name": "Corumbá International Airport",
+    "city": "Corumbá, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CMH",
+    "name": "John Glenn Columbus International Airport",
+    "city": "Columbus, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "CMI",
+    "name": "University of Illinois Willard Airport",
+    "city": "Champaign, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "CMJ",
+    "name": "Qimei Airport",
+    "city": "Qimei",
+    "country": "Taiwan"
+  },
+  {
+    "code": "CMK",
+    "name": "Club Makokola Airport",
+    "city": "Club Makokola",
+    "country": "Malawi"
+  },
+  {
+    "code": "CML",
+    "name": "Camooweal Airport",
+    "city": "Camooweal, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CMM",
+    "name": "Carmelita Airport",
+    "city": "Carmelita",
+    "country": "Guatemala"
+  },
+  {
+    "code": "CMN",
+    "name": "Mohammed V International Airport",
+    "city": "Casablanca",
+    "country": "Morocco"
+  },
+  {
+    "code": "CMO",
+    "name": "Obbia Airport",
+    "city": "Obbia",
+    "country": "Somalia"
+  },
+  {
+    "code": "CMP",
+    "name": "Santana do Araguaia Airport",
+    "city": "Santana do Araguaia, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "CMQ",
+    "name": "Clermont Airport",
+    "city": "Clermont, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CMR",
+    "name": "Colmar – Houssen Airport",
+    "city": "Colmar, Alsace",
+    "country": "France"
+  },
+  {
+    "code": "CMS",
+    "name": "Iskushuban Airport",
+    "city": "Iskushuban (Scusciuban)",
+    "country": "Somalia"
+  },
+  {
+    "code": "CMT",
+    "name": "Cameta Airport",
+    "city": "Cametá, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "CMU",
+    "name": "Chimbu Airport",
+    "city": "Kundiawa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "CMV",
+    "name": "Coromandel Aerodrome",
+    "city": "Coromandel",
+    "country": "New Zealand"
+  },
+  {
+    "code": "CMW",
+    "name": "Ignacio Agramonte International Airport",
+    "city": "Camagüey",
+    "country": "Cuba"
+  },
+  {
+    "code": "CMX",
+    "name": "Houghton County Memorial Airport",
+    "city": "Hancock, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "CMY",
+    "name": "Sparta/Fort McCoy Airport",
+    "city": "Sparta, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "CMZ",
+    "name": "Caia Airport",
+    "city": "Caia",
+    "country": "Mozambique"
+  },
+  {
+    "code": "CNA",
+    "name": "Cananea National Airport",
+    "city": "Cananea, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "code": "CNB",
+    "name": "Coonamble Airport",
+    "city": "Coonamble, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CNC",
+    "name": "Coconut Island Airport",
+    "city": "Coconut (Poruma) Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CND",
+    "name": "Mihail Kogălniceanu International Airport",
+    "city": "Constanța",
+    "country": "Romania"
+  },
+  {
+    "code": "CNE",
+    "name": "Fremont County Airport (FAA: 1V6)",
+    "city": "Cañon City, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "CNF",
+    "name": "Tancredo Neves International Airport (Confins Int'l Airport)",
+    "city": "Belo Horizonte, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "CNG",
+    "name": "Cognac – Châteaubernard Air Base",
+    "city": "Cognac, Poitou-Charentes",
+    "country": "France"
+  },
+  {
+    "code": "CNH",
+    "name": "Claremont Municipal Airport",
+    "city": "Claremont, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "CNI",
+    "name": "Changhai Airport",
+    "city": "Changhai, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "CNJ",
+    "name": "Cloncurry Airport",
+    "city": "Cloncurry, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CNK",
+    "name": "Blosser Municipal Airport",
+    "city": "Concordia, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "CNL",
+    "name": "Sindal Airport",
+    "city": "Sindal",
+    "country": "Denmark"
+  },
+  {
+    "code": "CNM",
+    "name": "Cavern City Air Terminal",
+    "city": "Carlsbad, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "CNN",
+    "name": "Kannur International Airport",
+    "city": "Kannur, (Cannanore) Kerala",
+    "country": "India"
+  },
+  {
+    "code": "CNO",
+    "name": "Chino Airport",
+    "city": "Chino, California",
+    "country": "United States"
+  },
+  {
+    "code": "CNP",
+    "name": "Nerlerit Inaat Airport (Constable Pynt Airport)",
+    "city": "Ittoqqortoormiit",
+    "country": "Greenland"
+  },
+  {
+    "code": "CNQ",
+    "name": "Doctor Fernando Piragine Niveyro International Airport",
+    "city": "Corrientes, Corrientes",
+    "country": "Argentina"
+  },
+  {
+    "code": "CNR",
+    "name": "Chañaral Airport",
+    "city": "Chañaral",
+    "country": "Chile"
+  },
+  {
+    "code": "CNS",
+    "name": "Cairns Airport",
+    "city": "Cairns, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CNT",
+    "name": "Charata Airport",
+    "city": "Charata, Chaco",
+    "country": "Argentina"
+  },
+  {
+    "code": "CNU",
+    "name": "Chanute Martin Johnson Airport",
+    "city": "Chanute, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "CNV",
+    "name": "Canavieiras Airport",
+    "city": "Canavieiras, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "CNW",
+    "name": "TSTC Waco Airport",
+    "city": "Waco, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CNX",
+    "name": "Chiang Mai International Airport",
+    "city": "Chiang Mai",
+    "country": "Thailand"
+  },
+  {
+    "code": "CNY",
+    "name": "Canyonlands Field",
+    "city": "Moab, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "CNZ",
+    "name": "Cangamba Airport",
+    "city": "Cangamba",
+    "country": "Angola"
+  },
+  {
+    "code": "COA",
+    "name": "Columbia Airport (FAA: O22)",
+    "city": "Columbia, California",
+    "country": "United States"
+  },
+  {
+    "code": "COB",
+    "name": "Coolibah Airport",
+    "city": "Coolibah Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "COC",
+    "name": "Comodoro Pierrestegui Airport",
+    "city": "Concordia, Entre Ríos",
+    "country": "Argentina"
+  },
+  {
+    "code": "COD",
+    "name": "Yellowstone Regional Airport",
+    "city": "Cody, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "COE",
+    "name": "Coeur d'Alene Airport",
+    "city": "Coeur d'Alene, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "COF",
+    "name": "Patrick Space Force Base",
+    "city": "Cocoa Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "COG",
+    "name": "Mandinga Airport",
+    "city": "Condoto",
+    "country": "Colombia"
+  },
+  {
+    "code": "COH",
+    "name": "Cooch Behar Airport",
+    "city": "Cooch Behar, West Bengal",
+    "country": "India"
+  },
+  {
+    "code": "COI",
+    "name": "Merritt Island Airport",
+    "city": "Merritt Island, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "COJ",
+    "name": "Coonabarabran Airport",
+    "city": "Coonabarabran, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "COK",
+    "name": "Cochin International Airport (Nedumbassery Airport)",
+    "city": "Kochi (Cochin), Kerala",
+    "country": "India"
+  },
+  {
+    "code": "COL",
+    "name": "Coll Airport",
+    "city": "Coll, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "COM",
+    "name": "Coleman Municipal Airport",
+    "city": "Coleman, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CON",
+    "name": "Concord Municipal Airport",
+    "city": "Concord, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "COO",
+    "name": "Cadjehoun Airport",
+    "city": "Cotonou",
+    "country": "Benin"
+  },
+  {
+    "code": "COP",
+    "name": "Cooperstown-Westville Airport (FAA: K23)",
+    "city": "Cooperstown, New York",
+    "country": "United States"
+  },
+  {
+    "code": "COQ",
+    "name": "Choibalsan Airport",
+    "city": "Choibalsan",
+    "country": "Mongolia"
+  },
+  {
+    "code": "COR",
+    "name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport (Pajas Blancas)",
+    "city": "Córdoba, Córdoba",
+    "country": "Argentina"
+  },
+  {
+    "code": "COS",
+    "name": "Colorado Springs Airport",
+    "city": "Colorado Springs, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "COT",
+    "name": "Cotulla–La Salle County Airport",
+    "city": "Cotulla, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "COU",
+    "name": "Columbia Regional Airport",
+    "city": "Columbia, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "COW",
+    "name": "Coquimbo Airport",
+    "city": "Coquimbo",
+    "country": "Chile"
+  },
+  {
+    "code": "COY",
+    "name": "Coolawanyah Station Airport",
+    "city": "Coolawanyah Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "COZ",
+    "name": "Constanza Airport",
+    "city": "Constanza",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "CPA",
+    "name": "Cape Palmas Airport",
+    "city": "Harper",
+    "country": "Liberia"
+  },
+  {
+    "code": "CPB",
+    "name": "Capurganá Airport",
+    "city": "Capurganá",
+    "country": "Colombia"
+  },
+  {
+    "code": "CPC",
+    "name": "Aviador Carlos Campos Airport",
+    "city": "San Martín de los Andes, Neuquén",
+    "country": "Argentina"
+  },
+  {
+    "code": "CPD",
+    "name": "Coober Pedy Airport",
+    "city": "Coober Pedy, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CPE",
+    "name": "Ing. Alberto Acuña Ongay International Airport",
+    "city": "Campeche, Campeche",
+    "country": "Mexico"
+  },
+  {
+    "code": "CPF",
+    "name": "Ngloram Airport",
+    "city": "Cepu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "CPG",
+    "name": "Carmen de Patagones Airport",
+    "city": "Carmen de Patagones, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "CPH",
+    "name": "Copenhagen Airport, Kastrup",
+    "city": "Copenhagen",
+    "country": "Denmark"
+  },
+  {
+    "code": "CPI",
+    "name": "Cape Orford Airport",
+    "city": "Cape Orford",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "CPL",
+    "name": "General Navas Pardo Airport",
+    "city": "Chaparral",
+    "country": "Colombia"
+  },
+  {
+    "code": "CPM",
+    "name": "Compton/Woodley Airport",
+    "city": "Compton, California",
+    "country": "United States"
+  },
+  {
+    "code": "CPN",
+    "name": "Cape Rodney Airport",
+    "city": "Cape Rodney",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "CPO",
+    "name": "Desierto de Atacama Airport",
+    "city": "Copiapó",
+    "country": "Chile"
+  },
+  {
+    "code": "CPP",
+    "name": "Coposa Airport",
+    "city": "Pica",
+    "country": "Chile"
+  },
+  {
+    "code": "CPR",
+    "name": "Casper–Natrona County International Airport",
+    "city": "Casper, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "CPS",
+    "name": "St. Louis Downtown Airport",
+    "city": "Cahokia (near St. Louis/MO), Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "CPT",
+    "name": "Cape Town International Airport",
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  {
+    "code": "CPU",
+    "name": "Cururupu Airport",
+    "city": "Cururupu, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "CPV",
+    "name": "Campina Grande Airport (Presidente João Suassuna Airport)",
+    "city": "Campina Grande, Paraíba",
+    "country": "Brazil"
+  },
+  {
+    "code": "CPX",
+    "name": "Benjamín Rivera Noriega Airport",
+    "city": "Culebra, Puerto Rico",
+    "country": "United States"
+  },
+  {
+    "code": "CQA",
+    "name": "Canarana Airport",
+    "city": "Canarana, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "CQD",
+    "name": "Shahrekord Airport",
+    "city": "Shahrekord",
+    "country": "Iran"
+  },
+  {
+    "code": "CQF",
+    "name": "Calais–Dunkerque Airport",
+    "city": "Calais / Dunkirk, Nord-Pas-de-Calais",
+    "country": "France"
+  },
+  {
+    "code": "CQM",
+    "name": "Ciudad Real Central Airport",
+    "city": "Ciudad Real, Castilla-La Mancha",
+    "country": "Spain"
+  },
+  {
+    "code": "CQP",
+    "name": "Cape Flattery Airport",
+    "city": "Cape Flattery, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CQS",
+    "name": "Costa Marques Airport",
+    "city": "Costa Marques, Rondônia",
+    "country": "Brazil"
+  },
+  {
+    "code": "CQT",
+    "name": "Caquetania Airport",
+    "city": "Caquetania",
+    "country": "Colombia"
+  },
+  {
+    "code": "CQW",
+    "name": "Wulong Xiannüshan Airport",
+    "city": "Wulong, Chongqing",
+    "country": "China"
+  },
+  {
+    "code": "CRA",
+    "name": "Craiova International Airport",
+    "city": "Craiova",
+    "country": "Romania"
+  },
+  {
+    "code": "CRB",
+    "name": "Collarenebri Airport",
+    "city": "Collarenebri, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CRC",
+    "name": "Santa Ana Airport",
+    "city": "Cartago",
+    "country": "Colombia"
+  },
+  {
+    "code": "CRD",
+    "name": "General Enrique Mosconi International Airport",
+    "city": "Comodoro Rivadavia, Chubut",
+    "country": "Argentina"
+  },
+  {
+    "code": "CRE",
+    "name": "Grand Strand Airport",
+    "city": "North Myrtle Beach, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CRF",
+    "name": "Carnot Airport",
+    "city": "Carnot",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "CRG",
+    "name": "Jacksonville Executive at Craig Airport",
+    "city": "Jacksonville, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "CRH",
+    "name": "Cherrabah Airport",
+    "city": "Cherrabah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CRI",
+    "name": "Colonel Hill Airport (Crooked Island Airport)",
+    "city": "Colonel Hill, Crooked Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "CRJ",
+    "name": "Coorabie Airport",
+    "city": "Coorabie, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CRK",
+    "name": "Clark International Airport",
+    "city": "Clark Special Economic Zone",
+    "country": "Philippines"
+  },
+  {
+    "code": "CRL",
+    "name": "Brussels South Charleroi Airport",
+    "city": "Charleroi",
+    "country": "Belgium"
+  },
+  {
+    "code": "CRM",
+    "name": "Catarman National Airport",
+    "city": "Catarman",
+    "country": "Philippines"
+  },
+  {
+    "code": "CRO",
+    "name": "Corcoran Airport",
+    "city": "Corcoran, California",
+    "country": "United States"
+  },
+  {
+    "code": "CRP",
+    "name": "Corpus Christi International Airport",
+    "city": "Corpus Christi, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CRQ",
+    "name": "Caravelas Airport",
+    "city": "Caravelas, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "CRR",
+    "name": "Ceres Airport",
+    "city": "Ceres, Santa Fe",
+    "country": "Argentina"
+  },
+  {
+    "code": "CRS",
+    "name": "C. David Campbell Field (Corsicana Municipal Airport)",
+    "city": "Corsicana, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CRT",
+    "name": "Z. M. Jack Stell Field",
+    "city": "Crossett, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "CRU",
+    "name": "Lauriston Airport (Carriacou Island Airport)",
+    "city": "Carriacou",
+    "country": "Grenada"
+  },
+  {
+    "code": "CRV",
+    "name": "Crotone Airport (Sant'Anna Airport)",
+    "city": "Crotone, Calabria",
+    "country": "Italy"
+  },
+  {
+    "code": "CRW",
+    "name": "Yeager Airport",
+    "city": "Charleston, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "CRX",
+    "name": "Roscoe Turner Airport",
+    "city": "Corinth, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "CRY",
+    "name": "Carlton Hill Airport",
+    "city": "Carlton Hill Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CRZ",
+    "name": "Turkmenabat Airport",
+    "city": "Türkmenabat",
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "CSA",
+    "name": "Colonsay Airport",
+    "city": "Colonsay, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CSB",
+    "name": "Caransebeș Airport",
+    "city": "Caransebeș",
+    "country": "Romania"
+  },
+  {
+    "code": "CSC",
+    "name": "Cañas Mojica Airport",
+    "city": "Cañas",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "CSD",
+    "name": "Cresswell Downs Airport",
+    "city": "Cresswell Downs, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "CSE",
+    "name": "Buckhorn Ranch Airport (FAA: 0CO2)",
+    "city": "Crested Butte, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "CSF",
+    "name": "Creil Air Base",
+    "city": "Creil, Picardy",
+    "country": "France"
+  },
+  {
+    "code": "CSG",
+    "name": "Columbus Airport",
+    "city": "Columbus, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "CSH",
+    "name": "Solovki Airport",
+    "city": "Solovetsky Islands, Arkhangelsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "CSI",
+    "name": "Casino Airport",
+    "city": "Casino, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CSK",
+    "name": "Cap Skirring Airport",
+    "city": "Cap Skirring",
+    "country": "Senegal"
+  },
+  {
+    "code": "CSM",
+    "name": "Clinton-Sherman Airport",
+    "city": "Clinton, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "CSN",
+    "name": "Carson Airport (FAA: CXP)",
+    "city": "Carson City, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "CSO",
+    "name": "Magdeburg–Cochstedt Airport",
+    "city": "Magdeburg, Saxony-Anhalt",
+    "country": "Germany"
+  },
+  {
+    "code": "CSQ",
+    "name": "Creston Municipal Airport",
+    "city": "Creston, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "CSR",
+    "name": "Casuarito Airport",
+    "city": "Casuarito",
+    "country": "Colombia"
+  },
+  {
+    "code": "CSS",
+    "name": "Cassilândia Airport",
+    "city": "Cassilândia, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CST",
+    "name": "Castaway Island Seaplane Base",
+    "city": "Castaway Island, Mamanuca Islands",
+    "country": "Fiji"
+  },
+  {
+    "code": "CSU",
+    "name": "Santa Cruz do Sul Airport",
+    "city": "Santa Cruz do Sul, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CSV",
+    "name": "Crossville Memorial-Whitson Field",
+    "city": "Crossville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "CSX",
+    "name": "Changsha Huanghua International Airport",
+    "city": "Changsha, Hunan",
+    "country": "China"
+  },
+  {
+    "code": "CSY",
+    "name": "Cheboksary Airport",
+    "city": "Cheboksary, Chuvashia",
+    "country": "Russia"
+  },
+  {
+    "code": "CSZ",
+    "name": "Brigadier Hector Eduardo Ruiz Airport",
+    "city": "Coronel Suárez, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "CTA",
+    "name": "Catania–Fontanarossa Airport",
+    "city": "Catania, Sicily",
+    "country": "Italy"
+  },
+  {
+    "code": "CTB",
+    "name": "Cut Bank Municipal Airport",
+    "city": "Cut Bank, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "CTC",
+    "name": "Coronel Felipe Varela International Airport",
+    "city": "Catamarca, Catamarca",
+    "country": "Argentina"
+  },
+  {
+    "code": "CTD",
+    "name": "Chitré Alonso Valderrama Airport",
+    "city": "Chitré",
+    "country": "Panama"
+  },
+  {
+    "code": "CTE",
+    "name": "Cartí Airport",
+    "city": "Cartí",
+    "country": "Panama"
+  },
+  {
+    "code": "CTF",
+    "name": "Coatepeque Airport",
+    "city": "Coatepeque",
+    "country": "Guatemala"
+  },
+  {
+    "code": "CTG",
+    "name": "Rafael Núñez International Airport",
+    "city": "Cartagena",
+    "country": "Colombia"
+  },
+  {
+    "code": "CTH",
+    "name": "Chester County G. O. Carlson Airport (FAA: MQS)",
+    "city": "Coatesville, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "CTI",
+    "name": "Cuito Cuanavale Airport",
+    "city": "Cuito Cuanavale",
+    "country": "Angola"
+  },
+  {
+    "code": "CTK",
+    "name": "Canton Municipal Airport (FAA: 7G9)",
+    "city": "Canton, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "CTL",
+    "name": "Charleville Airport",
+    "city": "Charleville, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CTM",
+    "name": "Chetumal International Airport",
+    "city": "Chetumal, Quintana Roo",
+    "country": "Mexico"
+  },
+  {
+    "code": "CTN",
+    "name": "Cooktown Airport",
+    "city": "Cooktown, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CTO",
+    "name": "Calverton Executive Airpark (FAA: 3C8)",
+    "city": "Calverton, New York",
+    "country": "United States"
+  },
+  {
+    "code": "CTP",
+    "name": "Carutapera Airport",
+    "city": "Carutapera, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "CTQ",
+    "name": "Do Palmar Airport",
+    "city": "Santa Vitória, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CTR",
+    "name": "Cattle Creek Airport",
+    "city": "Cattle Creek, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "CTS",
+    "name": "New Chitose Airport",
+    "city": "Sapporo, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "CTT",
+    "name": "Le Castellet Airport",
+    "city": "Le Castellet, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "CTU",
+    "name": "Chengdu Shuangliu International Airport",
+    "city": "Chengdu, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "CTW",
+    "name": "Cottonwood Airport (FAA: P52)",
+    "city": "Cottonwood, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "CTX",
+    "name": "Cortland County Airport (Chase Field, FAA: N03)",
+    "city": "Cortland, New York",
+    "country": "United States"
+  },
+  {
+    "code": "CTY",
+    "name": "Cross City Airport",
+    "city": "Cross City, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "CTZ",
+    "name": "Clinton–Sampson County Airport",
+    "city": "Clinton, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CUA",
+    "name": "Ciudad Constitución Airport",
+    "city": "Ciudad Constitución, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "CUB",
+    "name": "Jim Hamilton–L.B. Owens Airport",
+    "city": "Columbia, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "CUC",
+    "name": "Camilo Daza International Airport",
+    "city": "Cúcuta",
+    "country": "Colombia"
+  },
+  {
+    "code": "CUD",
+    "name": "Caloundra Airport",
+    "city": "Caloundra, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CUE",
+    "name": "Mariscal Lamar International Airport",
+    "city": "Cuenca",
+    "country": "Ecuador"
+  },
+  {
+    "code": "CUF",
+    "name": "Cuneo International Airport",
+    "city": "Cuneo, Piedmont",
+    "country": "Italy"
+  },
+  {
+    "code": "CUG",
+    "name": "Cudal Airport",
+    "city": "Cudal, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CUH",
+    "name": "Cushing Municipal Airport",
+    "city": "Cushing, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "CUI",
+    "name": "Curillo Airport",
+    "city": "Curillo",
+    "country": "Colombia"
+  },
+  {
+    "code": "CUJ",
+    "name": "Culion Airport",
+    "city": "Culion",
+    "country": "Philippines"
+  },
+  {
+    "code": "CUK",
+    "name": "Caye Caulker Airport",
+    "city": "Caye Caulker",
+    "country": "Belize"
+  },
+  {
+    "code": "CUL",
+    "name": "Bachigualato Federal International Airport",
+    "city": "Culiacán, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "code": "CUM",
+    "name": "Antonio José de Sucre Airport",
+    "city": "Cumaná",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CUN",
+    "name": "Cancún International Airport",
+    "city": "Cancún, Quintana Roo",
+    "country": "Mexico"
+  },
+  {
+    "code": "CUO",
+    "name": "Caruru Airport",
+    "city": "Caruru",
+    "country": "Colombia"
+  },
+  {
+    "code": "CUP",
+    "name": "General José Francisco Bermúdez Airport",
+    "city": "Carúpano",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CUQ",
+    "name": "Coen Airport",
+    "city": "Coen, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CUR",
+    "name": "Curaçao International Airport (Hato Int'l Airport)",
+    "city": "Willemstad",
+    "country": "Curaçao"
+  },
+  {
+    "code": "CUS",
+    "name": "Columbus Municipal Airport (FAA: 0NM0)",
+    "city": "Columbus, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "CUT",
+    "name": "Cutral Có Airport",
+    "city": "Cutral Có, Neuquén",
+    "country": "Argentina"
+  },
+  {
+    "code": "CUU",
+    "name": "General Roberto Fierro Villalobos International Airport",
+    "city": "Chihuahua, Chihuahua",
+    "country": "Mexico"
+  },
+  {
+    "code": "CUV",
+    "name": "Casigua El Cubo Airport",
+    "city": "Casigua El Cubo",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CUX",
+    "name": "Cuddihy Field (FAA: 07TE)",
+    "city": "Corpus Christi, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CUY",
+    "name": "Cue Airport",
+    "city": "Cue, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CUZ",
+    "name": "Alejandro Velasco Astete International Airport",
+    "city": "Cusco",
+    "country": "Peru"
+  },
+  {
+    "code": "CVB",
+    "name": "Chungrebu Airport",
+    "city": "Chungrebu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "CVC",
+    "name": "Cleve Airport",
+    "city": "Cleve, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CVE",
+    "name": "Coveñas Airport",
+    "city": "Coveñas",
+    "country": "Colombia"
+  },
+  {
+    "code": "CVF",
+    "name": "Courchevel Altiport",
+    "city": "Courchevel, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "CVG",
+    "name": "Cincinnati/Northern Kentucky International Airport",
+    "city": "Hebron (near Cincinnati/OH), Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "CVH",
+    "name": "Caviahue Airport",
+    "city": "Caviahue, Neuquén",
+    "country": "Argentina"
+  },
+  {
+    "code": "CVI",
+    "name": "Caleta Olivia Airport",
+    "city": "Caleta Olivia, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "CVJ",
+    "name": "General Mariano Matamoros Airport",
+    "city": "Cuernavaca, Morelos",
+    "country": "Mexico"
+  },
+  {
+    "code": "CVL",
+    "name": "Cape Vogel Airport",
+    "city": "Cape Vogel",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "CVM",
+    "name": "General Pedro J. Méndez International Airport",
+    "city": "Ciudad Victoria, Tamaulipas",
+    "country": "Mexico"
+  },
+  {
+    "code": "CVN",
+    "name": "Clovis Municipal Airport",
+    "city": "Clovis, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "CVO",
+    "name": "Corvallis Municipal Airport",
+    "city": "Corvallis, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "CVQ",
+    "name": "Carnarvon Airport",
+    "city": "Carnarvon, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CVS",
+    "name": "Cannon Air Force Base",
+    "city": "Clovis, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "CVT",
+    "name": "Coventry Airport",
+    "city": "Coventry, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CVU",
+    "name": "Corvo Airport",
+    "city": "Corvo Island, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "CWA",
+    "name": "Central Wisconsin Airport",
+    "city": "Wausau, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "CWB",
+    "name": "Afonso Pena International Airport",
+    "city": "Curitiba, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "CWC",
+    "name": "Chernivtsi International Airport",
+    "city": "Chernivtsi",
+    "country": "Ukraine"
+  },
+  {
+    "code": "CWF",
+    "name": "Chennault International Airport",
+    "city": "Lake Charles, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "CWI",
+    "name": "Clinton Municipal Airport",
+    "city": "Clinton, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "CWJ",
+    "name": "Cangyuan Washan Airport",
+    "city": "Nuoliang Township",
+    "country": "China"
+  },
+  {
+    "code": "CWL",
+    "name": "Cardiff Airport",
+    "city": "Cardiff, Wales",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "CWR",
+    "name": "Cowarie Airport",
+    "city": "Cowarie, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CWS",
+    "name": "Center Island Airport (FAA: 78WA)",
+    "city": "Center Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "CWT",
+    "name": "Cowra Airport",
+    "city": "Cowra, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CWW",
+    "name": "Corowa Airport",
+    "city": "Corowa, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "CWX",
+    "name": "Cochise County Airport (FAA: P33)",
+    "city": "Willcox, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "CXA",
+    "name": "Caicara del Orinoco Airport",
+    "city": "Caicara del Orinoco",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CXB",
+    "name": "Cox's Bazar Airport",
+    "city": "Cox's Bazar",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "CXC",
+    "name": "Chitina Airport",
+    "city": "Chitina, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CXF",
+    "name": "Coldfoot Airport",
+    "city": "Coldfoot, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CXH",
+    "name": "Vancouver Harbour Flight Centre (Coal Harbour Seaplane Base)",
+    "city": "Vancouver, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "CXI",
+    "name": "Cassidy International Airport",
+    "city": "Christmas Island",
+    "country": "Kiribati"
+  },
+  {
+    "code": "CXJ",
+    "name": "Caxias do Sul Airport (Hugo Cantergiani Regional Airport)",
+    "city": "Caxias do Sul, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CXL",
+    "name": "Calexico International Airport",
+    "city": "Calexico, California",
+    "country": "United States"
+  },
+  {
+    "code": "CXN",
+    "name": "Candala Airport",
+    "city": "Candala",
+    "country": "Somalia"
+  },
+  {
+    "code": "CXO",
+    "name": "Lone Star Executive Airport",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CXP",
+    "name": "Tunggul Wulung Airport",
+    "city": "Cilacap",
+    "country": "Indonesia"
+  },
+  {
+    "code": "CXQ",
+    "name": "Christmas Creek Airport",
+    "city": "Christmas Creek Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "CXR",
+    "name": "Cam Ranh International Airport",
+    "city": "Cam Ranh",
+    "country": "Vietnam"
+  },
+  {
+    "code": "CXT",
+    "name": "Charters Towers Airport",
+    "city": "Charters Towers, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "CXY",
+    "name": "Cat Cay Airport",
+    "city": "Cat Cays, Bimini",
+    "country": "Bahamas"
+  },
+  {
+    "code": "CYA",
+    "name": "Antoine-Simon Airport",
+    "city": "Les Cayes",
+    "country": "Haiti"
+  },
+  {
+    "code": "CYB",
+    "name": "Charles Kirkconnell International Airport",
+    "city": "Cayman Brac",
+    "country": "British Overseas Territory of Cayman Islands"
+  },
+  {
+    "code": "CYC",
+    "name": "Caye Chapel Airport",
+    "city": "Caye Chapel",
+    "country": "Belize"
+  },
+  {
+    "code": "CYD",
+    "name": "San Ignacio Town Airstrip",
+    "city": "San Ignacio",
+    "country": "Belize"
+  },
+  {
+    "code": "CYF",
+    "name": "Chefornak Airport (FAA: CFK)",
+    "city": "Chefornak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CYG",
+    "name": "Corryong Airport",
+    "city": "Corryong, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "CYI",
+    "name": "Chiayi Airport",
+    "city": "Chiayi",
+    "country": "Taiwan"
+  },
+  {
+    "code": "CYL",
+    "name": "Coyoles Airport",
+    "city": "Coyoles",
+    "country": "Honduras"
+  },
+  {
+    "code": "CYM",
+    "name": "Chatham Seaplane Base",
+    "city": "Chatham, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CYO",
+    "name": "Vilo Acuña Airport",
+    "city": "Cayo Largo del Sur",
+    "country": "Cuba"
+  },
+  {
+    "code": "CYP",
+    "name": "Calbayog Airport",
+    "city": "Calbayog",
+    "country": "Philippines"
+  },
+  {
+    "code": "CYR",
+    "name": "Colonia Airport (Laguna de los Patos Intn'l Airport)",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay"
+  },
+  {
+    "code": "CYS",
+    "name": "Cheyenne Regional Airport (Jerry Olson Field)",
+    "city": "Cheyenne, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "CYT",
+    "name": "Yakataga Airport",
+    "city": "Yakataga, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CYU",
+    "name": "Cuyo Airport",
+    "city": "Cuyo",
+    "country": "Philippines"
+  },
+  {
+    "code": "CYW",
+    "name": "Captain Rogelio Castillo National Airport",
+    "city": "Celaya, Guanajuato",
+    "country": "Mexico"
+  },
+  {
+    "code": "CYX",
+    "name": "Chersky Airport",
+    "city": "Chersky, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "CYZ",
+    "name": "Cauayan Airport",
+    "city": "Cauayan",
+    "country": "Philippines"
+  },
+  {
+    "code": "CZA",
+    "name": "Chichen Itza International Airport",
+    "city": "Chichen Itza, Yucatán",
+    "country": "Mexico"
+  },
+  {
+    "code": "CZB",
+    "name": "Carlos Ruhl Airport",
+    "city": "Cruz Alta, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "CZC",
+    "name": "Copper Center 2 Airport (FAA: Z93)",
+    "city": "Copper Center, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CZE",
+    "name": "José Leonardo Chirino Airport",
+    "city": "Coro",
+    "country": "Venezuela"
+  },
+  {
+    "code": "CZF",
+    "name": "Cape Romanzof LRRS Airport",
+    "city": "Cape Romanzof, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CZH",
+    "name": "Corozal Airport",
+    "city": "Corozal",
+    "country": "Belize"
+  },
+  {
+    "code": "CZJ",
+    "name": "Corazón de Jesús Airport",
+    "city": "Corazón de Jesús",
+    "country": "Panama"
+  },
+  {
+    "code": "CZK",
+    "name": "Cascade Locks State Airport",
+    "city": "Cascade Locks, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "CZL",
+    "name": "Mohamed Boudiaf International Airport",
+    "city": "Constantine",
+    "country": "Algeria"
+  },
+  {
+    "code": "CZM",
+    "name": "Cozumel International Airport",
+    "city": "Cozumel, Quintana Roo",
+    "country": "Mexico"
+  },
+  {
+    "code": "CZN",
+    "name": "Chisana Airport",
+    "city": "Chisana, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CZO",
+    "name": "Chistochina Airport",
+    "city": "Chistochina, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CZP",
+    "name": "Cape Pole Seaplane Base (FAA: Z71)",
+    "city": "Cape Pole, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "CZS",
+    "name": "Cruzeiro do Sul International Airport",
+    "city": "Cruzeiro do Sul, Acre",
+    "country": "Brazil"
+  },
+  {
+    "code": "CZT",
+    "name": "Dimmit County Airport",
+    "city": "Carrizo Springs, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "CZU",
+    "name": "Las Brujas Airport",
+    "city": "Corozal",
+    "country": "Colombia"
+  },
+  {
+    "code": "CZW",
+    "name": "Częstochowa-Rudniki Airport",
+    "city": "Częstochowa",
+    "country": "Poland"
+  },
+  {
+    "code": "CZX",
+    "name": "Changzhou Benniu Airport",
+    "city": "Changzhou, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "CZY",
+    "name": "Cluny Airport",
+    "city": "Cluny, Queensland",
+    "country": "Australia"
+  }
+]

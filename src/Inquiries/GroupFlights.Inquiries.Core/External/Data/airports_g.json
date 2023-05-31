@@ -1,0 +1,2240 @@
+﻿[
+  {
+    "code": "GAA",
+    "name": "Guamal Airport",
+    "city": "Guamal",
+    "country": "Colombia"
+  },
+  {
+    "code": "GAB",
+    "name": "Gabbs Airport",
+    "city": "Gabbs, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "GAC",
+    "name": "Gracias Airport",
+    "city": "Gracias",
+    "country": "Honduras"
+  },
+  {
+    "code": "GAD",
+    "name": "Northeast Alabama Regional Airport",
+    "city": "Gadsden, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "GAE",
+    "name": "Gabès – Matmata International Airport",
+    "city": "Gabès",
+    "country": "Tunisia"
+  },
+  {
+    "code": "GAF",
+    "name": "Gafsa – Ksar International Airport",
+    "city": "Gafsa",
+    "country": "Tunisia"
+  },
+  {
+    "code": "GAG",
+    "name": "Gage Airport",
+    "city": "Gage, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "GAH",
+    "name": "Gayndah Airport",
+    "city": "Gayndah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GAI",
+    "name": "Montgomery County Airpark",
+    "city": "Gaithersburg, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "GAJ",
+    "name": "Yamagata Airport (Junmachi Airport)",
+    "city": "Yamagata, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "GAL",
+    "name": "Edward G. Pitka Sr. Airport",
+    "city": "Galena, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GAM",
+    "name": "Gambell Airport",
+    "city": "Gambell, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GAN",
+    "name": "Gan International Airport",
+    "city": "Gan Island, Addu Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "GAO",
+    "name": "Mariana Grajales Airport",
+    "city": "Guantánamo",
+    "country": "Cuba"
+  },
+  {
+    "code": "GAP",
+    "name": "Gusap Airport",
+    "city": "Gusap",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GAQ",
+    "name": "Gao International Airport (Korogoussou Airport)",
+    "city": "Gao",
+    "country": "Mali"
+  },
+  {
+    "code": "GAR",
+    "name": "Garaina Airport",
+    "city": "Garaina",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GAS",
+    "name": "Garissa Airport",
+    "city": "Garissa",
+    "country": "Kenya"
+  },
+  {
+    "code": "GAT",
+    "name": "Gap–Tallard Airport",
+    "city": "Gap, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "GAU",
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "city": "Guwahati, Assam",
+    "country": "India"
+  },
+  {
+    "code": "GAV",
+    "name": "Gag Island Airport",
+    "city": "Gag Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GAW",
+    "name": "Gangaw Airport",
+    "city": "Gangaw",
+    "country": "Myanmar"
+  },
+  {
+    "code": "GAX",
+    "name": "Gamba Airport",
+    "city": "Gamba",
+    "country": "Gabon"
+  },
+  {
+    "code": "GAY",
+    "name": "Gaya Airport (Bodhgaya Airport)",
+    "city": "Gaya, Bihar",
+    "country": "India"
+  },
+  {
+    "code": "GAZ",
+    "name": "Guasopa Airport",
+    "city": "Guasopa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GBA",
+    "name": "Cotswold Airport",
+    "city": "Kemble, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "GBB",
+    "name": "Qabala International Airport",
+    "city": "Qabala",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "GBC",
+    "name": "Gasuke Airport",
+    "city": "Gasuke",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GBD",
+    "name": "Great Bend Municipal Airport",
+    "city": "Great Bend, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "GBE",
+    "name": "Sir Seretse Khama International Airport",
+    "city": "Gaborone",
+    "country": "Botswana"
+  },
+  {
+    "code": "GBF",
+    "name": "Negarbo Airport",
+    "city": "Negarbo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GBG",
+    "name": "Galesburg Municipal Airport",
+    "city": "Galesburg, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "GBH",
+    "name": "Galbraith Lake Airport",
+    "city": "Galbraith Lake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GBI",
+    "name": "Kalaburagi Airport",
+    "city": "Gulbarga, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "GBJ",
+    "name": "Marie-Galante Airport (Les Bases)",
+    "city": "Grand-Bourg, Marie-Galante Island",
+    "country": "Guadeloupe"
+  },
+  {
+    "code": "GBK",
+    "name": "Gbangbatok Airport",
+    "city": "Gbangbatok",
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "GBL",
+    "name": "South Goulburn Island Airport",
+    "city": "Goulburn Islands, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "GBM",
+    "name": "Garbaharey Airport",
+    "city": "Garbaharey",
+    "country": "Somalia"
+  },
+  {
+    "code": "GBP",
+    "name": "Gamboola Airport",
+    "city": "Gamboola, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GBR",
+    "name": "Walter J. Koladza Airport",
+    "city": "Great Barrington, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "GBT",
+    "name": "Gorgan Airport",
+    "city": "Gorgan",
+    "country": "Iran"
+  },
+  {
+    "code": "GBU",
+    "name": "Khashm el Girba Airport",
+    "city": "Khashm el Girba",
+    "country": "Sudan"
+  },
+  {
+    "code": "GBV",
+    "name": "Gibb River Airport",
+    "city": "Gibb River, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GBW",
+    "name": "Ginbata Airport",
+    "city": "Ginbata, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GBZ",
+    "name": "Great Barrier Aerodrome",
+    "city": "Great Barrier Island",
+    "country": "New Zealand"
+  },
+  {
+    "code": "GCA",
+    "name": "Guacamayas Airport",
+    "city": "Guacamayas",
+    "country": "Colombia"
+  },
+  {
+    "code": "GCC",
+    "name": "Gillette–Campbell County Airport",
+    "city": "Gillette, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "GCD",
+    "name": "Grand Coulee Dam Airport (FAA: 3W7)",
+    "city": "Electric City, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "GCH",
+    "name": "Gachsaran Airport",
+    "city": "Gachsaran",
+    "country": "Iran"
+  },
+  {
+    "code": "GCI",
+    "name": "Guernsey Airport",
+    "city": "The Forest, Guernsey",
+    "country": "Channel Islands"
+  },
+  {
+    "code": "GCJ",
+    "name": "Grand Central Airport",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "code": "GCK",
+    "name": "Garden City Regional Airport",
+    "city": "Garden City, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "GCM",
+    "name": "Owen Roberts International Airport",
+    "city": "Grand Cayman",
+    "country": "British Overseas Territory of Cayman Islands"
+  },
+  {
+    "code": "GCN",
+    "name": "Grand Canyon National Park Airport",
+    "city": "Tusayan, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "GCT",
+    "name": "Grand Canyon Bar 10 Airport",
+    "city": "Whitmore, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "GCW",
+    "name": "Grand Canyon West Airport (FAA: 1G4)",
+    "city": "Peach Springs, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "GCY",
+    "name": "Greeneville–Greene County Municipal Airport",
+    "city": "Greeneville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "GDA",
+    "name": "Gounda Airport",
+    "city": "Gounda",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "GDC",
+    "name": "Donaldson Center Airport (FAA: GYH)",
+    "city": "Greenville, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GDD",
+    "name": "Gordon Downs Airport",
+    "city": "Gordon Downs, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GDE",
+    "name": "Gode Airport",
+    "city": "Gode",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GDG",
+    "name": "Magdagachi Airport",
+    "city": "Magdagachi, Amur Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "GDH",
+    "name": "Golden Horn Lodge Seaplane Base (FAA: 3Z8)",
+    "city": "Golden Horn Lodge, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GDI",
+    "name": "Gordil Airport",
+    "city": "Gordil",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "GDJ",
+    "name": "Gandajika Airport",
+    "city": "Gandajika",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "GDL",
+    "name": "Guadalajara International Airport (Miguel Hidalgo y Costilla Int'l)",
+    "city": "Guadalajara, Jalisco",
+    "country": "Mexico"
+  },
+  {
+    "code": "GDM",
+    "name": "Gardner Municipal Airport",
+    "city": "Gardner, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "GDN",
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "city": "Gdańsk",
+    "country": "Poland"
+  },
+  {
+    "code": "GDO",
+    "name": "Guasdualito Airport (Vare Maria Airport)",
+    "city": "Guasdualito",
+    "country": "Venezuela"
+  },
+  {
+    "code": "GDP",
+    "name": "Guadalupe Airport",
+    "city": "Guadalupe, Piauí",
+    "country": "Brazil"
+  },
+  {
+    "code": "GDQ",
+    "name": "Gondar Airport (Atse Tewodros Airport)",
+    "city": "Gondar",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GDT",
+    "name": "JAGS McCartney International Airport (Grand Turk Int'l)",
+    "city": "Grand Turk Island",
+    "country": "British Overseas Territory of Turks and Caicos Islands"
+  },
+  {
+    "code": "GDV",
+    "name": "Dawson Community Airport",
+    "city": "Glendive, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "GDW",
+    "name": "Gladwin Zettel Memorial Airport",
+    "city": "Gladwin, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "GDX",
+    "name": "Sokol Airport",
+    "city": "Magadan, Magadan Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "GDZ",
+    "name": "Gelendzhik Airport",
+    "city": "Gelendzhik, Krasnodar Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "GEA",
+    "name": "Nouméa Magenta Airport",
+    "city": "Nouméa",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "GEB",
+    "name": "Gebe Airport",
+    "city": "Gebe",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GEC",
+    "name": "Geçitkale Air Base",
+    "city": "Geçitkale",
+    "country": "Northern Cyprus"
+  },
+  {
+    "code": "GED",
+    "name": "Delaware Coastal Airport",
+    "city": "Georgetown, Delaware",
+    "country": "United States"
+  },
+  {
+    "code": "GEE",
+    "name": "George Town Aerodrome",
+    "city": "George Town, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "GEF",
+    "name": "Geva Airport",
+    "city": "Liangai, Vella Lavella",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "GEG",
+    "name": "Spokane International Airport",
+    "city": "Spokane, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "GEL",
+    "name": "Sepé Tiaraju Airport",
+    "city": "Santo Ângelo, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "GEM",
+    "name": "President Obiang Nguema International Airport",
+    "city": "Mengomeyén",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "code": "GEO",
+    "name": "Cheddi Jagan International Airport",
+    "city": "Georgetown",
+    "country": "Guyana"
+  },
+  {
+    "code": "GER",
+    "name": "Rafael Cabrera Mustelier Airport",
+    "city": "Nueva Gerona",
+    "country": "Cuba"
+  },
+  {
+    "code": "GES",
+    "name": "General Santos International Airport (Tambler Airport)",
+    "city": "General Santos",
+    "country": "Philippines"
+  },
+  {
+    "code": "GET",
+    "name": "Geraldton Airport",
+    "city": "Geraldton, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GEV",
+    "name": "Gällivare Airport",
+    "city": "Gällivare",
+    "country": "Sweden"
+  },
+  {
+    "code": "GEW",
+    "name": "Gewoia Airport",
+    "city": "Gewoia",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GEX",
+    "name": "Geelong Airport",
+    "city": "Geelong, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "GEY",
+    "name": "South Big Horn County Airport",
+    "city": "Greybull, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "GFD",
+    "name": "Pope Field",
+    "city": "Greenfield, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "GFE",
+    "name": "Grenfell Airport",
+    "city": "Grenfell, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GFF",
+    "name": "Griffith Airport",
+    "city": "Griffith, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GFK",
+    "name": "Grand Forks International Airport",
+    "city": "Grand Forks, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "GFL",
+    "name": "Floyd Bennett Memorial Airport",
+    "city": "Glens Falls, New York",
+    "country": "United States"
+  },
+  {
+    "code": "GFN",
+    "name": "Clarence Valley Regional Airport",
+    "city": "Grafton, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GFO",
+    "name": "Bartica Airport",
+    "city": "Bartica",
+    "country": "Guyana"
+  },
+  {
+    "code": "GFR",
+    "name": "Granville–Mont-Saint-Michel Aerodrome [fr]",
+    "city": "Granville, Lower Normandy",
+    "country": "France"
+  },
+  {
+    "code": "GFY",
+    "name": "Grootfontein Air Base",
+    "city": "Grootfontein",
+    "country": "Namibia"
+  },
+  {
+    "code": "GGB",
+    "name": "Água Boa Airport",
+    "city": "Água Boa, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "GGC",
+    "name": "Lumbala N'guimbo Airport",
+    "city": "Lumbala N'guimbo",
+    "country": "Angola"
+  },
+  {
+    "code": "GGD",
+    "name": "Gregory Downs Airport",
+    "city": "Gregory Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GGE",
+    "name": "Georgetown County Airport",
+    "city": "Georgetown, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GGF",
+    "name": "Almeirim Airport",
+    "city": "Almeirim, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "GGG",
+    "name": "East Texas Regional Airport",
+    "city": "Longview, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "GGH",
+    "name": "Gastão Mesquita Airport",
+    "city": "Cianorte, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "GGJ",
+    "name": "Guaíra Airport",
+    "city": "Guaíra, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "GGL",
+    "name": "Gilgal Airport",
+    "city": "Gilgal",
+    "country": "Colombia"
+  },
+  {
+    "code": "GGM",
+    "name": "Kakamega Airport",
+    "city": "Kakamega",
+    "country": "Kenya"
+  },
+  {
+    "code": "GGN",
+    "name": "Gagnoa Airport",
+    "city": "Gagnoa",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "GGO",
+    "name": "Guiglo Airport",
+    "city": "Guiglo",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "GGR",
+    "name": "Garowe International Airport",
+    "city": "Garowe",
+    "country": "Somalia"
+  },
+  {
+    "code": "GGS",
+    "name": "Gobernador Gregores Airport",
+    "city": "Gobernador Gregores, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "GGT",
+    "name": "Exuma International Airport",
+    "city": "Moss Town, Great Exuma Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "GGW",
+    "name": "Glasgow Airport (Wokal Field)",
+    "city": "Glasgow, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "GHA",
+    "name": "Noumérat – Moufdi Zakaria Airport",
+    "city": "Ghardaïa",
+    "country": "Algeria"
+  },
+  {
+    "code": "GHB",
+    "name": "Governor's Harbour Airport",
+    "city": "Governor's Harbour, Eleuthera Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "GHC",
+    "name": "Great Harbour Cay Airport",
+    "city": "Great Harbour Cay, Berry Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "GHE",
+    "name": "Garachiné Airport",
+    "city": "Garachiné",
+    "country": "Panama"
+  },
+  {
+    "code": "GHF",
+    "name": "Giebelstadt Airport",
+    "city": "Giebelstadt, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "GHK",
+    "name": "Gahcho Kue Aerodrome (TC: CGK2)",
+    "city": "Kennedy Lake, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "GHM",
+    "name": "Centerville Municipal Airport",
+    "city": "Centerville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "GHN",
+    "name": "Guanghan Airport",
+    "city": "Guanghan, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "GHS",
+    "name": "West Kutai Melalan Airport",
+    "city": "Melak, East Kalimantan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GHT",
+    "name": "Ghat Airport",
+    "city": "Ghat",
+    "country": "Libya"
+  },
+  {
+    "code": "GHU",
+    "name": "Gualeguaychú Airport",
+    "city": "Gualeguaychú, Entre Ríos",
+    "country": "Argentina"
+  },
+  {
+    "code": "GIB",
+    "name": "Gibraltar International Airport (North Front Airport)",
+    "city": "",
+    "country": "British Overseas Territory of Gibraltar"
+  },
+  {
+    "code": "GIC",
+    "name": "Boigu Island Airport",
+    "city": "Boigu Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GID",
+    "name": "Gitega Airport",
+    "city": "Gitega",
+    "country": "Burundi"
+  },
+  {
+    "code": "GIF",
+    "name": "Winter Haven's Gilbert Airport",
+    "city": "Winter Haven, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "GIG",
+    "name": "Rio de Janeiro–Galeão International Airport",
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "GII",
+    "name": "Siguiri Airport",
+    "city": "Siguiri",
+    "country": "Guinea"
+  },
+  {
+    "code": "GIL",
+    "name": "Gilgit Airport",
+    "city": "Gilgit",
+    "country": "Pakistan"
+  },
+  {
+    "code": "GIM",
+    "name": "Miele Mimbale Airport",
+    "city": "Miele Mimbale",
+    "country": "Gabon"
+  },
+  {
+    "code": "GIR",
+    "name": "Santiago Vila Airport",
+    "city": "Girardot",
+    "country": "Colombia"
+  },
+  {
+    "code": "GIS",
+    "name": "Gisborne Airport",
+    "city": "Gisborne",
+    "country": "New Zealand"
+  },
+  {
+    "code": "GIT",
+    "name": "Geita Airport",
+    "city": "Geita",
+    "country": "Tanzania"
+  },
+  {
+    "code": "GIU",
+    "name": "Sigiriya Airport",
+    "city": "Dambulla",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "GIY",
+    "name": "Giyani Airport",
+    "city": "Giyani",
+    "country": "South Africa"
+  },
+  {
+    "code": "GIZ",
+    "name": "Jizan Regional Airport (King Abdullah bin Abdulaziz Airport)",
+    "city": "Jizan",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "GJA",
+    "name": "Guanaja Airport",
+    "city": "Guanaja",
+    "country": "Honduras"
+  },
+  {
+    "code": "GJL",
+    "name": "Jijel Ferhat Abbas Airport",
+    "city": "Jijel",
+    "country": "Algeria"
+  },
+  {
+    "code": "GJM",
+    "name": "Guajará-Mirim Airport",
+    "city": "Guajará-Mirim, Rondônia",
+    "country": "Brazil"
+  },
+  {
+    "code": "GJR",
+    "name": "Gjögur Airport",
+    "city": "Gjögur",
+    "country": "Iceland"
+  },
+  {
+    "code": "GJT",
+    "name": "Grand Junction Regional Airport (Walker Field)",
+    "city": "Grand Junction, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "GKA",
+    "name": "Goroka Airport",
+    "city": "Goroka",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GKD",
+    "name": "Gökçeada Airport",
+    "city": "Gökçeada",
+    "country": "Turkey"
+  },
+  {
+    "code": "GKE",
+    "name": "NATO Air Base Geilenkirchen",
+    "city": "Geilenkirchen, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "GKH",
+    "name": "Palungtar Airport",
+    "city": "Gorkha",
+    "country": "Nepal"
+  },
+  {
+    "code": "GKK",
+    "name": "Kooddoo Airport",
+    "city": "Kooddoo, Gaafu Alif Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "GKL",
+    "name": "Great Keppel Island Airport",
+    "city": "Great Keppel Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GKN",
+    "name": "Gulkana Airport",
+    "city": "Gulkana, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GKO",
+    "name": "Kongo Boumba Airport",
+    "city": "Kongo Boumba",
+    "country": "Gabon"
+  },
+  {
+    "code": "GKT",
+    "name": "Gatlinburg–Pigeon Forge Airport",
+    "city": "Sevierville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "GLA",
+    "name": "Glasgow Airport",
+    "city": "Glasgow, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "GLB",
+    "name": "San Carlos Apache Airport (FAA: P13)",
+    "city": "Globe, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "GLC",
+    "name": "Geladi Airport",
+    "city": "Geladi",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GLD",
+    "name": "Goodland Municipal Airport (Renner Field)",
+    "city": "Goodland, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "GLE",
+    "name": "Gainesville Municipal Airport",
+    "city": "Gainesville, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "GLF",
+    "name": "Golfito Airport",
+    "city": "Golfito",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "GLG",
+    "name": "Glengyle Airport",
+    "city": "Glengyle, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GLH",
+    "name": "Mid-Delta Regional Airport",
+    "city": "Greenville, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "GLI",
+    "name": "Glen Innes Airport",
+    "city": "Glen Innes, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GLK",
+    "name": "Abdullahi Yusuf International Airport",
+    "city": "Galkayo",
+    "country": "Somalia"
+  },
+  {
+    "code": "GLL",
+    "name": "Gol Airport, Klanten",
+    "city": "Gol",
+    "country": "Norway"
+  },
+  {
+    "code": "GLM",
+    "name": "Glenormiston Airport",
+    "city": "Glenormiston, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GLN",
+    "name": "Guelmim Airport",
+    "city": "Guelmim",
+    "country": "Morocco"
+  },
+  {
+    "code": "GLO",
+    "name": "Gloucestershire Airport",
+    "city": "Gloucester / Cheltenham, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "GLP",
+    "name": "Gulgubip Airport",
+    "city": "Gulgubip",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GLR",
+    "name": "Gaylord Regional Airport",
+    "city": "Gaylord, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "GLS",
+    "name": "Scholes International Airport at Galveston",
+    "city": "Galveston, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "GLT",
+    "name": "Gladstone Airport",
+    "city": "Gladstone, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GLU",
+    "name": "Gelephu Airport",
+    "city": "Gelephu",
+    "country": "Bhutan"
+  },
+  {
+    "code": "GLV",
+    "name": "Golovin Airport",
+    "city": "Golovin, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GLW",
+    "name": "Glasgow Municipal Airport",
+    "city": "Glasgow, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "GLX",
+    "name": "Gamar Malamo Airport",
+    "city": "Galela",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GLY",
+    "name": "Goldsworthy Airport",
+    "city": "Goldsworthy, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GLZ",
+    "name": "Gilze-Rijen Air Base",
+    "city": "Breda",
+    "country": "Netherlands"
+  },
+  {
+    "code": "GMA",
+    "name": "Gemena Airport",
+    "city": "Gemena",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "GMB",
+    "name": "Gambela Airport",
+    "city": "Gambela",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GMC",
+    "name": "Guerima Airport",
+    "city": "Guerima",
+    "country": "Colombia"
+  },
+  {
+    "code": "GMD",
+    "name": "Ben Slimane Airport",
+    "city": "Ben Slimane",
+    "country": "Morocco"
+  },
+  {
+    "code": "GME",
+    "name": "Gomel Airport",
+    "city": "Gomel",
+    "country": "Belarus"
+  },
+  {
+    "code": "GMI",
+    "name": "Gasmata Airport",
+    "city": "Gasmata",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GMM",
+    "name": "Gamboma Airport",
+    "city": "Gamboma",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "GMN",
+    "name": "Greymouth Airport",
+    "city": "Greymouth",
+    "country": "New Zealand"
+  },
+  {
+    "code": "GMO",
+    "name": "Gombe Lawanti International Airport",
+    "city": "Gombe",
+    "country": "Nigeria"
+  },
+  {
+    "code": "GMP",
+    "name": "Gimpo International Airport",
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
+    "code": "GMQ",
+    "name": "Golog Maqin Airport",
+    "city": "Golog, Qinghai",
+    "country": "China"
+  },
+  {
+    "code": "GMR",
+    "name": "Totegegie Airport (Gambier Island Airport)",
+    "city": "Mangareva, Gambier Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "GMS",
+    "name": "Guimarães Airport",
+    "city": "Guimarães, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "GMT",
+    "name": "Granite Mountain Air Station (FAA: GSZ)",
+    "city": "Granite Mountain, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GMU",
+    "name": "Greenville Downtown Airport",
+    "city": "Greenville, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GMV",
+    "name": "Monument Valley Airport (FAA: UT25)",
+    "city": "Monument Valley, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "GMZ",
+    "name": "La Gomera Airport",
+    "city": "La Gomera / Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "GNA",
+    "name": "Grodno Airport",
+    "city": "Grodno",
+    "country": "Belarus"
+  },
+  {
+    "code": "GNB",
+    "name": "Grenoble–Isère Airport",
+    "city": "Grenoble, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "GND",
+    "name": "Maurice Bishop International Airport",
+    "city": "St. George's",
+    "country": "Grenada"
+  },
+  {
+    "code": "GNF",
+    "name": "Gansner Field (FAA: 2O1)",
+    "city": "Quincy, California",
+    "country": "United States"
+  },
+  {
+    "code": "GNG",
+    "name": "Gooding Municipal Airport",
+    "city": "Gooding, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "GNI",
+    "name": "Lyudao Airport (Green Island Airport)",
+    "city": "Lyudao (Green Island)",
+    "country": "Taiwan"
+  },
+  {
+    "code": "GNJ",
+    "name": "Ganja International Airport",
+    "city": "Ganja",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "GNM",
+    "name": "Guanambi Airport",
+    "city": "Guanambi, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "GNN",
+    "name": "Ginir Airport",
+    "city": "Ginir",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GNR",
+    "name": "Dr. Arturo Umberto Illia Airport",
+    "city": "General Roca, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "GNS",
+    "name": "Binaka Airport",
+    "city": "Gunungsitoli",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GNT",
+    "name": "Grants-Milan Municipal Airport",
+    "city": "Grants, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "GNU",
+    "name": "Goodnews Airport",
+    "city": "Goodnews Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GNV",
+    "name": "Gainesville Regional Airport",
+    "city": "Gainesville, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "GNY",
+    "name": "Şanlıurfa GAP Airport",
+    "city": "Şanlıurfa",
+    "country": "Turkey"
+  },
+  {
+    "code": "GNZ",
+    "name": "Ghanzi Airport",
+    "city": "Ghanzi",
+    "country": "Botswana"
+  },
+  {
+    "code": "GOA",
+    "name": "Genoa Cristoforo Colombo Airport",
+    "city": "Genoa, Liguria",
+    "country": "Italy"
+  },
+  {
+    "code": "GOB",
+    "name": "Robe Airport",
+    "city": "Goba",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GOC",
+    "name": "Gora Airport",
+    "city": "Gora",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GOE",
+    "name": "Gonaili Airstrip",
+    "city": "Gonaili",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GOG",
+    "name": "Gobabis Airport",
+    "city": "Gobabis",
+    "country": "Namibia"
+  },
+  {
+    "code": "GOH",
+    "name": "Nuuk Airport",
+    "city": "Nuuk",
+    "country": "Greenland"
+  },
+  {
+    "code": "GOI",
+    "name": "Dabolim Airport",
+    "city": "Dabolim, Goa",
+    "country": "India"
+  },
+  {
+    "code": "GOJ",
+    "name": "Nizhny Novgorod International Airport (Strigino Airport)",
+    "city": "Nizhny Novgorod, Nizhny Novgorod Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "GOK",
+    "name": "Guthrie–Edmond Regional Airport",
+    "city": "Guthrie, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "GOL",
+    "name": "Gold Beach Municipal Airport (FAA: 4S1)",
+    "city": "Gold Beach, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "GOM",
+    "name": "Goma International Airport",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "GON",
+    "name": "Groton–New London Airport",
+    "city": "Groton / New London, Connecticut",
+    "country": "United States"
+  },
+  {
+    "code": "GOO",
+    "name": "Goondiwindi Airport",
+    "city": "Goondiwindi, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GOP",
+    "name": "Gorakhpur Airport",
+    "city": "Gorakhpur, Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "GOQ",
+    "name": "Golmud Airport",
+    "city": "Golmud, Qinghai",
+    "country": "China"
+  },
+  {
+    "code": "GOR",
+    "name": "Gore Airport",
+    "city": "Gore",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "GOS",
+    "name": "Gosford Airport",
+    "city": "Gosford, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GOT",
+    "name": "Göteborg Landvetter Airport",
+    "city": "Gothenburg",
+    "country": "Sweden"
+  },
+  {
+    "code": "GOU",
+    "name": "Garoua International Airport",
+    "city": "Garoua",
+    "country": "Cameroon"
+  },
+  {
+    "code": "GOV",
+    "name": "Gove Airport",
+    "city": "Nhulunbuy, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "GOX",
+    "name": "Manohar International Airport",
+    "city": "Mopa, Goa",
+    "country": "India"
+  },
+  {
+    "code": "GOZ",
+    "name": "Gorna Oryahovitsa Airport",
+    "city": "Gorna Oryahovitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "GPA",
+    "name": "Araxos Airport",
+    "city": "Patras",
+    "country": "Greece"
+  },
+  {
+    "code": "GPB",
+    "name": "Tancredo Thomas de Faria Airport",
+    "city": "Guarapuava, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "GPD",
+    "name": "Mount Gordon Airport",
+    "city": "Mount Gordon Mine, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GPI",
+    "name": "Guapi Airport (Juan Casiano Airport)",
+    "city": "Guapi",
+    "country": "Colombia"
+  },
+  {
+    "code": "GPL",
+    "name": "Guápiles Airport",
+    "city": "Guápiles",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "GPN",
+    "name": "Garden Point Airport",
+    "city": "Pularumpi, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "GPO",
+    "name": "General Pico Airport",
+    "city": "General Pico, La Pampa",
+    "country": "Argentina"
+  },
+  {
+    "code": "GPS",
+    "name": "Seymour Airport",
+    "city": "Baltra Island, Galápagos Islands",
+    "country": "Ecuador"
+  },
+  {
+    "code": "GPT",
+    "name": "Gulfport–Biloxi International Airport",
+    "city": "Gulfport / Biloxi, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "GPZ",
+    "name": "Grand Rapids–Itasca County Airport (Gordon Newstrom Field)",
+    "city": "Grand Rapids, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "GQQ",
+    "name": "Galion Municipal Airport",
+    "city": "Galion, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "GRA",
+    "name": "Gamarra Airport",
+    "city": "Gamarra",
+    "country": "Colombia"
+  },
+  {
+    "code": "GRB",
+    "name": "Austin Straubel International Airport",
+    "city": "Green Bay, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "GRC",
+    "name": "Grand Cess Airport",
+    "city": "Grand Cess",
+    "country": "Liberia"
+  },
+  {
+    "code": "GRD",
+    "name": "Greenwood County Airport",
+    "city": "Greenwood, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GRE",
+    "name": "Greenville Airport",
+    "city": "Greenville, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "GRF",
+    "name": "Gray Army Airfield",
+    "city": "Tacoma, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "GRG",
+    "name": "Gardez Airport",
+    "city": "Gardez",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "GRH",
+    "name": "Garuahi Airport",
+    "city": "Garuahi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GRI",
+    "name": "Central Nebraska Regional Airport",
+    "city": "Grand Island, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "GRJ",
+    "name": "George Airport",
+    "city": "George",
+    "country": "South Africa"
+  },
+  {
+    "code": "GRK",
+    "name": "Killeen–Fort Hood Regional Airport / Robert Gray Army Airfield",
+    "city": "Fort Cavazos / Killeen, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "GRL",
+    "name": "Garasa Airport",
+    "city": "Garasa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GRM",
+    "name": "Grand Marais/Cook County Airport (FAA: CKC)",
+    "city": "Grand Marais, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "GRN",
+    "name": "Gordon Municipal Airport",
+    "city": "Gordon, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "GRO",
+    "name": "Girona–Costa Brava Airport",
+    "city": "Girona, Catalonia",
+    "country": "Spain"
+  },
+  {
+    "code": "GRP",
+    "name": "Gurupi Airport",
+    "city": "Gurupi, Tocantins",
+    "country": "Brazil"
+  },
+  {
+    "code": "GRQ",
+    "name": "Groningen Airport Eelde",
+    "city": "Groningen",
+    "country": "Netherlands"
+  },
+  {
+    "code": "GRR",
+    "name": "Gerald R. Ford International Airport",
+    "city": "Grand Rapids, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "GRS",
+    "name": "Grosseto Airport",
+    "city": "Grosseto, Tuscany",
+    "country": "Italy"
+  },
+  {
+    "code": "GRT",
+    "name": "Gujrat Airport",
+    "city": "Gujrat",
+    "country": "Pakistan"
+  },
+  {
+    "code": "GRU",
+    "name": "São Paulo/Guarulhos–Governador André Franco Montoro International Airport",
+    "city": "São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "GRV",
+    "name": "Grozny Airport",
+    "city": "Grozny, Chechnya",
+    "country": "Russia"
+  },
+  {
+    "code": "GRW",
+    "name": "Graciosa Airport",
+    "city": "Graciosa, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "GRX",
+    "name": "Federico García Lorca Airport (Granada Jaén Airport)",
+    "city": "Granada, Andalusia",
+    "country": "Spain"
+  },
+  {
+    "code": "GRY",
+    "name": "Grímsey Airport",
+    "city": "Grímsey",
+    "country": "Iceland"
+  },
+  {
+    "code": "GRZ",
+    "name": "Graz Airport",
+    "city": "Graz",
+    "country": "Austria"
+  },
+  {
+    "code": "GSA",
+    "name": "Long Pasia Airport",
+    "city": "Long Pasia, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "GSB",
+    "name": "Seymour Johnson Air Force Base",
+    "city": "Goldsboro, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GSC",
+    "name": "Gascoyne Junction Airport",
+    "city": "Gascoyne Junction, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GSE",
+    "name": "Göteborg City Airport",
+    "city": "Gothenburg",
+    "country": "Sweden"
+  },
+  {
+    "code": "GSH",
+    "name": "Goshen Municipal Airport",
+    "city": "Goshen, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "GSI",
+    "name": "Grand-Santi Airport",
+    "city": "Grand-Santi",
+    "country": "French Guiana"
+  },
+  {
+    "code": "GSJ",
+    "name": "San José Airport",
+    "city": "Puerto San José",
+    "country": "Guatemala"
+  },
+  {
+    "code": "GSL",
+    "name": "Taltheilei Narrows Airport (TC: CFA7)",
+    "city": "Taltheilei Narrows, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "GSM",
+    "name": "Dayrestan Airport (Qeshm International Airport)",
+    "city": "Qeshm",
+    "country": "Iran"
+  },
+  {
+    "code": "GSN",
+    "name": "Mount Gunson Airport",
+    "city": "Mount Gunson, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GSO",
+    "name": "Piedmont Triad International Airport",
+    "city": "Greensboro, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GSP",
+    "name": "Greenville–Spartanburg International Airport",
+    "city": "Greenville / Spartanburg, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "GSQ",
+    "name": "Sharq Al-Owainat Airport",
+    "city": "Sharq Al-Owainat",
+    "country": "Egypt"
+  },
+  {
+    "code": "GSR",
+    "name": "Qardho Airport",
+    "city": "Qardho",
+    "country": "Somalia"
+  },
+  {
+    "code": "GSS",
+    "name": "Sabi Sabi Airport",
+    "city": "Sabie",
+    "country": "South Africa"
+  },
+  {
+    "code": "GST",
+    "name": "Gustavus Airport",
+    "city": "Gustavus, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "GSU",
+    "name": "Azaza Airport",
+    "city": "Gedaref",
+    "country": "Sudan"
+  },
+  {
+    "code": "GSV",
+    "name": "Saratov Gagarin Airport",
+    "city": "Saratov, Saratov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "GTA",
+    "name": "Gatokae Aerodrome",
+    "city": "Gatokae",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "GTE",
+    "name": "Groote Eylandt Airport",
+    "city": "Groote Eylandt, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "GTF",
+    "name": "Great Falls International Airport",
+    "city": "Great Falls, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "GTG",
+    "name": "Grantsburg Municipal Airport",
+    "city": "Grantsburg, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "GTI",
+    "name": "Rügen Airport (Güttin Airfield)",
+    "city": "Güttin, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "GTN",
+    "name": "Glentanner Aerodrome",
+    "city": "Mount Cook",
+    "country": "New Zealand"
+  },
+  {
+    "code": "GTO",
+    "name": "Jalaluddin Airport",
+    "city": "Gorontalo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GTP",
+    "name": "Grants Pass Airport (FAA: 3S8)",
+    "city": "Grants Pass, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "GTR",
+    "name": "Golden Triangle Regional Airport",
+    "city": "Columbus / West Point / Starkville, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "GTS",
+    "name": "The Granites Airport",
+    "city": "The Granites, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "GTT",
+    "name": "Georgetown Airport",
+    "city": "Georgetown, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GTW",
+    "name": "Holešov Airport",
+    "city": "Zlín",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "GTY",
+    "name": "Gettysburg Regional Airport (FAA: W05)",
+    "city": "Gettysburg, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "GTZ",
+    "name": "Kirawira B Airstrip",
+    "city": "Grumeti",
+    "country": "Tanzania"
+  },
+  {
+    "code": "GUA",
+    "name": "La Aurora International Airport",
+    "city": "Guatemala City",
+    "country": "Guatemala"
+  },
+  {
+    "code": "GUB",
+    "name": "Guerrero Negro Airport",
+    "city": "Guerrero Negro, Baja California Sur",
+    "country": "2 Mexico"
+  },
+  {
+    "code": "GUC",
+    "name": "Gunnison–Crested Butte Regional Airport",
+    "city": "Gunnison, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "GUD",
+    "name": "Goundam Airport",
+    "city": "Goundam",
+    "country": "Mali"
+  },
+  {
+    "code": "GUE",
+    "name": "Guriaso Airport",
+    "city": "Guriaso",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GUF",
+    "name": "Jack Edwards Airport (FAA: JKA)",
+    "city": "Gulf Shores, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "GUG",
+    "name": "Guari Airport",
+    "city": "Guari",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GUH",
+    "name": "Gunnedah Airport",
+    "city": "Gunnedah, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GUI",
+    "name": "Güiria Airport",
+    "city": "Güiria",
+    "country": "Venezuela"
+  },
+  {
+    "code": "GUJ",
+    "name": "Guaratinguetá Airport",
+    "city": "Guaratinguetá, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "GUL",
+    "name": "Goulburn Airport",
+    "city": "Goulburn, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "GUM",
+    "name": "Antonio B. Won Pat International Airport (Guam Int'l)",
+    "city": "Hagåtña",
+    "country": "Guam"
+  },
+  {
+    "code": "GUP",
+    "name": "Gallup Municipal Airport",
+    "city": "Gallup, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "GUQ",
+    "name": "Guanare Airport",
+    "city": "Guanare",
+    "country": "Venezuela"
+  },
+  {
+    "code": "GUR",
+    "name": "Gurney Airport",
+    "city": "Alotau",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GUS",
+    "name": "Grissom Air Reserve Base",
+    "city": "Peru, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "GUT",
+    "name": "RAF Gütersloh",
+    "city": "Gütersloh, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "GUU",
+    "name": "Grundarfjörður Airport",
+    "city": "Grundarfjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "GUV",
+    "name": "Mougulu Airport",
+    "city": "Mougulu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GUW",
+    "name": "Atyrau Airport",
+    "city": "Atyrau",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "GUX",
+    "name": "Guna Airport",
+    "city": "Guna, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "GUY",
+    "name": "Guymon Municipal Airport",
+    "city": "Guymon, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "GUZ",
+    "name": "Guarapari Airport",
+    "city": "Guarapari, Espírito Santo",
+    "country": "Brazil"
+  },
+  {
+    "code": "GVA",
+    "name": "Geneva Airport",
+    "city": "Geneva",
+    "country": "Switzerland"
+  },
+  {
+    "code": "GVE",
+    "name": "Gordonsville Municipal Airport",
+    "city": "Gordonsville, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "GVI",
+    "name": "Green River Airport",
+    "city": "Green River",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GVL",
+    "name": "Lee Gilmer Memorial Airport",
+    "city": "Gainesville, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "GVN",
+    "name": "Sovetskaya Gavan Airport",
+    "city": "Sovetskaya Gavan, Khabarovsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "GVP",
+    "name": "Greenvale Airport",
+    "city": "Greenvale, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GVR",
+    "name": "Coronel Altino Machado de Oliveira Airport",
+    "city": "Governador Valadares, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "GVT",
+    "name": "Majors Airport",
+    "city": "Greenville, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "GVX",
+    "name": "Gävle-Sandviken Airport",
+    "city": "Gävle",
+    "country": "Sweden"
+  },
+  {
+    "code": "GWA",
+    "name": "Gwa Airport",
+    "city": "Gwa",
+    "country": "Myanmar"
+  },
+  {
+    "code": "GWD",
+    "name": "Gwadar International Airport",
+    "city": "Gwadar",
+    "country": "Pakistan"
+  },
+  {
+    "code": "GWE",
+    "name": "Thornhill Air Base",
+    "city": "Gweru",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "GWL",
+    "name": "Rajmata Vijaya Raje Scindia Airport (Gwalior Airport)",
+    "city": "Gwalior, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "GWN",
+    "name": "Gnarowein Airport",
+    "city": "Gnarowein",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "GWO",
+    "name": "Greenwood–Leflore Airport",
+    "city": "Greenwood, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "GWS",
+    "name": "Glenwood Springs Municipal Airport",
+    "city": "Glenwood Springs, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "GWT",
+    "name": "Sylt Airport (Westerland Airport)",
+    "city": "Sylt, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "GWV",
+    "name": "Glendale Fokker Field (FAA: WV66)",
+    "city": "Glen Dale, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "GWY",
+    "name": "Galway Airport",
+    "city": "Galway",
+    "country": "Ireland"
+  },
+  {
+    "code": "GXA",
+    "name": "Beringin Airport",
+    "city": "North Barito, Central Kalimantan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "GXF",
+    "name": "Sayun Airport",
+    "city": "Sayun",
+    "country": "Yemen"
+  },
+  {
+    "code": "GXG",
+    "name": "Negage Airport",
+    "city": "Negage",
+    "country": "Angola"
+  },
+  {
+    "code": "GXH",
+    "name": "Gannan Xiahe Airport",
+    "city": "Xiahe, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "GXQ",
+    "name": "Teniente Vidal Airfield",
+    "city": "Coyhaique",
+    "country": "Chile"
+  },
+  {
+    "code": "GXX",
+    "name": "Yagoua Airport",
+    "city": "Yagoua",
+    "country": "Cameroon"
+  },
+  {
+    "code": "GXY",
+    "name": "Greeley–Weld County Airport",
+    "city": "Greeley, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "GYA",
+    "name": "Guayaramerín Airport",
+    "city": "Guayaramerín",
+    "country": "Bolivia"
+  },
+  {
+    "code": "GYD",
+    "name": "Heydar Aliyev International Airport",
+    "city": "Baku",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "GYE",
+    "name": "José Joaquín de Olmedo International Airport",
+    "city": "Guayaquil",
+    "country": "Ecuador"
+  },
+  {
+    "code": "GYG",
+    "name": "Magan Airport",
+    "city": "Magan, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "GYI",
+    "name": "Gisenyi Airport",
+    "city": "Gisenyi",
+    "country": "Rwanda"
+  },
+  {
+    "code": "GYL",
+    "name": "Argyle Airport",
+    "city": "Argyle, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "GYM",
+    "name": "General José María Yáñez International Airport",
+    "city": "Guaymas, Sonora",
+    "country": "Mexico"
+  },
+  {
+    "code": "GYN",
+    "name": "Santa Genoveva Airport",
+    "city": "Goiânia, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "GYP",
+    "name": "Gympie Airport",
+    "city": "Gympie, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "GYR",
+    "name": "Phoenix Goodyear Airport",
+    "city": "Goodyear, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "GYS",
+    "name": "Guangyuan Panlong Airport",
+    "city": "Guangyuan, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "GYU",
+    "name": "Guyuan Liupanshan Airport",
+    "city": "Guyuan, Ningxia",
+    "country": "China"
+  },
+  {
+    "code": "GZA",
+    "name": "Yasser Arafat International Airport",
+    "city": "Gaza",
+    "country": "Palestine"
+  },
+  {
+    "code": "GZG",
+    "name": "Garze Gesar Airport",
+    "city": "Garzê County, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "GZI",
+    "name": "Ghazni Airport",
+    "city": "Ghazni",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "GZO",
+    "name": "Nusatupe Airport",
+    "city": "Gizo, Western Province",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "GZP",
+    "name": "Gazipaşa–Alanya Airport",
+    "city": "Gazipaşa",
+    "country": "Turkey"
+  },
+  {
+    "code": "GZT",
+    "name": "Gaziantep Oğuzeli International Airport",
+    "city": "Gaziantep",
+    "country": "Turkey"
+  },
+  {
+    "code": "GZW",
+    "name": "Qazvin Airport",
+    "city": "Qazvin",
+    "country": "Iran"
+  }
+]

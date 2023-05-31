@@ -1,0 +1,20 @@
+﻿POST https://localhost:7055/sales/reservations/b0d0eaf3-d3f8-4aac-9106-67cc5290cbfe/payments
+accept: */*
+Content-Type: application/json
+X-UserId: 6db85eb9-ffa5-42c2-b20c-0da756c89032
+X-CashierId: 6bb4f4a3-531c-4154-bfe2-67a9e65d8a1f
+
+{
+  "reservationId": "5afe97da-57f2-4c5f-aa64-fbc42acb91dc",
+  "paymentsToSetup": [
+    {
+      "paymentId": "fd44f52e-689b-4660-bce8-5e9ab5fbbbc1",
+      "payerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "amount": {
+        "amount": 4600,
+        "currency": 1
+      },
+      "dueDate": "2023-06-10T20:45:58.929Z"
+    }
+  ]
+}

@@ -1,0 +1,2732 @@
+﻿[
+  {
+    "code": "YAA",
+    "name": "Anahim Lake Airport (TC: CAJ4)",
+    "city": "Anahim Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YAB",
+    "name": "Arctic Bay Airport (TC: CJX7)",
+    "city": "Arctic Bay, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YAC",
+    "name": "Cat Lake Airport",
+    "city": "Cat Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YAD",
+    "name": "Moose Lake Airport (TC: CJB4)",
+    "city": "Moose Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YAG",
+    "name": "Fort Frances Municipal Airport",
+    "city": "Fort Frances, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YAH",
+    "name": "La Grande-4 Airport",
+    "city": "La Grande-4, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YAI",
+    "name": "General Bernardo O'Higgins Airport",
+    "city": "Chillán",
+    "country": "Chile"
+  },
+  {
+    "code": "YAJ",
+    "name": "Lyall Harbour Seaplane Base",
+    "city": "Saturna Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YAK",
+    "name": "Yakutat Airport",
+    "city": "Yakutat, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "YAL",
+    "name": "Alert Bay Airport",
+    "city": "Alert Bay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YAM",
+    "name": "Sault Ste. Marie Airport",
+    "city": "Sault Ste. Marie, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YAN",
+    "name": "Yangambi Airport",
+    "city": "Yangambi",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "YAO",
+    "name": "Yaoundé Airport",
+    "city": "Yaoundé",
+    "country": "Cameroon"
+  },
+  {
+    "code": "YAP",
+    "name": "Yap International Airport (FAA: T11)",
+    "city": "Yap",
+    "country": "Federated States of Micronesia"
+  },
+  {
+    "code": "YAQ",
+    "name": "Maple Bay Seaplane Base",
+    "city": "Maple Bay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YAR",
+    "name": "La Grande-3 Airport",
+    "city": "La Grande-3, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YAS",
+    "name": "Yasawa Island Airport",
+    "city": "Yasawa",
+    "country": "Fiji"
+  },
+  {
+    "code": "YAT",
+    "name": "Attawapiskat Airport",
+    "city": "Attawapiskat, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YAU",
+    "name": "Kattiniq/Donaldson Airport (TC: CTP9)",
+    "city": "Raglan Mine, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YAV",
+    "name": "Mayne Island Water Aerodrome (Miner's Bay Seaplane Base) (TC: CAW7)",
+    "city": "Mayne Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YAX",
+    "name": "Angling Lake/Wapekeka Airport (TC: CKB6)",
+    "city": "Wapekeka, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YAY",
+    "name": "St. Anthony Airport",
+    "city": "St. Anthony, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YAZ",
+    "name": "Tofino/Long Beach Airport",
+    "city": "Tofino, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBA",
+    "name": "Banff Airport",
+    "city": "Banff, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YBB",
+    "name": "Kugaaruk Airport",
+    "city": "Kugaaruk, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YBC",
+    "name": "Baie-Comeau Airport",
+    "city": "Baie-Comeau, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YBE",
+    "name": "Uranium City Airport",
+    "city": "Uranium City, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YBF",
+    "name": "Bamfield Water Aerodrome (TC: CAE9)",
+    "city": "Bamfield, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBG",
+    "name": "Canadian Forces Base Bagotville",
+    "city": "La Baie (Bagotville), Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YBH",
+    "name": "Bull Harbour Waterdrome",
+    "city": "Bull Harbour, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBI",
+    "name": "Black Tickle Airport (TC: CCE4)",
+    "city": "Black Tickle, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YBJ",
+    "name": "Baie-Johan-Beetz Seaplane Base",
+    "city": "Baie-Johan-Beetz, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YBK",
+    "name": "Baker Lake Airport",
+    "city": "Baker Lake, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YBL",
+    "name": "Campbell River Airport",
+    "city": "Campbell River, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBO",
+    "name": "Bob Quinn Lake Airport (TC: CBW4)",
+    "city": "Bob Quinn Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBP",
+    "name": "Yibin Wuliangye Airport",
+    "city": "Yibin, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "YBQ",
+    "name": "Telegraph Harbour Seaplane Base",
+    "city": "Thetis Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBR",
+    "name": "Brandon Municipal Airport (McGill Field)",
+    "city": "Brandon, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YBS",
+    "name": "Opapimiskan Lake Airport (TC: CKM8)",
+    "city": "Opapimiskan Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YBT",
+    "name": "Brochet Airport",
+    "city": "Brochet, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YBV",
+    "name": "Berens River Airport",
+    "city": "Berens River, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YBW",
+    "name": "Bedwell Harbour Water Aerodrome (TC: CAB3)",
+    "city": "Bedwell Harbour, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YBX",
+    "name": "Lourdes-de-Blanc-Sablon Airport",
+    "city": "Blanc-Sablon, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YBY",
+    "name": "Bonnyville Airport",
+    "city": "Bonnyville, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YCA",
+    "name": "Courtenay Airpark (TC: CAH3)",
+    "city": "Courtenay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YCB",
+    "name": "Cambridge Bay Airport",
+    "city": "Cambridge Bay, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YCC",
+    "name": "Cornwall Regional Airport",
+    "city": "Cornwall, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YCD",
+    "name": "Nanaimo Airport",
+    "city": "Nanaimo, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YCE",
+    "name": "Centralia/James T. Field Memorial Aerodrome",
+    "city": "Centralia, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YCF",
+    "name": "Cortes Island Aerodrome (TC: CCI9)",
+    "city": "Cortes Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YCG",
+    "name": "West Kootenay Regional Airport (Castlegar Airport)",
+    "city": "Castlegar, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YCH",
+    "name": "Miramichi Airport",
+    "city": "Miramichi, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "YCK",
+    "name": "Colville Lake/Tommy Kochon Aerodrome",
+    "city": "Colville Lake, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YCL",
+    "name": "Charlo Airport",
+    "city": "Charlo, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "YCM",
+    "name": "St. Catharines/Niagara District Airport",
+    "city": "St. Catharines, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YCN",
+    "name": "Cochrane Aerodrome",
+    "city": "Cochrane, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YCO",
+    "name": "Kugluktuk Airport",
+    "city": "Kugluktuk, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YCQ",
+    "name": "Chetwynd Airport",
+    "city": "Chetwynd, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YCR",
+    "name": "Cross Lake (Charlie Sinclair Memorial) Airport",
+    "city": "Cross Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YCS",
+    "name": "Chesterfield Inlet Airport",
+    "city": "Chesterfield Inlet, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YCT",
+    "name": "Coronation Airport",
+    "city": "Coronation, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YCU",
+    "name": "Yuncheng Guangong Airport",
+    "city": "Yuncheng, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "YCW",
+    "name": "Chilliwack Airport",
+    "city": "Chilliwack, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YCY",
+    "name": "Clyde River Airport",
+    "city": "Clyde River, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YCZ",
+    "name": "Fairmont Hot Springs Airport",
+    "city": "Fairmont Hot Springs, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YDA",
+    "name": "Dawson City Airport",
+    "city": "Dawson City, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YDB",
+    "name": "Burwash Airport",
+    "city": "Burwash Landing, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YDC",
+    "name": "Drayton Valley Industrial Airport (TC: CER3)",
+    "city": "Drayton Valley, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YDE",
+    "name": "Paradise River Airport (TC: CDF4)",
+    "city": "Paradise River, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YDF",
+    "name": "Deer Lake Regional Airport",
+    "city": "Deer Lake, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YDG",
+    "name": "Digby/Annapolis Regional Airport",
+    "city": "Digby, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YDJ",
+    "name": "Hatchet Lake Airport (TC: CJL2)",
+    "city": "Hatchet Lake, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YDL",
+    "name": "Dease Lake Airport",
+    "city": "Dease Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YDN",
+    "name": "Lt. Col W.G. (Billy) Barker VC Airport",
+    "city": "Dauphin, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YDO",
+    "name": "Dolbeau-Saint-Félicien Airport",
+    "city": "Dolbeau-Mistassini, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YDP",
+    "name": "Nain Airport",
+    "city": "Nain, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YDQ",
+    "name": "Dawson Creek Airport",
+    "city": "Dawson Creek, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YDT",
+    "name": "Boundary Bay Airport",
+    "city": "Vancouver, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YDU",
+    "name": "Kasba Lake Airport (TC: CJL8)",
+    "city": "Kasba Lake, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YDV",
+    "name": "Bloodvein River Airport",
+    "city": "Bloodvein, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YDW",
+    "name": "Obre Lake/North of Sixty Airport (TC: CKV4)",
+    "city": "Obre Lake, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YEA",
+    "name": "metropolitan area1",
+    "city": "Edmonton, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YEB",
+    "name": "Bar River Airport (TC: CPF2)",
+    "city": "Bar River, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YEC",
+    "name": "Yecheon Air Base",
+    "city": "Yecheon",
+    "country": "South Korea"
+  },
+  {
+    "code": "YEG",
+    "name": "Edmonton International Airport",
+    "city": "Edmonton, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YEI",
+    "name": "Yenişehir Airport",
+    "city": "Bursa",
+    "country": "Turkey"
+  },
+  {
+    "code": "YEK",
+    "name": "Arviat Airport",
+    "city": "Arviat, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YEL",
+    "name": "Elliot Lake Municipal Airport",
+    "city": "Elliot Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YEM",
+    "name": "Manitowaning/Manitoulin East Municipal Airport",
+    "city": "Manitowaning, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YEN",
+    "name": "Estevan Regional Aerodrome",
+    "city": "Estevan, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YEO",
+    "name": "Royal Naval Air Station Yeovilton",
+    "city": "Yeovilton, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "YEQ",
+    "name": "Yankisa Airport",
+    "city": "Yankisa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "YER",
+    "name": "Fort Severn Airport",
+    "city": "Fort Severn, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YES",
+    "name": "Yasuj Airport",
+    "city": "Yasuj (Yasouj)",
+    "country": "Iran"
+  },
+  {
+    "code": "YET",
+    "name": "Edson Airport",
+    "city": "Edson, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YEU",
+    "name": "Eureka Aerodrome",
+    "city": "Eureka, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YEV",
+    "name": "Inuvik (Mike Zubko) Airport",
+    "city": "Inuvik, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YEY",
+    "name": "Amos/Magny Airport",
+    "city": "Amos, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YFA",
+    "name": "Fort Albany Airport",
+    "city": "Fort Albany, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YFB",
+    "name": "Iqaluit Airport",
+    "city": "Iqaluit, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YFC",
+    "name": "Fredericton International Airport",
+    "city": "Fredericton, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "YFE",
+    "name": "Forestville Airport",
+    "city": "Forestville, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YFG",
+    "name": "Fontanges Airport (TC: CTU2)",
+    "city": "Fontanges, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YFH",
+    "name": "Fort Hope Airport",
+    "city": "Eabametoong (Fort Hope), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YFI",
+    "name": "Fort MacKay/Firebag Aerodrome (TC: CFG6)",
+    "city": "Fort McKay, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YFJ",
+    "name": "Wekweètì Airport (Snare Lake Airport) (TC: CFJ7)",
+    "city": "Wekweeti, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YFL",
+    "name": "Fort Reliance Water Aerodrome (CJN8)",
+    "city": "Fort Reliance, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YFO",
+    "name": "Flin Flon Airport",
+    "city": "Flin Flon, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YFR",
+    "name": "Fort Resolution Airport",
+    "city": "Fort Resolution, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YFS",
+    "name": "Fort Simpson Airport",
+    "city": "Fort Simpson, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YFT",
+    "name": "Taipa Ferry Terminal",
+    "city": "Taipa",
+    "country": "Macau"
+  },
+  {
+    "code": "YFX",
+    "name": "St. Lewis (Fox Harbour) Airport (TC: CCK4)",
+    "city": "St. Lewis, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YGB",
+    "name": "Texada/Gillies Bay Airport",
+    "city": "Gillies Bay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YGC",
+    "name": "Grande Cache Airport (TC: CEQ5)",
+    "city": "Grande Cache, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YGE",
+    "name": "Gorge Harbour Water Aerodrome",
+    "city": "Gorge Harbour, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YGG",
+    "name": "Ganges Water Aerodrome (TC: CAX6)",
+    "city": "Ganges, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YGH",
+    "name": "Fort Good Hope Airport",
+    "city": "Fort Good Hope, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YGJ",
+    "name": "Miho–Yonago Airport",
+    "city": "Yonago, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "YGK",
+    "name": "Kingston/Norman Rogers Airport",
+    "city": "Kingston, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YGL",
+    "name": "La Grande Rivière Airport",
+    "city": "Radisson, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YGM",
+    "name": "Gimli Industrial Park Airport",
+    "city": "Gimli, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YGN",
+    "name": "Greenway Sound Water Aerodrome",
+    "city": "Greenway Sound, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YGO",
+    "name": "Gods Lake Narrows Airport",
+    "city": "Gods Lake Narrows, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YGP",
+    "name": "Michel-Pouliot Gaspé Airport",
+    "city": "Gaspé, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YGQ",
+    "name": "Geraldton (Greenstone Regional) Airport",
+    "city": "Greenstone (Geraldton), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YGR",
+    "name": "Îles-de-la-Madeleine Airport",
+    "city": "Les Îles-de-la-Madeleine, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YGT",
+    "name": "Igloolik Airport",
+    "city": "Igloolik, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YGV",
+    "name": "Havre Saint-Pierre Airport",
+    "city": "Havre-Saint-Pierre, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YGW",
+    "name": "Kuujjuarapik Airport",
+    "city": "Kuujjuarapik, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YGX",
+    "name": "Gillam Airport",
+    "city": "Gillam, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YGZ",
+    "name": "Grise Fiord Airport",
+    "city": "Grise Fiord, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YHA",
+    "name": "Port Hope Simpson Airport (TC: CCP4)",
+    "city": "Port Hope Simpson, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YHB",
+    "name": "Hudson Bay Airport",
+    "city": "Hudson Bay, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YHC",
+    "name": "Hakai Passage Water Aerodrome",
+    "city": "Hakai Passage, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YHD",
+    "name": "Dryden Regional Airport",
+    "city": "Dryden, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YHE",
+    "name": "Hope Aerodrome",
+    "city": "Hope, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YHF",
+    "name": "Hearst (René Fontaine) Municipal Airport",
+    "city": "Hearst, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YHG",
+    "name": "Charlottetown Airport (TC: CCH4)",
+    "city": "Charlottetown, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YHH",
+    "name": "Campbell River Water Aerodrome (TC: CAE3)",
+    "city": "Campbell River, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YHI",
+    "name": "Ulukhaktok/Holman Airport",
+    "city": "Ulukhaktok, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YHK",
+    "name": "Gjoa Haven Airport",
+    "city": "Gjoa Haven, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YHM",
+    "name": "John C. Munro Hamilton International Airport",
+    "city": "Hamilton, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YHN",
+    "name": "Hornepayne Municipal Airport",
+    "city": "Hornepayne, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YHO",
+    "name": "Hopedale Airport",
+    "city": "Hopedale, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YHP",
+    "name": "Poplar Hill Airport",
+    "city": "Poplar Hill, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YHR",
+    "name": "Chevery Airport",
+    "city": "Chevery, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YHS",
+    "name": "Sechelt Aerodrome (TC: CAP3)",
+    "city": "Sechelt, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YHT",
+    "name": "Haines Junction Airport",
+    "city": "Haines Junction, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YHU",
+    "name": "Montréal/Saint-Hubert Airport",
+    "city": "Montreal, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YHY",
+    "name": "Hay River/Merlyn Carter Airport",
+    "city": "Hay River, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YHZ",
+    "name": "Halifax Stanfield International Airport",
+    "city": "Halifax, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YIA",
+    "name": "Yogyakarta International Airport",
+    "city": "Kulon Progo Regency, Special Region of Yogyakarta",
+    "country": "Indonesia"
+  },
+  {
+    "code": "YIB",
+    "name": "Atikokan Municipal Airport",
+    "city": "Atikokan, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YIC",
+    "name": "Yichun Mingyueshan Airport",
+    "city": "Yichun, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "YIE",
+    "name": "Arxan Yi'ershi Airport",
+    "city": "Arxan (Aershan), Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "YIF",
+    "name": "Saint-Augustin Airport",
+    "city": "Saint-Augustin / Pakuashipi, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YIG",
+    "name": "Big Bay Water Aerodrome (TC: CAF6)",
+    "city": "Stuart Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YIH",
+    "name": "Yichang Sanxia Airport",
+    "city": "Yichang, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "YIK",
+    "name": "Ivujivik Airport",
+    "city": "Ivujivik, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YIN",
+    "name": "Yining Airport",
+    "city": "Yining (Ghulja), Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "YIO",
+    "name": "Pond Inlet Airport",
+    "city": "Pond Inlet, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YIP",
+    "name": "Willow Run Airport",
+    "city": "Detroit, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "YIV",
+    "name": "Island Lake Airport (Garden Hill Airport)",
+    "city": "Island Lake / Garden Hill, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YIW",
+    "name": "Yiwu Airport",
+    "city": "Yiwu, Zhejiang",
+    "country": "China"
+  },
+  {
+    "code": "YJA",
+    "name": "Jasper Airport",
+    "city": "Jasper, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YJF",
+    "name": "Fort Liard Airport",
+    "city": "Fort Liard, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YJN",
+    "name": "Saint-Jean Airport",
+    "city": "Saint-Jean-sur-Richelieu, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YJP",
+    "name": "Hinton/Jasper-Hinton Airport (TC: CEC4)",
+    "city": "Hinton, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YJS",
+    "name": "Samjiyon Airport",
+    "city": "Samjiyon",
+    "country": "North Korea"
+  },
+  {
+    "code": "YJT",
+    "name": "Stephenville International Airport",
+    "city": "Stephenville, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YKA",
+    "name": "Kamloops Airport",
+    "city": "Kamloops, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YKC",
+    "name": "Collins Bay Airport",
+    "city": "Collins Bay, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YKD",
+    "name": "Kincardine Municipal Airport",
+    "city": "Kincardine, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YKE",
+    "name": "Knee Lake Airport (TC: CJT3)",
+    "city": "Knee Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YKF",
+    "name": "Region of Waterloo International Airport",
+    "city": "Kitchener / Cambridge / Waterloo, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YKG",
+    "name": "Kangirsuk Airport",
+    "city": "Kangirsuk, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YKH",
+    "name": "Yingkou Lanqi Airport",
+    "city": "Yingkou, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "YKJ",
+    "name": "Key Lake Airport",
+    "city": "Key Lake, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YKK",
+    "name": "Kitkatla Water Aerodrome (TC: CAP7)",
+    "city": "Kitkatla, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YKL",
+    "name": "Schefferville Airport",
+    "city": "Schefferville, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YKM",
+    "name": "Yakima Air Terminal (McAllister Field)",
+    "city": "Yakima, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "YKN",
+    "name": "Chan Gurney Municipal Airport",
+    "city": "Yankton, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "YKO",
+    "name": "Hakkari Yüksekova Airport",
+    "city": "Hakkâri / Yüksekova",
+    "country": "Turkey"
+  },
+  {
+    "code": "YKQ",
+    "name": "Waskaganish Airport",
+    "city": "Waskaganish, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YKS",
+    "name": "Yakutsk Airport",
+    "city": "Yakutsk, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "YKT",
+    "name": "Klemtu Water Aerodrome",
+    "city": "Klemtu, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YKU",
+    "name": "Chisasibi Airport (TC: CSU2)",
+    "city": "Chisasibi, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YKX",
+    "name": "Kirkland Lake Airport",
+    "city": "Kirkland Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YKY",
+    "name": "Kindersley Regional Airport",
+    "city": "Kindersley, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YKZ",
+    "name": "Buttonville Municipal Airport",
+    "city": "Toronto, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YLB",
+    "name": "Lac La Biche Airport",
+    "city": "Lac La Biche, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YLC",
+    "name": "Kimmirut Airport",
+    "city": "Kimmirut, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YLD",
+    "name": "Chapleau Airport",
+    "city": "Chapleau, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YLE",
+    "name": "Whatì Airport (TC: CEM3)",
+    "city": "Whatì, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YLG",
+    "name": "Yalgoo Airport",
+    "city": "Yalgoo, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "YLH",
+    "name": "Lansdowne House Airport",
+    "city": "Neskantaga (Lansdowne House Indian Band), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YLI",
+    "name": "Ylivieska Airfield",
+    "city": "Ylivieska",
+    "country": "Finland"
+  },
+  {
+    "code": "YLJ",
+    "name": "Meadow Lake Airport",
+    "city": "Meadow Lake, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YLK",
+    "name": "Lake Simcoe Regional Airport",
+    "city": "Barrie / Orillia, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YLL",
+    "name": "Lloydminster Airport",
+    "city": "Lloydminster, Alberta/Saskatchewan",
+    "country": "2 Canada"
+  },
+  {
+    "code": "YLM",
+    "name": "Clinton Creek Airport",
+    "city": "Clinton Creek, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YLN",
+    "name": "Yilan Airport",
+    "city": "Yilan, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "YLP",
+    "name": "Mingan Airport",
+    "city": "Mingan, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YLQ",
+    "name": "La Tuque Airport",
+    "city": "La Tuque, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YLR",
+    "name": "Leaf Rapids Airport",
+    "city": "Leaf Rapids, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YLS",
+    "name": "Lebel-sur-Quévillon Airport (TC: CSH4)",
+    "city": "Lebel-sur-Quévillon, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YLT",
+    "name": "Alert Airport",
+    "city": "Alert, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YLV",
+    "name": "Yevlakh Airport",
+    "city": "Yevlakh",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "YLW",
+    "name": "Kelowna International Airport",
+    "city": "Kelowna, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YLX",
+    "name": "Yulin Fumian Airport",
+    "city": "Yulin, Guangxi",
+    "country": "China"
+  },
+  {
+    "code": "YLY",
+    "name": "Langley Regional Airport",
+    "city": "Langley, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YMA",
+    "name": "Mayo Airport",
+    "city": "Mayo, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YMB",
+    "name": "Merritt Airport (TC: CAD5)",
+    "city": "Merritt, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YMD",
+    "name": "Mould Bay Airport",
+    "city": "Prince Patrick Island, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YME",
+    "name": "Matane Airport",
+    "city": "Matane, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YMF",
+    "name": "Montague Harbour Water Aerodrome",
+    "city": "Galiano Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YMG",
+    "name": "Manitouwadge Airport",
+    "city": "Manitouwadge, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YMH",
+    "name": "Mary's Harbour Airport",
+    "city": "Mary's Harbour, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YMJ",
+    "name": "CFB Moose Jaw (C.M. McEwen Airport)",
+    "city": "Moose Jaw, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YMK",
+    "name": "Mys-Kamenny Airport",
+    "city": "Mys-Kamenny, Yamalo-Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "YML",
+    "name": "Charlevoix Airport",
+    "city": "La Malbaie, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YMM",
+    "name": "Fort McMurray International Airport",
+    "city": "Fort McMurray, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YMN",
+    "name": "Makkovik Airport",
+    "city": "Makkovik, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YMO",
+    "name": "Moosonee Airport",
+    "city": "Moosonee, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YMP",
+    "name": "Port McNeill Airport (TC: CAT5)",
+    "city": "Port McNeill, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YMQ",
+    "name": "metropolitan area3",
+    "city": "Montreal, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YMS",
+    "name": "Moisés Benzaquén Rengifo Airport",
+    "city": "Yurimaguas",
+    "country": "Peru"
+  },
+  {
+    "code": "YMT",
+    "name": "Chibougamau/Chapais Airport",
+    "city": "Chibougamau, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YMU",
+    "name": "Mansons Landing Water Aerodrome (TC: CAV7)",
+    "city": "Mansons Landing, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YMV",
+    "name": "Mary River Aerodrome (TC: CMR2)",
+    "city": "Mary River, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YMW",
+    "name": "Maniwaki Airport",
+    "city": "Maniwaki, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YMX",
+    "name": "Montréal–Mirabel International Airport",
+    "city": "Montreal, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YNA",
+    "name": "Natashquan Airport",
+    "city": "Natashquan, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YNB",
+    "name": "Yanbu Airport (Yenbo Airport)",
+    "city": "Yanbu al Bahr (Yenbo)",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "YNC",
+    "name": "Wemindji Airport",
+    "city": "Wemindji, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YND",
+    "name": "Gatineau-Ottawa Executive Airport",
+    "city": "Gatineau / Ottawa (ON), Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YNE",
+    "name": "Norway House Airport",
+    "city": "Norway House, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YNG",
+    "name": "Youngstown–Warren Regional Airport",
+    "city": "Youngstown / Warren, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "YNH",
+    "name": "Hudson's Hope Airport",
+    "city": "Hudson's Hope, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YNJ",
+    "name": "Yanji Chaoyangchuan Airport",
+    "city": "Yanji, Jilin",
+    "country": "China"
+  },
+  {
+    "code": "YNL",
+    "name": "Points North Landing Airport",
+    "city": "Points North Landing, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YNM",
+    "name": "Matagami Airport",
+    "city": "Matagami, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YNN",
+    "name": "Yandicoogina Airport",
+    "city": "Yandicoogina, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "YNO",
+    "name": "North Spirit Lake Airport (TC: CKQ3)",
+    "city": "North Spirit Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YNP",
+    "name": "Natuashish Airport (TC: CNH2)",
+    "city": "Natuashish, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YNS",
+    "name": "Nemiscau Airport",
+    "city": "Nemiscau, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YNT",
+    "name": "Yantai Penglai International Airport",
+    "city": "Yantai, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "YNX",
+    "name": "Snap Lake Airport (TC: CSK6)",
+    "city": "Snap Lake, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YNY",
+    "name": "Yangyang International Airport",
+    "city": "Yangyang",
+    "country": "South Korea"
+  },
+  {
+    "code": "YNZ",
+    "name": "Yancheng Nanyang International Airport",
+    "city": "Yancheng, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "YOA",
+    "name": "Ekati Airport",
+    "city": "Ekati, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YOC",
+    "name": "Old Crow Airport",
+    "city": "Old Crow, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YOD",
+    "name": "CFB Cold Lake (R.W. McNair Airport)",
+    "city": "Cold Lake, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YOE",
+    "name": "Donnelly Airport (TC: CFM4)",
+    "city": "Donnelly, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YOG",
+    "name": "Ogoki Post Airport",
+    "city": "Marten Falls (Ogoki), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YOH",
+    "name": "Oxford House Airport",
+    "city": "Oxford House, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YOJ",
+    "name": "High Level Airport",
+    "city": "High Level, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YOL",
+    "name": "Yola Airport",
+    "city": "Yola",
+    "country": "Nigeria"
+  },
+  {
+    "code": "YON",
+    "name": "Yongphulla Airport (Yonphula Airport)",
+    "city": "Trashigang",
+    "country": "Bhutan"
+  },
+  {
+    "code": "YOO",
+    "name": "Oshawa Airport",
+    "city": "Oshawa, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YOP",
+    "name": "Rainbow Lake Airport",
+    "city": "Rainbow Lake, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YOS",
+    "name": "Billy Bishop Regional Airport",
+    "city": "Owen Sound, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YOT",
+    "name": "Yotvata Airfield",
+    "city": "Yotvata",
+    "country": "Israel"
+  },
+  {
+    "code": "YOW",
+    "name": "Ottawa Macdonald–Cartier International Airport",
+    "city": "Ottawa, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YPA",
+    "name": "Prince Albert (Glass Field) Airport",
+    "city": "Prince Albert, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YPB",
+    "name": "Alberni Valley Regional Airport (TC: CBS8)",
+    "city": "Port Alberni, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YPC",
+    "name": "Nora Aliqatchialuk Ruben Airport",
+    "city": "Paulatuk, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YPD",
+    "name": "Parry Sound Area Municipal Airport (TC: CNK4)",
+    "city": "Parry Sound, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YPE",
+    "name": "Peace River Airport",
+    "city": "Peace River, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YPG",
+    "name": "Portage la Prairie/Southport Airport",
+    "city": "Portage la Prairie, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YPH",
+    "name": "Inukjuak Airport",
+    "city": "Inukjuak, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YPI",
+    "name": "Port Simpson Water Aerodrome (TC: CAN8)",
+    "city": "Lax Kw'alaams (Port Simpson), British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YPJ",
+    "name": "Aupaluk Airport",
+    "city": "Aupaluk, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YPL",
+    "name": "Pickle Lake Airport",
+    "city": "Pickle Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YPM",
+    "name": "Pikangikum Airport",
+    "city": "Pikangikum, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YPN",
+    "name": "Port-Menier Airport",
+    "city": "Port-Menier, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YPO",
+    "name": "Peawanuck Airport",
+    "city": "Peawanuck, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YPQ",
+    "name": "Peterborough Airport",
+    "city": "Peterborough, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YPR",
+    "name": "Prince Rupert Airport",
+    "city": "Prince Rupert, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YPS",
+    "name": "Port Hawkesbury Airport",
+    "city": "Port Hawkesbury, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YPT",
+    "name": "Pender Harbour Water Aerodrome (TC: CAG8)",
+    "city": "Pender Harbour, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YPW",
+    "name": "Powell River Airport",
+    "city": "Powell River, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YPX",
+    "name": "Puvirnituq Airport",
+    "city": "Puvirnituq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YPY",
+    "name": "Fort Chipewyan Airport",
+    "city": "Fort Chipewyan, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YPZ",
+    "name": "Burns Lake Airport",
+    "city": "Burns Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YQA",
+    "name": "Muskoka Airport",
+    "city": "Muskoka, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YQB",
+    "name": "Québec City Jean Lesage International Airport",
+    "city": "Quebec City, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YQC",
+    "name": "Quaqtaq Airport",
+    "city": "Quaqtaq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YQD",
+    "name": "The Pas Airport",
+    "city": "The Pas, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YQF",
+    "name": "Red Deer Regional Airport",
+    "city": "Red Deer, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YQG",
+    "name": "Windsor International Airport",
+    "city": "Windsor, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YQH",
+    "name": "Watson Lake Airport",
+    "city": "Watson Lake, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YQI",
+    "name": "Yarmouth Airport",
+    "city": "Yarmouth, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YQJ",
+    "name": "April Point Water Aerodrome",
+    "city": "Quadra Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YQK",
+    "name": "Kenora Airport",
+    "city": "Kenora, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YQL",
+    "name": "Lethbridge Airport",
+    "city": "Lethbridge, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YQM",
+    "name": "Greater Moncton International Airport",
+    "city": "Moncton, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "YQN",
+    "name": "Nakina Airport",
+    "city": "Greenstone (Nakina), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YQQ",
+    "name": "CFB Comox",
+    "city": "Comox, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YQR",
+    "name": "Regina International Airport",
+    "city": "Regina, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YQS",
+    "name": "St. Thomas Municipal Airport",
+    "city": "St. Thomas, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YQT",
+    "name": "Thunder Bay International Airport",
+    "city": "Thunder Bay, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YQU",
+    "name": "Grande Prairie Airport",
+    "city": "Grande Prairie, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YQV",
+    "name": "Yorkton Municipal Airport",
+    "city": "Yorkton, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YQW",
+    "name": "North Battleford Airport (Cameron McIntosh Airport)",
+    "city": "North Battleford, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YQX",
+    "name": "Gander International Airport / CFB Gander",
+    "city": "Gander, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YQY",
+    "name": "Sydney/J.A. Douglas McCurdy Airport",
+    "city": "Sydney, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YQZ",
+    "name": "Quesnel Airport",
+    "city": "Quesnel, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YRA",
+    "name": "Gamètì/Rae Lakes Airport",
+    "city": "Gamèti, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YRB",
+    "name": "Resolute Bay Airport",
+    "city": "Resolute, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YRC",
+    "name": "Refuge Cove Water Aerodrome",
+    "city": "Refuge Cove, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YRD",
+    "name": "Dean River Airport",
+    "city": "Dean River, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YRF",
+    "name": "Cartwright Airport",
+    "city": "Cartwright, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YRG",
+    "name": "Rigolet Airport (TC: CCZ2)",
+    "city": "Rigolet, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YRI",
+    "name": "Rivière-du-Loup Airport",
+    "city": "Rivière-du-Loup, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YRJ",
+    "name": "Roberval Airport",
+    "city": "Roberval, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YRL",
+    "name": "Red Lake Airport",
+    "city": "Red Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YRM",
+    "name": "Rocky Mountain House Airport",
+    "city": "Rocky Mountain House, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YRN",
+    "name": "Rivers Inlet Water Aerodrome (TC: CAU8)",
+    "city": "Rivers Inlet, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YRO",
+    "name": "Ottawa/Rockcliffe Airport",
+    "city": "Ottawa, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YRQ",
+    "name": "Trois-Rivières Airport",
+    "city": "Trois-Rivières, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YRR",
+    "name": "Stuart Island Airport",
+    "city": "Stuart Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YRS",
+    "name": "Red Sucker Lake Airport",
+    "city": "Red Sucker Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YRT",
+    "name": "Rankin Inlet Airport",
+    "city": "Rankin Inlet, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YRV",
+    "name": "Revelstoke Airport",
+    "city": "Revelstoke, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YSA",
+    "name": "Sable Island Aerodrome",
+    "city": "Sable Island, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YSB",
+    "name": "Sudbury Airport",
+    "city": "Greater Sudbury, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YSC",
+    "name": "Sherbrooke Airport",
+    "city": "Sherbrooke, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YSE",
+    "name": "Squamish Airport",
+    "city": "Squamish, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YSF",
+    "name": "Stony Rapids Airport",
+    "city": "Stony Rapids, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YSG",
+    "name": "Lutselk'e Airport",
+    "city": "Lutselk'e, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YSH",
+    "name": "Smiths Falls-Montague Airport",
+    "city": "Smiths Falls, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YSI",
+    "name": "Parry Sound/Frying Pan Island-Sans Souci Water Aerodrome (TC: CPS9)",
+    "city": "Fryingpan Island, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YSJ",
+    "name": "Saint John Airport",
+    "city": "Saint John, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "YSK",
+    "name": "Sanikiluaq Airport",
+    "city": "Sanikiluaq, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YSL",
+    "name": "Saint-Léonard Aerodrome",
+    "city": "Saint-Léonard, New Brunswick",
+    "country": "Canada"
+  },
+  {
+    "code": "YSM",
+    "name": "Fort Smith Airport",
+    "city": "Fort Smith, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YSN",
+    "name": "Salmon Arm Airport",
+    "city": "Salmon Arm, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YSO",
+    "name": "Postville Airport (TC: CCD4)",
+    "city": "Postville, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YSP",
+    "name": "Marathon Aerodrome",
+    "city": "Marathon, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YSQ",
+    "name": "Songyuan Chaganhu Airport",
+    "city": "Songyuan, Jilin",
+    "country": "China"
+  },
+  {
+    "code": "YST",
+    "name": "St. Theresa Point Airport",
+    "city": "St. Theresa Point, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YSU",
+    "name": "Summerside Airport",
+    "city": "Summerside, Prince Edward Island",
+    "country": "Canada"
+  },
+  {
+    "code": "YSX",
+    "name": "Bella Bella/Shearwater Water Aerodrome (TC: CAW8)",
+    "city": "Bella Bella, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YSY",
+    "name": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport",
+    "city": "Sachs Harbour, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YTA",
+    "name": "Pembroke Airport",
+    "city": "Pembroke, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YTB",
+    "name": "Hartley Bay Water Aerodrome (TC: CAY4)",
+    "city": "Hartley Bay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YTD",
+    "name": "Thicket Portage Airport",
+    "city": "Thicket Portage, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YTE",
+    "name": "Cape Dorset Airport",
+    "city": "Cape Dorset, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YTF",
+    "name": "Alma Airport",
+    "city": "Alma, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YTG",
+    "name": "Sullivan Bay Water Aerodrome (TC: CAV5)",
+    "city": "Sullivan Bay, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YTH",
+    "name": "Thompson Airport",
+    "city": "Thompson, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YTL",
+    "name": "Big Trout Lake Airport",
+    "city": "Kitchenuhmaykoosib Inninuwug (Big Trout Lake), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YTM",
+    "name": "Mont Tremblant International Airport",
+    "city": "Mont-Tremblant, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YTO",
+    "name": "metropolitan area4",
+    "city": "Toronto, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YTP",
+    "name": "Tofino Harbour Water Aerodrome (TC: CAB4)",
+    "city": "Tofino, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YTQ",
+    "name": "Tasiujaq Airport",
+    "city": "Tasiujaq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YTR",
+    "name": "CFB Trenton",
+    "city": "Trenton, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YTS",
+    "name": "Timmins/Victor M. Power Airport",
+    "city": "Timmins, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YTT",
+    "name": "Tisdale Airport (TC: CJY3)",
+    "city": "Tisdale, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YTU",
+    "name": "Tasu Water Aerodrome",
+    "city": "Tasu, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YTW",
+    "name": "Yutian Wanfang Airport",
+    "city": "Yutian, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "YTX",
+    "name": "Telegraph Creek Airport (TC: CBM5)",
+    "city": "Telegraph Creek, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YTY",
+    "name": "Yangzhou Taizhou Airport",
+    "city": "Yangzhou / Taizhou, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "YTZ",
+    "name": "Billy Bishop Toronto City Airport (Toronto Island Airport)",
+    "city": "Toronto, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YUA",
+    "name": "Yuanmou Air Base",
+    "city": "Yuanmou, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "YUB",
+    "name": "Tuktoyaktuk/James Gruben Airport",
+    "city": "Tuktoyaktuk, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YUD",
+    "name": "Umiujaq Airport",
+    "city": "Umiujaq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YUE",
+    "name": "Yuendumu Airport",
+    "city": "Yuendumu, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "YUL",
+    "name": "Montréal–Trudeau International Airport",
+    "city": "Montreal, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YUM",
+    "name": "Yuma International Airport / MCAS Yuma (FAA: NYL)",
+    "city": "Yuma, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "YUS",
+    "name": "Yushu Batang Airport",
+    "city": "Yushu City, Qinghai",
+    "country": "China"
+  },
+  {
+    "code": "YUT",
+    "name": "Repulse Bay Airport",
+    "city": "Naujaat (Repulse Bay), Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YUX",
+    "name": "Hall Beach Airport",
+    "city": "Hall Beach, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YUY",
+    "name": "Rouyn-Noranda Airport",
+    "city": "Rouyn-Noranda, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YVA",
+    "name": "Iconi Airport",
+    "city": "Moroni",
+    "country": "Comoros"
+  },
+  {
+    "code": "YVB",
+    "name": "Bonaventure Airport",
+    "city": "Bonaventure, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YVC",
+    "name": "La Ronge (Barber Field) Airport",
+    "city": "La Ronge, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YVD",
+    "name": "Yeva Airport",
+    "city": "Yeva",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "YVE",
+    "name": "Vernon Regional Airport",
+    "city": "Vernon, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YVG",
+    "name": "Vermilion Airport",
+    "city": "Vermilion, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YVM",
+    "name": "Qikiqtarjuaq Airport",
+    "city": "Qikiqtarjuaq, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YVN",
+    "name": "Cape Dyer Airport",
+    "city": "Cape Dyer, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YVO",
+    "name": "Val-d'Or Airport",
+    "city": "Val-d'Or, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YVP",
+    "name": "Kuujjuaq Airport",
+    "city": "Kuujjuaq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YVQ",
+    "name": "Norman Wells Airport",
+    "city": "Norman Wells, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YVR",
+    "name": "Vancouver International Airport",
+    "city": "Vancouver, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YVT",
+    "name": "Buffalo Narrows Airport",
+    "city": "Buffalo Narrows, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YVV",
+    "name": "Wiarton Airport",
+    "city": "Wiarton, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YVZ",
+    "name": "Deer Lake Airport",
+    "city": "Deer Lake, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YWA",
+    "name": "Petawawa Airport",
+    "city": "Petawawa, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YWB",
+    "name": "Kangiqsujuaq (Wakeham Bay) Airport",
+    "city": "Kangiqsujuaq, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YWG",
+    "name": "Winnipeg James Armstrong Richardson International Airport",
+    "city": "Winnipeg, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YWH",
+    "name": "Victoria Harbour Water Airport",
+    "city": "Victoria, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YWJ",
+    "name": "Déline Airport",
+    "city": "Deline, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YWK",
+    "name": "Wabush Airport",
+    "city": "Wabush, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YWL",
+    "name": "Williams Lake Airport",
+    "city": "Williams Lake, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YWM",
+    "name": "Williams Harbour Airport (TC: CCA6)",
+    "city": "William's Harbour, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YWP",
+    "name": "Webequie Airport",
+    "city": "Webequie, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YWQ",
+    "name": "Chutes-des-Passes/Lac Margane Water Aerodrome (TC: CTM3)",
+    "city": "Passes-Dangereuses (Chute-des-Passes), Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YWR",
+    "name": "White River Water Aerodrome (TC: CNJ8)",
+    "city": "White River, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YWS",
+    "name": "Whistler/Green Lake Water Aerodrome (TC: CAE5)",
+    "city": "Whistler, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YWY",
+    "name": "Wrigley Airport",
+    "city": "Wrigley, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YXC",
+    "name": "Cranbrook/Canadian Rockies International Airport",
+    "city": "Cranbrook, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YXD",
+    "name": "Edmonton City Centre (Blatchford Field) Airport",
+    "city": "Edmonton, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YXE",
+    "name": "Saskatoon John G. Diefenbaker International Airport",
+    "city": "Saskatoon, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YXH",
+    "name": "Medicine Hat Airport",
+    "city": "Medicine Hat, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YXJ",
+    "name": "Fort St. John Airport (North Peace Airport)",
+    "city": "Fort St. John, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YXK",
+    "name": "Rimouski Airport",
+    "city": "Rimouski, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YXL",
+    "name": "Sioux Lookout Airport",
+    "city": "Sioux Lookout, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YXN",
+    "name": "Whale Cove Airport",
+    "city": "Whale Cove, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YXP",
+    "name": "Pangnirtung Airport",
+    "city": "Pangnirtung, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YXQ",
+    "name": "Beaver Creek Airport",
+    "city": "Beaver Creek, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YXR",
+    "name": "Earlton (Timiskaming Regional) Airport",
+    "city": "Armstrong (Earlton), Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YXS",
+    "name": "Prince George Airport",
+    "city": "Prince George, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YXT",
+    "name": "Northwest Regional Airport",
+    "city": "Terrace, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YXU",
+    "name": "London International Airport",
+    "city": "London, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YXX",
+    "name": "Abbotsford International Airport",
+    "city": "Abbotsford, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YXY",
+    "name": "Erik Nielsen Whitehorse International Airport",
+    "city": "Whitehorse, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YXZ",
+    "name": "Wawa Airport",
+    "city": "Wawa, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YYA",
+    "name": "Yueyang Sanhe Airport",
+    "city": "Yueyang, Hunan",
+    "country": "China"
+  },
+  {
+    "code": "YYB",
+    "name": "North Bay/Jack Garland Airport",
+    "city": "North Bay, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YYC",
+    "name": "Calgary International Airport",
+    "city": "Calgary, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YYD",
+    "name": "Smithers Airport",
+    "city": "Smithers, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YYE",
+    "name": "Northern Rockies Regional Airport",
+    "city": "Fort Nelson, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YYF",
+    "name": "Penticton Regional Airport",
+    "city": "Penticton, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YYG",
+    "name": "Charlottetown Airport",
+    "city": "Charlottetown, Prince Edward Island",
+    "country": "Canada"
+  },
+  {
+    "code": "YYH",
+    "name": "Taloyoak Airport",
+    "city": "Taloyoak, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YYI",
+    "name": "Rivers Airport",
+    "city": "Rivers, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YYJ",
+    "name": "Victoria International Airport",
+    "city": "Victoria, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YYL",
+    "name": "Lynn Lake Airport",
+    "city": "Lynn Lake, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YYM",
+    "name": "Cowley Airport",
+    "city": "Cowley, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YYN",
+    "name": "Swift Current Airport",
+    "city": "Swift Current, Saskatchewan",
+    "country": "Canada"
+  },
+  {
+    "code": "YYQ",
+    "name": "Churchill Airport",
+    "city": "Churchill, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "YYR",
+    "name": "CFB Goose Bay",
+    "city": "Happy Valley-Goose Bay, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YYT",
+    "name": "St. John's International Airport",
+    "city": "St. John's, Newfoundland and Labrador",
+    "country": "Canada"
+  },
+  {
+    "code": "YYU",
+    "name": "Kapuskasing Airport",
+    "city": "Kapuskasing, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YYW",
+    "name": "Armstrong Airport",
+    "city": "Armstrong, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YYY",
+    "name": "Mont-Joli Airport",
+    "city": "Mont-Joli, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YYZ",
+    "name": "Toronto Pearson International Airport",
+    "city": "Toronto, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YZA",
+    "name": "Cache Creek Airport (Ashcroft Regional Airport)",
+    "city": "Cache Creek / Ashcroft, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YZE",
+    "name": "Gore Bay-Manitoulin Airport",
+    "city": "Gore Bay, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YZF",
+    "name": "Yellowknife Airport",
+    "city": "Yellowknife, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "YZG",
+    "name": "Salluit Airport",
+    "city": "Salluit, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YZH",
+    "name": "Slave Lake Airport",
+    "city": "Slave Lake, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YZP",
+    "name": "Sandspit Airport",
+    "city": "Sandspit, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YZR",
+    "name": "Sarnia Chris Hadfield Airport",
+    "city": "Sarnia, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "YZS",
+    "name": "Coral Harbour Airport",
+    "city": "Coral Harbour, Nunavut",
+    "country": "Canada"
+  },
+  {
+    "code": "YZT",
+    "name": "Port Hardy Airport",
+    "city": "Port Hardy, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "YZU",
+    "name": "Whitecourt Airport",
+    "city": "Whitecourt, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "YZV",
+    "name": "Sept-Îles Airport",
+    "city": "Sept-Îles, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "YZW",
+    "name": "Teslin Airport",
+    "city": "Teslin, Yukon",
+    "country": "Canada"
+  },
+  {
+    "code": "YZX",
+    "name": "CFB Greenwood",
+    "city": "Greenwood, Nova Scotia",
+    "country": "Canada"
+  },
+  {
+    "code": "YZY",
+    "name": "Zhangye Ganzhou Airport",
+    "city": "Zhangye, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "YZZ",
+    "name": "Trail Airport (TC: CAD4)",
+    "city": "Trail, British Columbia",
+    "country": "Canada"
+  }
+]

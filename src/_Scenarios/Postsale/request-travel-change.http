@@ -1,0 +1,10 @@
+POST https://localhost:7055/postsale/reservation-change-request
+accept: */*
+Content-Type: application/json
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de
+
+{
+  "reservationToChangeId": "13253422-8c99-4957-bac2-d502aecd02d4",
+  "changeRequestId": "3d6da0e2-be0e-460e-bcee-723c54f33374",
+  "newTravelDate": "2023-07-02"
+}

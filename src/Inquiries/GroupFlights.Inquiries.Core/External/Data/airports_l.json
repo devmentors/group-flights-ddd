@@ -1,0 +1,2786 @@
+﻿[
+  {
+    "code": "LAA",
+    "name": "Lamar Municipal Airport",
+    "city": "Lamar, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "LAB",
+    "name": "Lab Lab Airport",
+    "city": "Lab Lab",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LAC",
+    "name": "Layang-Layang Airport (Swallow Reef Airport)",
+    "city": "Layang-Layang Island, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LAD",
+    "name": "Quatro de Fevereiro Airport",
+    "city": "Luanda",
+    "country": "Angola"
+  },
+  {
+    "code": "LAE",
+    "name": "Lae Nadzab Airport",
+    "city": "Lae",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LAF",
+    "name": "Purdue University Airport",
+    "city": "Lafayette, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "LAH",
+    "name": "Oesman Sadik Airport",
+    "city": "Labuha",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LAI",
+    "name": "Lannion – Côte de Granit Airport",
+    "city": "Lannion, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "LAJ",
+    "name": "Antônio Correia Pinto de Macedo Airport",
+    "city": "Lages, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "LAK",
+    "name": "Aklavik/Freddie Carmichael Airport",
+    "city": "Aklavik, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "LAL",
+    "name": "Lakeland Linder International Airport",
+    "city": "Lakeland, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "LAM",
+    "name": "Los Alamos County Airport",
+    "city": "Los Alamos, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "LAN",
+    "name": "Capital Region International Airport",
+    "city": "Lansing, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "LAO",
+    "name": "Laoag International Airport",
+    "city": "Laoag",
+    "country": "Philippines"
+  },
+  {
+    "code": "LAP",
+    "name": "Manuel Márquez de León International Airport",
+    "city": "La Paz, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "LAQ",
+    "name": "Al Abraq International Airport",
+    "city": "Bayda",
+    "country": "Libya"
+  },
+  {
+    "code": "LAR",
+    "name": "Laramie Regional Airport",
+    "city": "Laramie, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "LAS",
+    "name": "Harry Reid International Airport",
+    "city": "Las Vegas, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "LAU",
+    "name": "Manda Airport",
+    "city": "Lamu",
+    "country": "Kenya"
+  },
+  {
+    "code": "LAW",
+    "name": "Lawton–Fort Sill Regional Airport",
+    "city": "Lawton, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "LAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "code": "LAY",
+    "name": "Ladysmith Airport",
+    "city": "Ladysmith",
+    "country": "South Africa"
+  },
+  {
+    "code": "LAZ",
+    "name": "Bom Jesus da Lapa Airport",
+    "city": "Bom Jesus da Lapa, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "LBA",
+    "name": "Leeds Bradford Airport",
+    "city": "Leeds / Bradford, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LBB",
+    "name": "Lubbock Preston Smith International Airport",
+    "city": "Lubbock, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "LBC",
+    "name": "Lübeck Airport",
+    "city": "Lübeck, Schleswig-Holstein",
+    "country": "Germany"
+  },
+  {
+    "code": "LBD",
+    "name": "Khujand Airport",
+    "city": "Khujand",
+    "country": "Tajikistan"
+  },
+  {
+    "code": "LBE",
+    "name": "Arnold Palmer Regional Airport",
+    "city": "Latrobe, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "LBF",
+    "name": "North Platte Regional Airport (Lee Bird Field)",
+    "city": "North Platte, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "LBG",
+    "name": "Paris–Le Bourget Airport",
+    "city": "Paris, Île-de-France",
+    "country": "France"
+  },
+  {
+    "code": "LBH",
+    "name": "Palm Beach Water Airport",
+    "city": "Palm Beach, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "LBI",
+    "name": "Le Sequestre Airport",
+    "city": "Albi, Midi-Pyrénées",
+    "country": "France"
+  },
+  {
+    "code": "LBJ",
+    "name": "Komodo Airport",
+    "city": "Labuan Bajo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LBK",
+    "name": "Liboi Airport",
+    "city": "Liboi",
+    "country": "Kenya"
+  },
+  {
+    "code": "LBL",
+    "name": "Liberal Mid-America Regional Airport",
+    "city": "Liberal, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "LBM",
+    "name": "Luabo Airport",
+    "city": "Luabo",
+    "country": "Mozambique"
+  },
+  {
+    "code": "LBN",
+    "name": "Lake Baringo Airport",
+    "city": "Lake Baringo",
+    "country": "Kenya"
+  },
+  {
+    "code": "LBO",
+    "name": "Lusambo Airport",
+    "city": "Lusambo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LBP",
+    "name": "Long Banga Airport",
+    "city": "Long Banga, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LBQ",
+    "name": "Lambaréné Airport",
+    "city": "Lambaréné",
+    "country": "Gabon"
+  },
+  {
+    "code": "LBR",
+    "name": "Lábrea Airport",
+    "city": "Lábrea, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "LBS",
+    "name": "Labasa Airport",
+    "city": "Labasa",
+    "country": "Fiji"
+  },
+  {
+    "code": "LBT",
+    "name": "Lumberton Municipal Airport",
+    "city": "Lumberton, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "LBU",
+    "name": "Labuan Airport",
+    "city": "Labuan",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LBV",
+    "name": "Libreville International Airport",
+    "city": "Libreville",
+    "country": "Gabon"
+  },
+  {
+    "code": "LBW",
+    "name": "Juvai Semaring Airport (Long Bawan Airport)",
+    "city": "Long Bawan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LBX",
+    "name": "Lubang Airport",
+    "city": "Lubang",
+    "country": "Philippines"
+  },
+  {
+    "code": "LBY",
+    "name": "La Baule-Escoublac Airport",
+    "city": "La Baule-Escoublac, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "LBZ",
+    "name": "Lucapa Airport",
+    "city": "Lucapa",
+    "country": "Angola"
+  },
+  {
+    "code": "LCA",
+    "name": "Larnaca International Airport",
+    "city": "Larnaca",
+    "country": "Cyprus"
+  },
+  {
+    "code": "LCB",
+    "name": "Pontes e Lacerda Airport",
+    "city": "Pontes e Lacerda, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "LCC",
+    "name": "Galatina Air Base",
+    "city": "Lecce, Apulia",
+    "country": "Italy"
+  },
+  {
+    "code": "LCD",
+    "name": "Louis Trichardt Airport",
+    "city": "Louis Trichardt",
+    "country": "South Africa"
+  },
+  {
+    "code": "LCE",
+    "name": "Golosón International Airport",
+    "city": "La Ceiba",
+    "country": "Honduras"
+  },
+  {
+    "code": "LCF",
+    "name": "Río Dulce Airport (Las Vegas Airport)",
+    "city": "Río Dulce",
+    "country": "Guatemala"
+  },
+  {
+    "code": "LCG",
+    "name": "A Coruña Airport",
+    "city": "A Coruña, Galicia",
+    "country": "Spain"
+  },
+  {
+    "code": "LCH",
+    "name": "Lake Charles Regional Airport",
+    "city": "Lake Charles, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "LCI",
+    "name": "Laconia Municipal Airport",
+    "city": "Laconia, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "LCJ",
+    "name": "Łódź Władysław Reymont Airport",
+    "city": "Łódź",
+    "country": "Poland"
+  },
+  {
+    "code": "LCK",
+    "name": "Rickenbacker International Airport",
+    "city": "Columbus, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "LCL",
+    "name": "La Coloma Airport",
+    "city": "Pinar del Río",
+    "country": "Cuba"
+  },
+  {
+    "code": "LCM",
+    "name": "La Cumbre Airport",
+    "city": "La Cumbre, Córdoba",
+    "country": "Argentina"
+  },
+  {
+    "code": "LCN",
+    "name": "Balcanoona Airport",
+    "city": "Balcanoona, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LCO",
+    "name": "Lague Airport",
+    "city": "Lague",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "LCP",
+    "name": "Loncopué Airport",
+    "city": "Loncopué, Neuquén",
+    "country": "Argentina"
+  },
+  {
+    "code": "LCQ",
+    "name": "Lake City Gateway Airport",
+    "city": "Lake City, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "LCR",
+    "name": "La Chorrera Airport",
+    "city": "La Chorrera",
+    "country": "Colombia"
+  },
+  {
+    "code": "LCT",
+    "name": "Shijiazhuang Luancheng Airport",
+    "city": "Shijiazhuang, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "LCV",
+    "name": "Lucca-Tassignano Airport",
+    "city": "Lucca, Tuscany",
+    "country": "Italy"
+  },
+  {
+    "code": "LCX",
+    "name": "Longyan Guanzhishan Airport",
+    "city": "Longyan, Fujian",
+    "country": "China"
+  },
+  {
+    "code": "LCY",
+    "name": "London City Airport",
+    "city": "London, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LDA",
+    "name": "Malda Airport",
+    "city": "Malda, West Bengal",
+    "country": "India"
+  },
+  {
+    "code": "LDB",
+    "name": "Londrina–Governador José Richa Airport",
+    "city": "Londrina, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "LDC",
+    "name": "Lindeman Island Airport",
+    "city": "Lindeman Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LDE",
+    "name": "Tarbes–Lourdes–Pyrénées Airport",
+    "city": "Tarbes / Lourdes, Midi-Pyrénées",
+    "country": "France"
+  },
+  {
+    "code": "LDG",
+    "name": "Leshukonskoye Airport",
+    "city": "Leshukonskoye, Arkhangelsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "LDH",
+    "name": "Lord Howe Island Airport",
+    "city": "Lord Howe Island, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "LDI",
+    "name": "Lindi Airport (Kikwetu Airport)",
+    "city": "Lindi",
+    "country": "Tanzania"
+  },
+  {
+    "code": "LDJ",
+    "name": "Linden Airport",
+    "city": "Linden, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "LDK",
+    "name": "Lidköping-Hovby Airport",
+    "city": "Lidköping",
+    "country": "Sweden"
+  },
+  {
+    "code": "LDM",
+    "name": "Mason County Airport",
+    "city": "Ludington, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "LDN",
+    "name": "Lamidanda Airport",
+    "city": "Lamidanda",
+    "country": "Nepal"
+  },
+  {
+    "code": "LDO",
+    "name": "Laduani Airstrip",
+    "city": "Aurora",
+    "country": "Suriname"
+  },
+  {
+    "code": "LDR",
+    "name": "Lawdar Airport",
+    "city": "Lawdar",
+    "country": "Yemen"
+  },
+  {
+    "code": "LDS",
+    "name": "Yichun Lindu Airport",
+    "city": "Yichun, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "LDU",
+    "name": "Lahad Datu Airport",
+    "city": "Lahad Datu, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LDV",
+    "name": "Landivisiau Air Base",
+    "city": "Landivisiau, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "LDW",
+    "name": "Lansdowne Airport",
+    "city": "Lansdowne, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LDX",
+    "name": "Saint-Laurent-du-Maroni Airport",
+    "city": "Saint-Laurent-du-Maroni",
+    "country": "French Guiana"
+  },
+  {
+    "code": "LDY",
+    "name": "City of Derry Airport",
+    "city": "Derry (Londonderry), Northern Ireland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LDZ",
+    "name": "Londolozi Airport",
+    "city": "Londolozi",
+    "country": "South Africa"
+  },
+  {
+    "code": "LEA",
+    "name": "Learmonth Airport",
+    "city": "Exmouth, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LEB",
+    "name": "Lebanon Municipal Airport",
+    "city": "Lebanon / Hanover, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "LEC",
+    "name": "Coronel Horácio de Mattos Airport",
+    "city": "Lençóis, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "LED",
+    "name": "Pulkovo Airport",
+    "city": "Saint Petersburg",
+    "country": "Russia"
+  },
+  {
+    "code": "LEE",
+    "name": "Leesburg International Airport",
+    "city": "Leesburg, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "LEF",
+    "name": "Lebakeng Airport",
+    "city": "Lebakeng",
+    "country": "Lesotho"
+  },
+  {
+    "code": "LEG",
+    "name": "Aleg Airport",
+    "city": "Aleg",
+    "country": "Mauritania"
+  },
+  {
+    "code": "LEH",
+    "name": "Le Havre – Octeville Airport",
+    "city": "Le Havre, Upper Normandy",
+    "country": "France"
+  },
+  {
+    "code": "LEI",
+    "name": "Almería Airport",
+    "city": "Almería, Andalusia",
+    "country": "Spain"
+  },
+  {
+    "code": "LEJ",
+    "name": "Leipzig/Halle Airport",
+    "city": "Leipzig, Saxony / Halle, Saxony-Anhalt",
+    "country": "2 Germany"
+  },
+  {
+    "code": "LEK",
+    "name": "Tata Airport",
+    "city": "Labé",
+    "country": "Guinea"
+  },
+  {
+    "code": "LEL",
+    "name": "Lake Evella Airport",
+    "city": "Gapuwiyak, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "LEM",
+    "name": "Lemmon Municipal Airport",
+    "city": "Lemmon, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "LEN",
+    "name": "León Airport",
+    "city": "León, Castile and León",
+    "country": "Spain"
+  },
+  {
+    "code": "LEO",
+    "name": "Lékoni Airport",
+    "city": "Lékoni",
+    "country": "Gabon"
+  },
+  {
+    "code": "LEP",
+    "name": "Leopoldina Airport",
+    "city": "Leopoldina, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "LEQ",
+    "name": "Land's End Airport",
+    "city": "St Just, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LER",
+    "name": "Leinster Airport",
+    "city": "Leinster, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LES",
+    "name": "Lesobeng Airport",
+    "city": "Lesobeng",
+    "country": "Lesotho"
+  },
+  {
+    "code": "LET",
+    "name": "Alfredo Vásquez Cobo International Airport",
+    "city": "Leticia",
+    "country": "Colombia"
+  },
+  {
+    "code": "LEU",
+    "name": "La Seu d'Urgell Airport",
+    "city": "La Seu d'Urgell, Catalonia",
+    "country": "Spain"
+  },
+  {
+    "code": "LEV",
+    "name": "Levuka Airfield (Bureta Airport)",
+    "city": "Levuka, Ovalau Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "LEW",
+    "name": "Auburn/Lewiston Municipal Airport",
+    "city": "Auburn / Lewiston, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "LEX",
+    "name": "Blue Grass Airport",
+    "city": "Lexington, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "LEY",
+    "name": "Lelystad Airport",
+    "city": "Lelystad",
+    "country": "Netherlands"
+  },
+  {
+    "code": "LEZ",
+    "name": "La Esperanza Airport",
+    "city": "La Esperanza",
+    "country": "Honduras"
+  },
+  {
+    "code": "LFB",
+    "name": "Lumbo Airport",
+    "city": "Lumbo",
+    "country": "Mozambique"
+  },
+  {
+    "code": "LFI",
+    "name": "Langley Air Force Base",
+    "city": "Hampton, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "LFK",
+    "name": "Angelina County Airport",
+    "city": "Lufkin, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "LFM",
+    "name": "Lamerd Airport",
+    "city": "Lamerd",
+    "country": "Iran"
+  },
+  {
+    "code": "LFN",
+    "name": "Triangle North Executive Airport (Franklin County Airport) (FAA: LHZ)",
+    "city": "Louisburg, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "LFO",
+    "name": "Kelafo Airport",
+    "city": "Kelafo",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "LFP",
+    "name": "Lakefield Airport",
+    "city": "Lakefield, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LFQ",
+    "name": "Linfen Qiaoli Airport",
+    "city": "Linfen, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "LFR",
+    "name": "La Fría Airport",
+    "city": "La Fría",
+    "country": "Venezuela"
+  },
+  {
+    "code": "LFT",
+    "name": "Lafayette Regional Airport",
+    "city": "Lafayette, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "LFW",
+    "name": "Lomé–Tokoin Airport (Gnassingbé Eyadéma Int'l)",
+    "city": "Lomé",
+    "country": "Togo"
+  },
+  {
+    "code": "LGA",
+    "name": "LaGuardia Airport",
+    "city": "New York City, New York",
+    "country": "United States"
+  },
+  {
+    "code": "LGB",
+    "name": "Long Beach Airport",
+    "city": "Long Beach, California",
+    "country": "United States"
+  },
+  {
+    "code": "LGC",
+    "name": "LaGrange Callaway Airport",
+    "city": "LaGrange, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "LGD",
+    "name": "La Grande/Union County Airport",
+    "city": "La Grande, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "LGE",
+    "name": "Lake Gregory Airport",
+    "city": "Lake Gregory, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LGF",
+    "name": "Laguna Army Airfield",
+    "city": "Yuma Proving Ground, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "LGG",
+    "name": "Liège Airport",
+    "city": "Liège",
+    "country": "Belgium"
+  },
+  {
+    "code": "LGH",
+    "name": "Leigh Creek Airport",
+    "city": "Leigh Creek, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LGI",
+    "name": "Deadman's Cay Airport",
+    "city": "Deadman's Cay, Long Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "LGK",
+    "name": "Langkawi International Airport",
+    "city": "Langkawi, Kedah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LGL",
+    "name": "Long Lellang Airport",
+    "city": "Long Lellang, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LGM",
+    "name": "Laiagam Airport",
+    "city": "Laiagam",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LGN",
+    "name": "Linga Linga Airport",
+    "city": "Linga Linga",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LGO",
+    "name": "Langeoog Airport",
+    "city": "Langeoog, Lower Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "LGQ",
+    "name": "Lago Agrio Airport",
+    "city": "Nueva Loja (Lago Agrio)",
+    "country": "Ecuador"
+  },
+  {
+    "code": "LGR",
+    "name": "Cochrane Airfield",
+    "city": "Cochrane",
+    "country": "Chile"
+  },
+  {
+    "code": "LGS",
+    "name": "Comodoro D. Ricardo Salomón Airport",
+    "city": "Malargüe, Mendoza",
+    "country": "Argentina"
+  },
+  {
+    "code": "LGT",
+    "name": "Las Gaviotas Airport",
+    "city": "Gaviotas",
+    "country": "Colombia"
+  },
+  {
+    "code": "LGU",
+    "name": "Logan-Cache Airport",
+    "city": "Logan, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "LGW",
+    "name": "Gatwick Airport",
+    "city": "London, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LGX",
+    "name": "Lugh Ganane Airport",
+    "city": "Lugh Ganane (Luuq)",
+    "country": "Somalia"
+  },
+  {
+    "code": "LGY",
+    "name": "Lagunillas Airport",
+    "city": "Lagunillas",
+    "country": "Venezuela"
+  },
+  {
+    "code": "LHA",
+    "name": "Flughafen Lahr (Lahr Airport)",
+    "city": "Lahr, Baden-Württemberg",
+    "country": "Germany"
+  },
+  {
+    "code": "LHE",
+    "name": "Allama Iqbal International Airport",
+    "city": "Lahore",
+    "country": "Pakistan"
+  },
+  {
+    "code": "LHG",
+    "name": "Lightning Ridge Airport",
+    "city": "Lightning Ridge, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "LHI",
+    "name": "Lereh Airport",
+    "city": "Lereh",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LHK",
+    "name": "Laohekou Airport",
+    "city": "Laohekou, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "LHP",
+    "name": "Lehu Airport",
+    "city": "Lehu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LHR",
+    "name": "Heathrow Airport",
+    "city": "London, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LHS",
+    "name": "Las Heras Airport",
+    "city": "Las Heras, Santa Cruz",
+    "country": "Argentina"
+  },
+  {
+    "code": "LHU",
+    "name": "Lianshulu Airport",
+    "city": "Lianshulu",
+    "country": "Namibia"
+  },
+  {
+    "code": "LHV",
+    "name": "William T. Piper Memorial Airport",
+    "city": "Lock Haven, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "LHW",
+    "name": "Lanzhou Zhongchuan International Airport",
+    "city": "Lanzhou, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "LIA",
+    "name": "Liangping Airport",
+    "city": "Liangping, Chongqing",
+    "country": "China"
+  },
+  {
+    "code": "LIB",
+    "name": "Limbunya Airport",
+    "city": "Limbunya Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "LIC",
+    "name": "Limon Municipal Airport",
+    "city": "Limon, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "LIE",
+    "name": "Libenge Airport",
+    "city": "Libenge",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LIF",
+    "name": "Ouanaham Airport",
+    "city": "Lifou, Loyalty Islands",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "LIG",
+    "name": "Limoges – Bellegarde Airport",
+    "city": "Limoges, Limousin",
+    "country": "France"
+  },
+  {
+    "code": "LIH",
+    "name": "Lihue Airport",
+    "city": "Lihue, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "LII",
+    "name": "Mulia Airport",
+    "city": "Mulia",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LIK",
+    "name": "Likiep Airport",
+    "city": "Likiep Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "LIL",
+    "name": "Lille Airport (Lille–Lesquin Airport)",
+    "city": "Lille, Nord-Pas-de-Calais",
+    "country": "France"
+  },
+  {
+    "code": "LIM",
+    "name": "Jorge Chávez International Airport",
+    "city": "Lima",
+    "country": "Peru"
+  },
+  {
+    "code": "LIN",
+    "name": "Linate Airport",
+    "city": "Milan, Lombardy",
+    "country": "Italy"
+  },
+  {
+    "code": "LIO",
+    "name": "Limón International Airport",
+    "city": "Limón",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "LIP",
+    "name": "Lins Airport",
+    "city": "Lins, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "LIQ",
+    "name": "Lisala Airport",
+    "city": "Lisala",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LIR",
+    "name": "Daniel Oduber Quirós International Airport",
+    "city": "Liberia",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "LIS",
+    "name": "Lisbon Portela Airport",
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "code": "LIT",
+    "name": "Clinton National Airport (Adams Field)",
+    "city": "Little Rock, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "LIV",
+    "name": "Livengood Camp Airport (FAA: 4AK)",
+    "city": "Livengood, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "LIW",
+    "name": "Loikaw Airport",
+    "city": "Loikaw",
+    "country": "Myanmar"
+  },
+  {
+    "code": "LIX",
+    "name": "Likoma Airport",
+    "city": "Likoma Island",
+    "country": "Malawi"
+  },
+  {
+    "code": "LIY",
+    "name": "MidCoast Regional Airport at Wright Army Airfield (FAA: LHW)",
+    "city": "Fort Stewart / Hinesville, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "LIZ",
+    "name": "Loring International Airport (FAA: ME16)",
+    "city": "Limestone, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "LJA",
+    "name": "Lodja Airport",
+    "city": "Lodja",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LJG",
+    "name": "Lijiang Sanyi Airport",
+    "city": "Lijiang, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "LJN",
+    "name": "Texas Gulf Coast Regional Airport (FAA: LBX)",
+    "city": "Angleton / Lake Jackson, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "LJU",
+    "name": "Ljubljana Jože Pučnik Airport (Brnik Airport)",
+    "city": "Ljubljana",
+    "country": "Slovenia"
+  },
+  {
+    "code": "LKA",
+    "name": "Gewayantana Airport",
+    "city": "Larantuka",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LKB",
+    "name": "Lakeba Airport",
+    "city": "Lakeba Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "LKC",
+    "name": "Lekana Airport",
+    "city": "Lekana",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "LKD",
+    "name": "Lakeland Downs Airport",
+    "city": "Lakeland Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LKE",
+    "name": "Kenmore Air Harbor Seaplane Base (Seattle Lake Union SPB) (FAA: W55)",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "LKG",
+    "name": "Lokichogio Airport",
+    "city": "Lokichogio",
+    "country": "Kenya"
+  },
+  {
+    "code": "LKH",
+    "name": "Long Akah Airport",
+    "city": "Long Akah, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LKK",
+    "name": "Kulik Lake Airport",
+    "city": "Kulik Lake, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "LKL",
+    "name": "Lakselv Airport, Banak",
+    "city": "Lakselv",
+    "country": "Norway"
+  },
+  {
+    "code": "LKN",
+    "name": "Leknes Airport",
+    "city": "Leknes",
+    "country": "Norway"
+  },
+  {
+    "code": "LKO",
+    "name": "Chaudhary Charan Singh International Airport",
+    "city": "Lucknow, Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "LKP",
+    "name": "Lake Placid Airport",
+    "city": "Lake Placid, New York",
+    "country": "United States"
+  },
+  {
+    "code": "LKR",
+    "name": "Las Khorey Airport",
+    "city": "Las Khorey (Laasqoray)",
+    "country": "Somalia"
+  },
+  {
+    "code": "LKU",
+    "name": "Lake Turkana Airport",
+    "city": "Lake Turkana",
+    "country": "Kenya"
+  },
+  {
+    "code": "LKV",
+    "name": "Lake County Airport",
+    "city": "Lakeview, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "LKW",
+    "name": "Lekhwair Airport",
+    "city": "Lekhwair",
+    "country": "Oman"
+  },
+  {
+    "code": "LKY",
+    "name": "Lake Manyara Airport",
+    "city": "Lake Manyara",
+    "country": "Tanzania"
+  },
+  {
+    "code": "LKZ",
+    "name": "RAF Lakenheath",
+    "city": "Brandon, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LLA",
+    "name": "Luleå Airport (Kallax Airport)",
+    "city": "Luleå",
+    "country": "Sweden"
+  },
+  {
+    "code": "LLB",
+    "name": "Libo Airport (Qiannan Airport)",
+    "city": "Libo, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "LLC",
+    "name": "Cagayan North International Airport (Lal-lo Airport)",
+    "city": "Lal-lo",
+    "country": "Philippines"
+  },
+  {
+    "code": "LLE",
+    "name": "Malelane Airport",
+    "city": "Malalane",
+    "country": "South Africa"
+  },
+  {
+    "code": "LLF",
+    "name": "Yongzhou Lingling Airport",
+    "city": "Yongzhou, Hunan",
+    "country": "China"
+  },
+  {
+    "code": "LLG",
+    "name": "Chillagoe Airport",
+    "city": "Chillagoe, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LLH",
+    "name": "Las Limas Airport",
+    "city": "Las Limas",
+    "country": "Honduras"
+  },
+  {
+    "code": "LLI",
+    "name": "Lalibela Airport",
+    "city": "Lalibela",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "LLJ",
+    "name": "Silampari Airport",
+    "city": "Lubuklinggau, South Sumatra",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LLK",
+    "name": "Lankaran International Airport",
+    "city": "Lankaran",
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "LLL",
+    "name": "Lissadell Airport",
+    "city": "Lissadell, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LLM",
+    "name": "Lomlom Airport",
+    "city": "Lomlom, Reef Islands",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "LLN",
+    "name": "Kelila Airport",
+    "city": "Kelila",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LLO",
+    "name": "Palopo Lagaligo Airport",
+    "city": "Palopo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LLP",
+    "name": "Linda Downs Airport",
+    "city": "Linda Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LLS",
+    "name": "Alférez Armando Rodríguez Airport",
+    "city": "Las Lomitas, Formosa",
+    "country": "Argentina"
+  },
+  {
+    "code": "LLT",
+    "name": "Lobito Airport",
+    "city": "Lobito",
+    "country": "Angola"
+  },
+  {
+    "code": "LLV",
+    "name": "Lüliang Airport",
+    "city": "Lüliang, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "LLW",
+    "name": "Lilongwe International Airport (Kamuzu Int'l)",
+    "city": "Lilongwe",
+    "country": "Malawi"
+  },
+  {
+    "code": "LLX",
+    "name": "Caledonia County Airport (FAA: CDA)",
+    "city": "Lyndonville, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "LLY",
+    "name": "South Jersey Regional Airport (FAA: VAY)",
+    "city": "Mount Holly, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "LMA",
+    "name": "Lake Minchumina Airport (FAA: MHM)",
+    "city": "Lake Minchumina, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "LMB",
+    "name": "Salima Airport",
+    "city": "Salima",
+    "country": "Malawi"
+  },
+  {
+    "code": "LMC",
+    "name": "La Macarena Airport",
+    "city": "La Macarena",
+    "country": "Colombia"
+  },
+  {
+    "code": "LMD",
+    "name": "Los Menucos Airport",
+    "city": "Los Menucos, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "LME",
+    "name": "Le Mans Arnage Airport",
+    "city": "Le Mans, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "LMG",
+    "name": "Lamassa Airport",
+    "city": "Lamassa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LMH",
+    "name": "Limón Airport",
+    "city": "Limón",
+    "country": "Honduras"
+  },
+  {
+    "code": "LMI",
+    "name": "Lumi Airport",
+    "city": "Lumi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LML",
+    "name": "Lae Airport",
+    "city": "Lae Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "LMM",
+    "name": "Fort Valley Federal International Airport",
+    "city": "Los Mochis, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "code": "LMN",
+    "name": "Limbang Airport",
+    "city": "Limbang, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LMO",
+    "name": "RAF Lossiemouth",
+    "city": "Lossiemouth, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LMP",
+    "name": "Lampedusa Airport",
+    "city": "Lampedusa, Sicily",
+    "country": "Italy"
+  },
+  {
+    "code": "LMQ",
+    "name": "Marsa Brega Airport",
+    "city": "Brega",
+    "country": "Libya"
+  },
+  {
+    "code": "LMR",
+    "name": "Finsch Mine Airport",
+    "city": "Lime Acres",
+    "country": "South Africa"
+  },
+  {
+    "code": "LMS",
+    "name": "Louisville Winston County Airport",
+    "city": "Louisville, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "LMT",
+    "name": "Klamath Falls Airport",
+    "city": "Klamath Falls, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "LMU",
+    "name": "Letung Airport",
+    "city": "Anambas Islands, Riau Islands",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LMX",
+    "name": "Lopéz de Micay Airport",
+    "city": "El Trapiche",
+    "country": "Colombia"
+  },
+  {
+    "code": "LMY",
+    "name": "Lake Murray Airport",
+    "city": "Lake Murray",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LMZ",
+    "name": "Palma Airport",
+    "city": "Palma",
+    "country": "Mozambique"
+  },
+  {
+    "code": "LNA",
+    "name": "Palm Beach County Park Airport",
+    "city": "West Palm Beach, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "LNB",
+    "name": "Lamen Bay Airport",
+    "city": "Lamen Bay, Epi Island, Shefa Province",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "LNC",
+    "name": "Lengbati Airport",
+    "city": "Lengbati",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LND",
+    "name": "Hunt Field",
+    "city": "Lander, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "LNE",
+    "name": "Lonorore Airport",
+    "city": "Lonorore, Pentecost Island, Penama Province",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "LNF",
+    "name": "Munbil Airport",
+    "city": "Munbil",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LNG",
+    "name": "Lese Airport",
+    "city": "Lese",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LNH",
+    "name": "Lake Nash Airport",
+    "city": "Alpurrurulam (Lake Nash), Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "LNI",
+    "name": "Point Lonely Short Range Radar Site (FAA: AK71)",
+    "city": "Lonely, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "LNJ",
+    "name": "Lincang Airport",
+    "city": "Lincang, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "LNK",
+    "name": "Lincoln Airport",
+    "city": "Lincoln, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "LNL",
+    "name": "Longnan Chengzhou Airport",
+    "city": "Longnan, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "LNM",
+    "name": "Langimar Airport",
+    "city": "Langimar",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LNN",
+    "name": "Lost Nation Airport",
+    "city": "Willoughby, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "LNO",
+    "name": "Leonora Airport",
+    "city": "Leonora, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LNP",
+    "name": "Lonesome Pine Airport",
+    "city": "Wise, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "LNQ",
+    "name": "Loani Airport",
+    "city": "Loani",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LNR",
+    "name": "Tri-County Regional Airport",
+    "city": "Lone Rock, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "LNS",
+    "name": "Lancaster Airport",
+    "city": "Lancaster, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "LNU",
+    "name": "Robert Atty Bessing Airport",
+    "city": "Malinau, North Kalimantan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LNV",
+    "name": "Lihir Island Airport",
+    "city": "Lihir Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LNX",
+    "name": "Smolensk South Airport",
+    "city": "Smolensk, Smolensk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "LNY",
+    "name": "Lanai Airport",
+    "city": "Lanai City, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "LNZ",
+    "name": "Linz Airport (Blue Danube Airport)",
+    "city": "Linz",
+    "country": "Austria"
+  },
+  {
+    "code": "LOA",
+    "name": "Lorraine Airport",
+    "city": "Lorraine, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LOB",
+    "name": "San Rafael Airport",
+    "city": "Los Andes",
+    "country": "Chile"
+  },
+  {
+    "code": "LOC",
+    "name": "Lock Airport",
+    "city": "Lock, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LOD",
+    "name": "Longana Airport",
+    "city": "Longana, Aoba Island, Penama Province",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "LOE",
+    "name": "Loei Airport",
+    "city": "Loei",
+    "country": "Thailand"
+  },
+  {
+    "code": "LOF",
+    "name": "Loen Airport",
+    "city": "Loen Island, Namu Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "LOH",
+    "name": "Ciudad de Catamayo Airport",
+    "city": "Loja",
+    "country": "Ecuador"
+  },
+  {
+    "code": "LOI",
+    "name": "Helmuth Baungartem Airport",
+    "city": "Lontras, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "LOK",
+    "name": "Lodwar Airport",
+    "city": "Lodwar",
+    "country": "Kenya"
+  },
+  {
+    "code": "LOL",
+    "name": "Derby Field",
+    "city": "Lovelock, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "LOM",
+    "name": "Francisco Primo de Verdad National Airport",
+    "city": "Lagos de Moreno, Jalisco",
+    "country": "Mexico"
+  },
+  {
+    "code": "LON",
+    "name": "metropolitan area3",
+    "city": "London, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LOO",
+    "name": "L'Mekrareg Airport (Laghouat Airport)",
+    "city": "Laghouat",
+    "country": "Algeria"
+  },
+  {
+    "code": "LOP",
+    "name": "Lombok International Airport",
+    "city": "Praya",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LOQ",
+    "name": "Lobatse Airport",
+    "city": "Lobatse",
+    "country": "Botswana"
+  },
+  {
+    "code": "LOS",
+    "name": "Murtala Muhammed International Airport",
+    "city": "Lagos",
+    "country": "Nigeria"
+  },
+  {
+    "code": "LOT",
+    "name": "Lewis University Airport",
+    "city": "Romeoville, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "LOU",
+    "name": "Bowman Field",
+    "city": "Louisville, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "LOV",
+    "name": "Venustiano Carranza International Airport",
+    "city": "Monclova, Coahuila",
+    "country": "Mexico"
+  },
+  {
+    "code": "LOW",
+    "name": "Louisa County Airport (Freeman Field) (FAA: LKU)",
+    "city": "Louisa, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "LOX",
+    "name": "Los Tablones Airport",
+    "city": "Los Tablones",
+    "country": "Guatemala"
+  },
+  {
+    "code": "LOY",
+    "name": "Loiyangalani Airport",
+    "city": "Loiyangalani",
+    "country": "Kenya"
+  },
+  {
+    "code": "LOZ",
+    "name": "London-Corbin Airport (Magee Field)",
+    "city": "London, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "LPA",
+    "name": "Gran Canaria Airport",
+    "city": "Gran Canaria, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "LPB",
+    "name": "El Alto International Airport",
+    "city": "La Paz",
+    "country": "Bolivia"
+  },
+  {
+    "code": "LPC",
+    "name": "Lompoc Airport",
+    "city": "Lompoc, California",
+    "country": "United States"
+  },
+  {
+    "code": "LPD",
+    "name": "La Pedrera Airport",
+    "city": "La Pedrera",
+    "country": "Colombia"
+  },
+  {
+    "code": "LPE",
+    "name": "La Primavera Airport",
+    "city": "La Primavera",
+    "country": "Colombia"
+  },
+  {
+    "code": "LPF",
+    "name": "Liupanshui Yuezhao Airport",
+    "city": "Liupanshui, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "LPG",
+    "name": "La Plata Airport",
+    "city": "La Plata, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "LPI",
+    "name": "Linköping/Saab Airport",
+    "city": "Linköping",
+    "country": "Sweden"
+  },
+  {
+    "code": "LPJ",
+    "name": "Armando Schwarck Airport",
+    "city": "Los Pijiguaos",
+    "country": "Venezuela"
+  },
+  {
+    "code": "LPK",
+    "name": "Lipetsk Airport",
+    "city": "Lipetsk, Lipetsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "LPL",
+    "name": "Liverpool John Lennon Airport",
+    "city": "Liverpool, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LPM",
+    "name": "Malekoula Airport (Lamap Airport)",
+    "city": "Lamap, Malampa",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "LPN",
+    "name": "Leron Plains Airport",
+    "city": "Leron Plains",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LPO",
+    "name": "La Porte Municipal Airport (FAA: PPO)",
+    "city": "La Porte, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "LPP",
+    "name": "Lappeenranta Airport",
+    "city": "Lappeenranta",
+    "country": "Finland"
+  },
+  {
+    "code": "LPQ",
+    "name": "Luang Prabang International Airport",
+    "city": "Luang Prabang",
+    "country": "Laos"
+  },
+  {
+    "code": "LPS",
+    "name": "Fishermans Bay/LPS Seaplane Base",
+    "city": "Lopez Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "LPT",
+    "name": "Lampang Airport",
+    "city": "Lampang",
+    "country": "Thailand"
+  },
+  {
+    "code": "LPU",
+    "name": "Long Apung Airport",
+    "city": "Long Apung",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LPX",
+    "name": "Liepāja International Airport",
+    "city": "Liepāja",
+    "country": "Latvia"
+  },
+  {
+    "code": "LPY",
+    "name": "Le Puy – Loudes Airport",
+    "city": "Le Puy-en-Velay, Auvergne",
+    "country": "France"
+  },
+  {
+    "code": "LQK",
+    "name": "Pickens County Airport",
+    "city": "Pickens, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "LQM",
+    "name": "Caucayá Airport",
+    "city": "Puerto Leguízamo",
+    "country": "Colombia"
+  },
+  {
+    "code": "LQN",
+    "name": "Qala i Naw Airport",
+    "city": "Qala i Naw",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "LRA",
+    "name": "Larissa National Airport",
+    "city": "Larissa",
+    "country": "Greece"
+  },
+  {
+    "code": "LRB",
+    "name": "Leribe Airport",
+    "city": "Leribe (Hlotse)",
+    "country": "Lesotho"
+  },
+  {
+    "code": "LRD",
+    "name": "Laredo International Airport",
+    "city": "Laredo, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "LRE",
+    "name": "Longreach Airport",
+    "city": "Longreach, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LRF",
+    "name": "Little Rock Air Force Base",
+    "city": "Jacksonville, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "LRG",
+    "name": "Loralai Airport",
+    "city": "Loralai",
+    "country": "Pakistan"
+  },
+  {
+    "code": "LRH",
+    "name": "La Rochelle – Île de Ré Airport",
+    "city": "La Rochelle, Poitou-Charentes",
+    "country": "France"
+  },
+  {
+    "code": "LRI",
+    "name": "Lorica Airport",
+    "city": "Lorica",
+    "country": "Colombia"
+  },
+  {
+    "code": "LRJ",
+    "name": "Le Mars Municipal Airport",
+    "city": "Le Mars, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "LRL",
+    "name": "Niamtougou International Airport",
+    "city": "Niamtougou",
+    "country": "Togo"
+  },
+  {
+    "code": "LRM",
+    "name": "La Romana International Airport (Casa de Campo International Airport)",
+    "city": "La Romana",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "LRQ",
+    "name": "Laurie River Airport",
+    "city": "Laurie River, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "LRR",
+    "name": "Larestan International Airport",
+    "city": "Lar",
+    "country": "Iran"
+  },
+  {
+    "code": "LRS",
+    "name": "Leros Municipal Airport",
+    "city": "Leros",
+    "country": "Greece"
+  },
+  {
+    "code": "LRT",
+    "name": "Lorient South Brittany Airport (Lann-Bihoué Airport)",
+    "city": "Lorient, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "LRU",
+    "name": "Las Cruces International Airport",
+    "city": "Las Cruces, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "LRV",
+    "name": "Los Roques Airport",
+    "city": "Los Roques",
+    "country": "Venezuela"
+  },
+  {
+    "code": "LSA",
+    "name": "Losuia Airport",
+    "city": "Kiriwina Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LSB",
+    "name": "Lordsburg Municipal Airport",
+    "city": "Lordsburg, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "LSC",
+    "name": "La Florida Airport",
+    "city": "La Serena",
+    "country": "Chile"
+  },
+  {
+    "code": "LSE",
+    "name": "La Crosse Regional Airport",
+    "city": "La Crosse, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "LSF",
+    "name": "Lawson Army Airfield",
+    "city": "Fort Benning / Columbus, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "LSH",
+    "name": "Lashio Airport",
+    "city": "Lashio",
+    "country": "Myanmar"
+  },
+  {
+    "code": "LSI",
+    "name": "Sumburgh Airport",
+    "city": "Shetland Islands, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LSJ",
+    "name": "Long Island Airport",
+    "city": "Long Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LSK",
+    "name": "Lusk Municipal Airport",
+    "city": "Lusk, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "LSL",
+    "name": "Los Chiles Airport",
+    "city": "Los Chiles",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "LSM",
+    "name": "Long Semado Airport",
+    "city": "Long Semado, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LSN",
+    "name": "Los Banos Municipal Airport",
+    "city": "Los Banos, California",
+    "country": "United States"
+  },
+  {
+    "code": "LSO",
+    "name": "Les Sables-d'Olonne – Talmont Airport",
+    "city": "Les Sables-d'Olonne, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "LSP",
+    "name": "Josefa Camejo International Airport",
+    "city": "Punto Fijo",
+    "country": "Venezuela"
+  },
+  {
+    "code": "LSQ",
+    "name": "Maria Dolores Airport",
+    "city": "Los Ángeles",
+    "country": "Chile"
+  },
+  {
+    "code": "LSS",
+    "name": "Les Saintes Airport",
+    "city": "Terre-de-Haut Island, Îles des Saintes",
+    "country": "Guadeloupe"
+  },
+  {
+    "code": "LST",
+    "name": "Launceston Airport",
+    "city": "Launceston, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "LSU",
+    "name": "Long Sukang Airport",
+    "city": "Long Sukang, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LSV",
+    "name": "Nellis Air Force Base",
+    "city": "Las Vegas, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "LSW",
+    "name": "Malikus Saleh Airport",
+    "city": "Lhokseumawe",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LSX",
+    "name": "Lhok Sukon Airport",
+    "city": "Lhoksukon",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LSY",
+    "name": "Lismore Airport",
+    "city": "Lismore, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "LSZ",
+    "name": "Lošinj Airport",
+    "city": "Lošinj",
+    "country": "Croatia"
+  },
+  {
+    "code": "LTA",
+    "name": "Tzaneen Airport (Letaba Airport)",
+    "city": "Tzaneen",
+    "country": "South Africa"
+  },
+  {
+    "code": "LTB",
+    "name": "Latrobe Airport",
+    "city": "Latrobe, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "LTC",
+    "name": "Laï Airport",
+    "city": "Laï",
+    "country": "Chad"
+  },
+  {
+    "code": "LTD",
+    "name": "Ghadames Airport",
+    "city": "Ghadames",
+    "country": "Libya"
+  },
+  {
+    "code": "LTF",
+    "name": "Leitre Airport",
+    "city": "Leitre",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LTG",
+    "name": "Langtang Airport",
+    "city": "Langtang",
+    "country": "Nepal"
+  },
+  {
+    "code": "LTI",
+    "name": "Altai Airport",
+    "city": "Altai",
+    "country": "Mongolia"
+  },
+  {
+    "code": "LTK",
+    "name": "Bassel Al-Assad International Airport",
+    "city": "Latakia",
+    "country": "Syria"
+  },
+  {
+    "code": "LTL",
+    "name": "Lastourville Airport",
+    "city": "Lastoursville",
+    "country": "Gabon"
+  },
+  {
+    "code": "LTM",
+    "name": "Lethem Airport",
+    "city": "Lethem",
+    "country": "Guyana"
+  },
+  {
+    "code": "LTN",
+    "name": "Luton Airport",
+    "city": "London, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LTO",
+    "name": "Loreto International Airport",
+    "city": "Loreto, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "LTP",
+    "name": "Lyndhurst Airport",
+    "city": "Lyndhurst, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LTQ",
+    "name": "Le Touquet – Côte d'Opale Airport",
+    "city": "Le Touquet-Paris-Plage, Nord-Pas-de-Calais",
+    "country": "France"
+  },
+  {
+    "code": "LTR",
+    "name": "Letterkenny Airfield",
+    "city": "Letterkenny",
+    "country": "Ireland"
+  },
+  {
+    "code": "LTS",
+    "name": "Altus Air Force Base",
+    "city": "Altus, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "LTT",
+    "name": "La Môle – Saint-Tropez Airport",
+    "city": "Saint-Tropez, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "LTU",
+    "name": "Latur Airport",
+    "city": "Latur, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "LTV",
+    "name": "Lotus Vale Station Airport",
+    "city": "Lotus Vale Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LTW",
+    "name": "St. Mary's County Regional Airport (FAA: 2W6)\\n(Captain Walter Francis Duke Regional Airport)",
+    "city": "Leonardtown, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "LTX",
+    "name": "Cotopaxi International Airport",
+    "city": "Latacunga",
+    "country": "Ecuador"
+  },
+  {
+    "code": "LUA",
+    "name": "Tenzing-Hillary Airport",
+    "city": "Lukla",
+    "country": "Nepal"
+  },
+  {
+    "code": "LUB",
+    "name": "Lumid Pau Airport",
+    "city": "Lumid Pau",
+    "country": "Guyana"
+  },
+  {
+    "code": "LUC",
+    "name": "Laucala Airport",
+    "city": "Laucala Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "LUD",
+    "name": "Lüderitz Airport",
+    "city": "Lüderitz",
+    "country": "Namibia"
+  },
+  {
+    "code": "LUE",
+    "name": "Boľkovce Airport",
+    "city": "Lučenec",
+    "country": "Slovakia"
+  },
+  {
+    "code": "LUF",
+    "name": "Luke Air Force Base",
+    "city": "Glendale, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "LUG",
+    "name": "Lugano Airport",
+    "city": "Lugano",
+    "country": "Switzerland"
+  },
+  {
+    "code": "LUH",
+    "name": "Sahnewal Airport (Ludhiana Airport)",
+    "city": "Ludhiana, Punjab",
+    "country": "India"
+  },
+  {
+    "code": "LUI",
+    "name": "La Unión Airport",
+    "city": "La Unión",
+    "country": "Honduras"
+  },
+  {
+    "code": "LUK",
+    "name": "Cincinnati Municipal Airport (Lunken Field)",
+    "city": "Cincinnati, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "LUL",
+    "name": "Hesler-Noble Field",
+    "city": "Laurel, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "LUM",
+    "name": "Dehong Mangshi Airport",
+    "city": "Mangshi, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "LUN",
+    "name": "Kenneth Kaunda International Airport",
+    "city": "Lusaka",
+    "country": "Zambia"
+  },
+  {
+    "code": "LUO",
+    "name": "Luena Airport",
+    "city": "Luena",
+    "country": "Angola"
+  },
+  {
+    "code": "LUP",
+    "name": "Kalaupapa Airport",
+    "city": "Kalaupapa, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "LUQ",
+    "name": "Brigadier Mayor César Raúl Ojeda Airport",
+    "city": "San Luis, San Luis",
+    "country": "Argentina"
+  },
+  {
+    "code": "LUR",
+    "name": "Cape Lisburne LRRS Airport",
+    "city": "Cape Lisburne, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "LUS",
+    "name": "Lusanga Airport",
+    "city": "Lusanga",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LUT",
+    "name": "New Laura Airport",
+    "city": "New Laura, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LUU",
+    "name": "Laura Airport",
+    "city": "Laura, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LUV",
+    "name": "Karel Sadsuitubun Airport",
+    "city": "Langgur",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LUW",
+    "name": "Syukuran Aminuddin Amir Airport",
+    "city": "Luwuk",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LUX",
+    "name": "Luxembourg Findel Airport",
+    "city": "Luxembourg",
+    "country": "Luxembourg"
+  },
+  {
+    "code": "LUZ",
+    "name": "Lublin Airport",
+    "city": "Lublin",
+    "country": "Poland"
+  },
+  {
+    "code": "LVA",
+    "name": "Laval Entrammes Airport",
+    "city": "Laval, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "LVB",
+    "name": "Galpões Airport",
+    "city": "Santana do Livramento, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "LVD",
+    "name": "Lime Village Airport (FAA: 2AK)",
+    "city": "Lime Village, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "LVI",
+    "name": "Harry Mwanga Nkumbula International Airport",
+    "city": "Livingstone",
+    "country": "Zambia"
+  },
+  {
+    "code": "LVK",
+    "name": "Livermore Municipal Airport",
+    "city": "Livermore, California",
+    "country": "United States"
+  },
+  {
+    "code": "LVL",
+    "name": "Lawrenceville/Brunswick Municipal Airport",
+    "city": "Lawrenceville, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "LVM",
+    "name": "Mission Field",
+    "city": "Livingston, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "LVO",
+    "name": "Laverton Airport",
+    "city": "Laverton, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "LVP",
+    "name": "Lavan Airport",
+    "city": "Lavan Island",
+    "country": "Iran"
+  },
+  {
+    "code": "LVR",
+    "name": "Bom Futuro Municipal Airport",
+    "city": "Lucas do Rio Verde, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "LVS",
+    "name": "Las Vegas Municipal Airport",
+    "city": "Las Vegas, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "LWA",
+    "name": "Lebak Airport",
+    "city": "Lebak",
+    "country": "Philippines"
+  },
+  {
+    "code": "LWB",
+    "name": "Greenbrier Valley Airport",
+    "city": "Lewisburg, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "LWC",
+    "name": "Lawrence Municipal Airport",
+    "city": "Lawrence, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "LWE",
+    "name": "Wonopito Airport",
+    "city": "Lewoleba",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LWH",
+    "name": "Lawn Hill Airport",
+    "city": "Lawn Hill, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LWI",
+    "name": "Lowai Airport",
+    "city": "Lowai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "LWK",
+    "name": "Tingwall Airport (Lerwick/Tingwall Airport)",
+    "city": "Lerwick, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LWL",
+    "name": "Wells Municipal Airport (Harriet Field)",
+    "city": "Wells, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "LWM",
+    "name": "Lawrence Municipal Airport",
+    "city": "Lawrence, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "LWN",
+    "name": "Shirak Airport",
+    "city": "Gyumri",
+    "country": "Armenia"
+  },
+  {
+    "code": "LWO",
+    "name": "Lviv Danylo Halytskyi International Airport",
+    "city": "Lviv",
+    "country": "Ukraine"
+  },
+  {
+    "code": "LWR",
+    "name": "Leeuwarden Air Base",
+    "city": "Leeuwarden",
+    "country": "Netherlands"
+  },
+  {
+    "code": "LWS",
+    "name": "Lewiston–Nez Perce County Airport",
+    "city": "Lewiston, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "LWT",
+    "name": "Lewistown Municipal Airport",
+    "city": "Lewistown, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "LWV",
+    "name": "Lawrenceville–Vincennes International Airport",
+    "city": "Lawrenceville, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "LWY",
+    "name": "Lawas Airport",
+    "city": "Lawas, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "LXA",
+    "name": "Lhasa Gonggar Airport",
+    "city": "Lhasa, Tibet",
+    "country": "China"
+  },
+  {
+    "code": "LXG",
+    "name": "Louang Namtha Airport",
+    "city": "Luang Namtha",
+    "country": "Laos"
+  },
+  {
+    "code": "LXN",
+    "name": "Jim Kelly Field",
+    "city": "Lexington, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "LXR",
+    "name": "Luxor International Airport",
+    "city": "Luxor",
+    "country": "Egypt"
+  },
+  {
+    "code": "LXS",
+    "name": "Lemnos International Airport",
+    "city": "Lemnos (Limnos)",
+    "country": "Greece"
+  },
+  {
+    "code": "LXU",
+    "name": "Lukulu Airport",
+    "city": "Lukulu",
+    "country": "Zambia"
+  },
+  {
+    "code": "LXV",
+    "name": "Lake County Airport",
+    "city": "Leadville, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "LYA",
+    "name": "Luoyang Beijiao Airport",
+    "city": "Luoyang, Henan",
+    "country": "China"
+  },
+  {
+    "code": "LYB",
+    "name": "Edward Bodden Airfield",
+    "city": "Little Cayman",
+    "country": "British Overseas Territory of Cayman Islands"
+  },
+  {
+    "code": "LYC",
+    "name": "Lycksele Airport",
+    "city": "Lycksele",
+    "country": "Sweden"
+  },
+  {
+    "code": "LYE",
+    "name": "RAF Lyneham",
+    "city": "Lyneham, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LYG",
+    "name": "Lianyungang Baitabu Airport",
+    "city": "Lianyungang, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "LYH",
+    "name": "Lynchburg Regional Airport (Preston Glenn Field)",
+    "city": "Lynchburg, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "LYI",
+    "name": "Linyi Qiyang Airport (formerly Linyi Shubuling Airport)",
+    "city": "Linyi, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "LYK",
+    "name": "Lunyuk Airport",
+    "city": "Lunyuk",
+    "country": "Indonesia"
+  },
+  {
+    "code": "LYN",
+    "name": "Lyon–Bron Airport",
+    "city": "Lyon, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "LYO",
+    "name": "Lyons–Rice County Municipal Airport",
+    "city": "Lyons, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "LYP",
+    "name": "Faisalabad International Airport",
+    "city": "Faisalabad",
+    "country": "Pakistan"
+  },
+  {
+    "code": "LYR",
+    "name": "Svalbard Airport, Longyear",
+    "city": "Longyearbyen, Svalbard",
+    "country": "Norway"
+  },
+  {
+    "code": "LYS",
+    "name": "Lyon–Saint-Exupéry Airport",
+    "city": "Lyon, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "LYT",
+    "name": "Lady Elliot Island Airport",
+    "city": "Lady Elliot Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LYU",
+    "name": "Ely Municipal Airport (FAA: ELO)",
+    "city": "Ely, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "LYX",
+    "name": "Lydd Airport (London Ashford Airport)",
+    "city": "Lydd, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LZA",
+    "name": "Luiza Airport",
+    "city": "Luiza",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LZC",
+    "name": "Lázaro Cárdenas Airport",
+    "city": "Lázaro Cárdenas, Michoacán",
+    "country": "Mexico"
+  },
+  {
+    "code": "LZH",
+    "name": "Liuzhou Bailian Airport",
+    "city": "Liuzhou, Guangxi",
+    "country": "China"
+  },
+  {
+    "code": "LZI",
+    "name": "Luozi Airport",
+    "city": "Luozi",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "LZM",
+    "name": "Cuango-Luzamba Airport",
+    "city": "Cuango (Luzamba)",
+    "country": "Angola"
+  },
+  {
+    "code": "LZN",
+    "name": "Matsu Nangan Airport",
+    "city": "Nangan",
+    "country": "Taiwan"
+  },
+  {
+    "code": "LZO",
+    "name": "Luzhou Yunlong Airport",
+    "city": "Luzhou, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "LZR",
+    "name": "Lizard Island Airport",
+    "city": "Lizard Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "LZU",
+    "name": "Gwinnett County Airport (Briscoe Field)",
+    "city": "LaGrange, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "LZY",
+    "name": "Nyingchi Mainling Airport",
+    "city": "Nyingchi (Linzhi), Tibet",
+    "country": "China"
+  }
+]

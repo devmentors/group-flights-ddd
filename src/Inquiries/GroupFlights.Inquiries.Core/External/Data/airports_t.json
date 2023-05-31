@@ -1,0 +1,3032 @@
+﻿[
+  {
+    "code": "TAA",
+    "name": "Tarapaina Airport",
+    "city": "Tarapaina",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "TAB",
+    "name": "Arthur Napoleon Raymond Robinson International Airport",
+    "city": "Tobago",
+    "country": "Trinidad and Tobago"
+  },
+  {
+    "code": "TAC",
+    "name": "Daniel Z. Romualdez Airport",
+    "city": "Tacloban",
+    "country": "Philippines"
+  },
+  {
+    "code": "TAD",
+    "name": "Perry Stokes Airport",
+    "city": "Trinidad, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "TAE",
+    "name": "Daegu International Airport",
+    "city": "Daegu",
+    "country": "South Korea"
+  },
+  {
+    "code": "TAF",
+    "name": "Oran Tafaraoui Airport",
+    "city": "Oran",
+    "country": "Algeria"
+  },
+  {
+    "code": "TAG",
+    "name": "Bohol–Panglao International Airport",
+    "city": "Tagbilaran",
+    "country": "Philippines"
+  },
+  {
+    "code": "TAH",
+    "name": "Whitegrass Airport",
+    "city": "Tanna Island",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "TAI",
+    "name": "Taiz International Airport",
+    "city": "Taiz (Ta'izz)",
+    "country": "Yemen"
+  },
+  {
+    "code": "TAJ",
+    "name": "Tadji Airport",
+    "city": "Aitape",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TAK",
+    "name": "Takamatsu Airport",
+    "city": "Takamatsu, Shikoku",
+    "country": "Japan"
+  },
+  {
+    "code": "TAL",
+    "name": "Ralph M. Calhoun Memorial Airport",
+    "city": "Tanana, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TAM",
+    "name": "General Francisco Javier Mina International Airport",
+    "city": "Tampico, Tamaulipas",
+    "country": "Mexico"
+  },
+  {
+    "code": "TAN",
+    "name": "Tangalooma Airport",
+    "city": "Tangalooma, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TAO",
+    "name": "Qingdao Jiaodong International Airport",
+    "city": "Qingdao, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "TAP",
+    "name": "Tapachula International Airport",
+    "city": "Tapachula, Chiapas",
+    "country": "Mexico"
+  },
+  {
+    "code": "TAQ",
+    "name": "Tarcoola Airport",
+    "city": "Tarcoola, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TAR",
+    "name": "Taranto-Grottaglie Airport",
+    "city": "Taranto, Apulia",
+    "country": "Italy"
+  },
+  {
+    "code": "TAS",
+    "name": "Tashkent International Airport",
+    "city": "Tashkent",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "TAT",
+    "name": "Poprad–Tatry Airport",
+    "city": "Poprad",
+    "country": "Slovakia"
+  },
+  {
+    "code": "TAU",
+    "name": "Tauramena Airport",
+    "city": "Tauramena",
+    "country": "Colombia"
+  },
+  {
+    "code": "TAV",
+    "name": "Tau Airport (FAA: HI36)",
+    "city": "Tau",
+    "country": "American Samoa"
+  },
+  {
+    "code": "TAW",
+    "name": "Tacuarembó Airport",
+    "city": "Tacuarembó",
+    "country": "Uruguay"
+  },
+  {
+    "code": "TAX",
+    "name": "Taliabu Airport",
+    "city": "Taliabu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TAY",
+    "name": "Tartu Airport",
+    "city": "Tartu",
+    "country": "Estonia"
+  },
+  {
+    "code": "TAZ",
+    "name": "Daşoguz Airport",
+    "city": "Daşoguz (Dashoguz)",
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "TBA",
+    "name": "Tabibuga Airport",
+    "city": "Tabibuga",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TBB",
+    "name": "Dong Tac Airport",
+    "city": "Tuy Hòa",
+    "country": "Vietnam"
+  },
+  {
+    "code": "TBC",
+    "name": "Tuba City Airport (FAA: T03)",
+    "city": "Tuba City, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "TBD",
+    "name": "Timbiquí Airport",
+    "city": "Timbiquí",
+    "country": "Colombia"
+  },
+  {
+    "code": "TBE",
+    "name": "Timbunke Airport",
+    "city": "Timbunke",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TBF",
+    "name": "Tabiteuea North Airport",
+    "city": "Tabiteuea North",
+    "country": "Kiribati"
+  },
+  {
+    "code": "TBG",
+    "name": "Tabubil Airport",
+    "city": "Tabubil",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TBH",
+    "name": "Tugdan Airport",
+    "city": "Tablas Island",
+    "country": "Philippines"
+  },
+  {
+    "code": "TBI",
+    "name": "New Bight Airport",
+    "city": "New Bight, Cat Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "TBJ",
+    "name": "Tabarka–Aïn Draham International Airport",
+    "city": "Tabarka",
+    "country": "Tunisia"
+  },
+  {
+    "code": "TBK",
+    "name": "Timber Creek Airport",
+    "city": "Timber Creek, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "TBL",
+    "name": "Tableland Homestead Airport",
+    "city": "Tableland, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TBM",
+    "name": "Tumbang Samba Airport",
+    "city": "Tumbang Samba",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TBN",
+    "name": "Waynesville-St. Robert Regional Airport (Forney Field)",
+    "city": "Fort Leonard Wood, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "TBO",
+    "name": "Tabora Airport",
+    "city": "Tabora",
+    "country": "Tanzania"
+  },
+  {
+    "code": "TBP",
+    "name": "Cap. FAP Pedro Canga Rodríguez Airport",
+    "city": "Tumbes",
+    "country": "Peru"
+  },
+  {
+    "code": "TBQ",
+    "name": "Tarabo Airport",
+    "city": "Tarabo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TBR",
+    "name": "Statesboro–Bulloch County Airport",
+    "city": "Statesboro, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "TBS",
+    "name": "Tbilisi International Airport",
+    "city": "Tbilisi",
+    "country": "Georgia"
+  },
+  {
+    "code": "TBT",
+    "name": "Tabatinga International Airport",
+    "city": "Tabatinga, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "TBU",
+    "name": "Fuaʻamotu International Airport",
+    "city": "Nukuʻalofa",
+    "country": "Tonga"
+  },
+  {
+    "code": "TBV",
+    "name": "Tabal Airport",
+    "city": "Tabal Island, Aur Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "TBW",
+    "name": "Tambov Donskoye Airport",
+    "city": "Tambov, Tambov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TBY",
+    "name": "Tshabong Airport",
+    "city": "Tsabong",
+    "country": "Botswana"
+  },
+  {
+    "code": "TBZ",
+    "name": "Tabriz International Airport",
+    "city": "Tabriz",
+    "country": "Iran"
+  },
+  {
+    "code": "TCA",
+    "name": "Tennant Creek Airport",
+    "city": "Tennant Creek, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "TCB",
+    "name": "Treasure Cay Airport",
+    "city": "Treasure Cay, Abaco Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "TCC",
+    "name": "Tucumcari Municipal Airport",
+    "city": "Tucumcari, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "TCD",
+    "name": "Tarapacá Airport",
+    "city": "Tarapacá",
+    "country": "Colombia"
+  },
+  {
+    "code": "TCE",
+    "name": "Tulcea Danube Delta Airport",
+    "city": "Tulcea",
+    "country": "Romania"
+  },
+  {
+    "code": "TCF",
+    "name": "Tocoa Airport",
+    "city": "Tocoa",
+    "country": "Honduras"
+  },
+  {
+    "code": "TCG",
+    "name": "Tacheng Airport",
+    "city": "Tacheng, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "TCH",
+    "name": "Tchibanga Airport",
+    "city": "Tchibanga",
+    "country": "Gabon"
+  },
+  {
+    "code": "TCI",
+    "name": "metropolitan area1",
+    "city": "Tenerife, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "TCJ",
+    "name": "Torembi Airport",
+    "city": "Torembi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TCK",
+    "name": "Tinboli Airport",
+    "city": "Tinboli",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TCL",
+    "name": "Tuscaloosa Regional Airport",
+    "city": "Tuscaloosa, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "TCM",
+    "name": "McChord Field",
+    "city": "Tacoma, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "TCN",
+    "name": "Tehuacán Airport",
+    "city": "Tehuacán, Puebla",
+    "country": "Mexico"
+  },
+  {
+    "code": "TCO",
+    "name": "La Florida Airport",
+    "city": "Tumaco",
+    "country": "Colombia"
+  },
+  {
+    "code": "TCP",
+    "name": "Taba International Airport",
+    "city": "Taba",
+    "country": "Egypt"
+  },
+  {
+    "code": "TCQ",
+    "name": "Coronel FAP Carlos Ciriani Santa Rosa International Airport",
+    "city": "Tacna",
+    "country": "Peru"
+  },
+  {
+    "code": "TCR",
+    "name": "Tuticorin Airport",
+    "city": "Thoothukudi (Tuticorin), Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "TCS",
+    "name": "Truth or Consequences Municipal Airport",
+    "city": "Truth or Consequences, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "TCT",
+    "name": "Takotna Airport",
+    "city": "Takotna, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TCU",
+    "name": "Thaba Nchu Airport",
+    "city": "Thaba 'Nchu",
+    "country": "South Africa"
+  },
+  {
+    "code": "TCV",
+    "name": "Tete Airport",
+    "city": "Tete",
+    "country": "Mozambique"
+  },
+  {
+    "code": "TCW",
+    "name": "Tocumwal Airport",
+    "city": "Tocumwal, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "TCX",
+    "name": "Tabas Airport",
+    "city": "Tabas",
+    "country": "Iran"
+  },
+  {
+    "code": "TCY",
+    "name": "Terrace Bay Airport",
+    "city": "Terrace Bay",
+    "country": "Namibia"
+  },
+  {
+    "code": "TCZ",
+    "name": "Tengchong Tuofeng Airport",
+    "city": "Tengchong, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "TDA",
+    "name": "Trinidad Airport",
+    "city": "Trinidad",
+    "country": "Colombia"
+  },
+  {
+    "code": "TDB",
+    "name": "Tetebedi Airport",
+    "city": "Tetebedi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TDD",
+    "name": "Teniente Jorge Henrich Arauz Airport",
+    "city": "Trinidad",
+    "country": "Bolivia"
+  },
+  {
+    "code": "TDG",
+    "name": "Tandag Airport",
+    "city": "Tandag",
+    "country": "Philippines"
+  },
+  {
+    "code": "TDJ",
+    "name": "Tadjoura Airport",
+    "city": "Tadjoura",
+    "country": "Djibouti"
+  },
+  {
+    "code": "TDK",
+    "name": "Taldykorgan Airport",
+    "city": "Taldykorgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "TDL",
+    "name": "Tandil Airport",
+    "city": "Tandil, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "TDN",
+    "name": "Theda Station Airport",
+    "city": "Theda Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TDO",
+    "name": "South Lewis County Airport (Ed Carlson Memorial Field)",
+    "city": "Toledo, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "TDP",
+    "name": "Trompeteros Airport",
+    "city": "Trompeteros",
+    "country": "Peru"
+  },
+  {
+    "code": "TDR",
+    "name": "Theodore Airport",
+    "city": "Theodore, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TDS",
+    "name": "Sasereme Airport",
+    "city": "Sasereme",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TDT",
+    "name": "Tanda Tula Airport",
+    "city": "Timbavati",
+    "country": "South Africa"
+  },
+  {
+    "code": "TDV",
+    "name": "Samangoky Airport",
+    "city": "Tanandava",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TDW",
+    "name": "Tradewind Airport",
+    "city": "Amarillo, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "TDX",
+    "name": "Trat Airport",
+    "city": "Trat",
+    "country": "Thailand"
+  },
+  {
+    "code": "TDZ",
+    "name": "Toledo Executive Airport",
+    "city": "Toledo, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "TEA",
+    "name": "Tela Airport",
+    "city": "Tela",
+    "country": "Honduras"
+  },
+  {
+    "code": "TEB",
+    "name": "Teterboro Airport",
+    "city": "Teterboro, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "TEC",
+    "name": "Telêmaco Borba Airport",
+    "city": "Telêmaco Borba, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "TED",
+    "name": "Thisted Airport",
+    "city": "Thisted",
+    "country": "Denmark"
+  },
+  {
+    "code": "TEE",
+    "name": "Cheikh Larbi Tébessi Airport",
+    "city": "Tébessa",
+    "country": "Algeria"
+  },
+  {
+    "code": "TEF",
+    "name": "Telfer Airport",
+    "city": "Telfer, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TEG",
+    "name": "Tenkodogo Airport",
+    "city": "Tenkodogo",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "TEH",
+    "name": "Tetlin Airport (FAA: 3T4)",
+    "city": "Tetlin, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TEI",
+    "name": "Tezu Airport",
+    "city": "Tezu, Arunachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "TEK",
+    "name": "Tatitlek Airport (FAA: 7KA)",
+    "city": "Tatitlek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TEL",
+    "name": "Telupid Airport",
+    "city": "Telupid, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TEM",
+    "name": "Temora Airport",
+    "city": "Temora, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "TEN",
+    "name": "Tongren Fenghuang Airport",
+    "city": "Tongren, Guizhou",
+    "country": "China"
+  },
+  {
+    "code": "TEO",
+    "name": "Terapo Airport",
+    "city": "Terapo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TEP",
+    "name": "Teptep Airport",
+    "city": "Teptep",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TEQ",
+    "name": "Tekirdağ Çorlu Airport",
+    "city": "Tekirdağ",
+    "country": "Turkey"
+  },
+  {
+    "code": "TER",
+    "name": "Lajes Airport",
+    "city": "Terceira Island, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "TES",
+    "name": "Teseney Airport",
+    "city": "Teseney",
+    "country": "Eritrea"
+  },
+  {
+    "code": "TET",
+    "name": "Chingozi Airport",
+    "city": "Tete",
+    "country": "Mozambique"
+  },
+  {
+    "code": "TEU",
+    "name": "Te Anau Airport (Manapouri Airport)",
+    "city": "Te Anau",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TEV",
+    "name": "Teruel Airport",
+    "city": "Teruel, Aragon",
+    "country": "Spain"
+  },
+  {
+    "code": "TEX",
+    "name": "Telluride Regional Airport",
+    "city": "Telluride, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "TEY",
+    "name": "Thingeyri Airport",
+    "city": "Thingeyri (Þingeyri)",
+    "country": "Iceland"
+  },
+  {
+    "code": "TEZ",
+    "name": "Tezpur Airport",
+    "city": "Tezpur, Assam",
+    "country": "India"
+  },
+  {
+    "code": "TFB",
+    "name": "Tifalmin Airport",
+    "city": "Tifalmin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TFF",
+    "name": "Tefé Airport",
+    "city": "Tefé, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "TFI",
+    "name": "Tufi Airport",
+    "city": "Tufi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TFL",
+    "name": "Teófilo Otoni Airport (Juscelino Kubitscheck Airport)",
+    "city": "Teófilo Otoni, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "TFM",
+    "name": "Telefomin Airport",
+    "city": "Telefomin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TFN",
+    "name": "Tenerife–North Airport (Los Rodeos Airport)",
+    "city": "Tenerife, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "TFR",
+    "name": "Wadi al Jandali Airport",
+    "city": "10th of Ramadan City",
+    "country": "Egypt"
+  },
+  {
+    "code": "TFS",
+    "name": "Tenerife–South Airport (Reina Sofia Airport)",
+    "city": "Tenerife, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "TFT",
+    "name": "Taftan Airport",
+    "city": "Taftan",
+    "country": "Pakistan"
+  },
+  {
+    "code": "TFU",
+    "name": "Chengdu Tianfu International Airport",
+    "city": "Jianyang, Chengdu",
+    "country": "China"
+  },
+  {
+    "code": "TGA",
+    "name": "Tengah Air Base",
+    "city": "",
+    "country": "Singapore"
+  },
+  {
+    "code": "TGB",
+    "name": "Tagbita Airport",
+    "city": "Rizal",
+    "country": "Philippines"
+  },
+  {
+    "code": "TGC",
+    "name": "Tanjung Manis Airport",
+    "city": "Tanjung Manis, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TGD",
+    "name": "Podgorica Airport",
+    "city": "Podgorica",
+    "country": "Montenegro"
+  },
+  {
+    "code": "TGE",
+    "name": "Sharpe Field (FAA: AL73)",
+    "city": "Tuskegee, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "TGG",
+    "name": "Sultan Mahmud Airport",
+    "city": "Kuala Terengganu, Terengganu",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TGH",
+    "name": "Tongoa Airport",
+    "city": "Tongoa, Shefa",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "TGI",
+    "name": "Tingo María Airport",
+    "city": "Tingo María",
+    "country": "Peru"
+  },
+  {
+    "code": "TGJ",
+    "name": "Tiga Airport",
+    "city": "Tiga Island, Loyalty Islands",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "TGK",
+    "name": "Taganrog Airport",
+    "city": "Taganrog, Rostov Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TGL",
+    "name": "Tagula Airport",
+    "city": "Vanatinai (Tagula Island)",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TGM",
+    "name": "Târgu Mureș International Airport",
+    "city": "Târgu Mureș",
+    "country": "Romania"
+  },
+  {
+    "code": "TGN",
+    "name": "Latrobe Regional Airport",
+    "city": "Traralgon, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "TGO",
+    "name": "Tongliao Airport",
+    "city": "Tongliao, Inner Mongolia",
+    "country": "China"
+  },
+  {
+    "code": "TGP",
+    "name": "Podkamennaya Tunguska Airport",
+    "city": "Bor, Krasnoyarsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "TGQ",
+    "name": "Tangará da Serra Airport",
+    "city": "Tangará da Serra, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "TGR",
+    "name": "Sidi Mahdi Airport",
+    "city": "Touggourt",
+    "country": "Algeria"
+  },
+  {
+    "code": "TGS",
+    "name": "Chokwe Airport",
+    "city": "Chokwe",
+    "country": "Mozambique"
+  },
+  {
+    "code": "TGT",
+    "name": "Tanga Airport",
+    "city": "Tanga",
+    "country": "Tanzania"
+  },
+  {
+    "code": "TGU",
+    "name": "Toncontín International Airport",
+    "city": "Tegucigalpa",
+    "country": "Honduras"
+  },
+  {
+    "code": "TGV",
+    "name": "Targovishte Airport (Buhovtsi Airfield)",
+    "city": "Targovishte",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "TGZ",
+    "name": "Ángel Albino Corzo International Airport",
+    "city": "Tuxtla Gutiérrez, Chiapas",
+    "country": "Mexico"
+  },
+  {
+    "code": "THA",
+    "name": "Tullahoma Regional Airport (William Northern Field)",
+    "city": "Tullahoma, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "THB",
+    "name": "Thaba Tseka Airport",
+    "city": "Thaba-Tseka",
+    "country": "Lesotho"
+  },
+  {
+    "code": "THC",
+    "name": "Tchien Airport",
+    "city": "Tchien",
+    "country": "Liberia"
+  },
+  {
+    "code": "THD",
+    "name": "Tho Xuan Airport",
+    "city": "Thanh Hóa",
+    "country": "Vietnam"
+  },
+  {
+    "code": "THE",
+    "name": "Teresina–Senador Petrônio Portella Airport",
+    "city": "Teresina, Piauí",
+    "country": "Brazil"
+  },
+  {
+    "code": "THG",
+    "name": "Thangool Airport",
+    "city": "Thangool, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "THH",
+    "name": "Taharoa Aerodrome",
+    "city": "Taharoa",
+    "country": "New Zealand"
+  },
+  {
+    "code": "THI",
+    "name": "Tichitt Airport",
+    "city": "Tichit",
+    "country": "Mauritania"
+  },
+  {
+    "code": "THK",
+    "name": "Thakhek Airport",
+    "city": "Thakhek",
+    "country": "Laos"
+  },
+  {
+    "code": "THL",
+    "name": "Tachilek Airport",
+    "city": "Tachileik (Tachilek)",
+    "country": "Myanmar"
+  },
+  {
+    "code": "THM",
+    "name": "Thompson Falls Airport",
+    "city": "Thompson Falls, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "THN",
+    "name": "Trollhättan–Vänersborg Airport",
+    "city": "Trollhättan / Vänersborg",
+    "country": "Sweden"
+  },
+  {
+    "code": "THO",
+    "name": "Thorshofn Airport",
+    "city": "Thorshofn (Þórshöfn)",
+    "country": "Iceland"
+  },
+  {
+    "code": "THP",
+    "name": "Hot Springs County–Thermopolis Municipal Airport",
+    "city": "Thermopolis, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "THQ",
+    "name": "Tianshui Maijishan Airport",
+    "city": "Tianshui, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "THR",
+    "name": "Mehrabad International Airport",
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  {
+    "code": "THS",
+    "name": "Sukhothai Airport",
+    "city": "Sukhothai",
+    "country": "Thailand"
+  },
+  {
+    "code": "THT",
+    "name": "Tamchakett Airport",
+    "city": "Tamchakett",
+    "country": "Mauritania"
+  },
+  {
+    "code": "THU",
+    "name": "Pituffik Space Base",
+    "city": "Pituffik",
+    "country": "Greenland"
+  },
+  {
+    "code": "THV",
+    "name": "York Airport",
+    "city": "York, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "THW",
+    "name": "Trincomalee Harbour Seaplane Base",
+    "city": "Trincomalee",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "THX",
+    "name": "Turukhansk Airport",
+    "city": "Turukhansk, Krasnoyarsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "THY",
+    "name": "P.R. Mphephu Airport",
+    "city": "Thohoyandou",
+    "country": "South Africa"
+  },
+  {
+    "code": "THZ",
+    "name": "Tahoua Airport",
+    "city": "Tahoua",
+    "country": "Niger"
+  },
+  {
+    "code": "TIA",
+    "name": "Tirana International Airport Nënë Tereza",
+    "city": "Tirana",
+    "country": "Albania"
+  },
+  {
+    "code": "TIB",
+    "name": "Tibú Airport",
+    "city": "Tibú",
+    "country": "Colombia"
+  },
+  {
+    "code": "TIC",
+    "name": "Tinak Airport (FAA: N18)",
+    "city": "Tinak Island, Arno Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "TID",
+    "name": "Abdelhafid Boussouf Bou Chekif Airport",
+    "city": "Tiaret",
+    "country": "Algeria"
+  },
+  {
+    "code": "TIE",
+    "name": "Tippi Airport",
+    "city": "Tepi (Tippi)",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "TIF",
+    "name": "Ta'if Regional Airport",
+    "city": "Ta'if",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "TIG",
+    "name": "Tingwon Airport",
+    "city": "Tingwon",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TIH",
+    "name": "Tikehau Airport",
+    "city": "Tikehau, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TII",
+    "name": "Tarinkot Airport",
+    "city": "Tarinkot (Tarin Kowt)",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "TIJ",
+    "name": "Tijuana International Airport",
+    "city": "Tijuana, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "code": "TIK",
+    "name": "Tinker Air Force Base",
+    "city": "Oklahoma City, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "TIL",
+    "name": "Cheadle Airport (TC: CFQ4)",
+    "city": "Cheadle, Alberta",
+    "country": "Canada"
+  },
+  {
+    "code": "TIM",
+    "name": "Mozes Kilangin Airport",
+    "city": "Tembagapura / Timika",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TIN",
+    "name": "Tindouf Airport",
+    "city": "Tindouf",
+    "country": "Algeria"
+  },
+  {
+    "code": "TIO",
+    "name": "Tilin Airport",
+    "city": "Htilin (Tilin)",
+    "country": "Myanmar"
+  },
+  {
+    "code": "TIP",
+    "name": "Tripoli International Airport",
+    "city": "Tripoli",
+    "country": "Libya"
+  },
+  {
+    "code": "TIQ",
+    "name": "Tinian International Airport (West Tinian Airport) (FAA: TNI)",
+    "city": "Tinian",
+    "country": "Northern Mariana Islands"
+  },
+  {
+    "code": "TIR",
+    "name": "Tirupati Airport",
+    "city": "Tirupati, Andhra Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "TIS",
+    "name": "Thursday Island Airport",
+    "city": "Thursday Island",
+    "country": "Australia"
+  },
+  {
+    "code": "TIU",
+    "name": "Richard Pearse Airport",
+    "city": "Timaru",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TIV",
+    "name": "Tivat Airport",
+    "city": "Tivat",
+    "country": "Montenegro"
+  },
+  {
+    "code": "TIW",
+    "name": "Tacoma Narrows Airport",
+    "city": "Tacoma, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "TIX",
+    "name": "Space Coast Regional Airport",
+    "city": "Titusville, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "TIY",
+    "name": "Tidjikja Airport",
+    "city": "Tidjikja",
+    "country": "Mauritania"
+  },
+  {
+    "code": "TIZ",
+    "name": "Tari Airport",
+    "city": "Tari",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TJA",
+    "name": "Capitán Oriel Lea Plaza Airport",
+    "city": "Tarija",
+    "country": "Bolivia"
+  },
+  {
+    "code": "TJB",
+    "name": "Sei Bati Airport",
+    "city": "Tanjung Balai",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TJC",
+    "name": "Ticantiquí Airport",
+    "city": "Ticantiquí",
+    "country": "Panama"
+  },
+  {
+    "code": "TJG",
+    "name": "Warukin Airport",
+    "city": "Tanjung",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TJH",
+    "name": "Tajima Airport",
+    "city": "Toyooka, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "TJI",
+    "name": "Trujillo Airport (Capiro Airport)",
+    "city": "Trujillo",
+    "country": "Honduras"
+  },
+  {
+    "code": "TJK",
+    "name": "Tokat Airport",
+    "city": "Tokat",
+    "country": "Turkey"
+  },
+  {
+    "code": "TJL",
+    "name": "Plínio Alarcom Airport",
+    "city": "Três Lagoas, Mato Grosso do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "TJM",
+    "name": "Roshchino International Airport",
+    "city": "Tyumen, Tyumen Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TJN",
+    "name": "Takume Airport",
+    "city": "Takume, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TJQ",
+    "name": "H.A.S. Hanandjoeddin Airport (Buluh Tumbang Airport)",
+    "city": "Tanjung Pandan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TJS",
+    "name": "Tanjung Harapan Airport",
+    "city": "Tanjung Selor",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TJU",
+    "name": "Kulob Airport",
+    "city": "Kulob",
+    "country": "Tajikistan"
+  },
+  {
+    "code": "TJV",
+    "name": "Thanjavur Air Force Station",
+    "city": "Thanjavur, Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "TKA",
+    "name": "Talkeetna Airport",
+    "city": "Talkeetna, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TKB",
+    "name": "Tekadu Airport",
+    "city": "Tekadu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TKC",
+    "name": "Tiko Airport",
+    "city": "Tiko",
+    "country": "Cameroon"
+  },
+  {
+    "code": "TKD",
+    "name": "Takoradi Airport",
+    "city": "Sekondi-Takoradi",
+    "country": "Ghana"
+  },
+  {
+    "code": "TKE",
+    "name": "Tenakee Seaplane Base",
+    "city": "Tenakee Springs, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TKF",
+    "name": "Truckee Tahoe Airport (FAA: TRK)",
+    "city": "Truckee, California",
+    "country": "United States"
+  },
+  {
+    "code": "TKG",
+    "name": "Radin Inten II Airport",
+    "city": "Bandar Lampung",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TKH",
+    "name": "Takhli Royal Thai Air Force Base",
+    "city": "Takhli",
+    "country": "Thailand"
+  },
+  {
+    "code": "TKI",
+    "name": "Tokeen Seaplane Base (FAA: 57A)",
+    "city": "Tokeen, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TKJ",
+    "name": "Tok Junction Airport (FAA: 6K8)",
+    "city": "Tok, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TKK",
+    "name": "Chuuk International Airport",
+    "city": "Chuuk",
+    "country": "Federated States of Micronesia"
+  },
+  {
+    "code": "TKL",
+    "name": "Taku Lodge Seaplane Base",
+    "city": "Taku Lodge, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TKN",
+    "name": "Tokunoshima Airport",
+    "city": "Tokunoshima, Amami Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "TKO",
+    "name": "Tlokoeng Airport",
+    "city": "Tlokoeng",
+    "country": "Lesotho"
+  },
+  {
+    "code": "TKP",
+    "name": "Takapoto Airport",
+    "city": "Takapoto, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TKQ",
+    "name": "Kigoma Airport",
+    "city": "Kigoma",
+    "country": "Tanzania"
+  },
+  {
+    "code": "TKR",
+    "name": "Thakurgaon Airport",
+    "city": "Thakurgaon",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "TKS",
+    "name": "Tokushima Airport",
+    "city": "Tokushima, Shikoku",
+    "country": "Japan"
+  },
+  {
+    "code": "TKT",
+    "name": "Tak Airport",
+    "city": "Tak",
+    "country": "Thailand"
+  },
+  {
+    "code": "TKU",
+    "name": "Turku Airport",
+    "city": "Turku",
+    "country": "Finland"
+  },
+  {
+    "code": "TKV",
+    "name": "Tatakoto Airport",
+    "city": "Tatakoto, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TKW",
+    "name": "Tekin Airport",
+    "city": "Tekin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TKX",
+    "name": "Takaroa Airport",
+    "city": "Takaroa, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TKY",
+    "name": "Turkey Creek Airport",
+    "city": "Warmun (Turkey Creek), Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TKZ",
+    "name": "Tokoroa Aerodrome",
+    "city": "Tokoroa",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TLA",
+    "name": "Teller Airport (FAA: TER)",
+    "city": "Teller, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TLB",
+    "name": "Tarbela Dam Airport",
+    "city": "Tarbela Dam",
+    "country": "Pakistan"
+  },
+  {
+    "code": "TLC",
+    "name": "Licenciado Adolfo López Mateos International Airport",
+    "city": "Toluca, State of Mexico",
+    "country": "Mexico"
+  },
+  {
+    "code": "TLD",
+    "name": "Tuli Lodge Airport",
+    "city": "Tuli Lodge",
+    "country": "Botswana"
+  },
+  {
+    "code": "TLE",
+    "name": "Toliara Airport",
+    "city": "Toliara",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TLF",
+    "name": "Telida Airport (FAA: 2K5)",
+    "city": "Telida, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TLG",
+    "name": "Tulaghi Heliport",
+    "city": "Tulagi",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "TLH",
+    "name": "Tallahassee International Airport",
+    "city": "Tallahassee, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "TLI",
+    "name": "Sultan Bantilan Airport (Lalos Airport)",
+    "city": "Tolitoli",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TLJ",
+    "name": "Tatalina LRRS Airport",
+    "city": "Tatalina, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TLK",
+    "name": "Talakan Airport",
+    "city": "Talakan, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "TLL",
+    "name": "Tallinn Airport (Lennart Meri Tallinn Airport)",
+    "city": "Tallinn",
+    "country": "Estonia"
+  },
+  {
+    "code": "TLM",
+    "name": "Zenata – Messali El Hadj Airport",
+    "city": "Tlemcen",
+    "country": "Algeria"
+  },
+  {
+    "code": "TLN",
+    "name": "Toulon–Hyères Airport (Hyères Le Palyvestre Airport)",
+    "city": "Toulon / Hyères, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "TLO",
+    "name": "Tol Airport",
+    "city": "Tol",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TLP",
+    "name": "Tumolbil Airport",
+    "city": "Tumolbil",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TLQ",
+    "name": "Turpan Jiaohe Airport",
+    "city": "Turpan, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "TLR",
+    "name": "Mefford Field Airport",
+    "city": "Tulare, California",
+    "country": "United States"
+  },
+  {
+    "code": "TLS",
+    "name": "Toulouse–Blagnac Airport",
+    "city": "Toulouse, Midi-Pyrénées",
+    "country": "France"
+  },
+  {
+    "code": "TLT",
+    "name": "Tuluksak Airport",
+    "city": "Tuluksak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TLU",
+    "name": "Golfo de Morrosquillo Airport",
+    "city": "Tolú",
+    "country": "Colombia"
+  },
+  {
+    "code": "TLV",
+    "name": "Ben Gurion Airport",
+    "city": "Tel Aviv",
+    "country": "Israel"
+  },
+  {
+    "code": "TLW",
+    "name": "Talasea Airport",
+    "city": "Talasea",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TLX",
+    "name": "Panguilemo Airport",
+    "city": "Talca",
+    "country": "Chile"
+  },
+  {
+    "code": "TLY",
+    "name": "Plastun Airport",
+    "city": "Plastun, Primorsky Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "TLZ",
+    "name": "Catalão Airport",
+    "city": "Catalão, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "TMA",
+    "name": "Henry Tift Myers Airport",
+    "city": "Tifton, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "TMB",
+    "name": "Miami Executive Airport",
+    "city": "Miami, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "TMC",
+    "name": "Tambolaka Airport (Waikabubak Airport)",
+    "city": "Tambolaka",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TMD",
+    "name": "Timbedra Airport",
+    "city": "Timbédra",
+    "country": "Mauritania"
+  },
+  {
+    "code": "TME",
+    "name": "Gabriel Vargas Santos Airport",
+    "city": "Tame",
+    "country": "Colombia"
+  },
+  {
+    "code": "TMF",
+    "name": "Thimarafushi Airport",
+    "city": "Thimarafushi, Thaa Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "TMG",
+    "name": "Tommanggong Airport",
+    "city": "Tommanggong, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TMH",
+    "name": "Tanah Merah Airport",
+    "city": "Tanahmerah",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TMI",
+    "name": "Tumlingtar Airport",
+    "city": "Tumlingtar",
+    "country": "Nepal"
+  },
+  {
+    "code": "TMJ",
+    "name": "Termez Airport",
+    "city": "Termez",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "TMK",
+    "name": "Tam Kỳ Airport",
+    "city": "Tam Kỳ",
+    "country": "Vietnam"
+  },
+  {
+    "code": "TML",
+    "name": "Tamale Airport",
+    "city": "Tamale",
+    "country": "Ghana"
+  },
+  {
+    "code": "TMM",
+    "name": "Toamasina Airport",
+    "city": "Toamasina",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TMN",
+    "name": "Tamana Airport",
+    "city": "Tamana",
+    "country": "Kiribati"
+  },
+  {
+    "code": "TMO",
+    "name": "Tumeremo Airport",
+    "city": "Tumeremo",
+    "country": "Venezuela"
+  },
+  {
+    "code": "TMP",
+    "name": "Tampere–Pirkkala Airport",
+    "city": "Tampere",
+    "country": "Finland"
+  },
+  {
+    "code": "TMQ",
+    "name": "Tambao Airport",
+    "city": "Tambao",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "TMR",
+    "name": "Aguenar – Hadj Bey Akhamok Airport",
+    "city": "Tamanrasset",
+    "country": "Algeria"
+  },
+  {
+    "code": "TMS",
+    "name": "São Tomé International Airport",
+    "city": "São Tomé",
+    "country": "São Tomé and Príncipe"
+  },
+  {
+    "code": "TMT",
+    "name": "Porto Trombetas Airport",
+    "city": "Porto Trombetas / Oriximiná, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "TMU",
+    "name": "Tambor Airport",
+    "city": "Tambor",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "TMW",
+    "name": "Tamworth Airport",
+    "city": "Tamworth, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "TMX",
+    "name": "Timimoun Airport",
+    "city": "Timimoun",
+    "country": "Algeria"
+  },
+  {
+    "code": "TMY",
+    "name": "Tiom Airport",
+    "city": "Tiom",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TMZ",
+    "name": "Thames Aerodrome",
+    "city": "Thames",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TNA",
+    "name": "Jinan Yaoqiang International Airport",
+    "city": "Jinan, Shandong",
+    "country": "China"
+  },
+  {
+    "code": "TNB",
+    "name": "Tanah Grogot Airport",
+    "city": "Tanah Grogot",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TNC",
+    "name": "Tin City LRRS Airport",
+    "city": "Tin City, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TND",
+    "name": "Alberto Delgado Airport",
+    "city": "Trinidad",
+    "country": "Cuba"
+  },
+  {
+    "code": "TNE",
+    "name": "New Tanegashima Airport",
+    "city": "Tanegashima, Ōsumi Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "TNF",
+    "name": "Toussus-le-Noble Airport",
+    "city": "Toussus-le-Noble, Île-de-France",
+    "country": "France"
+  },
+  {
+    "code": "TNG",
+    "name": "Tangier Ibn Battouta Airport",
+    "city": "Tangier",
+    "country": "Morocco"
+  },
+  {
+    "code": "TNH",
+    "name": "Tonghua Sanyuanpu Airport",
+    "city": "Tonghua, Jilin",
+    "country": "China"
+  },
+  {
+    "code": "TNI",
+    "name": "Satna Airport",
+    "city": "Satna, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "TNJ",
+    "name": "Raja Haji Fisabilillah Airport",
+    "city": "Tanjung Pinang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TNK",
+    "name": "Tununak Airport (FAA: 4KA)",
+    "city": "Tununak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TNL",
+    "name": "Ternopil International Airport",
+    "city": "Ternopil",
+    "country": "Ukraine"
+  },
+  {
+    "code": "TNM",
+    "name": "Teniente R. Marsh Airport",
+    "city": "King George Island",
+    "country": "Antarctica"
+  },
+  {
+    "code": "TNN",
+    "name": "Tainan Airport",
+    "city": "Tainan",
+    "country": "Taiwan"
+  },
+  {
+    "code": "TNO",
+    "name": "Tamarindo Airport",
+    "city": "Tamarindo",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "TNP",
+    "name": "Twentynine Palms Airport",
+    "city": "Twentynine Palms, California",
+    "country": "United States"
+  },
+  {
+    "code": "TNQ",
+    "name": "Teraina Airport",
+    "city": "Teraina",
+    "country": "Kiribati"
+  },
+  {
+    "code": "TNR",
+    "name": "Ivato International Airport",
+    "city": "Antananarivo",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TNS",
+    "name": "Tungsten (Cantung) Airport (TC: CBX5)",
+    "city": "Tungsten, Northwest Territories",
+    "country": "Canada"
+  },
+  {
+    "code": "TNT",
+    "name": "Dade-Collier Training and Transition Airport",
+    "city": "Miami, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "TNU",
+    "name": "Newton Municipal Airport",
+    "city": "Newton, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "TNV",
+    "name": "Tabuaeran Island Airport",
+    "city": "Tabuaeran",
+    "country": "Kiribati"
+  },
+  {
+    "code": "TNW",
+    "name": "Jumandy Airport",
+    "city": "Tena",
+    "country": "Ecuador"
+  },
+  {
+    "code": "TNX",
+    "name": "Steung Treng Airport",
+    "city": "Stung Treng",
+    "country": "Cambodia"
+  },
+  {
+    "code": "TNZ",
+    "name": "Tosontsengel Airport",
+    "city": "Tosontsengel",
+    "country": "Mongolia"
+  },
+  {
+    "code": "TOA",
+    "name": "Zamperini Field",
+    "city": "Torrance, California",
+    "country": "United States"
+  },
+  {
+    "code": "TOB",
+    "name": "Tobruk Airport",
+    "city": "Tobruk",
+    "country": "Libya"
+  },
+  {
+    "code": "TOC",
+    "name": "Toccoa Airport (R.G. LeTourneau Field)",
+    "city": "Toccoa, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "TOD",
+    "name": "Tioman Airport",
+    "city": "Tioman Island, Pahang",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TOE",
+    "name": "Tozeur–Nefta International Airport",
+    "city": "Tozeur",
+    "country": "Tunisia"
+  },
+  {
+    "code": "TOF",
+    "name": "Bogashevo Airport",
+    "city": "Tomsk, Tomsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TOG",
+    "name": "Togiak Airport",
+    "city": "Togiak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TOH",
+    "name": "Torres Airport",
+    "city": "Torres Islands",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "TOI",
+    "name": "Troy Municipal Airport",
+    "city": "Troy, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "TOJ",
+    "name": "Madrid–Torrejón Airport",
+    "city": "Madrid, Community of Madrid",
+    "country": "Spain"
+  },
+  {
+    "code": "TOK",
+    "name": "Torokina Airport",
+    "city": "Torokina",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TOL",
+    "name": "Toledo Express Airport",
+    "city": "Toledo, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "TOM",
+    "name": "Timbuktu Airport",
+    "city": "Timbuktu (Tombouctou)",
+    "country": "Mali"
+  },
+  {
+    "code": "TON",
+    "name": "Tonu Airport",
+    "city": "Tonu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TOO",
+    "name": "San Vito de Java Airport",
+    "city": "San Vito",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "TOP",
+    "name": "Philip Billard Municipal Airport",
+    "city": "Topeka, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "TOQ",
+    "name": "Barriles Airport",
+    "city": "Tocopilla",
+    "country": "Chile"
+  },
+  {
+    "code": "TOR",
+    "name": "Torrington Municipal Airport",
+    "city": "Torrington, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "TOS",
+    "name": "Tromsø Airport, Langnes",
+    "city": "Tromsø",
+    "country": "Norway"
+  },
+  {
+    "code": "TOT",
+    "name": "Totness Airstrip",
+    "city": "Totness",
+    "country": "Suriname"
+  },
+  {
+    "code": "TOU",
+    "name": "Touho Airport",
+    "city": "Touho",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "TOV",
+    "name": "West End Seaplane Base",
+    "city": "Tortola",
+    "country": "British Overseas Territory of Virgin Islands"
+  },
+  {
+    "code": "TOW",
+    "name": "Luiz dal Canalle Filho Airport",
+    "city": "Toledo, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "TOX",
+    "name": "Tobolsk Airport",
+    "city": "Tobolsk, Tyumen Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TOY",
+    "name": "Toyama Airport",
+    "city": "Toyama, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "TOZ",
+    "name": "Mahana Airport",
+    "city": "Touba",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "TPA",
+    "name": "Tampa International Airport",
+    "city": "Tampa, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "TPC",
+    "name": "Tarapoa Airport",
+    "city": "Tarapoa",
+    "country": "Ecuador"
+  },
+  {
+    "code": "TPE",
+    "name": "Taiwan Taoyuan International Airport",
+    "city": "Taoyuan",
+    "country": "Taiwan"
+  },
+  {
+    "code": "TPF",
+    "name": "Peter O. Knight Airport",
+    "city": "Tampa, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "TPG",
+    "name": "Taiping Airport",
+    "city": "Taiping, Perak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TPH",
+    "name": "Tonopah Airport",
+    "city": "Tonopah, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "TPI",
+    "name": "Tapini Airport",
+    "city": "Tapini",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TPJ",
+    "name": "Taplejung Airport",
+    "city": "Taplejung",
+    "country": "Nepal"
+  },
+  {
+    "code": "TPK",
+    "name": "Teuku Cut Ali Airport",
+    "city": "Tapaktuan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TPL",
+    "name": "Draughon–Miller Central Texas Regional Airport",
+    "city": "Temple, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "TPN",
+    "name": "Tiputini Airport",
+    "city": "Tiputini",
+    "country": "Ecuador"
+  },
+  {
+    "code": "TPP",
+    "name": "Cad. FAP Guillermo del Castillo Paredes Airport",
+    "city": "Tarapoto",
+    "country": "Peru"
+  },
+  {
+    "code": "TPQ",
+    "name": "Amado Nervo International Airport",
+    "city": "Tepic, Nayarit",
+    "country": "Mexico"
+  },
+  {
+    "code": "TPR",
+    "name": "Tom Price Airport",
+    "city": "Tom Price, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TPS",
+    "name": "Vincenzo Florio Airport Trapani–Birgi",
+    "city": "Trapani, Sicily",
+    "country": "Italy"
+  },
+  {
+    "code": "TPT",
+    "name": "Tapeta Airport",
+    "city": "Tapeta",
+    "country": "Liberia"
+  },
+  {
+    "code": "TPU",
+    "name": "Tikapur Airport",
+    "city": "Tikapur",
+    "country": "Nepal"
+  },
+  {
+    "code": "TPX",
+    "name": "Tupai Airport",
+    "city": "Tūpai, Society Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TQD",
+    "name": "Al-Taqaddum Air Base",
+    "city": "Fallujah",
+    "country": "Iraq"
+  },
+  {
+    "code": "TQL",
+    "name": "Tarko-Sale Airport",
+    "city": "Tarko-Sale, Yamalo-Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "TQN",
+    "name": "Taloqan Airport",
+    "city": "Taloqan",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "TQP",
+    "name": "Trepell Airport",
+    "city": "Trepell, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TQQ",
+    "name": "Maranggo Airport",
+    "city": "Tomia Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TQS",
+    "name": "Captain Ernesto Esguerra Cubides Air Base",
+    "city": "Tres Esquinas",
+    "country": "Colombia"
+  },
+  {
+    "code": "TRA",
+    "name": "Tarama Airport",
+    "city": "Tarama, Miyako Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "TRB",
+    "name": "Gonzalo Mejía Airport",
+    "city": "Turbo",
+    "country": "Colombia"
+  },
+  {
+    "code": "TRC",
+    "name": "Francisco Sarabia International Airport (Torreón Int'l)",
+    "city": "Torreón, Coahuila",
+    "country": "Mexico"
+  },
+  {
+    "code": "TRD",
+    "name": "Trondheim Airport, Værnes",
+    "city": "Trondheim",
+    "country": "Norway"
+  },
+  {
+    "code": "TRE",
+    "name": "Tiree Airport",
+    "city": "Tiree, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "TRF",
+    "name": "Sandefjord Airport, Torp",
+    "city": "Sandefjord / Oslo",
+    "country": "Norway"
+  },
+  {
+    "code": "TRG",
+    "name": "Tauranga Airport",
+    "city": "Tauranga",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TRH",
+    "name": "Trona Airport (FAA: L72)",
+    "city": "Trona, California",
+    "country": "United States"
+  },
+  {
+    "code": "TRI",
+    "name": "Tri-Cities Regional Airport",
+    "city": "Bristol / Johnson City / Kingsport, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "TRJ",
+    "name": "Tarakbits Airport",
+    "city": "Tarakbits",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TRK",
+    "name": "Juwata International Airport",
+    "city": "Tarakan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TRL",
+    "name": "Terrell Municipal Airport",
+    "city": "Terrell, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "TRM",
+    "name": "Jacqueline Cochran Regional Airport",
+    "city": "Thermal, California",
+    "country": "United States"
+  },
+  {
+    "code": "TRN",
+    "name": "Turin Airport (Caselle Airport)",
+    "city": "Turin, Piedmont",
+    "country": "Italy"
+  },
+  {
+    "code": "TRO",
+    "name": "Taree Airport",
+    "city": "Taree, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "TRQ",
+    "name": "José Galera dos Santos Airport",
+    "city": "Tarauacá, Acre",
+    "country": "Brazil"
+  },
+  {
+    "code": "TRR",
+    "name": "China Bay Airport",
+    "city": "Trincomalee",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "TRS",
+    "name": "Trieste – Friuli Venezia Giulia Airport (Ronchi dei Legionari Airport)",
+    "city": "Trieste, Friuli-Venezia Giulia",
+    "country": "Italy"
+  },
+  {
+    "code": "TRU",
+    "name": "FAP Captain Carlos Martínez de Pinillos International Airport",
+    "city": "Trujillo",
+    "country": "Peru"
+  },
+  {
+    "code": "TRV",
+    "name": "Trivandrum International Airport",
+    "city": "Thiruvananthapuram, Kerala",
+    "country": "India"
+  },
+  {
+    "code": "TRW",
+    "name": "Bonriki International Airport",
+    "city": "Tarawa",
+    "country": "Kiribati"
+  },
+  {
+    "code": "TRX",
+    "name": "Trenton Municipal Airport",
+    "city": "Trenton, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "TRY",
+    "name": "Tororo Airport",
+    "city": "Tororo",
+    "country": "Uganda"
+  },
+  {
+    "code": "TRZ",
+    "name": "Tiruchirappalli International Airport",
+    "city": "Tiruchirappalli (Tiruchchirappalli), Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "TSA",
+    "name": "Taipei Songshan Airport",
+    "city": "Taipei",
+    "country": "Taiwan"
+  },
+  {
+    "code": "TSB",
+    "name": "Tsumeb Airport",
+    "city": "Tsumeb",
+    "country": "Namibia"
+  },
+  {
+    "code": "TSC",
+    "name": "Taisha Airport",
+    "city": "Taisha",
+    "country": "Ecuador"
+  },
+  {
+    "code": "TSD",
+    "name": "Tshipise Airport",
+    "city": "Tshipise",
+    "country": "South Africa"
+  },
+  {
+    "code": "TSE",
+    "name": "Astana International Airport",
+    "city": "Astana",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "TSF",
+    "name": "Treviso-Sant'Angelo Airport",
+    "city": "Treviso / Venice, Veneto",
+    "country": "Italy"
+  },
+  {
+    "code": "TSG",
+    "name": "Tanacross Airport",
+    "city": "Tanacross, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TSH",
+    "name": "Tshikapa Airport",
+    "city": "Tshikapa",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "TSI",
+    "name": "Tsile Tsile Airport",
+    "city": "Tsili Tsili (Tsile Tsile)",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TSJ",
+    "name": "Tsushima Airport",
+    "city": "Tsushima, Tsushima Island",
+    "country": "Japan"
+  },
+  {
+    "code": "TSK",
+    "name": "Taskul Airport",
+    "city": "Taskul",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TSL",
+    "name": "Tamuín National Airport",
+    "city": "Tamuín, San Luis Potosí",
+    "country": "Mexico"
+  },
+  {
+    "code": "TSM",
+    "name": "Taos Regional Airport (FAA: SKX)",
+    "city": "Taos, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "TSN",
+    "name": "Tianjin Binhai International Airport",
+    "city": "Tianjin",
+    "country": "China"
+  },
+  {
+    "code": "TSP",
+    "name": "Tehachapi Municipal Airport",
+    "city": "Tehachapi, California",
+    "country": "United States"
+  },
+  {
+    "code": "TSQ",
+    "name": "Torres Airport",
+    "city": "Torres, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "TSR",
+    "name": "Timișoara Traian Vuia International Airport",
+    "city": "Timișoara",
+    "country": "Romania"
+  },
+  {
+    "code": "TST",
+    "name": "Trang Airport",
+    "city": "Trang",
+    "country": "Thailand"
+  },
+  {
+    "code": "TSU",
+    "name": "Tabiteuea South Airport",
+    "city": "Tabiteuea South",
+    "country": "Kiribati"
+  },
+  {
+    "code": "TSV",
+    "name": "Townsville Airport",
+    "city": "Townsville, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TSW",
+    "name": "Tsewi Airport",
+    "city": "Tsewi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TSY",
+    "name": "Tasikmalaya Airport (Wiriadinata Airport)",
+    "city": "Tasikmalaya, West Java",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TSX",
+    "name": "Tanjung Santan Airport",
+    "city": "Tanjung Santan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TSZ",
+    "name": "Tsetserleg Airport",
+    "city": "Tsetserleg",
+    "country": "Mongolia"
+  },
+  {
+    "code": "TTA",
+    "name": "Tan Tan Airport (Plage Blanche Airport)",
+    "city": "Tan-Tan",
+    "country": "Morocco"
+  },
+  {
+    "code": "TTB",
+    "name": "Tortolì Airport (Arbatax Airport)",
+    "city": "Tortolì, Sardinia",
+    "country": "Italy"
+  },
+  {
+    "code": "TTC",
+    "name": "Las Breas Airport",
+    "city": "Taltal",
+    "country": "Chile"
+  },
+  {
+    "code": "TTD",
+    "name": "Portland–Troutdale Airport",
+    "city": "Portland, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "TTE",
+    "name": "Sultan Babullah Airport",
+    "city": "Ternate",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TTG",
+    "name": "Tartagal 'General Enrique Mosconi' Airport",
+    "city": "Tartagal, Salta",
+    "country": "Argentina"
+  },
+  {
+    "code": "TTH",
+    "name": "RAFO Thumrait",
+    "city": "Thumrait",
+    "country": "Oman"
+  },
+  {
+    "code": "TTI",
+    "name": "Tetiaroa Airport",
+    "city": "Tetiaroa, Society Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TTJ",
+    "name": "Tottori Airport",
+    "city": "Tottori, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "TTL",
+    "name": "Turtle Island Seaplane Base",
+    "city": "Nanuya Levu",
+    "country": "Fiji"
+  },
+  {
+    "code": "TTM",
+    "name": "Tablón de Tamará Airport",
+    "city": "Tablón de Tamará",
+    "country": "Colombia"
+  },
+  {
+    "code": "TTN",
+    "name": "Trenton–Mercer Airport",
+    "city": "Trenton, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "TTO",
+    "name": "Britton Municipal Airport (FAA: BTN)",
+    "city": "Britton, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "TTQ",
+    "name": "Tortuguero Airport (Barra de Tortuguero Airport)",
+    "city": "Tortuguero",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "TTR",
+    "name": "Pongtiku Airport",
+    "city": "Tana Toraja",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TTS",
+    "name": "Tsaratanana Airport",
+    "city": "Tsaratanana",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TTT",
+    "name": "Taitung Airport (Taitung Fongnian Airport)",
+    "city": "Taitung",
+    "country": "Taiwan"
+  },
+  {
+    "code": "TTU",
+    "name": "Sania Ramel Airport",
+    "city": "Tétouan",
+    "country": "Morocco"
+  },
+  {
+    "code": "TTW",
+    "name": "Tissa Tank Waterdrome",
+    "city": "Tissamaharama",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "TTX",
+    "name": "Truscott-Mungalalu Airport",
+    "city": "Mungalalu, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "TUA",
+    "name": "Teniente Coronel Luis a Mantilla International Airport",
+    "city": "Tulcán",
+    "country": "Ecuador"
+  },
+  {
+    "code": "TUB",
+    "name": "Tubuai – Mataura Airport",
+    "city": "Tubuai",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "TUC",
+    "name": "Teniente General Benjamín Matienzo International Airport",
+    "city": "San Miguel de Tucumán, Tucumán",
+    "country": "Argentina"
+  },
+  {
+    "code": "TUD",
+    "name": "Tambacounda Airport",
+    "city": "Tambacounda",
+    "country": "Senegal"
+  },
+  {
+    "code": "TUF",
+    "name": "Tours Val de Loire Airport",
+    "city": "Tours, Centre-Val de Loire",
+    "country": "France"
+  },
+  {
+    "code": "TUG",
+    "name": "Tuguegarao Airport",
+    "city": "Tuguegarao",
+    "country": "Philippines"
+  },
+  {
+    "code": "TUI",
+    "name": "Turaif Domestic Airport",
+    "city": "Turaif",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "TUJ",
+    "name": "Tum Airport",
+    "city": "Tum",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "TUK",
+    "name": "Turbat International Airport",
+    "city": "Turbat",
+    "country": "Pakistan"
+  },
+  {
+    "code": "TUL",
+    "name": "Tulsa International Airport",
+    "city": "Tulsa, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "TUM",
+    "name": "Tumut Airport",
+    "city": "Tumut, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "TUN",
+    "name": "Tunis–Carthage International Airport",
+    "city": "Tunis",
+    "country": "Tunisia"
+  },
+  {
+    "code": "TUO",
+    "name": "Taupo Airport",
+    "city": "Taupo",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TUP",
+    "name": "Tupelo Regional Airport",
+    "city": "Tupelo, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "TUQ",
+    "name": "Tougan Airport",
+    "city": "Tougan",
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "TUR",
+    "name": "Tucuruí Airport",
+    "city": "Tucuruí, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "TUS",
+    "name": "Tucson International Airport",
+    "city": "Tucson, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "TUT",
+    "name": "Tauta Airport",
+    "city": "Tauta",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TUU",
+    "name": "Tabuk Regional Airport",
+    "city": "Tabuk",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "TUV",
+    "name": "San Rafael Airport",
+    "city": "Tucupita",
+    "country": "Venezuela"
+  },
+  {
+    "code": "TUW",
+    "name": "Tubala Airport",
+    "city": "Tubala (Tubualá)",
+    "country": "Panama"
+  },
+  {
+    "code": "TUX",
+    "name": "Tumbler Ridge Airport (TC: CBX7)",
+    "city": "Tumbler Ridge, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "TUY",
+    "name": "Tulum Airport",
+    "city": "Tulum, Quintana Roo",
+    "country": "Mexico"
+  },
+  {
+    "code": "TUZ",
+    "name": "Tucumã Airport",
+    "city": "Tucumã, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "TVA",
+    "name": "Morafenobe Airport",
+    "city": "Morafenobe",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TVC",
+    "name": "Cherry Capital Airport",
+    "city": "Traverse City, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "TVF",
+    "name": "Thief River Falls Regional Airport",
+    "city": "Thief River Falls, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "TVI",
+    "name": "Thomasville Regional Airport",
+    "city": "Thomasville, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "TVL",
+    "name": "Lake Tahoe Airport",
+    "city": "South Lake Tahoe, California",
+    "country": "United States"
+  },
+  {
+    "code": "TVS",
+    "name": "Tangshan Sannühe Airport",
+    "city": "Tangshan, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "TVU",
+    "name": "Matei Airport",
+    "city": "Taveuni",
+    "country": "Fiji"
+  },
+  {
+    "code": "TVY",
+    "name": "Dawei Airport",
+    "city": "Dawei",
+    "country": "Myanmar"
+  },
+  {
+    "code": "TWA",
+    "name": "Twin Hills Airport (FAA: A63)",
+    "city": "Twin Hills, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TWB",
+    "name": "Toowoomba City Aerodrome",
+    "city": "Toowoomba, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TWC",
+    "name": "Tumxuk Tangwangcheng Airport",
+    "city": "Tumxuk, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "TWD",
+    "name": "Jefferson County International Airport (FAA: 0S9)",
+    "city": "Port Townsend, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "TWE",
+    "name": "Taylor Airport (FAA: AK49)",
+    "city": "Taylor, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TWF",
+    "name": "Magic Valley Regional Airport (Joslin Field)",
+    "city": "Twin Falls, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "TWN",
+    "name": "Tewantin Airport",
+    "city": "Tewantin, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TWP",
+    "name": "Torwood Airport",
+    "city": "Torwood, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TWT",
+    "name": "Sanga-Sanga Airport",
+    "city": "Tawitawi Island (Tawi-Tawi)",
+    "country": "Philippines"
+  },
+  {
+    "code": "TWU",
+    "name": "Tawau Airport",
+    "city": "Tawau, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "TWY",
+    "name": "Tawa Airport",
+    "city": "Tawa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "TWZ",
+    "name": "Pukaki Airport (Twizel Airport)",
+    "city": "Twizel",
+    "country": "New Zealand"
+  },
+  {
+    "code": "TXE",
+    "name": "Rembele Airport",
+    "city": "Takengon, Sumatra",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TXF",
+    "name": "Teixeira de Freitas Airport (9 de maio Airport)",
+    "city": "Teixeira de Freitas, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "TXK",
+    "name": "Texarkana Regional Airport (Webb Field)",
+    "city": "Texarkana, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "TXM",
+    "name": "Teminabuan Airport",
+    "city": "Teminabuan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "TXN",
+    "name": "Huangshan Tunxi International Airport",
+    "city": "Huangshan, Anhui",
+    "country": "China"
+  },
+  {
+    "code": "TXR",
+    "name": "Tanbar Airport",
+    "city": "Tanbar, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TXU",
+    "name": "Tabou Airport",
+    "city": "Tabou",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "TYA",
+    "name": "Klokovo Airport",
+    "city": "Tula, Tula Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TYB",
+    "name": "Tibooburra Airport",
+    "city": "Tibooburra, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "TYD",
+    "name": "Tynda Airport",
+    "city": "Tynda, Amur Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "TYE",
+    "name": "Tyonek Airport",
+    "city": "Tyonek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "TYF",
+    "name": "Torsby Airport",
+    "city": "Torsby",
+    "country": "Sweden"
+  },
+  {
+    "code": "TYG",
+    "name": "Thylungra Airport",
+    "city": "Thylungra, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "TYL",
+    "name": "Capitán FAP Víctor Montes Arias International Airport",
+    "city": "Talara",
+    "country": "Peru"
+  },
+  {
+    "code": "TYM",
+    "name": "Staniel Cay Airport",
+    "city": "Staniel Cay, Exuma Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "TYN",
+    "name": "Taiyuan Wusu International Airport",
+    "city": "Taiyuan, Shanxi",
+    "country": "China"
+  },
+  {
+    "code": "TYO",
+    "name": "metropolitan area2",
+    "city": "Tokyo, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "TYP",
+    "name": "Tobermorey Airport",
+    "city": "Tobermorey, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "TYR",
+    "name": "Tyler Pounds Regional Airport",
+    "city": "Tyler, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "TYS",
+    "name": "McGhee Tyson Airport",
+    "city": "Knoxville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "TYT",
+    "name": "Treinta y Tres Airport",
+    "city": "Treinta y Tres",
+    "country": "Uruguay"
+  },
+  {
+    "code": "TYZ",
+    "name": "Taylor Airport (FAA: TYL)",
+    "city": "Taylor, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "TZA",
+    "name": "Belize City Municipal Airport",
+    "city": "Belize City",
+    "country": "Belize"
+  },
+  {
+    "code": "TZC",
+    "name": "Tuscola Area Airport (FAA: CFS)",
+    "city": "Caro, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "TZL",
+    "name": "Tuzla International Airport",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "TZM",
+    "name": "Cupul National Airport",
+    "city": "Tizimín, Yucatán",
+    "country": "Mexico"
+  },
+  {
+    "code": "TZN",
+    "name": "South Andros Airport (Congo Town Airport)",
+    "city": "South Andros, Andros Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "TZO",
+    "name": "Tsimiroro Airport",
+    "city": "Ankisatra",
+    "country": "Madagascar"
+  },
+  {
+    "code": "TZX",
+    "name": "Trabzon Airport",
+    "city": "Trabzon",
+    "country": "Turkey"
+  }
+]

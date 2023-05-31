@@ -1,0 +1,121 @@
+﻿POST https://localhost:7055/sales/reservations/9daa69f0-b815-45f2-afae-8e17c2e096cb/passengers
+accept: */*
+Content-Type: application/json
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de
+
+{
+  "reservationId": "13253422-8c99-4957-bac2-d502aecd02d4",
+  "passengers": [
+    {
+      "firstname": "Jan",
+      "middlename": "",
+      "surname": "Kowalski",
+      "document": {
+        "type": "ID",
+        "number": "ABC",
+        "series": "123",
+        "expirationDate": "2024-01-01"
+      }
+    },
+    {
+      "firstname": "Tomasz",
+      "middlename": "Jan",
+      "surname": "Nowak",
+      "document": {
+        "type": "ID",
+        "number": "DBE",
+        "series": "222",
+        "expirationDate": "2025-01-01"
+      }
+    },
+    {
+      "firstname": "Anna",
+      "middlename": "",
+      "surname": "Nowak",
+      "document": {
+        "type": "ID",
+        "number": "DBE",
+        "series": "333",
+        "expirationDate": "2025-01-01"
+      }
+    },
+    {
+      "firstname": "Kasia",
+      "middlename": "",
+      "surname": "Kowal",
+      "document": {
+        "type": "ID",
+        "number": "AAC",
+        "series": "111",
+        "expirationDate": "2024-03-01"
+      }
+    },
+    {
+      "firstname": "Jacek",
+      "middlename": "",
+      "surname": "Testowy",
+      "document": {
+        "type": "ID",
+        "number": "EEB",
+        "series": "978",
+        "expirationDate": "2024-02-01"
+      }
+    },
+    {
+      "firstname": "Krzysztof",
+      "middlename": "",
+      "surname": "Przykladowy",
+      "document": {
+        "type": "ID",
+        "number": "GGA",
+        "series": "443",
+        "expirationDate": "2025-04-01"
+      }
+    },
+    {
+      "firstname": "Mateusz",
+      "middlename": "Kazimierz",
+      "surname": "Przypadkowy",
+      "document": {
+        "type": "ID",
+        "number": "RRE",
+        "series": "100",
+        "expirationDate": "2024-07-01"
+      }
+    },
+    {
+      "firstname": "Hanna",
+      "middlename": "",
+      "surname": "Przypadkowa",
+      "document": {
+        "type": "ID",
+        "number": "RRC",
+        "series": "220",
+        "expirationDate": "2024-06-01"
+      }
+    },
+    {
+      "firstname": "Pawel",
+      "middlename": "",
+      "surname": "Komputerowy",
+      "document": {
+        "type": "ID",
+        "number": "TTE",
+        "series": "001",
+        "expirationDate": "2025-03-01"
+      }
+    },
+    {
+      "firstname": "Henryk",
+      "middlename": "",
+      "surname": "Garncarz",
+      "document": {
+        "type": "ID",
+        "number": "HGW",
+        "series": "123",
+        "expirationDate": "2026-03-01"
+      }
+    }
+  ]
+}
+

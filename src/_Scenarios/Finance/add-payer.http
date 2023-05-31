@@ -1,0 +1,14 @@
+﻿POST https://localhost:7055/finance/payers
+accept: */*
+Content-Type: application/json
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de
+
+{
+  "payerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "userId": "91d65b42-1d29-4e0e-87a9-f723106257de",
+  "payerFullName": "Szkoła Podróznicza nr 123",
+  "isLegalEntity": true,
+  "taxNumber": "VAT/123456",
+  "address": "ul. Sezamkowa 234, 02-345 Warszawa"
+}
+

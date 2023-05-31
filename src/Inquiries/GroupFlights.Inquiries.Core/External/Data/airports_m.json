@@ -1,0 +1,3878 @@
+﻿[
+  {
+    "code": "MAA",
+    "name": "Chennai International Airport",
+    "city": "Chennai, Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "MAB",
+    "name": "João Correa da Rocha Airport",
+    "city": "Marabá, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "MAC",
+    "name": "Macon Downtown Airport",
+    "city": "Macon, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MAD",
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "code": "MAE",
+    "name": "Madera Municipal Airport",
+    "city": "Madera, California",
+    "country": "United States"
+  },
+  {
+    "code": "MAF",
+    "name": "Midland International Air and Space Port",
+    "city": "Midland, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MAG",
+    "name": "Madang Airport",
+    "city": "Madang",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MAH",
+    "name": "Menorca Airport (Mahón Airport)",
+    "city": "Menorca, Balearic Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "MAI",
+    "name": "Mangochi Airport",
+    "city": "Mangochi",
+    "country": "Malawi"
+  },
+  {
+    "code": "MAJ",
+    "name": "Marshall Islands International Airport (Amata Kabua Int'l)",
+    "city": "Majuro",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "MAK",
+    "name": "Malakal Airport",
+    "city": "Malakal",
+    "country": "South Sudan"
+  },
+  {
+    "code": "MAL",
+    "name": "Mangole Airport",
+    "city": "Mangole Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MAM",
+    "name": "General Servando Canales International Airport",
+    "city": "Matamoros, Tamaulipas",
+    "country": "Mexico"
+  },
+  {
+    "code": "MAN",
+    "name": "Manchester Airport",
+    "city": "Manchester, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "MAO",
+    "name": "Eduardo Gomes International Airport",
+    "city": "Manaus, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "MAP",
+    "name": "Mamai Airport",
+    "city": "Mamai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MAQ",
+    "name": "Mae Sot Airport",
+    "city": "Mae Sot",
+    "country": "Thailand"
+  },
+  {
+    "code": "MAR",
+    "name": "La Chinita International Airport",
+    "city": "Maracaibo",
+    "country": "Venezuela"
+  },
+  {
+    "code": "MAS",
+    "name": "Momote Airport",
+    "city": "Manus Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MAT",
+    "name": "Matadi Tshimpi Airport",
+    "city": "Matadi",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MAU",
+    "name": "Maupiti Airport",
+    "city": "Maupiti, Leeward Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "MAV",
+    "name": "Maloelap Airport (FAA: 3N1)",
+    "city": "Taroa Island, Maloelap Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "MAW",
+    "name": "Malden Regional Airport",
+    "city": "Malden, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "MAX",
+    "name": "Ouro Sogui Airport",
+    "city": "Matam",
+    "country": "Senegal"
+  },
+  {
+    "code": "MAY",
+    "name": "Clarence A. Bain Airport",
+    "city": "Mangrove Cay, Andros Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "MAZ",
+    "name": "Eugenio María de Hostos Airport",
+    "city": "Mayagüez, Puerto Rico",
+    "country": "United States"
+  },
+  {
+    "code": "MBA",
+    "name": "Moi International Airport",
+    "city": "Mombasa",
+    "country": "Kenya"
+  },
+  {
+    "code": "MBB",
+    "name": "Marble Bar Airport",
+    "city": "Marble Bar, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MBC",
+    "name": "Mbigou Airport",
+    "city": "Mbigou",
+    "country": "Gabon"
+  },
+  {
+    "code": "MBD",
+    "name": "Mahikeng Airport (Mmabatho Airport)",
+    "city": "Mmabatho",
+    "country": "South Africa"
+  },
+  {
+    "code": "MBE",
+    "name": "Monbetsu Airport",
+    "city": "Monbetsu, Hokkaido, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "MBF",
+    "name": "Porepunkah Airfield",
+    "city": "Mount Buffalo, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "MBG",
+    "name": "Mobridge Municipal Airport",
+    "city": "Mobridge, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "MBH",
+    "name": "Maryborough Airport",
+    "city": "Maryborough, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MBI",
+    "name": "Mbeya Airport",
+    "city": "Mbeya",
+    "country": "Tanzania"
+  },
+  {
+    "code": "MBJ",
+    "name": "Sangster International Airport",
+    "city": "Montego Bay",
+    "country": "Jamaica"
+  },
+  {
+    "code": "MBK",
+    "name": "Orlando Villas-Bôas Regional Airport",
+    "city": "Matupá, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "MBL",
+    "name": "Manistee County Blacker Airport",
+    "city": "Manistee, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MBM",
+    "name": "Mkambati Airport",
+    "city": "Mkambati",
+    "country": "South Africa"
+  },
+  {
+    "code": "MBN",
+    "name": "Mount Barnett Airport",
+    "city": "Mount Barnett, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MBO",
+    "name": "Mamburao Airport",
+    "city": "Mamburao",
+    "country": "Philippines"
+  },
+  {
+    "code": "MBP",
+    "name": "Moyobamba Airport",
+    "city": "Moyobamba",
+    "country": "Peru"
+  },
+  {
+    "code": "MBQ",
+    "name": "Mbarara Airport",
+    "city": "Mbarara",
+    "country": "Uganda"
+  },
+  {
+    "code": "MBR",
+    "name": "M'Bout Airport",
+    "city": "M'Bout",
+    "country": "Mauritania"
+  },
+  {
+    "code": "MBS",
+    "name": "MBS International Airport",
+    "city": "Saginaw / Midland / Bay City, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MBT",
+    "name": "Moises R. Espinosa Airport (Masbate Airport)",
+    "city": "Masbate",
+    "country": "Philippines"
+  },
+  {
+    "code": "MBU",
+    "name": "Mbambanakira Airport",
+    "city": "Mbambanakira",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "MBV",
+    "name": "Masa Airport",
+    "city": "Masa",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MBW",
+    "name": "Moorabbin Airport",
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "MBX",
+    "name": "Maribor Edvard Rusjan Airport",
+    "city": "Maribor",
+    "country": "Slovenia"
+  },
+  {
+    "code": "MBY",
+    "name": "Omar N. Bradley Airport",
+    "city": "Moberly, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "MBZ",
+    "name": "Maués Airport",
+    "city": "Maués, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "MCA",
+    "name": "Macenta Airport",
+    "city": "Macenta",
+    "country": "Guinea"
+  },
+  {
+    "code": "MCB",
+    "name": "McComb–Pike County Airport (John E. Lewis Field)",
+    "city": "McComb, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "MCC",
+    "name": "McClellan Airfield",
+    "city": "Sacramento, California",
+    "country": "United States"
+  },
+  {
+    "code": "MCD",
+    "name": "Mackinac Island Airport",
+    "city": "Mackinac Island, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MCE",
+    "name": "Merced Regional Airport (MacReady Field)",
+    "city": "Merced, California",
+    "country": "United States"
+  },
+  {
+    "code": "MCF",
+    "name": "MacDill Air Force Base",
+    "city": "Tampa, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MCG",
+    "name": "McGrath Airport",
+    "city": "McGrath, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MCH",
+    "name": "General Manuel Serrano Airport",
+    "city": "Machala",
+    "country": "Ecuador"
+  },
+  {
+    "code": "MCI",
+    "name": "Kansas City International Airport",
+    "city": "Kansas City, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "MCJ",
+    "name": "Jorge Isaacs Airport (La Mina Airport)",
+    "city": "Maicao",
+    "country": "Colombia"
+  },
+  {
+    "code": "MCK",
+    "name": "McCook Ben Nelson Regional Airport",
+    "city": "McCook, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "MCL",
+    "name": "McKinley National Park Airport (FAA: INR)",
+    "city": "McKinley Park, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MCN",
+    "name": "Middle Georgia Regional Airport",
+    "city": "Macon, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MCO",
+    "name": "Orlando International Airport",
+    "city": "Orlando, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MCP",
+    "name": "Alberto Alcolumbre International Airport",
+    "city": "Macapá, Amapá",
+    "country": "Brazil"
+  },
+  {
+    "code": "MCQ",
+    "name": "Miskolc Airport",
+    "city": "Miskolc",
+    "country": "Hungary"
+  },
+  {
+    "code": "MCS",
+    "name": "Monte Caseros Airport",
+    "city": "Monte Caseros, Corrientes",
+    "country": "Argentina"
+  },
+  {
+    "code": "MCT",
+    "name": "Muscat International Airport",
+    "city": "Muscat",
+    "country": "Oman"
+  },
+  {
+    "code": "MCU",
+    "name": "Montluçon – Guéret Airport",
+    "city": "Montluçon, Auvergne",
+    "country": "France"
+  },
+  {
+    "code": "MCV",
+    "name": "McArthur River Mine Airport",
+    "city": "McArthur River, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MCW",
+    "name": "Mason City Municipal Airport",
+    "city": "Mason City, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "MCX",
+    "name": "Uytash Airport",
+    "city": "Makhachkala, Dagestan",
+    "country": "Russia"
+  },
+  {
+    "code": "MCY",
+    "name": "Sunshine Coast Airport",
+    "city": "Sunshine Coast, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MCZ",
+    "name": "Zumbi dos Palmares International Airport",
+    "city": "Maceió, Alagoas",
+    "country": "Brazil"
+  },
+  {
+    "code": "MDB",
+    "name": "Melinda Airport",
+    "city": "Melinda",
+    "country": "Belize"
+  },
+  {
+    "code": "MDC",
+    "name": "Sam Ratulangi International Airport",
+    "city": "Manado",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MDD",
+    "name": "Midland Airpark",
+    "city": "Midland, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MDE",
+    "name": "José María Córdova International Airport",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "code": "MDF",
+    "name": "Taylor County Airport",
+    "city": "Medford, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "MDG",
+    "name": "Mudanjiang Hailang Airport",
+    "city": "Mudanjiang, Heilongjiang",
+    "country": "China"
+  },
+  {
+    "code": "MDH",
+    "name": "Southern Illinois Airport",
+    "city": "Carbondale / Murphysboro, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MDI",
+    "name": "Makurdi Airport",
+    "city": "Makurdi",
+    "country": "Nigeria"
+  },
+  {
+    "code": "MDJ",
+    "name": "Madras Municipal Airport (FAA: S33)",
+    "city": "Madras, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "MDK",
+    "name": "Mbandaka Airport",
+    "city": "Mbandaka",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MDL",
+    "name": "Mandalay International Airport",
+    "city": "Mandalay",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MDM",
+    "name": "Munduku Airport",
+    "city": "Munduku",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MDN",
+    "name": "Madison Municipal Airport",
+    "city": "Madison, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "MDO",
+    "name": "Middleton Island Airport",
+    "city": "Middleton Island, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MDP",
+    "name": "Mindiptana Airport",
+    "city": "Mindiptana",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MDQ",
+    "name": "Astor Piazzolla International Airport",
+    "city": "Mar del Plata, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "MDS",
+    "name": "Middle Caicos Airport",
+    "city": "Middle Caicos",
+    "country": "British Overseas Territory\\nof Turks and Caicos Islands"
+  },
+  {
+    "code": "MDT",
+    "name": "Harrisburg International Airport",
+    "city": "Harrisburg, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "MDU",
+    "name": "Mendi Airport",
+    "city": "Mendi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MDV",
+    "name": "Médouneu Airport",
+    "city": "Médouneu",
+    "country": "Gabon"
+  },
+  {
+    "code": "MDW",
+    "name": "Midway International Airport",
+    "city": "Chicago, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MDX",
+    "name": "Mercedes Airport",
+    "city": "Mercedes, Corrientes",
+    "country": "Argentina"
+  },
+  {
+    "code": "MDY",
+    "name": "Henderson Field",
+    "city": "Sand Island, Midway Atoll",
+    "country": "United States"
+  },
+  {
+    "code": "MDZ",
+    "name": "Gov. Francisco Gabrielli International Airport (El Plumerillo)",
+    "city": "Mendoza, Mendoza",
+    "country": "Argentina"
+  },
+  {
+    "code": "MEA",
+    "name": "Benedito Lacerda Airport",
+    "city": "Macaé, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "MEB",
+    "name": "Essendon Airport",
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "MEC",
+    "name": "Eloy Alfaro International Airport",
+    "city": "Manta",
+    "country": "Ecuador"
+  },
+  {
+    "code": "MED",
+    "name": "Prince Mohammad bin Abdulaziz Airport",
+    "city": "Medina",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "MEE",
+    "name": "Maré Airport",
+    "city": "Maré, Loyalty Islands",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "MEF",
+    "name": "Melfi Airport",
+    "city": "Melfi",
+    "country": "Chad"
+  },
+  {
+    "code": "MEG",
+    "name": "Malanje Airport",
+    "city": "Malanje",
+    "country": "Angola"
+  },
+  {
+    "code": "MEH",
+    "name": "Mehamn Airport",
+    "city": "Mehamn",
+    "country": "Norway"
+  },
+  {
+    "code": "MEI",
+    "name": "Meridian Regional Airport (Key Field)",
+    "city": "Meridian, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "MEJ",
+    "name": "Port Meadville Airport (FAA: GKJ)",
+    "city": "Meadville, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "MEK",
+    "name": "Bassatine Air Base",
+    "city": "Meknes",
+    "country": "Morocco"
+  },
+  {
+    "code": "MEL",
+    "name": "Melbourne Airport",
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "MEM",
+    "name": "Memphis International Airport",
+    "city": "Memphis, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "MEN",
+    "name": "Brenoux Airport",
+    "city": "Mende, Languedoc-Roussillon",
+    "country": "France"
+  },
+  {
+    "code": "MEO",
+    "name": "Dare County Regional Airport (FAA: MQI)",
+    "city": "Manteo, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "MEP",
+    "name": "Mersing Airport",
+    "city": "Mersing, Johor",
+    "country": "Malaysia"
+  },
+  {
+    "code": "MEQ",
+    "name": "Cut Nyak Dhien Airport",
+    "city": "Meulaboh",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MER",
+    "name": "Castle Airport",
+    "city": "Merced, California",
+    "country": "United States"
+  },
+  {
+    "code": "MES",
+    "name": "Soewondo Air Force Base",
+    "city": "Medan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MET",
+    "name": "Moreton Airport",
+    "city": "Moreton, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MEU",
+    "name": "Serra do Areão Airport",
+    "city": "Monte Dourado, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "MEV",
+    "name": "Minden–Tahoe Airport",
+    "city": "Minden, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "MEW",
+    "name": "Mweka Airport",
+    "city": "Mweka",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MEX",
+    "name": "Mexico City International Airport",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "code": "MEY",
+    "name": "Meghauli Airport",
+    "city": "Meghauli",
+    "country": "Nepal"
+  },
+  {
+    "code": "MEZ",
+    "name": "Messina Airport",
+    "city": "Messina",
+    "country": "South Africa"
+  },
+  {
+    "code": "MFA",
+    "name": "Mafia Airport",
+    "city": "Mafia Island",
+    "country": "Tanzania"
+  },
+  {
+    "code": "MFB",
+    "name": "Monfort Airport",
+    "city": "Monfort",
+    "country": "Colombia"
+  },
+  {
+    "code": "MFC",
+    "name": "Mafeteng Airport",
+    "city": "Mafeteng",
+    "country": "Lesotho"
+  },
+  {
+    "code": "MFD",
+    "name": "Mansfield Lahm Regional Airport",
+    "city": "Mansfield, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "MFE",
+    "name": "McAllen Miller International Airport",
+    "city": "McAllen, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MFF",
+    "name": "Moanda Airport",
+    "city": "Moanda",
+    "country": "Gabon"
+  },
+  {
+    "code": "MFG",
+    "name": "Muzaffarabad Airport",
+    "city": "Muzaffarabad",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MFH",
+    "name": "Mesquite Airport (FAA: 67L)",
+    "city": "Mesquite, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "MFI",
+    "name": "Marshfield Municipal Airport",
+    "city": "Marshfield, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "MFJ",
+    "name": "Moala Airport",
+    "city": "Moala Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "MFK",
+    "name": "Matsu Beigan Airport",
+    "city": "Beigan",
+    "country": "Taiwan"
+  },
+  {
+    "code": "MFL",
+    "name": "Mount Full Stop Airport",
+    "city": "Wandovale, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MFM",
+    "name": "Macau International Airport",
+    "city": "",
+    "country": "Macau"
+  },
+  {
+    "code": "MFN",
+    "name": "Milford Sound Airport",
+    "city": "Milford Sound",
+    "country": "New Zealand"
+  },
+  {
+    "code": "MFO",
+    "name": "Manguna Airport",
+    "city": "Manguna",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MFP",
+    "name": "Manners Creek Airport",
+    "city": "Manners Creek Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MFQ",
+    "name": "Maradi Airport",
+    "city": "Maradi",
+    "country": "Niger"
+  },
+  {
+    "code": "MFR",
+    "name": "Rogue Valley International–Medford Airport",
+    "city": "Medford, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "MFS",
+    "name": "Miraflores Airport",
+    "city": "Miraflores",
+    "country": "Colombia"
+  },
+  {
+    "code": "MFU",
+    "name": "Mfuwe Airport",
+    "city": "Mfuwe",
+    "country": "Zambia"
+  },
+  {
+    "code": "MFV",
+    "name": "Accomack County Airport",
+    "city": "Melfa, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "MFW",
+    "name": "Magaruque Airport",
+    "city": "Magaruque Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MFX",
+    "name": "Méribel Altiport",
+    "city": "Méribel, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "MFY",
+    "name": "Mayfa'ah Airport",
+    "city": "Mayfa'ah",
+    "country": "Yemen"
+  },
+  {
+    "code": "MFZ",
+    "name": "Meselia Airport",
+    "city": "Meselia",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MGA",
+    "name": "Augusto C. Sandino International Airport",
+    "city": "Managua",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "MGB",
+    "name": "Mount Gambier Airport",
+    "city": "Mount Gambier, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MGC",
+    "name": "Michigan City Municipal Airport",
+    "city": "Michigan City, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "MGD",
+    "name": "Magdalena Airport",
+    "city": "Magdalena",
+    "country": "Bolivia"
+  },
+  {
+    "code": "MGE",
+    "name": "Dobbins Air Reserve Base",
+    "city": "Marietta, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MGF",
+    "name": "Sílvio Name Júnior Regional Airport",
+    "city": "Maringá, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "MGG",
+    "name": "Margarima Airport",
+    "city": "Margarima",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MGH",
+    "name": "Margate Airport",
+    "city": "Margate",
+    "country": "South Africa"
+  },
+  {
+    "code": "MGI",
+    "name": "Aransas National Wildlife Refuge Airport (FAA: XS10)",
+    "city": "Matagorda Island, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MGJ",
+    "name": "Orange County Airport",
+    "city": "Montgomery, New York",
+    "country": "United States"
+  },
+  {
+    "code": "MGK",
+    "name": "Mong Ton Airport",
+    "city": "Mong Ton",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MGL",
+    "name": "Düsseldorf Mönchengladbach Airport",
+    "city": "Mönchengladbach, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "MGM",
+    "name": "Montgomery Regional Airport (Dannelly Field)",
+    "city": "Montgomery, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "MGN",
+    "name": "Baracoa Regional Airport",
+    "city": "Magangué",
+    "country": "Colombia"
+  },
+  {
+    "code": "MGO",
+    "name": "Manega Airport",
+    "city": "Manega",
+    "country": "Gabon"
+  },
+  {
+    "code": "MGP",
+    "name": "Manga Airport",
+    "city": "Manga",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MGQ",
+    "name": "Aden Adde International Airport",
+    "city": "Mogadishu",
+    "country": "Somalia"
+  },
+  {
+    "code": "MGR",
+    "name": "Moultrie Municipal Airport",
+    "city": "Moultrie, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MGS",
+    "name": "Mangaia Airport",
+    "city": "Mangaia Island",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "MGT",
+    "name": "Milingimbi Airport",
+    "city": "Milingimbi Island, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MGU",
+    "name": "Manaung Airport",
+    "city": "Manaung",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MGV",
+    "name": "Margaret River Station Airport",
+    "city": "Margaret River Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MGW",
+    "name": "Morgantown Municipal Airport (Walter L. Bill Hart Field)",
+    "city": "Morgantown, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "MGX",
+    "name": "Moabi Airport",
+    "city": "Moabi",
+    "country": "Gabon"
+  },
+  {
+    "code": "MGY",
+    "name": "Dayton–Wright Brothers Airport",
+    "city": "Dayton, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "MGZ",
+    "name": "Myeik Airport",
+    "city": "Myeik",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MHA",
+    "name": "Mahdia Airport",
+    "city": "Mahdia",
+    "country": "Guyana"
+  },
+  {
+    "code": "MHC",
+    "name": "Mocopulli Airport",
+    "city": "Castro",
+    "country": "Chile"
+  },
+  {
+    "code": "MHD",
+    "name": "Mashhad International Airport (Shahid Hashemi Nejad Airport)",
+    "city": "Mashhad",
+    "country": "Iran"
+  },
+  {
+    "code": "MHE",
+    "name": "Mitchell Municipal Airport",
+    "city": "Mitchell, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "MHF",
+    "name": "Morichal Airport",
+    "city": "Morichal",
+    "country": "Colombia"
+  },
+  {
+    "code": "MHG",
+    "name": "Mannheim City Airport",
+    "city": "Mannheim, Baden-Württemberg",
+    "country": "Germany"
+  },
+  {
+    "code": "MHH",
+    "name": "Marsh Harbour Airport",
+    "city": "Marsh Harbour, Abaco Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "MHI",
+    "name": "Moucha Airport",
+    "city": "Moucha Island",
+    "country": "Djibouti"
+  },
+  {
+    "code": "MHK",
+    "name": "Manhattan Regional Airport",
+    "city": "Manhattan, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "MHL",
+    "name": "Marshall Memorial Municipal Airport",
+    "city": "Marshall, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "MHN",
+    "name": "Hooker County Airport",
+    "city": "Mullen, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "MHO",
+    "name": "Mount House Airport",
+    "city": "Mount House Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MHP",
+    "name": "Minsk-1 Airport",
+    "city": "Minsk",
+    "country": "Belarus"
+  },
+  {
+    "code": "MHQ",
+    "name": "Mariehamn Airport",
+    "city": "Mariehamn, Åland",
+    "country": "Finland"
+  },
+  {
+    "code": "MHR",
+    "name": "Sacramento Mather Airport",
+    "city": "Sacramento, California",
+    "country": "United States"
+  },
+  {
+    "code": "MHS",
+    "name": "Dunsmuir Municipal-Mott Airport (FAA: 1O6)",
+    "city": "Mount Shasta, California",
+    "country": "United States"
+  },
+  {
+    "code": "MHT",
+    "name": "Manchester–Boston Regional Airport",
+    "city": "Manchester, New Hampshire",
+    "country": "United States"
+  },
+  {
+    "code": "MHU",
+    "name": "Mount Hotham Airport",
+    "city": "Mount Hotham, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "MHV",
+    "name": "Mojave Air and Space Port",
+    "city": "Mojave, California",
+    "country": "United States"
+  },
+  {
+    "code": "MHW",
+    "name": "Monteagudo Airport",
+    "city": "Monteagudo",
+    "country": "Bolivia"
+  },
+  {
+    "code": "MHX",
+    "name": "Manihiki Island Airport",
+    "city": "Manihiki",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "MHY",
+    "name": "Morehead Airport",
+    "city": "Morehead",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MHZ",
+    "name": "RAF Mildenhall",
+    "city": "Mildenhall, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "MIA",
+    "name": "Miami International Airport",
+    "city": "Miami, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MIB",
+    "name": "Minot Air Force Base",
+    "city": "Minot, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "MIC",
+    "name": "Crystal Airport",
+    "city": "Minneapolis / St Paul, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MID",
+    "name": "Manuel Crescencio Rejón International Airport",
+    "city": "Mérida, Yucatán",
+    "country": "Mexico"
+  },
+  {
+    "code": "MIE",
+    "name": "Delaware County Regional Airport",
+    "city": "Muncie, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "MIF",
+    "name": "Roy Hurd Memorial Airport (FAA: E01)",
+    "city": "Monahans, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MIG",
+    "name": "Mianyang Nanjiao Airport",
+    "city": "Mianyang, Sichuan",
+    "country": "China"
+  },
+  {
+    "code": "MIH",
+    "name": "Mitchell Plateau Airport",
+    "city": "Mitchell Plateau, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MII",
+    "name": "Frank Miloye Milenkowichi–Marília State Airport",
+    "city": "Marília, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "MIJ",
+    "name": "Mili Airport (FAA: 1Q9)",
+    "city": "Mili Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "MIK",
+    "name": "Mikkeli Airport",
+    "city": "Mikkeli",
+    "country": "Finland"
+  },
+  {
+    "code": "MIL",
+    "name": "metropolitan area1",
+    "city": "Milan, Lombardy",
+    "country": "Italy"
+  },
+  {
+    "code": "MIM",
+    "name": "Merimbula Airport",
+    "city": "Merimbula, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "MIN",
+    "name": "Minnipa Airport",
+    "city": "Minnipa, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MIO",
+    "name": "Miami Municipal Airport",
+    "city": "Miami, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "MIP",
+    "name": "Mitzpe Ramon Airport",
+    "city": "Mitzpe Ramon",
+    "country": "Israel"
+  },
+  {
+    "code": "MIQ",
+    "name": "Millard Airport (FAA: MLE)",
+    "city": "Omaha, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "MIR",
+    "name": "Monastir Habib Bourguiba International Airport",
+    "city": "Monastir",
+    "country": "Tunisia"
+  },
+  {
+    "code": "MIS",
+    "name": "Misima Island Airport",
+    "city": "Misima Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MIT",
+    "name": "Shafter Airport (Minter Field)",
+    "city": "Shafter, California",
+    "country": "United States"
+  },
+  {
+    "code": "MIU",
+    "name": "Maiduguri International Airport",
+    "city": "Maiduguri",
+    "country": "Nigeria"
+  },
+  {
+    "code": "MIV",
+    "name": "Millville Municipal Airport",
+    "city": "Millville, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "MIW",
+    "name": "Marshalltown Municipal Airport",
+    "city": "Marshalltown, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "MIX",
+    "name": "Mirití-Paraná Airport",
+    "city": "Mirití-Paraná",
+    "country": "Colombia"
+  },
+  {
+    "code": "MIY",
+    "name": "Mittiebah Airport",
+    "city": "Mittiebah Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MIZ",
+    "name": "Mainoru Airport",
+    "city": "Mainoru, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MJA",
+    "name": "Manja Airport",
+    "city": "Manja",
+    "country": "Madagascar"
+  },
+  {
+    "code": "MJB",
+    "name": "Mejit Airport (FAA: Q30)",
+    "city": "Mejit Island",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "MJC",
+    "name": "Man Airport",
+    "city": "Man",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "MJD",
+    "name": "Moenjodaro Airport",
+    "city": "Mohenjo-daro",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MJE",
+    "name": "Majkin Airport",
+    "city": "Majkin",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "MJF",
+    "name": "Mosjøen Airport, Kjærstad",
+    "city": "Mosjøen",
+    "country": "Norway"
+  },
+  {
+    "code": "MJI",
+    "name": "Mitiga International Airport",
+    "city": "Tripoli",
+    "country": "Libya"
+  },
+  {
+    "code": "MJJ",
+    "name": "Moki Airport",
+    "city": "Moki",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MJK",
+    "name": "Shark Bay Airport",
+    "city": "Monkey Mia, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MJL",
+    "name": "Mouila Airport",
+    "city": "Mouila",
+    "country": "Gabon"
+  },
+  {
+    "code": "MJM",
+    "name": "Mbuji Mayi Airport",
+    "city": "Mbuji-Mayi",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MJN",
+    "name": "Amborovy Airport (Philibert Tsiranana Airport)",
+    "city": "Mahajanga",
+    "country": "Madagascar"
+  },
+  {
+    "code": "MJO",
+    "name": "Mount Etjo Airport",
+    "city": "Mount Etjo",
+    "country": "Namibia"
+  },
+  {
+    "code": "MJP",
+    "name": "Manjimup Airport",
+    "city": "Manjimup, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MJQ",
+    "name": "Jackson Municipal Airport",
+    "city": "Jackson, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MJR",
+    "name": "Miramar Airport",
+    "city": "Miramar, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "MJS",
+    "name": "Maganja da Costa Airport",
+    "city": "Maganja da Costa",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MJT",
+    "name": "Mytilene International Airport",
+    "city": "Mytilene, Lesbos",
+    "country": "Greece"
+  },
+  {
+    "code": "MJU",
+    "name": "Tampa Padang Airport",
+    "city": "Mamuju",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MJV",
+    "name": "Murcia–San Javier Airport",
+    "city": "Murcia, Region of Murcia",
+    "country": "Spain"
+  },
+  {
+    "code": "MJW",
+    "name": "Mahenye Airport",
+    "city": "Mahenye",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "MJX",
+    "name": "Robert J. Miller Air Park (Ocean County Airport)",
+    "city": "Toms River, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "MJZ",
+    "name": "Mirny Airport",
+    "city": "Mirny, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "MKA",
+    "name": "Mariánské Lázně Airport",
+    "city": "Mariánské Lázně",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "MKB",
+    "name": "Mékambo Airport",
+    "city": "Mékambo",
+    "country": "Gabon"
+  },
+  {
+    "code": "MKC",
+    "name": "Charles B. Wheeler Downtown Airport",
+    "city": "Kansas City, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "MKE",
+    "name": "Milwaukee Mitchell International Airport",
+    "city": "Milwaukee, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "MKG",
+    "name": "Muskegon County Airport",
+    "city": "Muskegon, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MKH",
+    "name": "Mokhotlong Airport",
+    "city": "Mokhotlong",
+    "country": "Lesotho"
+  },
+  {
+    "code": "MKI",
+    "name": "M'Boki Airport",
+    "city": "Obo",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "MKJ",
+    "name": "Makoua Airport",
+    "city": "Makoua",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "MKK",
+    "name": "Molokai Airport",
+    "city": "Kaunakakai, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "MKL",
+    "name": "McKellar–Sipes Regional Airport",
+    "city": "Jackson, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "MKM",
+    "name": "Mukah Airport",
+    "city": "Mukah, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "MKN",
+    "name": "Malekolon Airport",
+    "city": "Malekolon",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MKO",
+    "name": "Davis Field",
+    "city": "Muskogee, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "MKP",
+    "name": "Makemo Airport",
+    "city": "Makemo",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "MKQ",
+    "name": "Mopah Airport",
+    "city": "Merauke",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MKR",
+    "name": "Meekatharra Airport",
+    "city": "Meekatharra, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MKS",
+    "name": "Mekane Selam Airport",
+    "city": "Mekane Selam",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "MKT",
+    "name": "Mankato Regional Airport",
+    "city": "Mankato, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MKU",
+    "name": "Makokou Airport",
+    "city": "Makokou",
+    "country": "Gabon"
+  },
+  {
+    "code": "MKV",
+    "name": "Mount Cavenagh Airport",
+    "city": "Mount Cavenagh, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MKW",
+    "name": "Rendani Airport",
+    "city": "Manokwari",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MKY",
+    "name": "Mackay Airport",
+    "city": "Mackay, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MKZ",
+    "name": "Malacca International Airport",
+    "city": "Malacca City, Malacca",
+    "country": "Malaysia"
+  },
+  {
+    "code": "MLA",
+    "name": "Malta International Airport (Luqa Airport)",
+    "city": "Luqa",
+    "country": "Malta"
+  },
+  {
+    "code": "MLB",
+    "name": "Melbourne Orlando International Airport",
+    "city": "Melbourne, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MLC",
+    "name": "McAlester Regional Airport",
+    "city": "McAlester, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "MLD",
+    "name": "Malad City Airport",
+    "city": "Malad City, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "MLE",
+    "name": "Ibrahim Nasir International Airport",
+    "city": "Malé",
+    "country": "Maldives"
+  },
+  {
+    "code": "MLF",
+    "name": "Milford Municipal Airport (Ben and Judy Briscoe Field)",
+    "city": "Milford, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "MLG",
+    "name": "Abdul Rachman Saleh Airport",
+    "city": "Malang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MLH",
+    "name": "EuroAirport Basel Mulhouse Freiburg",
+    "city": "Mulhouse, Alsace",
+    "country": "France"
+  },
+  {
+    "code": "MLI",
+    "name": "Quad Cities International Airport",
+    "city": "Moline, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MLJ",
+    "name": "Baldwin County Airport",
+    "city": "Milledgeville, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MLK",
+    "name": "Malta Airport (FAA: M75)",
+    "city": "Malta, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "MLL",
+    "name": "Marshall Don Hunter Sr. Airport (FAA: MDM)",
+    "city": "Marshall, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MLM",
+    "name": "General Francisco J. Mujica International Airport",
+    "city": "Morelia, Michoacán",
+    "country": "Mexico"
+  },
+  {
+    "code": "MLN",
+    "name": "Melilla Airport",
+    "city": "Melilla",
+    "country": "Spain"
+  },
+  {
+    "code": "MLO",
+    "name": "Milos Island National Airport",
+    "city": "Milos",
+    "country": "Greece"
+  },
+  {
+    "code": "MLP",
+    "name": "Malabang Airport",
+    "city": "Malabang",
+    "country": "Philippines"
+  },
+  {
+    "code": "MLQ",
+    "name": "Malalaua Airport",
+    "city": "Malalaua",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MLR",
+    "name": "Millicent Airport",
+    "city": "Millicent, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MLS",
+    "name": "Miles City Airport (Frank Wiley Field)",
+    "city": "Miles City, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "MLT",
+    "name": "Millinocket Municipal Airport",
+    "city": "Millinocket, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "MLU",
+    "name": "Monroe Regional Airport",
+    "city": "Monroe, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "MLV",
+    "name": "Merluna Airport",
+    "city": "Merluna, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MLW",
+    "name": "Spriggs Payne Airport",
+    "city": "Monrovia",
+    "country": "Liberia"
+  },
+  {
+    "code": "MLX",
+    "name": "Malatya Erhaç Airport",
+    "city": "Malatya",
+    "country": "Turkey"
+  },
+  {
+    "code": "MLY",
+    "name": "Manley Hot Springs Airport",
+    "city": "Manley Hot Springs, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MLZ",
+    "name": "Cerro Largo International Airport",
+    "city": "Melo",
+    "country": "Uruguay"
+  },
+  {
+    "code": "MMA",
+    "name": "metropolitan area2",
+    "city": "Malmö",
+    "country": "Sweden"
+  },
+  {
+    "code": "MMB",
+    "name": "Memanbetsu Airport",
+    "city": "Ōzora, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "MMC",
+    "name": "Ciudad Mante National Airport",
+    "city": "Ciudad Mante, Tamaulipas",
+    "country": "Mexico"
+  },
+  {
+    "code": "MMD",
+    "name": "Minami-Daito Airport",
+    "city": "Minamidaitō, Daitō Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "MME",
+    "name": "Teesside International Airport",
+    "city": "Teesside, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "MMF",
+    "name": "Mamfe Airport",
+    "city": "Mamfe",
+    "country": "Cameroon"
+  },
+  {
+    "code": "MMG",
+    "name": "Mount Magnet Airport",
+    "city": "Mount Magnet, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MMH",
+    "name": "Mammoth Yosemite Airport",
+    "city": "Mammoth Lakes, California",
+    "country": "United States"
+  },
+  {
+    "code": "MMI",
+    "name": "McMinn County Airport",
+    "city": "Athens, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "MMJ",
+    "name": "Matsumoto Airport",
+    "city": "Matsumoto, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "MMK",
+    "name": "Murmansk Airport",
+    "city": "Murmansk, Murmansk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "MML",
+    "name": "Southwest Minnesota Regional Airport (Marshall/Ryan Field)",
+    "city": "Marshall, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MMM",
+    "name": "Middlemount Airport",
+    "city": "Middlemount, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MMN",
+    "name": "Minute Man Air Field (FAA: 6B6)",
+    "city": "Stow, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "MMO",
+    "name": "Maio Airport",
+    "city": "Maio Island",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "MMP",
+    "name": "San Bernardo Airport",
+    "city": "Mompós (Mompóx)",
+    "country": "Colombia"
+  },
+  {
+    "code": "MMQ",
+    "name": "Mbala Airport",
+    "city": "Mbala",
+    "country": "Zambia"
+  },
+  {
+    "code": "MMS",
+    "name": "Selfs Airport",
+    "city": "Marks, Mississippi",
+    "country": "United States"
+  },
+  {
+    "code": "MMT",
+    "name": "McEntire Joint National Guard Base",
+    "city": "Columbia, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "MMU",
+    "name": "Morristown Municipal Airport",
+    "city": "Morristown, New Jersey",
+    "country": "United States"
+  },
+  {
+    "code": "MMV",
+    "name": "Mal Island Airport",
+    "city": "Mal Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MMW",
+    "name": "Moma Airport",
+    "city": "Moma",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MMX",
+    "name": "Malmö Airport",
+    "city": "Malmö",
+    "country": "Sweden"
+  },
+  {
+    "code": "MMY",
+    "name": "Miyako Airport",
+    "city": "Miyakojima, Miyako Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "MMZ",
+    "name": "Maymana Airport",
+    "city": "Maymana",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "MNA",
+    "name": "Melangguane Airport",
+    "city": "Melonguane",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MNB",
+    "name": "Muanda Airport (Moanda Airport)",
+    "city": "Moanda",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MNC",
+    "name": "Nacala Airport",
+    "city": "Nacala",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MND",
+    "name": "Medina Airport",
+    "city": "Medina",
+    "country": "Colombia"
+  },
+  {
+    "code": "MNE",
+    "name": "Mungeranie Airport",
+    "city": "Mungeranie, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MNF",
+    "name": "Mana Island Airport",
+    "city": "Mana Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "MNG",
+    "name": "Maningrida Airport",
+    "city": "Maningrida, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MNH",
+    "name": "Al-Musannah Airport",
+    "city": "Al-Musannah",
+    "country": "Oman"
+  },
+  {
+    "code": "MNI",
+    "name": "John A. Osborne Airport",
+    "city": "",
+    "country": "British Overseas Territory of Montserrat"
+  },
+  {
+    "code": "MNJ",
+    "name": "Mananjary Airport",
+    "city": "Mananjary",
+    "country": "Madagascar"
+  },
+  {
+    "code": "MNK",
+    "name": "Maiana Airport",
+    "city": "Maiana",
+    "country": "Kiribati"
+  },
+  {
+    "code": "MNL",
+    "name": "Ninoy Aquino International Airport / Villamor Air Base",
+    "city": "Manila",
+    "country": "Philippines"
+  },
+  {
+    "code": "MNM",
+    "name": "Menominee-Marinette Twin County Airport",
+    "city": "Menominee, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MNN",
+    "name": "Marion Municipal Airport",
+    "city": "Marion, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "MNO",
+    "name": "Manono Airport",
+    "city": "Manono",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MNP",
+    "name": "Maron Island Airport",
+    "city": "Maron Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MNQ",
+    "name": "Monto Airport",
+    "city": "Monto, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MNR",
+    "name": "Mongu Airport",
+    "city": "Mongu",
+    "country": "Zambia"
+  },
+  {
+    "code": "MNS",
+    "name": "Mansa Airport",
+    "city": "Mansa",
+    "country": "Zambia"
+  },
+  {
+    "code": "MNT",
+    "name": "Minto Al Wright Airport (FAA: 51Z)",
+    "city": "Minto, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MNU",
+    "name": "Mawlamyaing Airport",
+    "city": "Mawlamyine (Mawlamyaing)",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MNV",
+    "name": "Mount Valley Airport",
+    "city": "Mount Valley, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MNW",
+    "name": "MacDonald Downs Airport",
+    "city": "MacDonald Downs, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MNX",
+    "name": "Manicoré Airport",
+    "city": "Manicoré, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "MNY",
+    "name": "Mono Airport",
+    "city": "Mono Island, Treasury Islands",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "MNZ",
+    "name": "Manassas Regional Airport (FAA: HEF)",
+    "city": "Manassas, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "MOA",
+    "name": "Orestes Acosta Airport",
+    "city": "Moa",
+    "country": "Cuba"
+  },
+  {
+    "code": "MOB",
+    "name": "Mobile Regional Airport",
+    "city": "Mobile, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "MOC",
+    "name": "Montes Claros/Mário Ribeiro Airport",
+    "city": "Montes Claros, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "MOD",
+    "name": "Modesto City–County Airport (Harry Sham Field)",
+    "city": "Modesto, California",
+    "country": "United States"
+  },
+  {
+    "code": "MOE",
+    "name": "Momeik Airport",
+    "city": "Momeik",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MOF",
+    "name": "Frans Seda Airport (Wai Oti Airport)",
+    "city": "Maumere",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MOG",
+    "name": "Monghsat Airport",
+    "city": "Mong Hsat (Monghsat)",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MOH",
+    "name": "Maleo Airport",
+    "city": "Morowali",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MOI",
+    "name": "Mitiaro Airport (Nukuroa Airport)",
+    "city": "Mitiaro Island",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "MOJ",
+    "name": "Moengo Airstrip",
+    "city": "Moengo",
+    "country": "Suriname"
+  },
+  {
+    "code": "MOK",
+    "name": "Muynak Airport",
+    "city": "Muynak",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "MOL",
+    "name": "Molde Airport, Årø",
+    "city": "Molde",
+    "country": "Norway"
+  },
+  {
+    "code": "MOM",
+    "name": "Letfotar Airport",
+    "city": "Moudjeria",
+    "country": "Mauritania"
+  },
+  {
+    "code": "MON",
+    "name": "Mount Cook Aerodrome",
+    "city": "Mount Cook",
+    "country": "New Zealand"
+  },
+  {
+    "code": "MOO",
+    "name": "Moomba Airport",
+    "city": "Moomba, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MOP",
+    "name": "Mount Pleasant Municipal Airport",
+    "city": "Mount Pleasant, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MOQ",
+    "name": "Morondava Airport",
+    "city": "Morondava",
+    "country": "Madagascar"
+  },
+  {
+    "code": "MOR",
+    "name": "Morristown Regional Airport (Moore–Murrell Airport)",
+    "city": "Morristown, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "MOS",
+    "name": "Moses Point Airport",
+    "city": "Elim, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MOT",
+    "name": "Minot International Airport",
+    "city": "Minot, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "MOU",
+    "name": "Mountain Village Airport",
+    "city": "Mountain Village, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MOV",
+    "name": "Moranbah Airport",
+    "city": "Moranbah, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MOW",
+    "name": "metropolitan area3",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "code": "MOX",
+    "name": "Morris Municipal Airport",
+    "city": "Morris, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MOY",
+    "name": "Monterrey Airport",
+    "city": "Monterrey",
+    "country": "Colombia"
+  },
+  {
+    "code": "MOZ",
+    "name": "Moorea Airport (Temae Airport)",
+    "city": "Mo'orea, Windward Islands",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "MPA",
+    "name": "Katima Mulilo Airport (Mpacha Airport)",
+    "city": "Katima Mulilo",
+    "country": "Namibia"
+  },
+  {
+    "code": "MPB",
+    "name": "Miami Seaplane Base (FAA: X44)",
+    "city": "Miami, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MPC",
+    "name": "Mukomuko Airport",
+    "city": "Muko-Muko",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MPD",
+    "name": "Sindhri Airport",
+    "city": "Mirpur Khas",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MPF",
+    "name": "Mapoda Airport",
+    "city": "Mapoda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MPG",
+    "name": "Makini Airport",
+    "city": "Makini",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MPH",
+    "name": "Godofredo P. Ramos Airport (Caticlan Airport)",
+    "city": "Malay",
+    "country": "Philippines"
+  },
+  {
+    "code": "MPI",
+    "name": "Mamitupu Airport",
+    "city": "Mamitupo",
+    "country": "Panama"
+  },
+  {
+    "code": "MPJ",
+    "name": "Petit Jean Park Airport",
+    "city": "Morrilton, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "MPL",
+    "name": "Montpellier–Méditerranée Airport (Fréjorgues Airport)",
+    "city": "Montpellier, Languedoc-Roussillon",
+    "country": "France"
+  },
+  {
+    "code": "MPM",
+    "name": "Maputo International Airport",
+    "city": "Maputo",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MPN",
+    "name": "RAF Mount Pleasant",
+    "city": "",
+    "country": "British Overseas Territory of Falkland Islands"
+  },
+  {
+    "code": "MPO",
+    "name": "Pocono Mountains Municipal Airport",
+    "city": "Mount Pocono, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "MPP",
+    "name": "Mulatupo Airport",
+    "city": "Mulatupo",
+    "country": "Panama"
+  },
+  {
+    "code": "MPQ",
+    "name": "Ma'an Airport",
+    "city": "Ma'an",
+    "country": "Jordan"
+  },
+  {
+    "code": "MPR",
+    "name": "McPherson Airport",
+    "city": "McPherson, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "MPS",
+    "name": "Mount Pleasant Regional Airport (FAA: OSA)",
+    "city": "Mount Pleasant, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MPT",
+    "name": "Maliana Airport",
+    "city": "Maliana",
+    "country": "East Timor"
+  },
+  {
+    "code": "MPU",
+    "name": "Mabua Airstrip",
+    "city": "Mabua",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MPV",
+    "name": "Edward F. Knapp State Airport",
+    "city": "Barre / Montpelier, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "MPW",
+    "name": "Mariupol International Airport",
+    "city": "Mariupol",
+    "country": "Ukraine"
+  },
+  {
+    "code": "MPX",
+    "name": "Miyanmin Airport",
+    "city": "Miyanmin",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MPY",
+    "name": "Maripasoula Airport",
+    "city": "Maripasoula",
+    "country": "French Guiana"
+  },
+  {
+    "code": "MPZ",
+    "name": "Mount Pleasant Municipal Airport",
+    "city": "Mount Pleasant, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "MQA",
+    "name": "Mandora Station Airport",
+    "city": "Mandora Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MQB",
+    "name": "Macomb Municipal Airport",
+    "city": "Macomb, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MQC",
+    "name": "Miquelon Airport",
+    "city": "Miquelon",
+    "country": "Saint Pierre and Miquelon"
+  },
+  {
+    "code": "MQD",
+    "name": "Maquinchao Airport",
+    "city": "Maquinchao, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "MQE",
+    "name": "Marqua Airport",
+    "city": "Marqua, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MQF",
+    "name": "Magnitogorsk International Airport",
+    "city": "Magnitogorsk, Chelyabinsk Oblast5",
+    "country": "Russia"
+  },
+  {
+    "code": "MQG",
+    "name": "Midgard Airport",
+    "city": "Midgard",
+    "country": "Namibia"
+  },
+  {
+    "code": "MQH",
+    "name": "Minaçu Airport",
+    "city": "Minaçu, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "MQJ",
+    "name": "Moma Airport",
+    "city": "Khonuu, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "MQK",
+    "name": "San Matías Airport",
+    "city": "San Matías",
+    "country": "Bolivia"
+  },
+  {
+    "code": "MQL",
+    "name": "Mildura Airport",
+    "city": "Mildura, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "MQM",
+    "name": "Mardin Airport",
+    "city": "Mardin",
+    "country": "Turkey"
+  },
+  {
+    "code": "MQN",
+    "name": "Mo i Rana Airport, Røssvoll",
+    "city": "Mo i Rana",
+    "country": "Norway"
+  },
+  {
+    "code": "MQO",
+    "name": "Malam Airport",
+    "city": "Malam",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MQP",
+    "name": "Kruger Mpumalanga International Airport",
+    "city": "Mbombela",
+    "country": "South Africa"
+  },
+  {
+    "code": "MQQ",
+    "name": "Moundou Airport",
+    "city": "Moundou",
+    "country": "Chad"
+  },
+  {
+    "code": "MQR",
+    "name": "Mosquera Airport",
+    "city": "Mosquera",
+    "country": "Colombia"
+  },
+  {
+    "code": "MQS",
+    "name": "Mustique Airport",
+    "city": "Mustique Island",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "MQT",
+    "name": "Sawyer International Airport (FAA: SAW)",
+    "city": "Marquette, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MQU",
+    "name": "Mariquita Airport",
+    "city": "Mariquita",
+    "country": "Colombia"
+  },
+  {
+    "code": "MQV",
+    "name": "Mostaganem Airport",
+    "city": "Mostaganem",
+    "country": "Algeria"
+  },
+  {
+    "code": "MQW",
+    "name": "Telfair–Wheeler Airport",
+    "city": "McRae, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MQX",
+    "name": "Alula Aba Nega Airport",
+    "city": "Mek'ele (Mekelle)",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "MQY",
+    "name": "Smyrna Airport",
+    "city": "Smyrna, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "MQZ",
+    "name": "Margaret River Airport",
+    "city": "Margaret River, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MRA",
+    "name": "Misrata Airport",
+    "city": "Misrata",
+    "country": "Libya"
+  },
+  {
+    "code": "MRB",
+    "name": "Eastern WV Regional Airport (Shepherd Field)",
+    "city": "Martinsburg, West Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "MRC",
+    "name": "Maury County Airport",
+    "city": "Columbia/Mount Pleasant, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "MRD",
+    "name": "Alberto Carnevalli Airport",
+    "city": "Mérida",
+    "country": "Venezuela"
+  },
+  {
+    "code": "MRE",
+    "name": "Mara Serena Airport",
+    "city": "Maasai Mara",
+    "country": "Kenya"
+  },
+  {
+    "code": "MRF",
+    "name": "Marfa Municipal Airport",
+    "city": "Marfa, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MRG",
+    "name": "Mareeba Airfield",
+    "city": "Mareeba, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MRH",
+    "name": "May River Airport",
+    "city": "May River",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MRI",
+    "name": "Merrill Field",
+    "city": "Anchorage, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MRJ",
+    "name": "Marcala Airport",
+    "city": "Marcala",
+    "country": "Honduras"
+  },
+  {
+    "code": "MRK",
+    "name": "Marco Island Airport (FAA: MKY)",
+    "city": "Marco Island, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MRL",
+    "name": "Miners Lake Airport",
+    "city": "Miners Lake, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MRM",
+    "name": "Manari Airport",
+    "city": "Manari",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MRN",
+    "name": "Foothills Regional Airport (was Morganton-Lenoir Airport)",
+    "city": "Morganton, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "MRO",
+    "name": "Hood Aerodrome",
+    "city": "Masterton",
+    "country": "New Zealand"
+  },
+  {
+    "code": "MRP",
+    "name": "Marla Airport",
+    "city": "Marla, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MRQ",
+    "name": "Marinduque Airport",
+    "city": "Marinduque Island",
+    "country": "Philippines"
+  },
+  {
+    "code": "MRR",
+    "name": "José María Velasco Ibarra Airport",
+    "city": "Macará",
+    "country": "Ecuador"
+  },
+  {
+    "code": "MRS",
+    "name": "Marseille Provence Airport",
+    "city": "Marseille, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "MRT",
+    "name": "Moroak Airport",
+    "city": "Moroak, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MRU",
+    "name": "Sir Seewoosagur Ramgoolam International Airport",
+    "city": "Plaine Magnien",
+    "country": "Mauritius"
+  },
+  {
+    "code": "MRV",
+    "name": "Mineralnye Vody Airport",
+    "city": "Mineralnye Vody, Stavropol Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "MRW",
+    "name": "Lolland Falster Airport",
+    "city": "Maribo",
+    "country": "Denmark"
+  },
+  {
+    "code": "MRX",
+    "name": "Mahshahr Airport",
+    "city": "Bandar-e Mahshahr",
+    "country": "Iran"
+  },
+  {
+    "code": "MRY",
+    "name": "Monterey Regional Airport",
+    "city": "Monterey, California",
+    "country": "United States"
+  },
+  {
+    "code": "MRZ",
+    "name": "Moree Airport",
+    "city": "Moree, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "MSA",
+    "name": "Muskrat Dam Airport",
+    "city": "Muskrat Dam, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "MSC",
+    "name": "Falcon Field Airport (FAA: FFZ)",
+    "city": "Phoenix, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "MSD",
+    "name": "Mount Pleasant Airport (FAA: 43U)",
+    "city": "Mount Pleasant, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "MSE",
+    "name": "Manston Airport (Kent International Airport)",
+    "city": "Manston, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "MSF",
+    "name": "Mount Swan Airport",
+    "city": "Mount Swan, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MSG",
+    "name": "Matsaile Airport",
+    "city": "Matsaile",
+    "country": "Lesotho"
+  },
+  {
+    "code": "MSH",
+    "name": "Masirah Air Base",
+    "city": "Masirah Island",
+    "country": "Oman"
+  },
+  {
+    "code": "MSI",
+    "name": "Masalembo Airport",
+    "city": "Masalembo",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MSJ",
+    "name": "Misawa Airport",
+    "city": "Misawa, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "MSL",
+    "name": "Northwest Alabama Regional Airport",
+    "city": "Muscle Shoals / Florence, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "MSM",
+    "name": "Masi-Manimba Airport",
+    "city": "Masi-Manimba",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "MSN",
+    "name": "Dane County Regional Airport (Truax Field)",
+    "city": "Madison, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "MSO",
+    "name": "Missoula International Airport",
+    "city": "Missoula, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "MSP",
+    "name": "Minneapolis–Saint Paul International Airport (Wold–Chamberlain Field)",
+    "city": "Minneapolis / St Paul, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MSQ",
+    "name": "Minsk National Airport",
+    "city": "Minsk",
+    "country": "Belarus"
+  },
+  {
+    "code": "MSR",
+    "name": "Muş Airport",
+    "city": "Muş",
+    "country": "Turkey"
+  },
+  {
+    "code": "MSS",
+    "name": "Massena International Airport (Richards Field)",
+    "city": "Massena, New York",
+    "country": "United States"
+  },
+  {
+    "code": "MST",
+    "name": "Maastricht Aachen Airport",
+    "city": "Maastricht",
+    "country": "Netherlands"
+  },
+  {
+    "code": "MSU",
+    "name": "Moshoeshoe I International Airport",
+    "city": "Maseru",
+    "country": "Lesotho"
+  },
+  {
+    "code": "MSV",
+    "name": "Sullivan County International Airport",
+    "city": "Monticello, New York",
+    "country": "United States"
+  },
+  {
+    "code": "MSW",
+    "name": "Massawa International Airport",
+    "city": "Massawa",
+    "country": "Eritrea"
+  },
+  {
+    "code": "MSX",
+    "name": "Mossendjo Airport",
+    "city": "Mossendjo",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "MSY",
+    "name": "Louis Armstrong New Orleans International Airport",
+    "city": "New Orleans, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "MSZ",
+    "name": "Moçâmedes Airport (Yuri Gagarin Airport)",
+    "city": "Moçâmedes",
+    "country": "Angola"
+  },
+  {
+    "code": "MTA",
+    "name": "Matamata Airport",
+    "city": "Matamata",
+    "country": "New Zealand"
+  },
+  {
+    "code": "MTB",
+    "name": "Montelíbano Airport",
+    "city": "Montelíbano",
+    "country": "Colombia"
+  },
+  {
+    "code": "MTC",
+    "name": "Selfridge Air National Guard Base",
+    "city": "Mount Clemens, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "MTD",
+    "name": "Mount Sandford Station Airport",
+    "city": "Mount Sandford Station, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MTE",
+    "name": "Monte Alegre Airport",
+    "city": "Monte Alegre, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "MTF",
+    "name": "Mizan Teferi Airport",
+    "city": "Mizan Teferi",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "MTG",
+    "name": "Mato Grosso Airport",
+    "city": "Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "MTH",
+    "name": "Florida Keys Marathon Airport",
+    "city": "Marathon, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "MTI",
+    "name": "Mosteiros Airport",
+    "city": "Mosteiros",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "MTJ",
+    "name": "Montrose Regional Airport",
+    "city": "Montrose, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "MTK",
+    "name": "Makin Airport",
+    "city": "Makin Island (Butaritari)",
+    "country": "Kiribati"
+  },
+  {
+    "code": "MTL",
+    "name": "Maitland Airport",
+    "city": "Maitland, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "MTM",
+    "name": "Metlakatla Seaplane Base",
+    "city": "Metlakatla, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MTN",
+    "name": "Martin State Airport",
+    "city": "Baltimore, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "MTO",
+    "name": "Coles County Memorial Airport",
+    "city": "Mattoon / Charleston, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MTP",
+    "name": "Montauk Airport",
+    "city": "Montauk, New York",
+    "country": "United States"
+  },
+  {
+    "code": "MTQ",
+    "name": "Mitchell Airport",
+    "city": "Mitchell, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MTR",
+    "name": "Los Garzones Airport",
+    "city": "Montería",
+    "country": "Colombia"
+  },
+  {
+    "code": "MTS",
+    "name": "Matsapha Airport",
+    "city": "Manzini",
+    "country": "Eswatini"
+  },
+  {
+    "code": "MTT",
+    "name": "Minatitlán/Coatzacoalcos International Airport",
+    "city": "Minatitlán, Veracruz",
+    "country": "Mexico"
+  },
+  {
+    "code": "MTU",
+    "name": "Montepuez Airport",
+    "city": "Montepuez",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MTV",
+    "name": "Mota Lava Airport",
+    "city": "Mota Lava",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "MTW",
+    "name": "Manitowoc County Airport",
+    "city": "Manitowoc, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "MTX",
+    "name": "Metro Field (FAA: MTF)",
+    "city": "Fairbanks, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MTY",
+    "name": "General Mariano Escobedo International Airport",
+    "city": "Monterrey, Nuevo León",
+    "country": "Mexico"
+  },
+  {
+    "code": "MTZ",
+    "name": "Bar Yehuda Airfield (Masada Airfield)",
+    "city": "Masada",
+    "country": "Israel"
+  },
+  {
+    "code": "MUA",
+    "name": "Munda Airport",
+    "city": "Munda, New Georgia",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "MUB",
+    "name": "Maun Airport",
+    "city": "Maun",
+    "country": "Botswana"
+  },
+  {
+    "code": "MUC",
+    "name": "Munich Airport",
+    "city": "Munich, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "MUD",
+    "name": "Mueda Airport",
+    "city": "Mueda",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MUE",
+    "name": "Waimea-Kohala Airport",
+    "city": "Kamuela, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "MUF",
+    "name": "Muting Airport",
+    "city": "Muting",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MUG",
+    "name": "Mulegé Airstrip",
+    "city": "Mulegé, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "MUH",
+    "name": "Marsa Matruh International Airport",
+    "city": "Mersa Matruh",
+    "country": "Egypt"
+  },
+  {
+    "code": "MUI",
+    "name": "Muir Army Airfield",
+    "city": "Fort Indiantown Gap, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "MUJ",
+    "name": "Mui Airport",
+    "city": "Mui",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "MUK",
+    "name": "Mauke Airport",
+    "city": "Mauke Island",
+    "country": "Cook Islands"
+  },
+  {
+    "code": "MUL",
+    "name": "Spence Airport",
+    "city": "Moultrie, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "MUN",
+    "name": "José Tadeo Monagas International Airport",
+    "city": "Maturín",
+    "country": "Venezuela"
+  },
+  {
+    "code": "MUO",
+    "name": "Mountain Home Air Force Base",
+    "city": "Mountain Home, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "MUP",
+    "name": "Mulga Park Airport",
+    "city": "Mulga Park, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "MUQ",
+    "name": "Muccan Station Airport",
+    "city": "Muccan Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MUR",
+    "name": "Marudi Airport",
+    "city": "Marudi, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "MUS",
+    "name": "Minami Torishima Airport",
+    "city": "Minami-Tori-shima",
+    "country": "Japan"
+  },
+  {
+    "code": "MUT",
+    "name": "Muscatine Municipal Airport",
+    "city": "Muscatine, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "MUW",
+    "name": "Ghriss Airport",
+    "city": "Ghriss",
+    "country": "Algeria"
+  },
+  {
+    "code": "MUX",
+    "name": "Multan International Airport",
+    "city": "Multan",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MUY",
+    "name": "Mouyondzi Airport",
+    "city": "Mouyondzi",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "MUZ",
+    "name": "Musoma Airport",
+    "city": "Musoma",
+    "country": "Tanzania"
+  },
+  {
+    "code": "MVA",
+    "name": "Mývatn Airport",
+    "city": "Mývatn",
+    "country": "Iceland"
+  },
+  {
+    "code": "MVB",
+    "name": "M'Vengue El Hadj Omar Bongo Ondimba International Airport",
+    "city": "Franceville",
+    "country": "Gabon"
+  },
+  {
+    "code": "MVC",
+    "name": "Monroe County Airport",
+    "city": "Monroeville, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "MVD",
+    "name": "Carrasco Gral. Cesáreo L. Berisso International Airport",
+    "city": "Montevideo",
+    "country": "Uruguay"
+  },
+  {
+    "code": "MVE",
+    "name": "Montevideo–Chippewa County Airport",
+    "city": "Montevideo, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MVF",
+    "name": "Gov. Dix-Sept Rosado Airport",
+    "city": "Mossoró, Rio Grande do Norte",
+    "country": "Brazil"
+  },
+  {
+    "code": "MVG",
+    "name": "Mevang Airport",
+    "city": "Mevang",
+    "country": "Gabon"
+  },
+  {
+    "code": "MVH",
+    "name": "Macksville Airport",
+    "city": "Macksville, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "MVI",
+    "name": "Manetai Airport",
+    "city": "Manetai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MVK",
+    "name": "Mulka Airport",
+    "city": "Mulka, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MVL",
+    "name": "Morrisville–Stowe State Airport",
+    "city": "Morrisville / Stowe, Vermont",
+    "country": "United States"
+  },
+  {
+    "code": "MVM",
+    "name": "Kayenta Airport (FAA: 0V7)",
+    "city": "Kayenta, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "MVN",
+    "name": "Mount Vernon Airport",
+    "city": "Mount Vernon, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MVO",
+    "name": "Mongo Airport",
+    "city": "Mongo",
+    "country": "Chad"
+  },
+  {
+    "code": "MVP",
+    "name": "Fabio Alberto León Bentley Airport",
+    "city": "Mitú",
+    "country": "Colombia"
+  },
+  {
+    "code": "MVQ",
+    "name": "Mogilev Airport",
+    "city": "Mogilev",
+    "country": "Belarus"
+  },
+  {
+    "code": "MVR",
+    "name": "Salak Airport",
+    "city": "Maroua",
+    "country": "Cameroon"
+  },
+  {
+    "code": "MVS",
+    "name": "Mucuri Airport",
+    "city": "Mucuri, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "MVT",
+    "name": "Mataiva Airport",
+    "city": "Mataiva, Tuamotus",
+    "country": "French Polynesia"
+  },
+  {
+    "code": "MVU",
+    "name": "Musgrave Airport",
+    "city": "Musgrave, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MVV",
+    "name": "Megève Altiport",
+    "city": "Megève, Rhône-Alpes",
+    "country": "France"
+  },
+  {
+    "code": "MVW",
+    "name": "Skagit Regional Airport (FAA: BVS)",
+    "city": "Burlington / Mount Vernon, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "MVX",
+    "name": "Minvoul Airport",
+    "city": "Minvoul",
+    "country": "Gabon"
+  },
+  {
+    "code": "MVY",
+    "name": "Martha's Vineyard Airport",
+    "city": "Vineyard Haven, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "MVZ",
+    "name": "Masvingo Airport",
+    "city": "Masvingo",
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "MWA",
+    "name": "Williamson County Regional Airport",
+    "city": "Marion, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "MWB",
+    "name": "Morawa Airport",
+    "city": "Morawa, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MWC",
+    "name": "Lawrence J. Timmerman Airport",
+    "city": "Milwaukee, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "MWD",
+    "name": "PAF Base M.M. Alam",
+    "city": "Mianwali",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MWE",
+    "name": "Merowe Airport",
+    "city": "Merowe",
+    "country": "Sudan"
+  },
+  {
+    "code": "MWF",
+    "name": "Maewo-Naone Airport",
+    "city": "Maewo",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "MWG",
+    "name": "Marawaka Airport",
+    "city": "Marawaka",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MWH",
+    "name": "Grant County International Airport",
+    "city": "Moses Lake, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "MWI",
+    "name": "Maramuni Airport",
+    "city": "Maramuni",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MWJ",
+    "name": "Matthews Ridge Airport",
+    "city": "Matthew's Ridge",
+    "country": "Guyana"
+  },
+  {
+    "code": "MWK",
+    "name": "Matak Airport (Tarempa Airport)",
+    "city": "Matak",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MWL",
+    "name": "Mineral Wells Airport",
+    "city": "Mineral Wells, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "MWM",
+    "name": "Windom Municipal Airport",
+    "city": "Windom, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "MWN",
+    "name": "Mwadui Airport",
+    "city": "Mwadui",
+    "country": "Tanzania"
+  },
+  {
+    "code": "MWO",
+    "name": "Middletown Regional Airport (Hook Field)",
+    "city": "Middletown, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "MWQ",
+    "name": "Magway Airport",
+    "city": "Magway",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MWR",
+    "name": "Motswari Airstrip",
+    "city": "Motswari",
+    "country": "South Africa"
+  },
+  {
+    "code": "MWT",
+    "name": "Moolawatana Airport",
+    "city": "Moolawatana Station, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MWU",
+    "name": "Mussau Island Airport",
+    "city": "Mussau Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MWV",
+    "name": "Mondulkiri Airport",
+    "city": "Senmonorom",
+    "country": "Cambodia"
+  },
+  {
+    "code": "MWX",
+    "name": "Muan International Airport",
+    "city": "Muan",
+    "country": "South Korea"
+  },
+  {
+    "code": "MWY",
+    "name": "Miranda Downs Airport",
+    "city": "Miranda Downs, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MWZ",
+    "name": "Mwanza Airport",
+    "city": "Mwanza",
+    "country": "Tanzania"
+  },
+  {
+    "code": "MXA",
+    "name": "Manila Municipal Airport",
+    "city": "Manila, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "MXB",
+    "name": "Andi Jemma Airport",
+    "city": "Masamba",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MXC",
+    "name": "Monticello Airport (FAA: U43)",
+    "city": "Monticello, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "MXD",
+    "name": "Marion Downs Airport",
+    "city": "Marion Downs Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MXE",
+    "name": "Laurinburg–Maxton Airport (FAA: MEB)",
+    "city": "Laurinburg / Maxton, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "MXF",
+    "name": "Maxwell Air Force Base",
+    "city": "Montgomery, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "MXG",
+    "name": "Marlboro Airport (FAA: 9B1)",
+    "city": "Marlborough, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "MXH",
+    "name": "Moro Airport",
+    "city": "Moro",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MXI",
+    "name": "Mati Airport (Imelda R. Marcos Airport)",
+    "city": "Mati",
+    "country": "Philippines"
+  },
+  {
+    "code": "MXJ",
+    "name": "Minna Airport",
+    "city": "Minna",
+    "country": "Nigeria"
+  },
+  {
+    "code": "MXK",
+    "name": "Mindik Airport",
+    "city": "Mindik",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MXL",
+    "name": "General Rodolfo Sánchez Taboada International Airport",
+    "city": "Mexicali, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "code": "MXM",
+    "name": "Morombe Airport",
+    "city": "Morombe",
+    "country": "Madagascar"
+  },
+  {
+    "code": "MXN",
+    "name": "Morlaix – Ploujean Airport",
+    "city": "Morlaix, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "MXO",
+    "name": "Monticello Regional Airport",
+    "city": "Monticello, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "MXP",
+    "name": "Milan–Malpensa Airport",
+    "city": "Milan, Lombardy",
+    "country": "Italy"
+  },
+  {
+    "code": "MXR",
+    "name": "Myrhorod Air Base",
+    "city": "Myrhorod",
+    "country": "Ukraine"
+  },
+  {
+    "code": "MXS",
+    "name": "Maota Airport",
+    "city": "Maota",
+    "country": "Samoa"
+  },
+  {
+    "code": "MXT",
+    "name": "Maintirano Airport",
+    "city": "Maintirano",
+    "country": "Madagascar"
+  },
+  {
+    "code": "MXU",
+    "name": "Mullewa Airport",
+    "city": "Mullewa, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MXV",
+    "name": "Mörön Airport",
+    "city": "Mörön",
+    "country": "Mongolia"
+  },
+  {
+    "code": "MXW",
+    "name": "Mandalgovi Airport",
+    "city": "Mandalgovi",
+    "country": "Mongolia"
+  },
+  {
+    "code": "MXX",
+    "name": "Mora–Siljan Airport",
+    "city": "Mora",
+    "country": "Sweden"
+  },
+  {
+    "code": "MXY",
+    "name": "McCarthy Airport (FAA: 15Z)",
+    "city": "McCarthy, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MXZ",
+    "name": "Meixian Airport",
+    "city": "Meizhou, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "MYA",
+    "name": "Moruya Airport",
+    "city": "Moruya, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "MYB",
+    "name": "Mayumba Airport",
+    "city": "Mayumba",
+    "country": "Gabon"
+  },
+  {
+    "code": "MYC",
+    "name": "Mariscal Sucre Airport",
+    "city": "Maracay",
+    "country": "Venezuela"
+  },
+  {
+    "code": "MYD",
+    "name": "Malindi Airport",
+    "city": "Malindi",
+    "country": "Kenya"
+  },
+  {
+    "code": "MYE",
+    "name": "Miyakejima Airport",
+    "city": "Miyake-jima",
+    "country": "Japan"
+  },
+  {
+    "code": "MYF",
+    "name": "Montgomery Field Airport",
+    "city": "San Diego, California",
+    "country": "United States"
+  },
+  {
+    "code": "MYG",
+    "name": "Mayaguana Airport (Abraham's Bay Airport)",
+    "city": "Mayaguana",
+    "country": "Bahamas"
+  },
+  {
+    "code": "MYH",
+    "name": "Marble Canyon Airport (FAA: L41)",
+    "city": "Marble Canyon, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "MYI",
+    "name": "Murray Island Airport",
+    "city": "Murray Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "MYJ",
+    "name": "Matsuyama Airport",
+    "city": "Matsuyama, Shikoku",
+    "country": "Japan"
+  },
+  {
+    "code": "MYK",
+    "name": "May Creek Airport",
+    "city": "May Creek, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MYL",
+    "name": "McCall Municipal Airport",
+    "city": "McCall, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "MYM",
+    "name": "Monkey Mountain Airport",
+    "city": "Monkey Mountain",
+    "country": "Guyana"
+  },
+  {
+    "code": "MYN",
+    "name": "Marib Airport",
+    "city": "Ma'rib",
+    "country": "Yemen"
+  },
+  {
+    "code": "MYO",
+    "name": "Myroodah Airport",
+    "city": "Myroodah Station, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "MYP",
+    "name": "Mary International Airport",
+    "city": "Mary",
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "MYQ",
+    "name": "Mysore Airport (Mandakalli Airport)",
+    "city": "Mysore, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "MYR",
+    "name": "Myrtle Beach International Airport",
+    "city": "Myrtle Beach, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "MYT",
+    "name": "Myitkyina Airport",
+    "city": "Myitkyina",
+    "country": "Myanmar"
+  },
+  {
+    "code": "MYU",
+    "name": "Mekoryuk Airport",
+    "city": "Mekoryuk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "MYV",
+    "name": "Yuba County Airport",
+    "city": "Marysville, California",
+    "country": "United States"
+  },
+  {
+    "code": "MYW",
+    "name": "Mtwara Airport",
+    "city": "Mtwara",
+    "country": "Tanzania"
+  },
+  {
+    "code": "MYX",
+    "name": "Menyamya Airport",
+    "city": "Menyamya",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MYY",
+    "name": "Miri Airport",
+    "city": "Miri, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "MYZ",
+    "name": "Monkey Bay Airport",
+    "city": "Monkey Bay",
+    "country": "Malawi"
+  },
+  {
+    "code": "MZA",
+    "name": "Manuel Prado Ugarteche Airport",
+    "city": "Mazamari",
+    "country": "Peru"
+  },
+  {
+    "code": "MZB",
+    "name": "Mocímboa da Praia Airport",
+    "city": "Mocímboa da Praia",
+    "country": "Mozambique"
+  },
+  {
+    "code": "MZC",
+    "name": "Mitzic Airport",
+    "city": "Mitzic",
+    "country": "Gabon"
+  },
+  {
+    "code": "MZD",
+    "name": "Méndez Airport",
+    "city": "Santiago de Méndez",
+    "country": "Ecuador"
+  },
+  {
+    "code": "MZE",
+    "name": "Manatee Airport",
+    "city": "Spanish Lookout",
+    "country": "Belize"
+  },
+  {
+    "code": "MZF",
+    "name": "Wild Coast Sun Airport",
+    "city": "Mzamba",
+    "country": "South Africa"
+  },
+  {
+    "code": "MZG",
+    "name": "Magong Airport",
+    "city": "Magong",
+    "country": "Taiwan"
+  },
+  {
+    "code": "MZH",
+    "name": "Amasya Merzifon Airport",
+    "city": "Amasya",
+    "country": "Turkey"
+  },
+  {
+    "code": "MZI",
+    "name": "Mopti Airport (Ambodedjo Airport)",
+    "city": "Mopti",
+    "country": "Mali"
+  },
+  {
+    "code": "MZJ",
+    "name": "Pinal Airpark",
+    "city": "Marana, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "MZK",
+    "name": "Marakei Airport",
+    "city": "Marakei",
+    "country": "Kiribati"
+  },
+  {
+    "code": "MZL",
+    "name": "La Nubia Airport (Santaguida Airport)",
+    "city": "Manizales",
+    "country": "Colombia"
+  },
+  {
+    "code": "MZM",
+    "name": "Metz-Frescaty Air Base",
+    "city": "Metz, Lorraine",
+    "country": "France"
+  },
+  {
+    "code": "MZN",
+    "name": "Minj Airport",
+    "city": "Minj",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "MZO",
+    "name": "Sierra Maestra Airport",
+    "city": "Manzanillo",
+    "country": "Cuba"
+  },
+  {
+    "code": "MZP",
+    "name": "Motueka Aerodrome",
+    "city": "Motueka",
+    "country": "New Zealand"
+  },
+  {
+    "code": "MZQ",
+    "name": "Mkuze Airport",
+    "city": "Mkuze",
+    "country": "South Africa"
+  },
+  {
+    "code": "MZR",
+    "name": "Mazar-e Sharif International Airport",
+    "city": "Mazar-i-Sharif",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "MZT",
+    "name": "General Rafael Buelna International Airport",
+    "city": "Mazatlán, Sinaloa",
+    "country": "Mexico"
+  },
+  {
+    "code": "MZU",
+    "name": "Muzaffarpur Airport",
+    "city": "Muzaffarpur, Bihar",
+    "country": "India"
+  },
+  {
+    "code": "MZV",
+    "name": "Mulu Airport",
+    "city": "Mulu, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "MZW",
+    "name": "Mécheria Airport",
+    "city": "Mécheria",
+    "country": "Algeria"
+  },
+  {
+    "code": "MZX",
+    "name": "Mena Airport",
+    "city": "Mena",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "MZY",
+    "name": "Mossel Bay Airport",
+    "city": "Mossel Bay",
+    "country": "South Africa"
+  },
+  {
+    "code": "MZZ",
+    "name": "Marion Municipal Airport",
+    "city": "Marion, Indiana",
+    "country": "United States"
+  }
+]

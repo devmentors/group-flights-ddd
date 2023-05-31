@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.16" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.16" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Shared\GroupFlights.Shared.Plumbing\GroupFlights.Shared.Plumbing.csproj" />
+      <ProjectReference Include="..\GroupFlights.Sales.Application\GroupFlights.Sales.Application.csproj" />
+      <ProjectReference Include="..\GroupFlights.Sales.Domain\GroupFlights.Sales.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Data\EF\Migrations" />
+    </ItemGroup>
+
+</Project>

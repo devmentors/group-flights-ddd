@@ -1,0 +1,3734 @@
+﻿[
+  {
+    "code": "SAA",
+    "name": "Shively Field",
+    "city": "Saratoga, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "SAB",
+    "name": "Juancho E. Yrausquin Airport",
+    "city": "Saba",
+    "country": "Caribbean Netherlands"
+  },
+  {
+    "code": "SAC",
+    "name": "Sacramento Executive Airport",
+    "city": "Sacramento, California",
+    "country": "United States"
+  },
+  {
+    "code": "SAD",
+    "name": "Safford Regional Airport",
+    "city": "Safford, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "SAF",
+    "name": "Santa Fe Municipal Airport",
+    "city": "Santa Fe, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "SAG",
+    "name": "Shirdi Airport",
+    "city": "Shirdi, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "SAH",
+    "name": "Sana'a International Airport (El Rahaba Airport)",
+    "city": "Sana'a",
+    "country": "Yemen"
+  },
+  {
+    "code": "SAK",
+    "name": "Sauðárkrókur Airport",
+    "city": "Sauðárkrókur",
+    "country": "Iceland"
+  },
+  {
+    "code": "SAL",
+    "name": "Monseñor Óscar Arnulfo Romero International Airport",
+    "city": "San Salvador",
+    "country": "El Salvador"
+  },
+  {
+    "code": "SAM",
+    "name": "Salamo Airport",
+    "city": "Salamo",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SAN",
+    "name": "San Diego International Airport",
+    "city": "San Diego, California",
+    "country": "United States"
+  },
+  {
+    "code": "SAO",
+    "name": "metropolitan area1",
+    "city": "São Paulo, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "SAP",
+    "name": "Ramón Villeda Morales International Airport",
+    "city": "San Pedro Sula",
+    "country": "Honduras"
+  },
+  {
+    "code": "SAQ",
+    "name": "San Andros Airport",
+    "city": "Nicholls Town, Andros Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "SAR",
+    "name": "Sparta Community Airport (Hunter Field)",
+    "city": "Sparta, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "SAS",
+    "name": "Salton Sea Airport",
+    "city": "Salton City, California",
+    "country": "United States"
+  },
+  {
+    "code": "SAT",
+    "name": "San Antonio International Airport",
+    "city": "San Antonio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SAU",
+    "name": "Tardamu Airport",
+    "city": "Savu (Sawu)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SAV",
+    "name": "Savannah/Hilton Head International Airport",
+    "city": "Savannah, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "SAW",
+    "name": "Sabiha Gökçen International Airport",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "code": "SAX",
+    "name": "Sambú Airport",
+    "city": "Sambú",
+    "country": "Panama"
+  },
+  {
+    "code": "SAY",
+    "name": "Siena–Ampugnano Airport",
+    "city": "Siena, Tuscany",
+    "country": "Italy"
+  },
+  {
+    "code": "SAZ",
+    "name": "Sasstown Airport",
+    "city": "Sasstown",
+    "country": "Liberia"
+  },
+  {
+    "code": "SBA",
+    "name": "Santa Barbara Municipal Airport",
+    "city": "Santa Barbara, California",
+    "country": "United States"
+  },
+  {
+    "code": "SBB",
+    "name": "Santa Bárbara de Barinas Airport",
+    "city": "Santa Bárbara",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SBC",
+    "name": "Selbang Airport",
+    "city": "Selbang",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SBD",
+    "name": "San Bernardino International Airport",
+    "city": "San Bernardino, California",
+    "country": "United States"
+  },
+  {
+    "code": "SBE",
+    "name": "Suabi Airport",
+    "city": "Suabi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SBF",
+    "name": "Sardeh Band Airport",
+    "city": "Band-e Sardeh Dam",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "SBG",
+    "name": "Maimun Saleh Airport",
+    "city": "Sabang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SBH",
+    "name": "Gustaf III Airport",
+    "city": "Gustavia",
+    "country": "Saint Barthélemy"
+  },
+  {
+    "code": "SBI",
+    "name": "Sambailo Airport",
+    "city": "Koundara",
+    "country": "Guinea"
+  },
+  {
+    "code": "SBJ",
+    "name": "São Mateus Airport",
+    "city": "São Mateus, Espírito Santo",
+    "country": "Brazil"
+  },
+  {
+    "code": "SBK",
+    "name": "Saint-Brieuc – Armor Airport",
+    "city": "Saint-Brieuc, Brittany",
+    "country": "France"
+  },
+  {
+    "code": "SBL",
+    "name": "Santa Ana del Yacuma Airport",
+    "city": "Santa Ana del Yacuma",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SBM",
+    "name": "Sheboygan County Memorial Airport",
+    "city": "Sheboygan, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "SBN",
+    "name": "South Bend International Airport",
+    "city": "South Bend, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "SBO",
+    "name": "Salina-Gunnison Airport (FAA: 44U)",
+    "city": "Salina / Gunnison, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "SBP",
+    "name": "San Luis Obispo County Regional Airport (McChesney Field)",
+    "city": "San Luis Obispo, California",
+    "country": "United States"
+  },
+  {
+    "code": "SBQ",
+    "name": "Sibi Airport",
+    "city": "Sibi",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SBR",
+    "name": "Saibai Island Airport",
+    "city": "Saibai Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SBS",
+    "name": "Steamboat Springs Airport (Bob Adams Field)",
+    "city": "Steamboat Springs, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "SBT",
+    "name": "Sabetta International Airport",
+    "city": "Sabetta, Yamalo-Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "SBU",
+    "name": "Springbok Airport",
+    "city": "Springbok",
+    "country": "South Africa"
+  },
+  {
+    "code": "SBV",
+    "name": "Sabah Airport",
+    "city": "Sabah",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SBW",
+    "name": "Sibu Airport",
+    "city": "Sibu, Sarawak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SBX",
+    "name": "Shelby Airport",
+    "city": "Shelby, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "SBY",
+    "name": "Salisbury–Ocean City–Wicomico Regional Airport",
+    "city": "Salisbury / Ocean City, Maryland",
+    "country": "United States"
+  },
+  {
+    "code": "SBZ",
+    "name": "Sibiu International Airport",
+    "city": "Sibiu",
+    "country": "Romania"
+  },
+  {
+    "code": "SCA",
+    "name": "Santa Catalina Airport",
+    "city": "Santa Catalina",
+    "country": "Colombia"
+  },
+  {
+    "code": "SCB",
+    "name": "Scribner State Airport",
+    "city": "Scribner, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "SCC",
+    "name": "Deadhorse Airport",
+    "city": "Prudhoe Bay / Deadhorse, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SCD",
+    "name": "Sulaco Airport",
+    "city": "Sulaco",
+    "country": "Honduras"
+  },
+  {
+    "code": "SCE",
+    "name": "University Park Airport (FAA: UNV)",
+    "city": "State College, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "SCF",
+    "name": "Scottsdale Airport (FAA: SDL)",
+    "city": "Phoenix / Scottsdale, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "SCG",
+    "name": "Spring Creek Airport",
+    "city": "Conjuboy, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SCH",
+    "name": "Schenectady County Airport",
+    "city": "Schenectady, New York",
+    "country": "United States"
+  },
+  {
+    "code": "SCI",
+    "name": "Paramillo Airport",
+    "city": "San Cristóbal",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SCK",
+    "name": "Stockton Metropolitan Airport",
+    "city": "Stockton, California",
+    "country": "United States"
+  },
+  {
+    "code": "SCL",
+    "name": "Comodoro Arturo Merino Benítez International Airport",
+    "city": "Santiago",
+    "country": "Chile"
+  },
+  {
+    "code": "SCM",
+    "name": "Scammon Bay Airport",
+    "city": "Scammon Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SCN",
+    "name": "Saarbrücken Airport",
+    "city": "Saarbrücken, Saarland",
+    "country": "Germany"
+  },
+  {
+    "code": "SCO",
+    "name": "Aktau Airport",
+    "city": "Aktau",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "SCP",
+    "name": "Mont-Dauphin - Saint-Crépin Airport",
+    "city": "Mont-Dauphin, Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "code": "SCQ",
+    "name": "Santiago de Compostela Airport",
+    "city": "Santiago de Compostela, Galicia",
+    "country": "Spain"
+  },
+  {
+    "code": "SCR",
+    "name": "Scandinavian Mountains Airport",
+    "city": "Malung-Sälen",
+    "country": "Sweden"
+  },
+  {
+    "code": "SCS",
+    "name": "Scatsta Airport",
+    "city": "Shetland Islands, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SCT",
+    "name": "Socotra Airport",
+    "city": "Socotra",
+    "country": "Yemen"
+  },
+  {
+    "code": "SCU",
+    "name": "Antonio Maceo International Airport",
+    "city": "Santiago de Cuba",
+    "country": "Cuba"
+  },
+  {
+    "code": "SCV",
+    "name": "Suceava International Airport (Ștefan cel Mare Int'l)",
+    "city": "Suceava",
+    "country": "Romania"
+  },
+  {
+    "code": "SCW",
+    "name": "Syktyvkar Airport",
+    "city": "Syktyvkar, Komi Republic",
+    "country": "Russia"
+  },
+  {
+    "code": "SCX",
+    "name": "Salina Cruz Airport",
+    "city": "Salina Cruz, Oaxaca",
+    "country": "Mexico"
+  },
+  {
+    "code": "SCY",
+    "name": "San Cristóbal Airport",
+    "city": "San Cristóbal Island, Galápagos Islands",
+    "country": "Ecuador"
+  },
+  {
+    "code": "SCZ",
+    "name": "Santa Cruz/Graciosa Bay/Luova Airport",
+    "city": "Santa Cruz Islands",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "SDB",
+    "name": "Air Force Base Langebaanweg",
+    "city": "Saldanha Bay",
+    "country": "South Africa"
+  },
+  {
+    "code": "SDC",
+    "name": "Sand Creek Airport",
+    "city": "Sand Creek Village",
+    "country": "Guyana"
+  },
+  {
+    "code": "SDD",
+    "name": "Lubango Mukanka Airport",
+    "city": "Lubango",
+    "country": "Angola"
+  },
+  {
+    "code": "SDE",
+    "name": "Vicecomodoro Ángel de la Paz Aragonés Airport",
+    "city": "Santiago del Estero, Santiago del Estero",
+    "country": "Argentina"
+  },
+  {
+    "code": "SDF",
+    "name": "Louisville International Airport (Standiford Field)",
+    "city": "Louisville, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "SDG",
+    "name": "Sanandaj Airport",
+    "city": "Sanandaj",
+    "country": "Iran"
+  },
+  {
+    "code": "SDH",
+    "name": "Santa Rosa de Copán Airport",
+    "city": "Santa Rosa de Copán",
+    "country": "Honduras"
+  },
+  {
+    "code": "SDI",
+    "name": "Saidor Airport",
+    "city": "Saidor",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SDJ",
+    "name": "Sendai Airport",
+    "city": "Sendai, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "SDK",
+    "name": "Sandakan Airport",
+    "city": "Sandakan, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SDL",
+    "name": "Sundsvall-Timrå Airport (Midlanda Airport)",
+    "city": "Sundsvall / Härnösand",
+    "country": "Sweden"
+  },
+  {
+    "code": "SDM",
+    "name": "Brown Field Municipal Airport",
+    "city": "San Diego, California",
+    "country": "United States"
+  },
+  {
+    "code": "SDN",
+    "name": "Sandane Airport, Anda",
+    "city": "Sandane",
+    "country": "Norway"
+  },
+  {
+    "code": "SDP",
+    "name": "Sand Point Airport",
+    "city": "Sand Point, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SDQ",
+    "name": "Las Américas International Airport",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "SDR",
+    "name": "Santander Airport",
+    "city": "Santander, Cantabria",
+    "country": "Spain"
+  },
+  {
+    "code": "SDS",
+    "name": "Sado Airport",
+    "city": "Sado, Niigata",
+    "country": "Japan"
+  },
+  {
+    "code": "SDT",
+    "name": "Saidu Sharif Airport",
+    "city": "Saidu Sharif",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SDU",
+    "name": "Santos Dumont Airport",
+    "city": "Rio de Janeiro, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "SDV",
+    "name": "Sde Dov Airport",
+    "city": "Tel Aviv",
+    "country": "Israel"
+  },
+  {
+    "code": "SDX",
+    "name": "Sedona Airport (FAA: SEZ)",
+    "city": "Sedona, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "SDY",
+    "name": "Sidney–Richland Municipal Airport",
+    "city": "Sidney, Montana",
+    "country": "United States"
+  },
+  {
+    "code": "SDZ",
+    "name": "metropolitan area2",
+    "city": "Shetland Islands, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SEA",
+    "name": "Seattle–Tacoma International Airport",
+    "city": "Seattle, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "SEB",
+    "name": "Sabha Airport",
+    "city": "Sabha (Sebha)",
+    "country": "Libya"
+  },
+  {
+    "code": "SED",
+    "name": "Sdom Airfield (Hashnayim Airfield)",
+    "city": "Neve Zohar (Sedom)",
+    "country": "Israel"
+  },
+  {
+    "code": "SEE",
+    "name": "Gillespie Field",
+    "city": "San Diego, California",
+    "country": "United States"
+  },
+  {
+    "code": "SEF",
+    "name": "Sebring Regional Airport",
+    "city": "Sebring, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "SEG",
+    "name": "Penn Valley Airport",
+    "city": "Selinsgrove, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "SEH",
+    "name": "Senggeh Airport",
+    "city": "Senggeh",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SEK",
+    "name": "Srednekolymsk Airport",
+    "city": "Srednekolymsk, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "SEL",
+    "name": "metropolitan area3",
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
+    "code": "SEM",
+    "name": "Craig Field",
+    "city": "Selma, Alabama",
+    "country": "United States"
+  },
+  {
+    "code": "SEN",
+    "name": "London Southend Airport",
+    "city": "London / Southend, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SEO",
+    "name": "Séguéla Airport",
+    "city": "Séguéla",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "SEP",
+    "name": "Stephenville Clark Regional Airport",
+    "city": "Stephenville, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SEQ",
+    "name": "Sei Pakning Airport",
+    "city": "Bengkalis",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SER",
+    "name": "Freeman Municipal Airport",
+    "city": "Seymour, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "SEU",
+    "name": "Seronera Airstrip",
+    "city": "Seronera",
+    "country": "Tanzania"
+  },
+  {
+    "code": "SEV",
+    "name": "Severodonetsk Airport",
+    "city": "Severodonetsk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "SEW",
+    "name": "Siwa Oasis North Airport",
+    "city": "Siwa Oasis",
+    "country": "Egypt"
+  },
+  {
+    "code": "SEY",
+    "name": "Sélibaby Airport",
+    "city": "Sélibaby",
+    "country": "Mauritania"
+  },
+  {
+    "code": "SEZ",
+    "name": "Seychelles International Airport",
+    "city": "Mahé",
+    "country": "Seychelles"
+  },
+  {
+    "code": "SFA",
+    "name": "Sfax–Thyna International Airport",
+    "city": "Sfax",
+    "country": "Tunisia"
+  },
+  {
+    "code": "SFB",
+    "name": "Orlando Sanford International Airport",
+    "city": "Orlando, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "SFC",
+    "name": "Saint-François Airport",
+    "city": "Saint-François",
+    "country": "Guadeloupe"
+  },
+  {
+    "code": "SFD",
+    "name": "Las Flecheras Airport",
+    "city": "San Fernando de Apure",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SFE",
+    "name": "San Fernando Airport",
+    "city": "San Fernando",
+    "country": "Philippines"
+  },
+  {
+    "code": "SFF",
+    "name": "Felts Field",
+    "city": "Spokane, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "SFG",
+    "name": "L'Espérance Airport (Grand Case Airport)",
+    "city": "Grand Case",
+    "country": "Saint Martin"
+  },
+  {
+    "code": "SFH",
+    "name": "San Felipe International Airport",
+    "city": "San Felipe, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "code": "SFI",
+    "name": "Safi Airport",
+    "city": "Safi",
+    "country": "Morocco"
+  },
+  {
+    "code": "SFJ",
+    "name": "Kangerlussuaq Airport",
+    "city": "Kangerlussuaq",
+    "country": "Greenland"
+  },
+  {
+    "code": "SFK",
+    "name": "Soure Airport",
+    "city": "Soure, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "SFL",
+    "name": "São Filipe Airport",
+    "city": "São Filipe, Fogo",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "SFM",
+    "name": "Sanford Seacoast Regional Airport",
+    "city": "Sanford, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "SFN",
+    "name": "Sauce Viejo Airport",
+    "city": "Santa Fe de la Vera Cruz, Santa Fe",
+    "country": "Argentina"
+  },
+  {
+    "code": "SFO",
+    "name": "San Francisco International Airport",
+    "city": "San Francisco, California",
+    "country": "United States"
+  },
+  {
+    "code": "SFQ",
+    "name": "Şanlıurfa Airport",
+    "city": "Şanlıurfa",
+    "country": "Turkey"
+  },
+  {
+    "code": "SFS",
+    "name": "Subic Bay International Airport",
+    "city": "Subic Bay",
+    "country": "Philippines"
+  },
+  {
+    "code": "SFT",
+    "name": "Skellefteå Airport",
+    "city": "Skellefteå",
+    "country": "Sweden"
+  },
+  {
+    "code": "SFU",
+    "name": "Safia Airport",
+    "city": "Safia",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SFV",
+    "name": "Santa Fé do Sul Airport",
+    "city": "Santa Fé do Sul, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "SFX",
+    "name": "Macagua Airport",
+    "city": "San Félix",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SFY",
+    "name": "metropolitan area4",
+    "city": "Springfield, Massachusetts",
+    "country": "United States"
+  },
+  {
+    "code": "SFZ",
+    "name": "North Central State Airport",
+    "city": "Pawtucket, Rhode Island",
+    "country": "United States"
+  },
+  {
+    "code": "SGA",
+    "name": "Sheghnan Airport",
+    "city": "Shighnan",
+    "country": "Afghanistan"
+  },
+  {
+    "code": "SGB",
+    "name": "Singaua Airport",
+    "city": "Singaua",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SGC",
+    "name": "Surgut International Airport",
+    "city": "Surgut, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "SGD",
+    "name": "Sønderborg Airport",
+    "city": "Sønderborg",
+    "country": "Denmark"
+  },
+  {
+    "code": "SGE",
+    "name": "Siegerland Airport",
+    "city": "Siegen, North Rhine-Westphalia",
+    "country": "Germany"
+  },
+  {
+    "code": "SGF",
+    "name": "Springfield–Branson National Airport",
+    "city": "Springfield, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "SGG",
+    "name": "Simanggang Airport",
+    "city": "Sri Aman",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SGH",
+    "name": "Springfield–Beckley Municipal Airport",
+    "city": "Springfield, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "SGI",
+    "name": "PAF Base Mushaf",
+    "city": "Sargodha",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SGJ",
+    "name": "Sagarai Airport",
+    "city": "Sagarai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SGK",
+    "name": "Sangapi Airport",
+    "city": "Sangapi",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SGL",
+    "name": "Sangley Point Airport",
+    "city": "Manila",
+    "country": "Philippines"
+  },
+  {
+    "code": "SGM",
+    "name": "San Ignacio Airfield",
+    "city": "San Ignacio, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "SGN",
+    "name": "Tan Son Nhat International Airport",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam"
+  },
+  {
+    "code": "SGO",
+    "name": "St George Airport",
+    "city": "St George, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SGP",
+    "name": "Shay Gap Airport",
+    "city": "Shay Gap, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "SGQ",
+    "name": "Sangkimah Airport",
+    "city": "Sangatta",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SGR",
+    "name": "Sugar Land Regional Airport",
+    "city": "Houston / Sugar Land, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SGT",
+    "name": "Stuttgart Municipal Airport",
+    "city": "Stuttgart, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "SGU",
+    "name": "St. George Regional Airport",
+    "city": "St. George, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "SGV",
+    "name": "Sierra Grande Airport",
+    "city": "Sierra Grande, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "SGW",
+    "name": "Saginaw Seaplane Base (FAA: A23)",
+    "city": "Saginaw Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SGX",
+    "name": "Songea Airport",
+    "city": "Songea",
+    "country": "Tanzania"
+  },
+  {
+    "code": "SGY",
+    "name": "Skagway Airport",
+    "city": "Skagway, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SGZ",
+    "name": "Songkhla Airport",
+    "city": "Songkhla",
+    "country": "Thailand"
+  },
+  {
+    "code": "SHA",
+    "name": "Shanghai Hongqiao International Airport",
+    "city": "Shanghai",
+    "country": "China"
+  },
+  {
+    "code": "SHB",
+    "name": "Nakashibetsu Airport",
+    "city": "Nakashibetsu, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "SHC",
+    "name": "Shire Airport",
+    "city": "Shire (Inda Selassie)",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "SHD",
+    "name": "Shenandoah Valley Regional Airport",
+    "city": "Staunton / Waynesboro / Harrisonburg, Virginia",
+    "country": "United States"
+  },
+  {
+    "code": "SHE",
+    "name": "Shenyang Taoxian International Airport",
+    "city": "Shenyang, Liaoning",
+    "country": "China"
+  },
+  {
+    "code": "SHF",
+    "name": "Shihezi Huayuan Airport",
+    "city": "Shihezi, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "SHG",
+    "name": "Shungnak Airport",
+    "city": "Shungnak, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SHH",
+    "name": "Shishmaref Airport",
+    "city": "Shishmaref, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SHI",
+    "name": "Shimojishima Airport",
+    "city": "Shimoji-shima, Miyako Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "SHJ",
+    "name": "Sharjah International Airport",
+    "city": "Sharjah",
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "SHK",
+    "name": "Sehonghong Airport",
+    "city": "Sehonghong",
+    "country": "Lesotho"
+  },
+  {
+    "code": "SHL",
+    "name": "Shillong Airport (Barapani Airport)",
+    "city": "Shillong, Meghalaya",
+    "country": "India"
+  },
+  {
+    "code": "SHM",
+    "name": "Nanki–Shirahama Airport",
+    "city": "Shirahama, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "SHN",
+    "name": "Sanderson Field",
+    "city": "Shelton, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "SHO",
+    "name": "King Mswati III International Airport (Sikhuphe Int'l)",
+    "city": "Manzini",
+    "country": "Eswatini"
+  },
+  {
+    "code": "SHQ",
+    "name": "Southport Airport",
+    "city": "Southport, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SHR",
+    "name": "Sheridan County Airport",
+    "city": "Sheridan, Wyoming",
+    "country": "United States"
+  },
+  {
+    "code": "SHS",
+    "name": "Shashi Airport",
+    "city": "Jingzhou, Hubei",
+    "country": "China"
+  },
+  {
+    "code": "SHT",
+    "name": "Shepparton Airport",
+    "city": "Shepparton, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "SHU",
+    "name": "Smith Point Airport",
+    "city": "Smith Point, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "SHV",
+    "name": "Shreveport Regional Airport",
+    "city": "Shreveport, Louisiana",
+    "country": "United States"
+  },
+  {
+    "code": "SHW",
+    "name": "Sharurah Domestic Airport",
+    "city": "Sharurah",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "SHX",
+    "name": "Shageluk Airport",
+    "city": "Shageluk, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SHY",
+    "name": "Shinyanga Airport",
+    "city": "Shinyanga",
+    "country": "Tanzania"
+  },
+  {
+    "code": "SHZ",
+    "name": "Seshutes Airport",
+    "city": "Seshote",
+    "country": "Lesotho"
+  },
+  {
+    "code": "SIA",
+    "name": "Xi'an Xiguan Airport",
+    "city": "Xi'an, Shaanxi",
+    "country": "China"
+  },
+  {
+    "code": "SIB",
+    "name": "Sibiti Airport",
+    "city": "Sibiti",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "SIC",
+    "name": "San José Airport",
+    "city": "San José Island",
+    "country": "Panama"
+  },
+  {
+    "code": "SID",
+    "name": "Amílcar Cabral International Airport",
+    "city": "Sal",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "SIE",
+    "name": "Sines Airport",
+    "city": "Sines",
+    "country": "Portugal"
+  },
+  {
+    "code": "SIF",
+    "name": "Simara Airport",
+    "city": "Simara",
+    "country": "Nepal"
+  },
+  {
+    "code": "SIG",
+    "name": "Fernando Luis Ribas Dominicci Airport",
+    "city": "San Juan",
+    "country": "Puerto Rico"
+  },
+  {
+    "code": "SIH",
+    "name": "Silgadhi Airport",
+    "city": "Dipayal Silgadhi",
+    "country": "Nepal"
+  },
+  {
+    "code": "SII",
+    "name": "Sidi Ifni Airport (Sania Ramel Airport)",
+    "city": "Sidi Ifni",
+    "country": "Morocco"
+  },
+  {
+    "code": "SIJ",
+    "name": "Siglufjörður Airport",
+    "city": "Siglufjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "SIK",
+    "name": "Sikeston Memorial Municipal Airport",
+    "city": "Sikeston, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "SIL",
+    "name": "Sila Airport",
+    "city": "Sila",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SIM",
+    "name": "Simbai Airport",
+    "city": "Simbai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SIN",
+    "name": "Singapore Changi Airport",
+    "city": "",
+    "country": "Singapore"
+  },
+  {
+    "code": "SIO",
+    "name": "Smithton Airport",
+    "city": "Smithton, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "SIP",
+    "name": "Simferopol International Airport",
+    "city": "",
+    "country": "Simferopol"
+  },
+  {
+    "code": "SIQ",
+    "name": "Dabo Singkep Airport",
+    "city": "Singkep",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SIR",
+    "name": "Sion Airport",
+    "city": "Sion",
+    "country": "Switzerland"
+  },
+  {
+    "code": "SIS",
+    "name": "Sishen Airport",
+    "city": "Dingleton",
+    "country": "South Africa"
+  },
+  {
+    "code": "SIT",
+    "name": "Sitka Rocky Gutierrez Airport",
+    "city": "Sitka, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SIU",
+    "name": "Siuna Airport",
+    "city": "Siuna",
+    "country": "Nicaragua"
+  },
+  {
+    "code": "SIV",
+    "name": "Sullivan County Airport",
+    "city": "Sullivan, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "SIW",
+    "name": "Sibisa Airport",
+    "city": "Parapat",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SIX",
+    "name": "Singleton Airport",
+    "city": "Singleton, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "SIY",
+    "name": "Siskiyou County Airport",
+    "city": "Montague / Yreka, California",
+    "country": "United States"
+  },
+  {
+    "code": "SIZ",
+    "name": "Sissano Airport",
+    "city": "Sissano",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SJA",
+    "name": "San Juan de Marcona Airport",
+    "city": "San Juan de Marcona",
+    "country": "Peru"
+  },
+  {
+    "code": "SJB",
+    "name": "San Joaquín Airport",
+    "city": "San Joaquín",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SJC",
+    "name": "San Jose International Airport",
+    "city": "San Jose, California",
+    "country": "United States"
+  },
+  {
+    "code": "SJD",
+    "name": "Los Cabos International Airport",
+    "city": "San José del Cabo, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "SJE",
+    "name": "Jorge Enrique González Torres Airport",
+    "city": "San José del Guaviare",
+    "country": "Colombia"
+  },
+  {
+    "code": "SJF",
+    "name": "Cruz Bay Seaplane Base",
+    "city": "Saint John",
+    "country": "United States Virgin Islands"
+  },
+  {
+    "code": "SJG",
+    "name": "San Pedro de Jagua Airport",
+    "city": "San Pedro de Jagua",
+    "country": "Colombia"
+  },
+  {
+    "code": "SJH",
+    "name": "San Juan del Cesar Airport",
+    "city": "San Juan del Cesar",
+    "country": "Colombia"
+  },
+  {
+    "code": "SJI",
+    "name": "San Jose Airport",
+    "city": "San Jose",
+    "country": "Philippines"
+  },
+  {
+    "code": "SJJ",
+    "name": "Sarajevo International Airport",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "SJK",
+    "name": "Professor Urbano Ernesto Stumpf Airport",
+    "city": "São José dos Campos, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "SJL",
+    "name": "São Gabriel da Cachoeira Airport",
+    "city": "São Gabriel da Cachoeira, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "SJM",
+    "name": "San Juan de la Maguana Airport",
+    "city": "San Juan de la Maguana",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "SJN",
+    "name": "St. Johns Industrial Air Park",
+    "city": "St. Johns, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "SJO",
+    "name": "Juan Santamaría International Airport",
+    "city": "San José",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "SJP",
+    "name": "Prof. Eribelto Manoel Reino State Airport",
+    "city": "São José do Rio Preto, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "SJQ",
+    "name": "Sesheke Airport",
+    "city": "Sesheke",
+    "country": "Zambia"
+  },
+  {
+    "code": "SJR",
+    "name": "San Juan de Urabá Airport",
+    "city": "San Juan de Urabá",
+    "country": "Colombia"
+  },
+  {
+    "code": "SJS",
+    "name": "San José de Chiquitos Airport",
+    "city": "San José de Chiquitos",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SJT",
+    "name": "San Angelo Regional Airport (Mathis Field)",
+    "city": "San Angelo, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SJU",
+    "name": "Luis Muñoz Marín International Airport",
+    "city": "San Juan",
+    "country": "Puerto Rico"
+  },
+  {
+    "code": "SJV",
+    "name": "San Javier Airport",
+    "city": "San Javier",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SJW",
+    "name": "Shijiazhuang Zhengding International Airport",
+    "city": "Shijiazhuang, Hebei",
+    "country": "China"
+  },
+  {
+    "code": "SJX",
+    "name": "Sarteneja Airport",
+    "city": "Sarteneja",
+    "country": "Belize"
+  },
+  {
+    "code": "SJY",
+    "name": "Seinäjoki Airport",
+    "city": "Seinäjoki",
+    "country": "Finland"
+  },
+  {
+    "code": "SJZ",
+    "name": "São Jorge Airport",
+    "city": "São Jorge Island, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "SKA",
+    "name": "Fairchild Air Force Base",
+    "city": "Spokane, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "SKB",
+    "name": "Robert L. Bradshaw International Airport",
+    "city": "Saint Kitts",
+    "country": "Saint Kitts and Nevis"
+  },
+  {
+    "code": "SKC",
+    "name": "Suki Airport",
+    "city": "Suki",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SKD",
+    "name": "Samarkand International Airport",
+    "city": "Samarkand",
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "SKE",
+    "name": "Skien Airport, Geiteryggen",
+    "city": "Skien",
+    "country": "Norway"
+  },
+  {
+    "code": "SKF",
+    "name": "Kelly Field Annex / Lackland Air Force Base",
+    "city": "San Antonio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SKG",
+    "name": "Thessaloniki Airport 'Macedonia'",
+    "city": "Thessaloniki",
+    "country": "Greece"
+  },
+  {
+    "code": "SKH",
+    "name": "Surkhet Airport",
+    "city": "Surkhet",
+    "country": "Nepal"
+  },
+  {
+    "code": "SKI",
+    "name": "Skikda Airport",
+    "city": "Skikda",
+    "country": "Algeria"
+  },
+  {
+    "code": "SKK",
+    "name": "Shaktoolik Airport (FAA: 2C7)",
+    "city": "Shaktoolik, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SKL",
+    "name": "Broadford Airfield",
+    "city": "Isle of Skye, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SKM",
+    "name": "Skeldon Airport",
+    "city": "Skeldon",
+    "country": "Guyana"
+  },
+  {
+    "code": "SKN",
+    "name": "Stokmarknes Airport, Skagen",
+    "city": "Stokmarknes",
+    "country": "Norway"
+  },
+  {
+    "code": "SKO",
+    "name": "Sadiq Abubakar III International Airport",
+    "city": "Sokoto",
+    "country": "Nigeria"
+  },
+  {
+    "code": "SKP",
+    "name": "Skopje 'Alexander the Great' Airport",
+    "city": "Skopje",
+    "country": "North Macedonia"
+  },
+  {
+    "code": "SKQ",
+    "name": "Sekake Airport",
+    "city": "Sekake",
+    "country": "Lesotho"
+  },
+  {
+    "code": "SKR",
+    "name": "Shakiso Airport",
+    "city": "Shakiso",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "SKS",
+    "name": "Vojens Airport (Skrydstrup Airport)",
+    "city": "Vojens",
+    "country": "Denmark"
+  },
+  {
+    "code": "SKT",
+    "name": "Sialkot International Airport",
+    "city": "Sialkot",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SKU",
+    "name": "Skyros Island National Airport",
+    "city": "Skyros",
+    "country": "Greece"
+  },
+  {
+    "code": "SKV",
+    "name": "St. Catherine International Airport",
+    "city": "Saint Catherine",
+    "country": "Egypt"
+  },
+  {
+    "code": "SKW",
+    "name": "Skwentna Airport",
+    "city": "Skwentna, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SKX",
+    "name": "Saransk Airport",
+    "city": "Saransk, Mordovia",
+    "country": "Russia"
+  },
+  {
+    "code": "SKY",
+    "name": "Griffing Sandusky Airport",
+    "city": "Sandusky, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "SKZ",
+    "name": "Sukkur Airport",
+    "city": "Sukkur",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SLA",
+    "name": "Martín Miguel de Güemes International Airport",
+    "city": "Salta, Salta",
+    "country": "Argentina"
+  },
+  {
+    "code": "SLB",
+    "name": "Storm Lake Municipal Airport",
+    "city": "Storm Lake, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "SLC",
+    "name": "Salt Lake City International Airport",
+    "city": "Salt Lake City, Utah",
+    "country": "United States"
+  },
+  {
+    "code": "SLD",
+    "name": "Sliač Airport",
+    "city": "Sliač",
+    "country": "Slovakia"
+  },
+  {
+    "code": "SLE",
+    "name": "McNary Field",
+    "city": "Salem, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "SLF",
+    "name": "Sulayel Airport",
+    "city": "As Sulayyil (Sulayel)",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "SLG",
+    "name": "Smith Field",
+    "city": "Siloam Springs, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "SLH",
+    "name": "Vanua Lava Airport",
+    "city": "Sola, Vanua Lava",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "SLI",
+    "name": "Solwezi Airport",
+    "city": "Solwezi",
+    "country": "Zambia"
+  },
+  {
+    "code": "SLJ",
+    "name": "Solomon Airport",
+    "city": "Karijini National Park, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "SLK",
+    "name": "Adirondack Regional Airport",
+    "city": "Saranac Lake, New York",
+    "country": "United States"
+  },
+  {
+    "code": "SLL",
+    "name": "Salalah International Airport",
+    "city": "Salalah",
+    "country": "Oman"
+  },
+  {
+    "code": "SLM",
+    "name": "Salamanca Airport",
+    "city": "Salamanca, Castile and León",
+    "country": "Spain"
+  },
+  {
+    "code": "SLN",
+    "name": "Salina Regional Airport",
+    "city": "Salina, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "SLO",
+    "name": "Salem–Leckrone Airport",
+    "city": "Salem, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "SLP",
+    "name": "Ponciano Arriaga International Airport",
+    "city": "San Luis Potosí City, San Luis Potosí",
+    "country": "Mexico"
+  },
+  {
+    "code": "SLQ",
+    "name": "Sleetmute Airport",
+    "city": "Sleetmute, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SLR",
+    "name": "Sulphur Springs Municipal Airport",
+    "city": "Sulphur Springs, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SLS",
+    "name": "Silistra Airfield",
+    "city": "Silistra",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "SLT",
+    "name": "Harriet Alexander Field (FAA: ANK)",
+    "city": "Salida, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "SLU",
+    "name": "George F. L. Charles Airport",
+    "city": "Castries",
+    "country": "Saint Lucia"
+  },
+  {
+    "code": "SLV",
+    "name": "Shimla Airport",
+    "city": "Simla, Himachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "SLW",
+    "name": "Plan de Guadalupe International Airport",
+    "city": "Saltillo, Coahuila",
+    "country": "Mexico"
+  },
+  {
+    "code": "SLX",
+    "name": "Salt Cay Airport",
+    "city": "Salt Cay",
+    "country": "British Overseas Territory of Turks and Caicos Islands"
+  },
+  {
+    "code": "SLY",
+    "name": "Salekhard Airport",
+    "city": "Salekhard, Yamalo-Nenets Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "SLZ",
+    "name": "Marechal Cunha Machado International Airport",
+    "city": "São Luís, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "SMA",
+    "name": "Santa Maria Airport",
+    "city": "Santa Maria Island, Azores",
+    "country": "Portugal"
+  },
+  {
+    "code": "SMB",
+    "name": "Franco Bianco Airport",
+    "city": "Cerro Sombrero",
+    "country": "Chile"
+  },
+  {
+    "code": "SMC",
+    "name": "Santa María Airport",
+    "city": "Santa María",
+    "country": "Colombia"
+  },
+  {
+    "code": "SMD",
+    "name": "Smith Field",
+    "city": "Fort Wayne, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "SME",
+    "name": "Lake Cumberland Regional Airport",
+    "city": "Somerset, Kentucky",
+    "country": "United States"
+  },
+  {
+    "code": "SMF",
+    "name": "Sacramento International Airport",
+    "city": "Sacramento, California",
+    "country": "United States"
+  },
+  {
+    "code": "SMG",
+    "name": "Santa María Airport",
+    "city": "Santa María del Mar",
+    "country": "Peru"
+  },
+  {
+    "code": "SMH",
+    "name": "Sapmanga Airport",
+    "city": "Sapmanga",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SMI",
+    "name": "Samos International Airport 'Aristarchos of Samos'",
+    "city": "Samos",
+    "country": "Greece"
+  },
+  {
+    "code": "SMJ",
+    "name": "Sim Airport",
+    "city": "Sim",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SMK",
+    "name": "St. Michael Airport",
+    "city": "St. Michael, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SML",
+    "name": "Stella Maris Airport",
+    "city": "Stella Maris, Long Island",
+    "country": "Bahamas"
+  },
+  {
+    "code": "SMM",
+    "name": "Semporna Airport",
+    "city": "Semporna, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SMN",
+    "name": "Lemhi County Airport",
+    "city": "Salmon, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "SMO",
+    "name": "Santa Monica Municipal Airport",
+    "city": "Santa Monica, California",
+    "country": "United States"
+  },
+  {
+    "code": "SMP",
+    "name": "Stockholm Airport",
+    "city": "Stockholm",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SMQ",
+    "name": "H. Asan Airport",
+    "city": "Sampit",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SMR",
+    "name": "Simón Bolívar International Airport",
+    "city": "Santa Marta",
+    "country": "Colombia"
+  },
+  {
+    "code": "SMS",
+    "name": "Sainte Marie Airport",
+    "city": "Île Sainte-Marie",
+    "country": "Madagascar"
+  },
+  {
+    "code": "SMU",
+    "name": "Sheep Mountain Airport",
+    "city": "Sheep Mountain, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SMV",
+    "name": "Samedan Airport (Engadin Airport)",
+    "city": "St. Moritz",
+    "country": "Switzerland"
+  },
+  {
+    "code": "SMW",
+    "name": "Smara Airport",
+    "city": "Smara",
+    "country": "Morocco"
+  },
+  {
+    "code": "SMX",
+    "name": "Santa Maria Public Airport (Capt. G. Allan Hancock Field)",
+    "city": "Santa Maria, California",
+    "country": "United States"
+  },
+  {
+    "code": "SMY",
+    "name": "Simenti Airport",
+    "city": "Simenti",
+    "country": "Senegal"
+  },
+  {
+    "code": "SMZ",
+    "name": "Stoelmans Eiland Airstrip",
+    "city": "Stoelmans Eiland (Stoelmanseiland)",
+    "country": "Suriname"
+  },
+  {
+    "code": "SNA",
+    "name": "John Wayne Airport (Orange County Airport)",
+    "city": "Santa Ana, California",
+    "country": "United States"
+  },
+  {
+    "code": "SNB",
+    "name": "Snake Bay Airport",
+    "city": "Milikapiti, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "SNC",
+    "name": "General Ulpiano Paez Airport",
+    "city": "Salinas",
+    "country": "Ecuador"
+  },
+  {
+    "code": "SNE",
+    "name": "Preguiça Airport",
+    "city": "São Nicolau",
+    "country": "Cape Verde"
+  },
+  {
+    "code": "SNF",
+    "name": "Sub Teniente Nestor Arias Airport",
+    "city": "San Felipe",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SNG",
+    "name": "Capitán Av. Juan Cochamanidis Airport",
+    "city": "San Ignacio de Velasco",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SNH",
+    "name": "Stanthorpe Airport",
+    "city": "Stanthorpe, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SNI",
+    "name": "Greenville/Sinoe Airport (R.E. Murray Airport)",
+    "city": "Greenville",
+    "country": "Liberia"
+  },
+  {
+    "code": "SNJ",
+    "name": "San Julián Air Base",
+    "city": "Guane",
+    "country": "Cuba"
+  },
+  {
+    "code": "SNK",
+    "name": "Winston Field Airport",
+    "city": "Snyder, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SNL",
+    "name": "Shawnee Regional Airport",
+    "city": "Shawnee, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "SNM",
+    "name": "San Ignacio de Moxos Airport",
+    "city": "San Ignacio de Moxos",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SNN",
+    "name": "Shannon Airport",
+    "city": "Shannon",
+    "country": "Ireland"
+  },
+  {
+    "code": "SNO",
+    "name": "Sakon Nakhon Airport",
+    "city": "Sakon Nakhon",
+    "country": "Thailand"
+  },
+  {
+    "code": "SNP",
+    "name": "St. Paul Island Airport",
+    "city": "St. Paul Island, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SNQ",
+    "name": "San Quintín Military Airstrip",
+    "city": "San Quintín, Baja California",
+    "country": "Mexico"
+  },
+  {
+    "code": "SNR",
+    "name": "Saint-Nazaire Montoir Airport",
+    "city": "Saint-Nazaire, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "SNS",
+    "name": "Salinas Municipal Airport",
+    "city": "Salinas, California",
+    "country": "United States"
+  },
+  {
+    "code": "SNT",
+    "name": "Las Cruces Airport",
+    "city": "Sabana de Torres",
+    "country": "Colombia"
+  },
+  {
+    "code": "SNU",
+    "name": "Abel Santamaría Airport",
+    "city": "Santa Clara",
+    "country": "Cuba"
+  },
+  {
+    "code": "SNV",
+    "name": "Santa Elena de Uairén Airport",
+    "city": "Santa Elena de Uairén",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SNW",
+    "name": "Thandwe Airport",
+    "city": "Thandwe",
+    "country": "Myanmar"
+  },
+  {
+    "code": "SNX",
+    "name": "Semnan Municipal Airport",
+    "city": "Semnan",
+    "country": "Iran"
+  },
+  {
+    "code": "SNY",
+    "name": "Sidney Municipal Airport (Lloyd W. Carr Field)",
+    "city": "Sidney, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "SNZ",
+    "name": "Santa Cruz Air Force Base",
+    "city": "Rio de Janeiro, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "SOA",
+    "name": "Sóc Trăng Airfield",
+    "city": "Sóc Trăng",
+    "country": "Vietnam"
+  },
+  {
+    "code": "SOB",
+    "name": "Hévíz–Balaton Airport",
+    "city": "Hévíz",
+    "country": "Hungary"
+  },
+  {
+    "code": "SOC",
+    "name": "Adisumarmo International Airport",
+    "city": "Surakarta (Solo)",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SOD",
+    "name": "Bertram Luiz Leupolz–Sorocaba Airport",
+    "city": "Sorocaba, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "SOE",
+    "name": "Souanké Airport",
+    "city": "Souanké",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "SOF",
+    "name": "Sofia Airport",
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "SOG",
+    "name": "Sogndal Airport, Haukåsen",
+    "city": "Sogndal",
+    "country": "Norway"
+  },
+  {
+    "code": "SOJ",
+    "name": "Sørkjosen Airport",
+    "city": "Sørkjosen",
+    "country": "Norway"
+  },
+  {
+    "code": "SOK",
+    "name": "Semonkong Airport",
+    "city": "Semonkong",
+    "country": "Lesotho"
+  },
+  {
+    "code": "SOL",
+    "name": "Solomon State Field Airport (FAA: AK26)",
+    "city": "Solomon, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SOM",
+    "name": "San Tomé Airport",
+    "city": "San Tomé",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SON",
+    "name": "Santo-Pekoa International Airport",
+    "city": "Luganville",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "SOO",
+    "name": "Söderhamn Airport (Helsinge Airport)",
+    "city": "Söderhamn",
+    "country": "Sweden"
+  },
+  {
+    "code": "SOP",
+    "name": "Moore County Airport",
+    "city": "Pinehurst / Southern Pines, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "SOQ",
+    "name": "Dominique Edward Osok Airport",
+    "city": "Sorong",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SOT",
+    "name": "Sodankylä Airfield",
+    "city": "Sodankylä",
+    "country": "Finland"
+  },
+  {
+    "code": "SOU",
+    "name": "Southampton Airport",
+    "city": "Southampton, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SOV",
+    "name": "Seldovia Airport",
+    "city": "Seldovia, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SOW",
+    "name": "Show Low Regional Airport",
+    "city": "Show Low, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "SOX",
+    "name": "Alberto Lleras Camargo Airport",
+    "city": "Sogamoso",
+    "country": "Colombia"
+  },
+  {
+    "code": "SOY",
+    "name": "Stronsay Airport",
+    "city": "Stronsay, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SOZ",
+    "name": "Solenzara Air Base",
+    "city": "Sari-Solenzara, Corsica",
+    "country": "France"
+  },
+  {
+    "code": "SPA",
+    "name": "Spartanburg Downtown Memorial Airport",
+    "city": "Spartanburg, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "SPB",
+    "name": "Charlotte Amalie Harbor Seaplane Base (St. Thomas Seaplane Base) (FAA: VI22)",
+    "city": "St. Thomas Island",
+    "country": "United States Virgin Islands"
+  },
+  {
+    "code": "SPC",
+    "name": "La Palma Airport",
+    "city": "La Palma, Canary Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "SPD",
+    "name": "Saidpur Airport",
+    "city": "Saidpur",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "SPE",
+    "name": "Sepulot Airport",
+    "city": "Sapulut, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SPF",
+    "name": "Black Hills Airport (Clyde Ice Field)",
+    "city": "Spearfish, South Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "SPG",
+    "name": "Albert Whitted Airport",
+    "city": "St. Petersburg, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "SPH",
+    "name": "Sopu Airport",
+    "city": "Sopu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SPI",
+    "name": "Abraham Lincoln Capital Airport",
+    "city": "Springfield, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "SPJ",
+    "name": "Sparti Airport",
+    "city": "Sparti (Sparta)",
+    "country": "Greece"
+  },
+  {
+    "code": "SPK",
+    "name": "metropolitan area5",
+    "city": "Sapporo, Hokkaido",
+    "country": "Japan"
+  },
+  {
+    "code": "SPM",
+    "name": "Spangdahlem Air Base",
+    "city": "Spangdahlem, Rhineland-Palatinate",
+    "country": "Germany"
+  },
+  {
+    "code": "SPN",
+    "name": "Saipan International Airport (Francisco C. Ada Int'l) (FAA: GSN)",
+    "city": "Saipan",
+    "country": "Northern Mariana Islands"
+  },
+  {
+    "code": "SPP",
+    "name": "Menongue Airport",
+    "city": "Menongue",
+    "country": "Angola"
+  },
+  {
+    "code": "SPR",
+    "name": "John Greif II Airport",
+    "city": "San Pedro Town",
+    "country": "Belize"
+  },
+  {
+    "code": "SPS",
+    "name": "Wichita Falls Municipal Airport",
+    "city": "Wichita Falls, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SPT",
+    "name": "Sipitang Airstrip",
+    "city": "Sipitang, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SPU",
+    "name": "Split Airport",
+    "city": "Split",
+    "country": "Croatia"
+  },
+  {
+    "code": "SPV",
+    "name": "Sepik Plains Airport",
+    "city": "Sepik Plains",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SPW",
+    "name": "Spencer Municipal Airport",
+    "city": "Spencer, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "SPY",
+    "name": "San Pédro Airport",
+    "city": "San-Pédro",
+    "country": "Ivory Coast"
+  },
+  {
+    "code": "SPX",
+    "name": "Sphinx International Airport",
+    "city": "Egypt",
+    "country": "Egypt"
+  },
+  {
+    "code": "SPZ",
+    "name": "Springdale Municipal Airport (FAA: ASG)",
+    "city": "Springdale, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "SQA",
+    "name": "Santa Ynez Airport (FAA: IZA)",
+    "city": "Santa Ynez, California",
+    "country": "United States"
+  },
+  {
+    "code": "SQB",
+    "name": "Santa Ana Airport",
+    "city": "Piedras",
+    "country": "Colombia"
+  },
+  {
+    "code": "SQC",
+    "name": "Southern Cross Airport",
+    "city": "Southern Cross, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "SQD",
+    "name": "Shangrao Sanqingshan Airport",
+    "city": "Shangrao, Jiangxi",
+    "country": "China"
+  },
+  {
+    "code": "SQE",
+    "name": "San Luis de Palenque Airport",
+    "city": "San Luis de Palenque",
+    "country": "Colombia"
+  },
+  {
+    "code": "SQG",
+    "name": "Tebelian Airport (Susilo Airport)",
+    "city": "Sintang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SQH",
+    "name": "Nà Sản Airport",
+    "city": "Sơn La",
+    "country": "Vietnam"
+  },
+  {
+    "code": "SQI",
+    "name": "Whiteside County Airport (Jos. H. Bittorf Field)",
+    "city": "Sterling / Rock Falls, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "SQJ",
+    "name": "Sanming Shaxian Airport",
+    "city": "Sanming, Fujian",
+    "country": "China"
+  },
+  {
+    "code": "SQK",
+    "name": "Sidi Barrani Airport",
+    "city": "Sidi Barrani",
+    "country": "Egypt"
+  },
+  {
+    "code": "SQL",
+    "name": "San Carlos Airport",
+    "city": "San Carlos, California",
+    "country": "United States"
+  },
+  {
+    "code": "SQM",
+    "name": "São Miguel do Araguaia Airport",
+    "city": "São Miguel do Araguaia, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "SQN",
+    "name": "Sanana Airport",
+    "city": "Sanana Island",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SQO",
+    "name": "Storuman Airport",
+    "city": "Storuman",
+    "country": "Sweden"
+  },
+  {
+    "code": "SQQ",
+    "name": "Šiauliai International Airport",
+    "city": "Šiauliai",
+    "country": "Lithuania"
+  },
+  {
+    "code": "SQR",
+    "name": "Soroako Airport",
+    "city": "Soroako",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SQS",
+    "name": "Matthew Spain Airport",
+    "city": "San Ignacio",
+    "country": "Belize"
+  },
+  {
+    "code": "SQT",
+    "name": "China Strait Airstrip",
+    "city": "Samarai",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SQU",
+    "name": "Saposoa Airport",
+    "city": "Saposoa",
+    "country": "Peru"
+  },
+  {
+    "code": "SQV",
+    "name": "Sequim Valley Airport (FAA: W28)",
+    "city": "Sequim, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "SQW",
+    "name": "Skive Airport",
+    "city": "Skive",
+    "country": "Denmark"
+  },
+  {
+    "code": "SQX",
+    "name": "Hélio Wasum Airport",
+    "city": "São Miguel do Oeste, Santa Catarina",
+    "country": "Brazil"
+  },
+  {
+    "code": "SQY",
+    "name": "São Lourenço do Sul Airport",
+    "city": "São Lourenço do Sul, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "SQZ",
+    "name": "RAF Scampton",
+    "city": "Scampton, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SRA",
+    "name": "Santa Rosa Airport",
+    "city": "Santa Rosa, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "SRB",
+    "name": "Santa Rosa Airport",
+    "city": "Santa Rosa de Yacuma",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SRC",
+    "name": "Searcy Municipal Airport",
+    "city": "Searcy, Arkansas",
+    "country": "United States"
+  },
+  {
+    "code": "SRD",
+    "name": "San Ramón Airport",
+    "city": "San Ramón",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SRE",
+    "name": "Alcantarí Airport",
+    "city": "Sucre",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SRF",
+    "name": "San Rafael Airport (Hamilton Field)",
+    "city": "San Rafael, California",
+    "country": "United States"
+  },
+  {
+    "code": "SRG",
+    "name": "Achmad Yani International Airport",
+    "city": "Semarang",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SRH",
+    "name": "Sarh Airport",
+    "city": "Sarh",
+    "country": "Chad"
+  },
+  {
+    "code": "SRI",
+    "name": "Temindung Airport",
+    "city": "Samarinda",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SRJ",
+    "name": "Capitán Germán Quiroga Guardia Airport",
+    "city": "San Borja",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SRL",
+    "name": "Palo Verde Airport",
+    "city": "Santa Rosalía, Baja California Sur",
+    "country": "Mexico"
+  },
+  {
+    "code": "SRM",
+    "name": "Sandringham Station Airport",
+    "city": "Sandringham Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SRN",
+    "name": "Strahan Airport",
+    "city": "Strahan, Tasmania",
+    "country": "Australia"
+  },
+  {
+    "code": "SRO",
+    "name": "Santana Ramos Airport",
+    "city": "Santana Ramos",
+    "country": "Colombia"
+  },
+  {
+    "code": "SRP",
+    "name": "Stord Airport, Sørstokken",
+    "city": "Stord",
+    "country": "Norway"
+  },
+  {
+    "code": "SRQ",
+    "name": "Sarasota–Bradenton International Airport",
+    "city": "Sarasota / Bradenton, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "SRR",
+    "name": "Dunwich Airport",
+    "city": "North Stradbroke Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SRS",
+    "name": "San Marcos Airport",
+    "city": "San Marcos",
+    "country": "Colombia"
+  },
+  {
+    "code": "SRT",
+    "name": "Soroti Airport",
+    "city": "Soroti",
+    "country": "Uganda"
+  },
+  {
+    "code": "SRV",
+    "name": "Stony River Airport",
+    "city": "Stony River, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SRW",
+    "name": "Rowan County Airport (FAA: RUQ)",
+    "city": "Salisbury, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "SRX",
+    "name": "Gardabya Airport",
+    "city": "Sirte",
+    "country": "Libya"
+  },
+  {
+    "code": "SRY",
+    "name": "Dasht-e Naz Airport",
+    "city": "Sari",
+    "country": "Iran"
+  },
+  {
+    "code": "SRZ",
+    "name": "El Trompillo Airport",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia"
+  },
+  {
+    "code": "SSA",
+    "name": "Deputado Luís Eduardo Magalhães International Airport",
+    "city": "Salvador, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "SSB",
+    "name": "Christiansted Harbor Seaplane Base (St. Croix Seaplane Base) (FAA: VI32)",
+    "city": "Saint Croix",
+    "country": "United States Virgin Islands"
+  },
+  {
+    "code": "SSC",
+    "name": "Shaw Air Force Base",
+    "city": "Sumter, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "SSD",
+    "name": "San Felipe Airport",
+    "city": "San Felipe",
+    "country": "Colombia"
+  },
+  {
+    "code": "SSE",
+    "name": "Solapur Airport",
+    "city": "Solapur, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "SSF",
+    "name": "Stinson Municipal Airport",
+    "city": "San Antonio, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SSG",
+    "name": "Malabo International Airport (Saint Isabel Airport)",
+    "city": "Malabo",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "code": "SSH",
+    "name": "Sharm el-Sheikh International Airport",
+    "city": "Sharm el-Sheikh",
+    "country": "Egypt"
+  },
+  {
+    "code": "SSI",
+    "name": "Malcolm McKinnon Airport",
+    "city": "Brunswick, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "SSJ",
+    "name": "Sandnessjøen Airport, Stokka",
+    "city": "Sandnessjøen",
+    "country": "Norway"
+  },
+  {
+    "code": "SSK",
+    "name": "Sturt Creek Airport",
+    "city": "Sturt Creek, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "SSL",
+    "name": "Santa Rosalía Airport",
+    "city": "Santa Rosalía",
+    "country": "Colombia"
+  },
+  {
+    "code": "SSN",
+    "name": "Seoul Air Base",
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
+    "code": "SSO",
+    "name": "São Lourenço Airport",
+    "city": "São Lourenço, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "SSP",
+    "name": "Silver Plains Airport",
+    "city": "Silver Plains, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SSQ",
+    "name": "La Sarre Airport (TC: CSR8)",
+    "city": "La Sarre, Quebec",
+    "country": "Canada"
+  },
+  {
+    "code": "SSR",
+    "name": "Sara Airport",
+    "city": "Sara",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "SSS",
+    "name": "Siassi Airport",
+    "city": "Umboi Island (Siassi)",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SST",
+    "name": "Santa Teresita Airport",
+    "city": "Santa Teresita, Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "code": "SSV",
+    "name": "Siasi Airport",
+    "city": "Siasi",
+    "country": "Philippines"
+  },
+  {
+    "code": "SSW",
+    "name": "Stuart Island Airpark (FAA: 7WA5)",
+    "city": "Stuart Island, Washington",
+    "country": "United States"
+  },
+  {
+    "code": "SSY",
+    "name": "Mbanza Congo Airport",
+    "city": "M'banza-Kongo",
+    "country": "Angola"
+  },
+  {
+    "code": "SSZ",
+    "name": "Santos Air Force Base",
+    "city": "Santos, São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "code": "STA",
+    "name": "Stauning Vestjylland Airport",
+    "city": "Skjern",
+    "country": "Denmark"
+  },
+  {
+    "code": "STB",
+    "name": "Miguel Urdaneta Fernández Airport",
+    "city": "Santa Bárbara del Zulia",
+    "country": "Venezuela"
+  },
+  {
+    "code": "STC",
+    "name": "St. Cloud Regional Airport",
+    "city": "St. Cloud, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "STD",
+    "name": "Mayor Buenaventura Vivas Airport",
+    "city": "Santo Domingo, Táchira",
+    "country": "Venezuela"
+  },
+  {
+    "code": "STE",
+    "name": "Stevens Point Municipal Airport",
+    "city": "Stevens Point, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "STF",
+    "name": "Stephens Island Airport",
+    "city": "Stephens Island, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "STG",
+    "name": "St. George Airport (FAA: PBV)",
+    "city": "St. George, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "STH",
+    "name": "Strathmore Airport",
+    "city": "Strathmore Station, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "STI",
+    "name": "Cibao International Airport",
+    "city": "Santiago de los Caballeros",
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "STJ",
+    "name": "Rosecrans Memorial Airport",
+    "city": "St. Joseph, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "STK",
+    "name": "Sterling Municipal Airport",
+    "city": "Sterling, Colorado",
+    "country": "United States"
+  },
+  {
+    "code": "STL",
+    "name": "Lambert–St. Louis International Airport",
+    "city": "St. Louis, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "STM",
+    "name": "Santarém-Maestro Wilson Fonseca Airport",
+    "city": "Santarém, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "STN",
+    "name": "London Stansted Airport",
+    "city": "London, England",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "STO",
+    "name": "metropolitan area6",
+    "city": "Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "code": "STP",
+    "name": "St. Paul Downtown Airport (Holman Field)",
+    "city": "St. Paul / Minneapolis, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "STQ",
+    "name": "St. Marys Municipal Airport (FAA: OYM)",
+    "city": "St. Marys, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "STR",
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart, Baden-Württemberg",
+    "country": "Germany"
+  },
+  {
+    "code": "STS",
+    "name": "Charles M. Schulz–Sonoma County Airport",
+    "city": "Santa Rosa, California",
+    "country": "United States"
+  },
+  {
+    "code": "STT",
+    "name": "Cyril E. King Airport",
+    "city": "St. Thomas Island",
+    "country": "United States Virgin Islands"
+  },
+  {
+    "code": "STV",
+    "name": "Surat Airport",
+    "city": "Surat, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "STW",
+    "name": "Stavropol Shpakovskoye Airport",
+    "city": "Stavropol, Stavropol Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "STX",
+    "name": "Henry E. Rohlsen Airport",
+    "city": "Saint Croix",
+    "country": "United States Virgin Islands"
+  },
+  {
+    "code": "STY",
+    "name": "Nueva Hespérides International Airport",
+    "city": "Salto",
+    "country": "Uruguay"
+  },
+  {
+    "code": "STZ",
+    "name": "Santa Terezinha Airport",
+    "city": "Santa Terezinha, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "SUA",
+    "name": "Witham Field",
+    "city": "Stuart, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "SUB",
+    "name": "Juanda International Airport",
+    "city": "Surabaya",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SUD",
+    "name": "Stroud Municipal Airport",
+    "city": "Stroud, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "SUE",
+    "name": "Door County Cherryland Airport",
+    "city": "Sturgeon Bay, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "SUF",
+    "name": "Lamezia Terme International Airport",
+    "city": "Lamezia Terme, Calabria",
+    "country": "Italy"
+  },
+  {
+    "code": "SUG",
+    "name": "Surigao Airport",
+    "city": "Surigao City",
+    "country": "Philippines"
+  },
+  {
+    "code": "SUH",
+    "name": "Sur Airport",
+    "city": "Sur",
+    "country": "Oman"
+  },
+  {
+    "code": "SUI",
+    "name": "Sukhumi Babushara Airport (Dranda Airport)",
+    "city": "Sukhumi",
+    "country": "Georgia"
+  },
+  {
+    "code": "SUJ",
+    "name": "Satu Mare International Airport",
+    "city": "Satu Mare",
+    "country": "Romania"
+  },
+  {
+    "code": "SUK",
+    "name": "Sakkyryr Airport",
+    "city": "Batagay-Alyta (Sakkyryr), Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "SUL",
+    "name": "Sui Airport",
+    "city": "Sui",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SUM",
+    "name": "Sumter Airport (FAA: SMS)",
+    "city": "Sumter, South Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "SUN",
+    "name": "Friedman Memorial Airport",
+    "city": "Hailey / Sun Valley, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "SUO",
+    "name": "Sunriver Airport (FAA: S21)",
+    "city": "Sunriver, Oregon",
+    "country": "United States"
+  },
+  {
+    "code": "SUP",
+    "name": "Trunojoyo Airport",
+    "city": "Sumenep",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SUQ",
+    "name": "Sucúa Airport",
+    "city": "Sucúa",
+    "country": "Ecuador"
+  },
+  {
+    "code": "SUR",
+    "name": "Summer Beaver Airport (TC: CJV7)",
+    "city": "Summer Beaver, Ontario",
+    "country": "Canada"
+  },
+  {
+    "code": "SUS",
+    "name": "Spirit of St. Louis Airport",
+    "city": "St. Louis, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "SUT",
+    "name": "Sumbawanga Airport",
+    "city": "Sumbawanga",
+    "country": "Tanzania"
+  },
+  {
+    "code": "SUU",
+    "name": "Travis Air Force Base",
+    "city": "Fairfield, California",
+    "country": "United States"
+  },
+  {
+    "code": "SUV",
+    "name": "Nausori International Airport",
+    "city": "Suva",
+    "country": "Fiji"
+  },
+  {
+    "code": "SUW",
+    "name": "Richard I. Bong Airport",
+    "city": "Superior, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "SUX",
+    "name": "Sioux Gateway Airport (Colonel Bud Day Field)",
+    "city": "Sioux City, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "SUY",
+    "name": "Suntar Airport",
+    "city": "Suntar, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "SUZ",
+    "name": "Suria Airport",
+    "city": "Suria",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SVA",
+    "name": "Savoonga Airport",
+    "city": "Savoonga, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SVB",
+    "name": "Sambava Airport",
+    "city": "Sambava",
+    "country": "Madagascar"
+  },
+  {
+    "code": "SVC",
+    "name": "Grant County Airport",
+    "city": "Silver City, New Mexico",
+    "country": "United States"
+  },
+  {
+    "code": "SVD",
+    "name": "Argyle International Airport",
+    "city": "Saint Vincent",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "SVE",
+    "name": "Susanville Municipal Airport",
+    "city": "Susanville, California",
+    "country": "United States"
+  },
+  {
+    "code": "SVF",
+    "name": "Savé Airport",
+    "city": "Savé",
+    "country": "Benin"
+  },
+  {
+    "code": "SVG",
+    "name": "Stavanger Airport, Sola",
+    "city": "Stavanger",
+    "country": "Norway"
+  },
+  {
+    "code": "SVH",
+    "name": "Statesville Regional Airport",
+    "city": "Statesville, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "SVI",
+    "name": "Eduardo Falla Solano Airport",
+    "city": "San Vicente del Caguán",
+    "country": "Colombia"
+  },
+  {
+    "code": "SVJ",
+    "name": "Svolvær Airport, Helle",
+    "city": "Svolvær",
+    "country": "Norway"
+  },
+  {
+    "code": "SVK",
+    "name": "Silver Creek Airport",
+    "city": "Silver Creek",
+    "country": "Belize"
+  },
+  {
+    "code": "SVL",
+    "name": "Savonlinna Airport",
+    "city": "Savonlinna",
+    "country": "Finland"
+  },
+  {
+    "code": "SVM",
+    "name": "St Pauls Airport",
+    "city": "St Pauls, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SVN",
+    "name": "Hunter Army Airfield",
+    "city": "Savannah, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "SVO",
+    "name": "Sheremetyevo International Airport",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "code": "SVP",
+    "name": "Kuito Airport",
+    "city": "Kuito",
+    "country": "Angola"
+  },
+  {
+    "code": "SVQ",
+    "name": "Seville Airport",
+    "city": "Seville, Andalusia",
+    "country": "Spain"
+  },
+  {
+    "code": "SVS",
+    "name": "Stevens Village Airport",
+    "city": "Stevens Village, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SVT",
+    "name": "Savuti Airport",
+    "city": "Savuti",
+    "country": "Botswana"
+  },
+  {
+    "code": "SVU",
+    "name": "Savusavu Airport",
+    "city": "Savusavu",
+    "country": "Fiji"
+  },
+  {
+    "code": "SVW",
+    "name": "Sparrevohn LRRS Airport",
+    "city": "Sparrevohn, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SVX",
+    "name": "Koltsovo International Airport",
+    "city": "Yekaterinburg, Sverdlovsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "SVY",
+    "name": "Savo Airport",
+    "city": "Savo Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "SVZ",
+    "name": "Juan Vicente Gómez International Airport",
+    "city": "San Antonio del Táchira",
+    "country": "Venezuela"
+  },
+  {
+    "code": "SWA",
+    "name": "Jieyang Chaoshan International Airport",
+    "city": "Shantou / Jieyang / Chaozhou, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "SWB",
+    "name": "Shaw River Airport",
+    "city": "Shaw River, Western Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "SWC",
+    "name": "Stawell Airport",
+    "city": "Stawell, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "SWD",
+    "name": "Seward Airport",
+    "city": "Seward, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SWE",
+    "name": "Siwea Airport",
+    "city": "Siwea",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SWF",
+    "name": "Stewart International Airport",
+    "city": "Newburgh, New York",
+    "country": "United States"
+  },
+  {
+    "code": "SWG",
+    "name": "Satwag Airport",
+    "city": "Satwag",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SWH",
+    "name": "Swan Hill Airport",
+    "city": "Swan Hill, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "SWJ",
+    "name": "South West Bay Airport",
+    "city": "South West Bay",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "SWL",
+    "name": "San Vicente Airport",
+    "city": "San Vicente, Palawan",
+    "country": "Philippines"
+  },
+  {
+    "code": "SWM",
+    "name": "Suia-Missu Airport",
+    "city": "Alto Boa Vista, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "SWN",
+    "name": "Sahiwal Airport",
+    "city": "Sahiwal",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SWO",
+    "name": "Stillwater Regional Airport",
+    "city": "Stillwater, Oklahoma",
+    "country": "United States"
+  },
+  {
+    "code": "SWP",
+    "name": "Swakopmund Airport",
+    "city": "Swakopmund",
+    "country": "Namibia"
+  },
+  {
+    "code": "SWQ",
+    "name": "Sultan Muhammad Kaharuddin III Airport (Brangbiji Airport)",
+    "city": "Sumbawa Besar",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SWR",
+    "name": "Silur Airport",
+    "city": "Silur",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SWS",
+    "name": "Swansea Airport",
+    "city": "Swansea, Wales",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SWT",
+    "name": "Strezhevoy Airport",
+    "city": "Strezhevoy, Tomsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "SWU",
+    "name": "Suwon Air Base",
+    "city": "Suwon",
+    "country": "South Korea"
+  },
+  {
+    "code": "SWV",
+    "name": "Severo-Evensk Airport",
+    "city": "Evensk, Magadan Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "SWW",
+    "name": "Avenger Field",
+    "city": "Sweetwater, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "SWX",
+    "name": "Shakawe Airport",
+    "city": "Shakawe",
+    "country": "Botswana"
+  },
+  {
+    "code": "SWY",
+    "name": "Sitiawan Airport",
+    "city": "Sitiawan, Perak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SXA",
+    "name": "Sialum Airport",
+    "city": "Sialum",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SXB",
+    "name": "Strasbourg Airport",
+    "city": "Strasbourg, Alsace",
+    "country": "France"
+  },
+  {
+    "code": "SXE",
+    "name": "West Sale Airport",
+    "city": "Sale, Victoria",
+    "country": "Australia"
+  },
+  {
+    "code": "SXG",
+    "name": "Senanga Airport",
+    "city": "Senanga",
+    "country": "Zambia"
+  },
+  {
+    "code": "SXH",
+    "name": "Sehulea Airport",
+    "city": "Sehulea",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SXI",
+    "name": "Sirri Island Airport",
+    "city": "Sirri Island",
+    "country": "Iran"
+  },
+  {
+    "code": "SXJ",
+    "name": "Shanshan Airport",
+    "city": "Shanshan, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "SXK",
+    "name": "Saumlaki Airport (Olilit Airport)",
+    "city": "Saumlaki",
+    "country": "Indonesia"
+  },
+  {
+    "code": "SXL",
+    "name": "Sligo Airport",
+    "city": "Sligo",
+    "country": "Ireland"
+  },
+  {
+    "code": "SXM",
+    "name": "Princess Juliana International Airport",
+    "city": "Sint Maarten",
+    "country": "Kingdom of the Netherlands"
+  },
+  {
+    "code": "SXN",
+    "name": "Sua Pan Airport",
+    "city": "Sua Pan",
+    "country": "Botswana"
+  },
+  {
+    "code": "SXO",
+    "name": "São Félix do Araguaia Airport",
+    "city": "São Félix do Araguaia, Mato Grosso",
+    "country": "Brazil"
+  },
+  {
+    "code": "SXP",
+    "name": "Sheldon Point Airport",
+    "city": "Nunam Iqua, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SXQ",
+    "name": "Soldotna Airport",
+    "city": "Soldotna, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SXR",
+    "name": "Sheikh ul-Alam International Airport",
+    "city": "Srinagar, Jammu and Kashmir",
+    "country": "India"
+  },
+  {
+    "code": "SXS",
+    "name": "Sahabat Airport",
+    "city": "Sahabat, Sabah",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SXT",
+    "name": "Sungai Tiang Airport",
+    "city": "Taman Negara, Pahang",
+    "country": "Malaysia"
+  },
+  {
+    "code": "SXU",
+    "name": "Soddu Airport",
+    "city": "Sodo",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "SXV",
+    "name": "Salem Airport",
+    "city": "Salem, Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "SXW",
+    "name": "Sauren Airport",
+    "city": "Sauren",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "SXX",
+    "name": "São Félix do Xingu Airport",
+    "city": "São Félix do Xingu, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "SXY",
+    "name": "Sidney Municipal Airport (FAA: N23)",
+    "city": "Sidney, New York",
+    "country": "United States"
+  },
+  {
+    "code": "SXZ",
+    "name": "Siirt Airport",
+    "city": "Siirt",
+    "country": "Turkey"
+  },
+  {
+    "code": "SYA",
+    "name": "Eareckson Air Station",
+    "city": "Shemya, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SYB",
+    "name": "Seal Bay Seaplane Base",
+    "city": "Seal Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "SYC",
+    "name": "Shiringayoc Airport",
+    "city": "Shiringayoc",
+    "country": "Peru"
+  },
+  {
+    "code": "SYD",
+    "name": "Sydney Airport (Kingsford Smith Airport)",
+    "city": "Sydney, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "SYE",
+    "name": "Saadah Airport",
+    "city": "Sa'dah",
+    "country": "Yemen"
+  },
+  {
+    "code": "SYF",
+    "name": "Silva Bay Seaplane Base",
+    "city": "Gabriola Island, British Columbia",
+    "country": "Canada"
+  },
+  {
+    "code": "SYI",
+    "name": "Shelbyville Municipal Airport (Bomar Field)",
+    "city": "Shelbyville, Tennessee",
+    "country": "United States"
+  },
+  {
+    "code": "SYJ",
+    "name": "Sirjan Airport",
+    "city": "Sirjan",
+    "country": "Iran"
+  },
+  {
+    "code": "SYK",
+    "name": "Stykkishólmur Airport",
+    "city": "Stykkishólmur",
+    "country": "Iceland"
+  },
+  {
+    "code": "SYM",
+    "name": "Pu'er Simao Airport",
+    "city": "Simao, Yunnan",
+    "country": "China"
+  },
+  {
+    "code": "SYN",
+    "name": "Stanton Airfield",
+    "city": "Stanton, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "SYO",
+    "name": "Shonai Airport",
+    "city": "Shōnai, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "SYP",
+    "name": "Ruben Cantu Airport",
+    "city": "Santiago de Veraguas",
+    "country": "Panama"
+  },
+  {
+    "code": "SYQ",
+    "name": "Tobías Bolaños International Airport",
+    "city": "San José",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "SYR",
+    "name": "Syracuse Hancock International Airport",
+    "city": "Syracuse, New York",
+    "country": "United States"
+  },
+  {
+    "code": "SYS",
+    "name": "Saskylakh Airport",
+    "city": "Saskylakh, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "SYT",
+    "name": "Saint-Yan Airport (Charolais Bourgogne Sud Airport)",
+    "city": "Saint-Yan, Burgundy",
+    "country": "France"
+  },
+  {
+    "code": "SYU",
+    "name": "Warraber Island Airport",
+    "city": "Sue Islet, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "SYV",
+    "name": "Sylvester Airport",
+    "city": "Sylvester, Georgia",
+    "country": "United States"
+  },
+  {
+    "code": "SYW",
+    "name": "Sehwan Sharif Airport",
+    "city": "Sehwan Sharif",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SYX",
+    "name": "Sanya Phoenix International Airport",
+    "city": "Sanya, Hainan",
+    "country": "China"
+  },
+  {
+    "code": "SYY",
+    "name": "Stornoway Airport",
+    "city": "Stornoway, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "SYZ",
+    "name": "Shiraz International Airport (Shahid Dastghaib Int'l)",
+    "city": "Shiraz",
+    "country": "Iran"
+  },
+  {
+    "code": "SZA",
+    "name": "Soyo Airport",
+    "city": "Soyo",
+    "country": "Angola"
+  },
+  {
+    "code": "SZB",
+    "name": "Sultan Abdul Aziz Shah Airport",
+    "city": "Kuala Lumpur",
+    "country": "7 Malaysia"
+  },
+  {
+    "code": "SZE",
+    "name": "Semera Airport",
+    "city": "Semera",
+    "country": "Ethiopia"
+  },
+  {
+    "code": "SZF",
+    "name": "Samsun-Çarşamba Airport",
+    "city": "Samsun",
+    "country": "Turkey"
+  },
+  {
+    "code": "SZG",
+    "name": "Salzburg Airport",
+    "city": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "code": "SZI",
+    "name": "Zaysan Airport",
+    "city": "Zaysan",
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "SZJ",
+    "name": "Siguanea Airport",
+    "city": "Isla de la Juventud",
+    "country": "Cuba"
+  },
+  {
+    "code": "SZK",
+    "name": "Skukuza Airport",
+    "city": "Skukuza",
+    "country": "South Africa"
+  },
+  {
+    "code": "SZL",
+    "name": "Whiteman Air Force Base",
+    "city": "Knob Noster, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "SZM",
+    "name": "Sesriem Airport",
+    "city": "Sesriem",
+    "country": "Namibia"
+  },
+  {
+    "code": "SZN",
+    "name": "Santa Cruz Island Airport",
+    "city": "Santa Cruz Island, California",
+    "country": "United States"
+  },
+  {
+    "code": "SZP",
+    "name": "Santa Paula Airport",
+    "city": "Santa Paula, California",
+    "country": "United States"
+  },
+  {
+    "code": "SZR",
+    "name": "Stara Zagora Airport",
+    "city": "Stara Zagora",
+    "country": "Bulgaria"
+  },
+  {
+    "code": "SZS",
+    "name": "Ryan's Creek Aerodrome",
+    "city": "Stewart Island",
+    "country": "New Zealand"
+  },
+  {
+    "code": "SZU",
+    "name": "Ségou Airport",
+    "city": "Ségou",
+    "country": "Mali"
+  },
+  {
+    "code": "SZV",
+    "name": "Suzhou Guangfu Airport",
+    "city": "Suzhou, Jiangsu",
+    "country": "China"
+  },
+  {
+    "code": "SZW",
+    "name": "Schwerin-Parchim International Airport",
+    "city": "Schwerin, Mecklenburg-Vorpommern",
+    "country": "Germany"
+  },
+  {
+    "code": "SZX",
+    "name": "Shenzhen Bao'an International Airport",
+    "city": "Shenzhen, Guangdong",
+    "country": "China"
+  },
+  {
+    "code": "SZY",
+    "name": "Olsztyn-Mazury Regional Airport",
+    "city": "Szczytno / Olsztyn",
+    "country": "Poland"
+  },
+  {
+    "code": "SZZ",
+    "name": "'Solidarity' Szczecin–Goleniów Airport",
+    "city": "Szczecin",
+    "country": "Poland"
+  }
+]

@@ -1,0 +1,4 @@
+GET https://localhost:7055/postsale/reservation-change-request?pageNumber=1&pageSize=25
+accept: application/json
+X-UserId: 91d65b42-1d29-4e0e-87a9-f723106257de
+

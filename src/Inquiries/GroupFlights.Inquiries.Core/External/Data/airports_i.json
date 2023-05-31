@@ -1,0 +1,1610 @@
+﻿[
+  {
+    "code": "IAA",
+    "name": "Igarka Airport",
+    "city": "Igarka, Krasnoyarsk Krai",
+    "country": "Russia"
+  },
+  {
+    "code": "IAB",
+    "name": "McConnell Air Force Base",
+    "city": "Wichita, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "IAD",
+    "name": "Washington Dulles International Airport",
+    "city": "Washington, D.C.",
+    "country": "1 United States"
+  },
+  {
+    "code": "IAG",
+    "name": "Niagara Falls International Airport",
+    "city": "Niagara Falls, New York",
+    "country": "United States"
+  },
+  {
+    "code": "IAH",
+    "name": "George Bush Intercontinental Airport",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "IAM",
+    "name": "In Amenas Airport (Zarzaitine Airport)",
+    "city": "In Amenas",
+    "country": "Algeria"
+  },
+  {
+    "code": "IAN",
+    "name": "Bob Baker Memorial Airport",
+    "city": "Kiana, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "IAO",
+    "name": "Sayak Airport (Siargao Airport)",
+    "city": "Del Carmen",
+    "country": "Philippines"
+  },
+  {
+    "code": "IAQ",
+    "name": "Bahregan Airport",
+    "city": "Bahregan",
+    "country": "Iran"
+  },
+  {
+    "code": "IAR",
+    "name": "Tunoshna Airport",
+    "city": "Yaroslavl, Yaroslavl Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "IAS",
+    "name": "Iași International Airport",
+    "city": "Iași",
+    "country": "Romania"
+  },
+  {
+    "code": "IAU",
+    "name": "Iaura Airport",
+    "city": "Iaura",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IBA",
+    "name": "Ibadan Airport",
+    "city": "Ibadan",
+    "country": "Nigeria"
+  },
+  {
+    "code": "IBB",
+    "name": "General Villamil Airport",
+    "city": "Isabela Island, Galápagos Islands",
+    "country": "Ecuador"
+  },
+  {
+    "code": "IBE",
+    "name": "Perales Airport",
+    "city": "Ibagué",
+    "country": "Colombia"
+  },
+  {
+    "code": "IBI",
+    "name": "Iboki Airport",
+    "city": "Iboki",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IBL",
+    "name": "Indigo Bay Lodge Airport",
+    "city": "Bazaruto Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "IBO",
+    "name": "Ibo Island Airport",
+    "city": "Ibo Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "IBP",
+    "name": "Iberia Airport",
+    "city": "Iberia",
+    "country": "Peru"
+  },
+  {
+    "code": "IBR",
+    "name": "Ibaraki Airport",
+    "city": "Omitama, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "IBZ",
+    "name": "Ibiza Airport",
+    "city": "Ibiza, Balearic Islands",
+    "country": "Spain"
+  },
+  {
+    "code": "ICA",
+    "name": "Icabarú Airport",
+    "city": "Icabarú",
+    "country": "Venezuela"
+  },
+  {
+    "code": "ICC",
+    "name": "Andrés Miguel Salazar Marcano Airport",
+    "city": "Coche Island",
+    "country": "Venezuela"
+  },
+  {
+    "code": "ICI",
+    "name": "Cicia Airport",
+    "city": "Cicia Island",
+    "country": "Fiji"
+  },
+  {
+    "code": "ICK",
+    "name": "Majoor Henk Fernandes Airport (Nieuw Nickerie Airport)",
+    "city": "Nieuw Nickerie",
+    "country": "Suriname"
+  },
+  {
+    "code": "ICL",
+    "name": "Schenck Field",
+    "city": "Clarinda, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "ICN",
+    "name": "Incheon International Airport",
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
+    "code": "ICO",
+    "name": "Sicogon Airport",
+    "city": "Sicogon",
+    "country": "Philippines"
+  },
+  {
+    "code": "ICS",
+    "name": "Cascade Airport (FAA: KU70)",
+    "city": "Cascade, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "ICT",
+    "name": "Wichita Dwight D. Eisenhower National Airport",
+    "city": "Wichita, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "ICY",
+    "name": "Icy Bay Airport (FAA: 19AK)",
+    "city": "Icy Bay, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "IDA",
+    "name": "Idaho Falls Regional Airport",
+    "city": "Idaho Falls, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "IDB",
+    "name": "Idre Airport",
+    "city": "Idre",
+    "country": "Sweden"
+  },
+  {
+    "code": "IDC",
+    "name": "Chilonzuine Island Airstrip",
+    "city": "Chilonzuine Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "IDF",
+    "name": "Idiofa Airport",
+    "city": "Idiofa",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "IDG",
+    "name": "Ida Grove Municipal Airport",
+    "city": "Ida Grove, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "IDH",
+    "name": "Idaho County Airport (FAA: GIC)",
+    "city": "Grangeville, Idaho",
+    "country": "United States"
+  },
+  {
+    "code": "IDI",
+    "name": "Indiana County–Jimmy Stewart Airport",
+    "city": "Indiana, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "IDK",
+    "name": "Indulkana Airport",
+    "city": "Indulkana, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "IDN",
+    "name": "Indagen Airport",
+    "city": "Indagen",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IDO",
+    "name": "Santa Isabel do Morro Airport",
+    "city": "Santa Isabel do Morro, Tocantins",
+    "country": "Brazil"
+  },
+  {
+    "code": "IDP",
+    "name": "Independence Municipal Airport",
+    "city": "Independence, Kansas",
+    "country": "United States"
+  },
+  {
+    "code": "IDR",
+    "name": "Devi Ahilyabai Holkar International Airport",
+    "city": "Indore, Madhya Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "IDY",
+    "name": "Île d'Yeu Aerodrome",
+    "city": "Île d'Yeu, Pays de la Loire",
+    "country": "France"
+  },
+  {
+    "code": "IEG",
+    "name": "Zielona Góra Airport",
+    "city": "Zielona Góra",
+    "country": "Poland"
+  },
+  {
+    "code": "IEJ",
+    "name": "Iejima Airport",
+    "city": "Iejima, Okinawa",
+    "country": "Japan"
+  },
+  {
+    "code": "IES",
+    "name": "Riesa–Göhlis Airfield",
+    "city": "Riesa, Saxony",
+    "country": "Germany"
+  },
+  {
+    "code": "IEV",
+    "name": "Kyiv International Airport (Zhuliany)",
+    "city": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "code": "IFA",
+    "name": "Iowa Falls Municipal Airport",
+    "city": "Iowa Falls, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "IFF",
+    "name": "Iffley Airport",
+    "city": "Iffley, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "IFH",
+    "name": "Hesa Air Base",
+    "city": "Shahin Shahr",
+    "country": "Iran"
+  },
+  {
+    "code": "IFJ",
+    "name": "Ísafjörður Airport",
+    "city": "Ísafjörður",
+    "country": "Iceland"
+  },
+  {
+    "code": "IFL",
+    "name": "Innisfail Airport",
+    "city": "Innisfail, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "IFN",
+    "name": "Isfahan International Airport (Shahid Beheshti Int'l)",
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  {
+    "code": "IFO",
+    "name": "Ivano-Frankivsk International Airport",
+    "city": "Ivano-Frankivsk",
+    "country": "Ukraine"
+  },
+  {
+    "code": "IFP",
+    "name": "Laughlin/Bullhead International Airport",
+    "city": "Bullhead City, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "IFU",
+    "name": "Ifuru Airport",
+    "city": "Ifuru, Raa Atoll",
+    "country": "Maldives"
+  },
+  {
+    "code": "IGA",
+    "name": "Inagua Airport (Matthew Town Airport)",
+    "city": "Inagua Islands",
+    "country": "Bahamas"
+  },
+  {
+    "code": "IGB",
+    "name": "Ingeniero Jacobacci Airport (Capitán FAA H. R. Borden Airport)",
+    "city": "Ingeniero Jacobacci, Río Negro",
+    "country": "Argentina"
+  },
+  {
+    "code": "IGD",
+    "name": "Iğdır Airport",
+    "city": "Iğdır",
+    "country": "Turkey"
+  },
+  {
+    "code": "IGE",
+    "name": "Tchongorove Airport",
+    "city": "Iguela",
+    "country": "Gabon"
+  },
+  {
+    "code": "IGG",
+    "name": "Igiugig Airport",
+    "city": "Igiugig, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "IGH",
+    "name": "Ingham Airport",
+    "city": "Ingham, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "IGL",
+    "name": "Çiğli Air Base",
+    "city": "İzmir",
+    "country": "Turkey"
+  },
+  {
+    "code": "IGM",
+    "name": "Kingman Airport",
+    "city": "Kingman, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "IGN",
+    "name": "Maria Cristina Airport (Iligan Airport)",
+    "city": "Iligan",
+    "country": "Philippines"
+  },
+  {
+    "code": "IGO",
+    "name": "Jaime Ortíz Betancur Airport",
+    "city": "Chigorodó",
+    "country": "Colombia"
+  },
+  {
+    "code": "IGR",
+    "name": "Cataratas del Iguazú International Airport",
+    "city": "Puerto Iguazú, Misiones",
+    "country": "Argentina"
+  },
+  {
+    "code": "IGS",
+    "name": "Ingolstadt Manching Airport",
+    "city": "Ingolstadt, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "IGT",
+    "name": "Magas Airport (Sleptsovskaya Airport)",
+    "city": "Nazran, Ingushetia",
+    "country": "Russia"
+  },
+  {
+    "code": "IGU",
+    "name": "Foz do Iguaçu International Airport",
+    "city": "Foz do Iguaçu, Paraná",
+    "country": "Brazil"
+  },
+  {
+    "code": "IHC",
+    "name": "Inhaca Airport",
+    "city": "Inhaca Island",
+    "country": "Mozambique"
+  },
+  {
+    "code": "IHN",
+    "name": "Qishn Airport",
+    "city": "Qishn",
+    "country": "Yemen"
+  },
+  {
+    "code": "IHO",
+    "name": "Ihosy Airport",
+    "city": "Ihosy",
+    "country": "Madagascar"
+  },
+  {
+    "code": "IHR",
+    "name": "Iranshahr Airport",
+    "city": "Iranshahr",
+    "country": "Iran"
+  },
+  {
+    "code": "IHU",
+    "name": "Ihu Airport",
+    "city": "Ihu",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IIA",
+    "name": "Inishmaan Aerodrome",
+    "city": "Inishmaan",
+    "country": "Ireland"
+  },
+  {
+    "code": "IIL",
+    "name": "Ilam Airport",
+    "city": "Ilam",
+    "country": "Iran"
+  },
+  {
+    "code": "IIS",
+    "name": "Nissan Island Airport",
+    "city": "Nissan Island",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IJK",
+    "name": "Izhevsk Airport",
+    "city": "Izhevsk, Udmurtia",
+    "country": "Russia"
+  },
+  {
+    "code": "IJU",
+    "name": "João Batista Bos Filho Airport",
+    "city": "Ijuí, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "IJX",
+    "name": "Jacksonville Municipal Airport",
+    "city": "Jacksonville, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "IKA",
+    "name": "Tehran Imam Khomeini International Airport",
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  {
+    "code": "IKB",
+    "name": "Wilkes County Airport (FAA: UKF)",
+    "city": "North Wilkesboro, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "IKI",
+    "name": "Iki Airport",
+    "city": "Iki, Iki Island",
+    "country": "Japan"
+  },
+  {
+    "code": "IKK",
+    "name": "Greater Kankakee Airport",
+    "city": "Kankakee, Illinois",
+    "country": "United States"
+  },
+  {
+    "code": "IKL",
+    "name": "Ikela Airport",
+    "city": "Ikela",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "IKO",
+    "name": "Nikolski Air Station",
+    "city": "Nikolski, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "IKP",
+    "name": "Inkerman Airport",
+    "city": "Inkerman, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "IKS",
+    "name": "Tiksi Airport",
+    "city": "Tiksi, Yakutia",
+    "country": "Russia"
+  },
+  {
+    "code": "IKT",
+    "name": "International Airport Irkutsk",
+    "city": "Irkutsk, Irkutsk Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "IKU",
+    "name": "Issyk-Kul International Airport",
+    "city": "Tamchy, Issyk-Kul Region",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "code": "ILA",
+    "name": "Illaga Airport",
+    "city": "Illaga",
+    "country": "Indonesia"
+  },
+  {
+    "code": "ILD",
+    "name": "Lleida–Alguaire Airport",
+    "city": "Lleida, Catalonia",
+    "country": "Spain"
+  },
+  {
+    "code": "ILE",
+    "name": "Skylark Field",
+    "city": "Killeen, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "ILF",
+    "name": "Ilford Airport",
+    "city": "Ilford, Manitoba",
+    "country": "Canada"
+  },
+  {
+    "code": "ILG",
+    "name": "Wilmington Airport (New Castle Airport)",
+    "city": "Wilmington, Delaware",
+    "country": "United States"
+  },
+  {
+    "code": "ILH",
+    "name": "Storck Barracks",
+    "city": "Illesheim, Bavaria",
+    "country": "Germany"
+  },
+  {
+    "code": "ILI",
+    "name": "Iliamna Airport",
+    "city": "Iliamna, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "ILK",
+    "name": "Ilaka-Est Airport (Atsinanana Airport)",
+    "city": "Ilaka",
+    "country": "Madagascar"
+  },
+  {
+    "code": "ILL",
+    "name": "Willmar Municipal Airport (John L. Rice Field)",
+    "city": "Willmar, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "ILM",
+    "name": "Wilmington International Airport",
+    "city": "Wilmington, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "ILN",
+    "name": "Wilmington Air Park",
+    "city": "Wilmington, Ohio",
+    "country": "United States"
+  },
+  {
+    "code": "ILO",
+    "name": "Iloilo International Airport",
+    "city": "Iloilo",
+    "country": "Philippines"
+  },
+  {
+    "code": "ILP",
+    "name": "Île des Pins Airport",
+    "city": "Île des Pins",
+    "country": "New Caledonia"
+  },
+  {
+    "code": "ILQ",
+    "name": "Ilo Airport",
+    "city": "Ilo",
+    "country": "Peru"
+  },
+  {
+    "code": "ILR",
+    "name": "Ilorin International Airport",
+    "city": "Ilorin",
+    "country": "Nigeria"
+  },
+  {
+    "code": "ILS",
+    "name": "Ilopango International Airport",
+    "city": "San Salvador",
+    "country": "El Salvador"
+  },
+  {
+    "code": "ILU",
+    "name": "Kilaguni Airport",
+    "city": "Kilaguni",
+    "country": "Kenya"
+  },
+  {
+    "code": "ILX",
+    "name": "Ileg Airport",
+    "city": "Ileg",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "ILY",
+    "name": "Islay Airport (Glenegedale Airport)",
+    "city": "Islay, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "ILZ",
+    "name": "Žilina Airport",
+    "city": "Žilina",
+    "country": "Slovakia"
+  },
+  {
+    "code": "IMA",
+    "name": "Iamalele Airport",
+    "city": "Iamalele",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IMB",
+    "name": "Imbaimadai Airport",
+    "city": "Imbaimadai",
+    "country": "Guyana"
+  },
+  {
+    "code": "IMD",
+    "name": "Imonda Airport",
+    "city": "Imonda",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IMF",
+    "name": "Imphal International Airport (Tulihal Airport)",
+    "city": "Imphal, Manipur",
+    "country": "India"
+  },
+  {
+    "code": "IMG",
+    "name": "Inhaminga Airport",
+    "city": "Inhaminga",
+    "country": "Mozambique"
+  },
+  {
+    "code": "IMI",
+    "name": "Ine Airport (FAA: N20)",
+    "city": "Ine, Arno Atoll",
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "IMK",
+    "name": "Simikot Airport",
+    "city": "Simikot",
+    "country": "Nepal"
+  },
+  {
+    "code": "IML",
+    "name": "Imperial Municipal Airport",
+    "city": "Imperial, Nebraska",
+    "country": "United States"
+  },
+  {
+    "code": "IMM",
+    "name": "Immokalee Regional Airport",
+    "city": "Immokalee, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "IMN",
+    "name": "Imane Airport",
+    "city": "Imane",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IMO",
+    "name": "Zemio Airport",
+    "city": "Zemio",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "IMP",
+    "name": "Imperatriz Airport (Prefeito Renato Moreira Airport)",
+    "city": "Imperatriz, Maranhão",
+    "country": "Brazil"
+  },
+  {
+    "code": "IMQ",
+    "name": "Maku International Airport",
+    "city": "Maku, West Azerbaijan Province",
+    "country": "Iran"
+  },
+  {
+    "code": "IMT",
+    "name": "Ford Airport",
+    "city": "Iron Mountain / Kingsford, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "INA",
+    "name": "Inta Airport",
+    "city": "Inta, Komi Republic",
+    "country": "Russia"
+  },
+  {
+    "code": "INB",
+    "name": "Independence Airport",
+    "city": "Independence",
+    "country": "Belize"
+  },
+  {
+    "code": "INC",
+    "name": "Yinchuan Hedong International Airport",
+    "city": "Yinchuan, Ningxia",
+    "country": "China"
+  },
+  {
+    "code": "IND",
+    "name": "Indianapolis International Airport",
+    "city": "Indianapolis, Indiana",
+    "country": "United States"
+  },
+  {
+    "code": "INE",
+    "name": "Chinde Airport",
+    "city": "Chinde",
+    "country": "Mozambique"
+  },
+  {
+    "code": "INF",
+    "name": "In Guezzam Airport",
+    "city": "In Guezzam",
+    "country": "Algeria"
+  },
+  {
+    "code": "INH",
+    "name": "Inhambane Airport",
+    "city": "Inhambane",
+    "country": "Mozambique"
+  },
+  {
+    "code": "INI",
+    "name": "Niš Constantine the Great Airport",
+    "city": "Niš",
+    "country": "Serbia"
+  },
+  {
+    "code": "INJ",
+    "name": "Injune Airport",
+    "city": "Injune, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "INK",
+    "name": "Winkler County Airport",
+    "city": "Wink, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "INL",
+    "name": "Falls International Airport",
+    "city": "International Falls, Minnesota",
+    "country": "United States"
+  },
+  {
+    "code": "INM",
+    "name": "Innamincka Airport",
+    "city": "Innamincka, South Australia",
+    "country": "Australia"
+  },
+  {
+    "code": "INN",
+    "name": "Innsbruck Airport (Kranebitten Airport)",
+    "city": "Innsbruck",
+    "country": "Austria"
+  },
+  {
+    "code": "INO",
+    "name": "Inongo Airport",
+    "city": "Inongo",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "INQ",
+    "name": "Inisheer Aerodrome",
+    "city": "Inisheer",
+    "country": "Ireland"
+  },
+  {
+    "code": "INS",
+    "name": "Creech Air Force Base",
+    "city": "Indian Springs, Nevada",
+    "country": "United States"
+  },
+  {
+    "code": "INT",
+    "name": "Smith Reynolds Airport",
+    "city": "Winston-Salem, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "INU",
+    "name": "Nauru International Airport",
+    "city": "Yaren",
+    "country": "Nauru"
+  },
+  {
+    "code": "INV",
+    "name": "Inverness Airport",
+    "city": "Inverness, Scotland",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "INW",
+    "name": "Winslow–Lindbergh Regional Airport",
+    "city": "Winslow, Arizona",
+    "country": "United States"
+  },
+  {
+    "code": "INX",
+    "name": "Inanwatan Airport",
+    "city": "Inanwatan",
+    "country": "Indonesia"
+  },
+  {
+    "code": "INY",
+    "name": "Inyati Airport",
+    "city": "Inyati",
+    "country": "South Africa"
+  },
+  {
+    "code": "INZ",
+    "name": "In Salah Airport",
+    "city": "In Salah",
+    "country": "Algeria"
+  },
+  {
+    "code": "IOA",
+    "name": "Ioannina National Airport",
+    "city": "Ioannina",
+    "country": "Greece"
+  },
+  {
+    "code": "IOK",
+    "name": "Iokea Airport",
+    "city": "Iokea",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IOM",
+    "name": "Isle of Man Airport (Ronaldsway Airport)",
+    "city": "Ronaldsway",
+    "country": "Isle of Man"
+  },
+  {
+    "code": "ION",
+    "name": "Impfondo Airport",
+    "city": "Impfondo",
+    "country": "Republic of the Congo"
+  },
+  {
+    "code": "IOP",
+    "name": "Ioma Airport",
+    "city": "Ioma",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IOR",
+    "name": "Inishmore Aerodrome (Kilronan Airport)",
+    "city": "Inishmore",
+    "country": "Ireland"
+  },
+  {
+    "code": "IOS",
+    "name": "Ilhéus Jorge Amado Airport",
+    "city": "Ilhéus, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "IOT",
+    "name": "Illorsuit Heliport",
+    "city": "Avannaata",
+    "country": "Greenland"
+  },
+  {
+    "code": "IOW",
+    "name": "Iowa City Municipal Airport",
+    "city": "Iowa City, Iowa",
+    "country": "United States"
+  },
+  {
+    "code": "IPA",
+    "name": "Ipota Airport",
+    "city": "Erromango, Tafea",
+    "country": "Vanuatu"
+  },
+  {
+    "code": "IPC",
+    "name": "Mataveri International Airport (Isla de Pascua Airport)",
+    "city": "Easter Island",
+    "country": "Chile"
+  },
+  {
+    "code": "IPE",
+    "name": "Ipil Airport",
+    "city": "Ipil",
+    "country": "Philippines"
+  },
+  {
+    "code": "IPG",
+    "name": "Ipiranga Airport",
+    "city": "Santo Antônio do Içá, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "IPH",
+    "name": "Sultan Azlan Shah Airport",
+    "city": "Ipoh, Perak",
+    "country": "Malaysia"
+  },
+  {
+    "code": "IPI",
+    "name": "San Luis Airport",
+    "city": "Ipiales",
+    "country": "Colombia"
+  },
+  {
+    "code": "IPL",
+    "name": "Imperial County Airport (Boley Field)",
+    "city": "Imperial / El Centro, California",
+    "country": "United States"
+  },
+  {
+    "code": "IPN",
+    "name": "Usiminas Airport",
+    "city": "Ipatinga, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "IPT",
+    "name": "Williamsport Regional Airport",
+    "city": "Williamsport, Pennsylvania",
+    "country": "United States"
+  },
+  {
+    "code": "IPU",
+    "name": "Ipiaú Airport",
+    "city": "Ipiaú, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "IPZ",
+    "name": "San Isidro de El General Airport",
+    "city": "San Isidro de El General, Pérez Zeledón",
+    "country": "Costa Rica"
+  },
+  {
+    "code": "IQA",
+    "name": "Al Asad Airbase",
+    "city": "Anbar Province",
+    "country": "Iraq"
+  },
+  {
+    "code": "IQM",
+    "name": "Qiemo Airport",
+    "city": "Qiemo, Xinjiang",
+    "country": "China"
+  },
+  {
+    "code": "IQN",
+    "name": "Qingyang Airport",
+    "city": "Qingyang, Gansu",
+    "country": "China"
+  },
+  {
+    "code": "IQQ",
+    "name": "Diego Aracena International Airport",
+    "city": "Iquique",
+    "country": "Chile"
+  },
+  {
+    "code": "IQT",
+    "name": "Coronel FAP Francisco Secada Vignetta International Airport",
+    "city": "Iquitos",
+    "country": "Peru"
+  },
+  {
+    "code": "IRA",
+    "name": "Kirakira Airport (Ngorangora Airstrip)",
+    "city": "Kirakira, Makira Island",
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "IRB",
+    "name": "Iraan Municipal Airport (FAA: 2F0)",
+    "city": "Iraan, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "IRC",
+    "name": "Circle City Airport (FAA: CRC)",
+    "city": "Circle, Alaska",
+    "country": "United States"
+  },
+  {
+    "code": "IRD",
+    "name": "Ishwardi Airport",
+    "city": "Ishwardi",
+    "country": "Bangladesh"
+  },
+  {
+    "code": "IRE",
+    "name": "Irecê Airport",
+    "city": "Irecê, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "IRG",
+    "name": "Lockhart River Airport",
+    "city": "Lockhart River, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "IRI",
+    "name": "Iringa Airport (Nduli Airport)",
+    "city": "Iringa",
+    "country": "Tanzania"
+  },
+  {
+    "code": "IRJ",
+    "name": "Capitán Vicente Almandos Almonacid Airport",
+    "city": "La Rioja",
+    "country": "Argentina"
+  },
+  {
+    "code": "IRK",
+    "name": "Kirksville Regional Airport",
+    "city": "Kirksville, Missouri",
+    "country": "United States"
+  },
+  {
+    "code": "IRM",
+    "name": "Igrim Airport",
+    "city": "Igrim, Khanty-Mansi Autonomous Okrug",
+    "country": "Russia"
+  },
+  {
+    "code": "IRN",
+    "name": "Iriona Airport",
+    "city": "Iriona",
+    "country": "Honduras"
+  },
+  {
+    "code": "IRO",
+    "name": "Birao Airport",
+    "city": "Birao",
+    "country": "Central African Republic"
+  },
+  {
+    "code": "IRP",
+    "name": "Matari Airport",
+    "city": "Isiro",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "IRS",
+    "name": "Kirsch Municipal Airport",
+    "city": "Sturgis, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "IRU",
+    "name": "Iranamadu Waterdrome",
+    "city": "Kilinochchi",
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "IRZ",
+    "name": "Tapuruquara Airport",
+    "city": "Santa Isabel do Rio Negro, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "ISA",
+    "name": "Mount Isa Airport",
+    "city": "Mount Isa, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ISB",
+    "name": "Islamabad International Airport",
+    "city": "Islamabad / Rawalpindi",
+    "country": "Pakistan"
+  },
+  {
+    "code": "ISC",
+    "name": "St Mary's Airport",
+    "city": "St Mary's, Isles of Scilly",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "ISD",
+    "name": "Iscuande Airport",
+    "city": "Iscuande",
+    "country": "Colombia"
+  },
+  {
+    "code": "ISE",
+    "name": "Isparta Süleyman Demirel Airport",
+    "city": "Isparta",
+    "country": "Turkey"
+  },
+  {
+    "code": "ISG",
+    "name": "New Ishigaki Airport",
+    "city": "Ishigaki, Yaeyama Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "ISI",
+    "name": "Isisford Airport",
+    "city": "Isisford, Queensland",
+    "country": "Australia"
+  },
+  {
+    "code": "ISJ",
+    "name": "Isla Mujeres Airport",
+    "city": "Isla Mujeres, Quintana Roo",
+    "country": "Mexico"
+  },
+  {
+    "code": "ISK",
+    "name": "Ozar Airport",
+    "city": "Nashik, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "ISL",
+    "name": "Istanbul Atatürk Airport",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "code": "ISM",
+    "name": "Kissimmee Gateway Airport",
+    "city": "Orlando, Florida",
+    "country": "United States"
+  },
+  {
+    "code": "ISN",
+    "name": "Sloulin Field International Airport",
+    "city": "Williston, North Dakota",
+    "country": "United States"
+  },
+  {
+    "code": "ISO",
+    "name": "Kinston Regional Jetport (Stallings Field)",
+    "city": "Kinston, North Carolina",
+    "country": "United States"
+  },
+  {
+    "code": "ISP",
+    "name": "Long Island MacArthur Airport",
+    "city": "Islip, New York",
+    "country": "United States"
+  },
+  {
+    "code": "ISQ",
+    "name": "Schoolcraft County Airport",
+    "city": "Manistique, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "ISS",
+    "name": "Wiscasset Airport (FAA: IWI)",
+    "city": "Wiscasset, Maine",
+    "country": "United States"
+  },
+  {
+    "code": "IST",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "code": "ISU",
+    "name": "Sulaimaniyah International Airport",
+    "city": "Sulaymaniyah",
+    "country": "Iraq"
+  },
+  {
+    "code": "ISW",
+    "name": "South Wood County Airport (Alexander Field)",
+    "city": "Wisconsin Rapids, Wisconsin",
+    "country": "United States"
+  },
+  {
+    "code": "ITA",
+    "name": "Itacoatiara Airport",
+    "city": "Itacoatiara, Amazonas",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITB",
+    "name": "Itaituba Airport",
+    "city": "Itaituba, Pará",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITE",
+    "name": "Ituberá Airport",
+    "city": "Ituberá, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITH",
+    "name": "Ithaca Tompkins Regional Airport",
+    "city": "Ithaca, New York",
+    "country": "United States"
+  },
+  {
+    "code": "ITI",
+    "name": "Itambacuri Airport",
+    "city": "Itambacuri, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITK",
+    "name": "Itokama Airport",
+    "city": "Itokama",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "ITM",
+    "name": "Osaka International Airport (Itami Int'l)",
+    "city": "Osaka, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "ITN",
+    "name": "Itabuna Airport",
+    "city": "Itabuna, Bahia",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITO",
+    "name": "Hilo International Airport",
+    "city": "Hilo, Hawaii",
+    "country": "United States"
+  },
+  {
+    "code": "ITP",
+    "name": "Itaperuna Airport",
+    "city": "Itaperuna, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITQ",
+    "name": "Itaqui Airport",
+    "city": "Itaqui, Rio Grande do Sul",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITR",
+    "name": "Itumbiara Airport",
+    "city": "Itumbiara, Goiás",
+    "country": "Brazil"
+  },
+  {
+    "code": "ITU",
+    "name": "Iturup Airport",
+    "city": "Kurilsk, Sakhalin Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "IUE",
+    "name": "Niue International Airport (Hanan Int'l)",
+    "city": "Alofi",
+    "country": "Niue"
+  },
+  {
+    "code": "IUL",
+    "name": "Ilu Airport",
+    "city": "Ilu",
+    "country": "Indonesia"
+  },
+  {
+    "code": "IUS",
+    "name": "Inus Airport",
+    "city": "Inus",
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "IVA",
+    "name": "Ambanja Airport",
+    "city": "Ambanja",
+    "country": "Madagascar"
+  },
+  {
+    "code": "IVC",
+    "name": "Invercargill Airport",
+    "city": "Invercargill",
+    "country": "New Zealand"
+  },
+  {
+    "code": "IVG",
+    "name": "Dolac Airport",
+    "city": "Berane",
+    "country": "Montenegro"
+  },
+  {
+    "code": "IVI",
+    "name": "Viveros Island Airport",
+    "city": "Viveros Island",
+    "country": "Panama"
+  },
+  {
+    "code": "IVL",
+    "name": "Ivalo Airport",
+    "city": "Ivalo",
+    "country": "Finland"
+  },
+  {
+    "code": "IVO",
+    "name": "Chibolo Airport",
+    "city": "Chibolo",
+    "country": "Colombia"
+  },
+  {
+    "code": "IVR",
+    "name": "Inverell Airport",
+    "city": "Inverell, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "code": "IVW",
+    "name": "Inverway Airport",
+    "city": "Inverway, Northern Territory",
+    "country": "Australia"
+  },
+  {
+    "code": "IWA",
+    "name": "Ivanovo Yuzhny Airport",
+    "city": "Ivanovo, Ivanovo Oblast",
+    "country": "Russia"
+  },
+  {
+    "code": "IWD",
+    "name": "Gogebic–Iron County Airport",
+    "city": "Ironwood, Michigan",
+    "country": "United States"
+  },
+  {
+    "code": "IWJ",
+    "name": "Iwami Airport (Hagi-Iwami Airport)",
+    "city": "Masuda, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "IWK",
+    "name": "Marine Corps Air Station Iwakuni",
+    "city": "Iwakuni, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "IWO",
+    "name": "Iwo Jima Air Base",
+    "city": "Iwo Jima, Bonin Islands",
+    "country": "Japan"
+  },
+  {
+    "code": "IWS",
+    "name": "West Houston Airport",
+    "city": "Houston, Texas",
+    "country": "United States"
+  },
+  {
+    "code": "IXA",
+    "name": "Agartala Airport (Singerbhil Airport)",
+    "city": "Agartala, Tripura",
+    "country": "India"
+  },
+  {
+    "code": "IXB",
+    "name": "Bagdogra Airport",
+    "city": "Siliguri, West Bengal",
+    "country": "India"
+  },
+  {
+    "code": "IXC",
+    "name": "Chandigarh Airport",
+    "city": "Chandigarh",
+    "country": "India"
+  },
+  {
+    "code": "IXD",
+    "name": "Allahabad Airport (Bamrauli Air Force Base)",
+    "city": "Allahabad (Prayagraj), Uttar Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "IXE",
+    "name": "Mangalore Airport",
+    "city": "Mangalore, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "IXG",
+    "name": "Belgaum Airport",
+    "city": "Belgaum, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "IXH",
+    "name": "Kailashahar Airport",
+    "city": "Kailashahar, Tripura",
+    "country": "India"
+  },
+  {
+    "code": "IXI",
+    "name": "Lilabari Airport",
+    "city": "North Lakhimpur, Assam",
+    "country": "India"
+  },
+  {
+    "code": "IXJ",
+    "name": "Jammu Airport (Satwari Airport)",
+    "city": "Jammu, Jammu and Kashmir",
+    "country": "India"
+  },
+  {
+    "code": "IXK",
+    "name": "Keshod Airport",
+    "city": "Keshod, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "IXL",
+    "name": "Kushok Bakula Rimpochee Airport",
+    "city": "Leh, Ladakh",
+    "country": "India"
+  },
+  {
+    "code": "IXM",
+    "name": "Madurai Airport",
+    "city": "Madurai, Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "code": "IXN",
+    "name": "Khowai Airport",
+    "city": "Khowai, Tripura",
+    "country": "India"
+  },
+  {
+    "code": "IXP",
+    "name": "Pathankot Airport",
+    "city": "Pathankot, Punjab",
+    "country": "India"
+  },
+  {
+    "code": "IXQ",
+    "name": "Kamalpur Airport",
+    "city": "Kamalpur, Tripura",
+    "country": "India"
+  },
+  {
+    "code": "IXR",
+    "name": "Birsa Munda Airport",
+    "city": "Ranchi, Jharkhand",
+    "country": "India"
+  },
+  {
+    "code": "IXS",
+    "name": "Silchar Airport (Kumbhirgram Air Force Base)",
+    "city": "Silchar, Assam",
+    "country": "India"
+  },
+  {
+    "code": "IXT",
+    "name": "Pasighat Airport",
+    "city": "Pasighat, Arunachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "IXU",
+    "name": "Aurangabad Airport (Chikkalthana Airport)",
+    "city": "Aurangabad, Maharashtra",
+    "country": "India"
+  },
+  {
+    "code": "IXV",
+    "name": "Along Airport",
+    "city": "Along (Aalo), Arunachal Pradesh",
+    "country": "India"
+  },
+  {
+    "code": "IXW",
+    "name": "Sonari Airport",
+    "city": "Jamshedpur, Jharkhand",
+    "country": "India"
+  },
+  {
+    "code": "IXX",
+    "name": "Bidar Airport",
+    "city": "Bidar, Karnataka",
+    "country": "India"
+  },
+  {
+    "code": "IXY",
+    "name": "Kandla Airport (Gandhidham Airport)",
+    "city": "Kandla / Gandhidham, Gujarat",
+    "country": "India"
+  },
+  {
+    "code": "IXZ",
+    "name": "Veer Savarkar International Airport (Port Blair Airport)",
+    "city": "Port Blair, Andaman and Nicobar Islands",
+    "country": "India"
+  },
+  {
+    "code": "IYK",
+    "name": "Inyokern Airport",
+    "city": "Inyokern, California",
+    "country": "United States"
+  },
+  {
+    "code": "IZA",
+    "name": "Presidente Itamar Franco Airport (Zona da Mata Regional Airport)",
+    "city": "Juiz de Fora, Minas Gerais",
+    "country": "Brazil"
+  },
+  {
+    "code": "IZM",
+    "name": "metropolitan area2",
+    "city": "İzmir",
+    "country": "Turkey"
+  },
+  {
+    "code": "IZO",
+    "name": "Izumo Airport",
+    "city": "Izumo, Honshu",
+    "country": "Japan"
+  },
+  {
+    "code": "IZT",
+    "name": "Ixtepec Airport",
+    "city": "Ixtepec, Oaxaca",
+    "country": "Mexico"
+  }
+]
