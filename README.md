@@ -96,4 +96,4 @@ _(2) Identyfikator rezerwacji znajduje sie na rezerwacji, ktora wyszukasz uzywaj
 
 ## Wsparcie
 
-[![discord](./img/discord.png)](https://devmentors.io/discord)
+[![discord](./img/discord.png)](https://devmentors.io/discordpl)
