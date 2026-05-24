@@ -95,5 +95,4 @@ _(1) Identyfikator umowy znajduje sie na rezerwacji, ktora wyszukasz uzywajac br
 _(2) Identyfikator rezerwacji znajduje sie na rezerwacji, ktora wyszukasz uzywajac browse-reservations.http_
 
 ## Wsparcie
-
-[![discord](./img/discord.png)](https://devmentors.io/discordpl)
+<a href="https://devmentors.circle.so"><img width="1620" height="260" alt="circle_support" src="https://github.com/user-attachments/assets/4f4bce99-e0c5-42e3-9867-f378b61b8826" /></a>
